@@ -26,7 +26,8 @@ with open(constituency_path, 'r') as constituencies_file:
         for region in constituencies_json[county]['regions']:
             constituency_code = county+str(region['constituency'])
             for district in region['district']:
-                village_constituency_map[district] = {}
+                if not district in village_constituency_map[county]:
+                    village_constituency_map[county][district] = {}
                 for village in region['district'][district]:
                     village_constituency_map[district][village]=constituency_code
 

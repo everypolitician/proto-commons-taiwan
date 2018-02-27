@@ -4,10 +4,11 @@ SELECT ?statement
        ?district ?district_name_zh ?district_name_en
        ?role ?role_zh ?role_en
        ?start ?end ?facebook
+       ?role_superclass ?role_superclass_zh ?role_superclass_en
        ?org ?org_zh ?org_en ?org_jurisdiction
 WHERE {
-  BIND(wd:Q6310593 as ?role) .
-  BIND(wd:Q715869 as ?org) .
+  VALUES ?role_superclass { wd:Q702650 }
+  BIND(wd:Q715055 AS ?org)
   OPTIONAL {
         ?org rdfs:label ?org_zh
         FILTER(LANG(?org_zh) = "zh")
@@ -37,11 +38,18 @@ OPTIONAL {
         ?role rdfs:label ?role_en
         FILTER(LANG(?role_en) = "en")
       }
-  ?statement pq:P2937 wd:Q22083907 .
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
+  ?role wdt:P279* ?role_superclass .
   OPTIONAL {
-    ?statement pq:P768 ?district.
+        ?role_superclass rdfs:label ?role_superclass_zh
+        FILTER(LANG(?role_superclass_zh) = "zh")
+      }
+OPTIONAL {
+        ?role_superclass rdfs:label ?role_superclass_en
+        FILTER(LANG(?role_superclass_en) = "en")
+      }
+  ?role wdt:P361 ?org .
+  OPTIONAL {
+    ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
         ?district rdfs:label ?district_name_zh
         FILTER(LANG(?district_name_zh) = "zh")
@@ -51,8 +59,14 @@ OPTIONAL {
         FILTER(LANG(?district_name_en) = "en")
       }
   }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+  FILTER(?end_or_sentinel >= NOW())
+  # Find any current party membership:
   OPTIONAL {
-    ?statement pq:P4100 ?party.
+    ?item p:P102 ?party_statement .
+    ?party_statement ps:P102 ?party .
     OPTIONAL {
         ?party rdfs:label ?party_name_zh
         FILTER(LANG(?party_name_zh) = "zh")
@@ -61,7 +75,9 @@ OPTIONAL {
         ?party rdfs:label ?party_name_en
         FILTER(LANG(?party_name_en) = "en")
       }
+    OPTIONAL { ?party_statement pq:P582 ?end_party }
+    BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
+    FILTER(?party_end_or_sentinel >= NOW())
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  
-} ORDER BY ?item ?role ?term ?start ?end
+} ORDER BY ?item ?role ?start ?end

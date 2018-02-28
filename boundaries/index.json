@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "President of the Executive Yuan",
+        "position_item_id": "Q702650"
+      },
+      {
+        "comment": "President of the Republic of China",
+        "position_item_id": "Q887003"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "name_en",
+      "lang:zh_TW": "name"
+    }
+  }
+]

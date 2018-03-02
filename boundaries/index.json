@@ -16,5 +16,18 @@
       "lang:en_US": "name_en",
       "lang:zh_TW": "name"
     }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q49924492",
+    "associations": [
+      {
+        "comment": "南投縣議員",
+        "position_item_id": "Q49254306"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    }
   }
 ]

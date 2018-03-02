@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh", "name_en", "party", "party_name_zh", "party_name_en", "district", "district_name_zh", "district_name_en", "role", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -18,6 +18,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10919979-7F350C6C-C0F9-4EA3-8471-D7A2D51A5CCF"
@@ -28,6 +33,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第五選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第五選舉區"
       },
@@ -45,12 +55,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10919979"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "呂玉玲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "呂玉玲"
       },
@@ -65,6 +85,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -110,6 +135,11 @@
         "type" : "literal",
         "value" : "新北市第十二選舉區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新北市第十二選舉區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -124,12 +154,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15899237"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃國昌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "黃國昌"
       },
@@ -144,6 +184,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -185,6 +230,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15901623-68933222-73A3-480F-91AA-99178DFD06DE"
@@ -195,6 +245,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -212,12 +267,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15901623"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡培慧"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔡培慧"
       },
@@ -232,6 +297,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -264,6 +334,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15909081-BCF1783E-01B2-4185-B28A-F82B8F83C2C0"
@@ -274,6 +349,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -291,12 +371,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15909081"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顧立雄"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "顧立雄"
       },
@@ -311,6 +401,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -348,6 +443,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15920021-8EB820EC-23EB-4670-9F09-FD4CBF86DC07"
@@ -358,6 +458,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第三選舉區"
       },
@@ -375,12 +480,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15920021"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔣萬安"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔣萬安"
       },
@@ -395,6 +510,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -432,6 +552,11 @@
         "type" : "literal",
         "value" : "親民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15930216-28FB0765-FF1E-44DA-9384-B107AE9B8539"
@@ -442,6 +567,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -459,12 +589,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15930216"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳怡潔"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳怡潔"
       },
@@ -479,6 +619,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -506,6 +651,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16193401-D643BF23-4266-4B13-8E5E-680EB5DA354C"
@@ -516,6 +666,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -533,6 +688,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16193401"
@@ -541,6 +701,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "曾铭宗"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "曾銘宗"
       },
       "org" : {
         "type" : "uri",
@@ -553,6 +718,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -585,6 +755,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16928868-CEE18C5D-2D20-4EB2-A6C0-E3AD11901254"
@@ -595,6 +770,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第一選舉區"
       },
@@ -612,12 +792,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928868"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "呂孫綾"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "呂孫綾"
       },
@@ -632,6 +822,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -669,6 +864,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q17027222-2A5F6C0F-0F5F-4664-AB8D-9E2AF71D3FE6"
@@ -679,6 +879,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "平地原住民選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "平地原住民選舉區"
       },
@@ -696,6 +901,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17027222"
@@ -704,6 +914,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "鄭天財"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "鄭天財Sra‧Kacaw"
       },
       "org" : {
         "type" : "uri",
@@ -716,6 +931,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -748,6 +968,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18415702-AD4625F5-37D6-4F4C-AC85-BE29D26D1E4E"
@@ -758,6 +983,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -775,12 +1005,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18415702"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳焜裕"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "吳焜裕"
       },
@@ -795,6 +1035,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -822,6 +1067,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18659220-79415287-7D81-4314-8428-2015A15FD92F"
@@ -832,6 +1082,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南投縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "南投縣第二選舉區"
       },
@@ -849,12 +1104,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18659220"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許淑華"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "許淑華"
       },
@@ -869,6 +1134,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -901,6 +1171,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19058548-77130FED-CBCC-4FF0-9BEF-A49CCEE46F5B"
@@ -911,6 +1186,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第六選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第六選舉區"
       },
@@ -928,6 +1208,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19058548"
@@ -936,6 +1221,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "黃國書 (臺中市政治人物)"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃國書"
       },
       "org" : {
         "type" : "uri",
@@ -948,6 +1238,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -980,6 +1275,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19653988-15F357C8-3BB3-4BC9-8FB1-224FA158E754"
@@ -990,6 +1290,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "彰化縣第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "彰化縣第四選舉區"
       },
@@ -1007,12 +1312,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19653988"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳素月"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳素月"
       },
@@ -1027,6 +1342,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1059,6 +1379,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825208-7F04A24D-7F29-46D5-AF65-A3E848B480EB"
@@ -1069,6 +1394,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第二選舉區"
       },
@@ -1086,12 +1416,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825208"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳賴素美"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳賴素美"
       },
@@ -1106,6 +1446,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1138,6 +1483,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825322-606641B5-6B59-45F3-9413-CA1814821CC8"
@@ -1148,6 +1498,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "苗栗縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "苗栗縣第二選舉區"
       },
@@ -1165,12 +1520,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825322"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐志榮"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "徐志榮"
       },
@@ -1185,6 +1550,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1212,6 +1582,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825673-4967A539-8B0F-4B01-B7BB-E921135AEB7A"
@@ -1222,6 +1597,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺南市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺南市第四選舉區"
       },
@@ -1239,12 +1619,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825673"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林俊憲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林俊憲"
       },
@@ -1259,6 +1649,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1291,6 +1686,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825781-dca5fb2e-4a19-0035-afe6-4a094b23f532"
@@ -1301,6 +1701,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第五選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第五選舉區"
       },
@@ -1318,12 +1723,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825781"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇巧慧"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蘇巧慧"
       },
@@ -1338,6 +1753,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1375,6 +1795,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825797-44EEE7B4-1C38-48A3-A135-02CDAE2FC5BF"
@@ -1385,6 +1810,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第九選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第九選舉區"
       },
@@ -1402,12 +1832,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825797"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "賴瑞隆"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "賴瑞隆"
       },
@@ -1422,6 +1862,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1449,6 +1894,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849340-A4430F9A-8AD5-4084-9EF7-84D4F15F9C2A"
@@ -1459,6 +1909,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "彰化縣第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "彰化縣第三選舉區"
       },
@@ -1476,12 +1931,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19849340"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪宗熠"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "洪宗熠"
       },
@@ -1496,6 +1961,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1536,6 +2006,11 @@
         "type" : "literal",
         "value" : "臺中市第三選舉區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "臺中市第三選舉區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -1550,12 +2025,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19849402"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪慈庸"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "洪慈庸"
       },
@@ -1570,6 +2055,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1606,6 +2096,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849414-D90CEAA8-BE08-489F-9F4A-492151C84692"
@@ -1616,6 +2111,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第十選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第十選舉區"
       },
@@ -1633,12 +2133,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19849414"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳琪銘"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "吳琪銘"
       },
@@ -1653,6 +2163,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1690,6 +2205,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q20063502-D2108542-BC19-4AD4-9CA0-3CB15F57EB26"
@@ -1700,6 +2220,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第四選舉區"
       },
@@ -1717,12 +2242,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20063502"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李彥秀"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "李彥秀"
       },
@@ -1737,6 +2272,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1782,6 +2322,11 @@
         "type" : "literal",
         "value" : "全國不分區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -1796,12 +2341,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21652173"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "kawloiyunpacidal"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "kawloiyunpacidal"
       },
@@ -1816,6 +2371,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1848,6 +2408,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22093639-D051871E-0124-4757-95CD-D1B7C80E54D3"
@@ -1858,6 +2423,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -1875,12 +2445,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22093639"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林麗蟬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林麗蟬"
       },
@@ -1895,6 +2475,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -1927,6 +2512,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22099954-1E5DFC08-02BC-4851-B3E5-BE5194F71001"
@@ -1937,6 +2527,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -1954,12 +2549,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22099954"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "kolasyotaka"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "kolasyotaka"
       },
@@ -1974,6 +2579,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2006,6 +2616,11 @@
         "type" : "literal",
         "value" : "無黨籍政治人物"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "無黨籍政治人物"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22100240-7C2D9EE6-337A-4704-B122-6A6E072236F3"
@@ -2016,6 +2631,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第六選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第六選舉區"
       },
@@ -2033,12 +2653,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22100240"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "趙正宇"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "趙正宇"
       },
@@ -2053,6 +2683,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2090,6 +2725,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22773998-2f0bd372-4bf7-ce9c-417f-e20c192a9b02"
@@ -2100,6 +2740,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2117,12 +2762,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22773998"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "余宛如"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "余宛如"
       },
@@ -2137,6 +2792,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2169,6 +2829,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774114-4AFBEC66-DFDC-4D5F-BFBB-3CFDFA74917C"
@@ -2179,6 +2844,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2196,12 +2866,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774114"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳玉琴"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "吳玉琴"
       },
@@ -2216,6 +2896,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2243,6 +2928,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774121-496C37B3-D838-418C-B229-DF80DB22A855"
@@ -2253,6 +2943,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2270,12 +2965,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774121"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周春米"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "周春米"
       },
@@ -2290,6 +2995,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2322,6 +3032,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774129-D71D08D1-AB57-43E4-9990-A47D2E553937"
@@ -2332,6 +3047,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2349,12 +3069,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774129"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林靜儀"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林靜儀"
       },
@@ -2369,6 +3099,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2401,6 +3136,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774142-C07BBD45-66FD-4CF8-88DA-890B193A7EBD"
@@ -2411,6 +3151,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2428,12 +3173,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774142"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鍾孔炤"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "鍾孔炤"
       },
@@ -2448,6 +3203,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2475,6 +3235,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774153-4413A7CA-7677-47F1-8F8A-CEB71CED98D5"
@@ -2485,6 +3250,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2502,12 +3272,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774153"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳曼麗"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳曼麗"
       },
@@ -2522,6 +3302,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2554,6 +3339,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22774355-E05B3A8D-8F4B-46DB-810F-35F99A2994C7"
@@ -2564,6 +3354,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "金門縣選舉區"
       },
@@ -2581,12 +3376,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22774355"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊鎮浯"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "楊鎮浯"
       },
@@ -2601,6 +3406,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2633,6 +3443,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23927581-0A032943-7A7C-420D-9FF6-BEF9700C1ACC"
@@ -2643,6 +3458,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2660,12 +3480,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23927581"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許毓仁"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "許毓仁"
       },
@@ -2680,6 +3510,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2712,6 +3547,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24839448-CF1C5564-7978-47AB-B760-DBECB5AEEBA4"
@@ -2722,6 +3562,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2739,12 +3584,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24839448"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳宜民"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳宜民"
       },
@@ -2759,6 +3614,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2791,6 +3651,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24840132-10A4D278-6C2D-4B8D-8C8D-B5A9FF07F997"
@@ -2801,6 +3666,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2818,12 +3688,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24840132"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李麗芬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "李麗芬"
       },
@@ -2838,6 +3718,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2865,6 +3750,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28413232-BF4007A1-2475-4603-AD9F-71662A5B4966"
@@ -2875,6 +3765,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2892,12 +3787,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28413232"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "邱泰源"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "邱泰源"
       },
@@ -2912,6 +3817,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -2944,6 +3854,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28416376-DDD6EB0A-D3EC-405C-93A7-CAACC1472D90"
@@ -2954,6 +3869,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -2971,12 +3891,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28416376"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "柯志恩"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "柯志恩"
       },
@@ -2991,6 +3921,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3023,6 +3958,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28418899-BE4EA923-A2CA-41B7-8147-A678422F0B6E"
@@ -3033,6 +3973,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -3050,12 +3995,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28418899"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐榛蔚"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "徐榛蔚"
       },
@@ -3070,6 +4025,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3102,6 +4062,11 @@
         "type" : "literal",
         "value" : "親民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28522108-C704BB86-5EEF-4C7C-A7FF-A91E06BDCEF6"
@@ -3112,6 +4077,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -3129,12 +4099,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28522108"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周陳秀霞"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "周陳秀霞"
       },
@@ -3149,6 +4129,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3181,6 +4166,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3846662-F9B2C696-847B-48D6-B2BC-341F05BFAA6C"
@@ -3191,6 +4181,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第五選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第五選舉區"
       },
@@ -3208,12 +4203,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3846662"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "管碧玲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "管碧玲"
       },
@@ -3228,6 +4233,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3260,6 +4270,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45604278-E04F1738-4AEA-44D6-9AD6-216797719F2B"
@@ -3270,6 +4285,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第七選舉區"
       },
@@ -3287,12 +4307,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q45604278"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "趙天麟"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "趙天麟"
       },
@@ -3307,6 +4337,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3339,6 +4374,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5090717-F1756D1B-B3AC-422E-B9EB-C776496F84F5"
@@ -3349,6 +4389,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -3366,12 +4411,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5090717"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳其邁"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳其邁"
       },
@@ -3386,6 +4441,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3418,6 +4478,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5090859-E35F0643-3875-4583-B3E6-CCF355966753"
@@ -3428,6 +4493,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "嘉義縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義縣第二選舉區"
       },
@@ -3445,12 +4515,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5090859"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳明文"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳明文"
       },
@@ -3465,6 +4545,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3497,6 +4582,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6393270-A71462C3-D2BE-4A89-9FEF-FB7967709AA4"
@@ -3507,6 +4597,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新竹市選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新竹市選舉區"
       },
@@ -3524,12 +4619,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6393270"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "柯建銘"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "柯建銘"
       },
@@ -3544,6 +4649,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3581,6 +4691,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6515593-FF62C9E2-34FE-4372-9386-B87C6BCDC518"
@@ -3591,6 +4706,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -3608,12 +4728,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6515593"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李應元"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "李應元"
       },
@@ -3628,6 +4758,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3665,6 +4800,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6653712-E31CD38F-8C74-403F-915C-19ED7615C39D"
@@ -3675,6 +4815,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第三選舉區"
       },
@@ -3692,12 +4837,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6653712"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "劉世芳"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "劉世芳"
       },
@@ -3712,6 +4867,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3757,6 +4917,11 @@
         "type" : "literal",
         "value" : "山地原住民選舉區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "山地原住民選舉區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -3771,12 +4936,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q697862"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高金素梅"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高金素梅"
       },
@@ -3791,6 +4966,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3828,6 +5008,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q700752-F29117F1-02FE-4CAB-BB0B-8115F97DA317"
@@ -3838,6 +5023,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "花蓮縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "花蓮縣選舉區"
       },
@@ -3855,12 +5045,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q700752"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蕭美琴"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蕭美琴"
       },
@@ -3875,6 +5075,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3912,6 +5117,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q700774-ecce5499-470e-f13e-bbb2-94dac54f8ae5"
@@ -3922,6 +5132,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -3939,12 +5154,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q700774"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇嘉全"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蘇嘉全"
       },
@@ -3959,6 +5184,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -3991,6 +5221,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q707601-F2A8CCE1-4FCD-4C03-BAEB-7CC425B61A1B"
@@ -4001,6 +5236,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -4018,12 +5258,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q707601"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王金平"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "王金平"
       },
@@ -4038,6 +5288,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4070,6 +5325,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q709508-37542A76-5745-4CDF-94F6-FD6FDD03C2DC"
@@ -4080,6 +5340,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺南市第五選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺南市第五選舉區"
       },
@@ -4097,12 +5362,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q709508"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王定宇"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "王定宇"
       },
@@ -4117,6 +5392,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4149,6 +5429,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7198343-45A2C9CF-527B-4689-9889-76DE2C942E93"
@@ -4159,6 +5444,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "平地原住民選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "平地原住民選舉區"
       },
@@ -4176,12 +5466,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7198343"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳瑩"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳瑩"
       },
@@ -4196,6 +5496,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4228,6 +5533,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8270063-95CE8D5B-953D-4D61-AAEB-DD738A4715B4"
@@ -4238,6 +5548,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -4255,12 +5570,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8270063"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃昭順"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "黃昭順"
       },
@@ -4275,6 +5600,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4307,6 +5637,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8273045-1985EFCB-0A11-4782-B739-EEB523445787"
@@ -4317,6 +5652,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第三選舉區"
       },
@@ -4334,12 +5674,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8273045"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳學聖"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳學聖"
       },
@@ -4354,6 +5704,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4391,6 +5746,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8273082-7617412B-001A-48A3-8586-DC7288E923A7"
@@ -4401,6 +5761,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "連江縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "連江縣選舉區"
       },
@@ -4418,12 +5783,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8273082"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳雪生"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳雪生"
       },
@@ -4438,6 +5813,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4479,6 +5859,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8273132-36ECDA9E-7C37-4A3D-82E5-FCC52651B330"
@@ -4489,6 +5874,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -4506,12 +5896,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8273132"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張麗善"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "張麗善"
       },
@@ -4526,6 +5926,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4553,6 +5958,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8273248-60623B88-3C39-41B3-8202-192E7E119EBE"
@@ -4563,6 +5973,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "苗栗縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "苗栗縣第一選舉區"
       },
@@ -4580,12 +5995,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8273248"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳超明"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳超明"
       },
@@ -4600,6 +6025,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4637,6 +6067,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274144-9859042F-A0A6-400F-BFDB-5600FC591540"
@@ -4647,6 +6082,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第六選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第六選舉區"
       },
@@ -4664,12 +6104,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274144"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔣乃辛"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔣乃辛"
       },
@@ -4684,6 +6134,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4721,6 +6176,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274185-CEFE7ED2-CF0E-4284-BA77-272CA2419948"
@@ -4731,6 +6191,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "山地原住民選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "山地原住民選舉區"
       },
@@ -4748,12 +6213,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274185"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "簡東明Uliw‧Qaljupayare"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "簡東明Uliw‧Qaljupayare"
       },
@@ -4768,6 +6243,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4805,6 +6285,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274261-32ED86AF-411A-495E-A37D-D2457732F922"
@@ -4815,6 +6300,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "山地原住民選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "山地原住民選舉區"
       },
@@ -4832,12 +6322,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274261"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "孔文吉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "孔文吉"
       },
@@ -4852,6 +6352,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4889,6 +6394,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274398-2B5C7EBB-0254-4ECE-9F95-09843B6145B4"
@@ -4899,6 +6409,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "平地原住民選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "平地原住民選舉區"
       },
@@ -4916,12 +6431,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274398"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "廖國棟Sufin‧Siluko"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "廖國棟Sufin‧Siluko"
       },
@@ -4936,6 +6461,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -4968,6 +6498,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274707-4B322BB5-3187-4E7D-ABF8-A80FA57C574E"
@@ -4978,6 +6513,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第五選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第五選舉區"
       },
@@ -4995,12 +6535,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274707"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "盧秀燕"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "盧秀燕"
       },
@@ -5015,6 +6565,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5042,6 +6597,11 @@
         "type" : "literal",
         "value" : "親民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8275115-65737430-3B65-44CA-A735-BBD5174B6CA2"
@@ -5052,6 +6612,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -5069,6 +6634,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275115"
@@ -5077,6 +6647,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "李鴻鈞 (立委)"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李鴻鈞"
       },
       "org" : {
         "type" : "uri",
@@ -5089,6 +6664,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5121,6 +6701,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8275203-9B576103-D3B4-4859-9520-3F60944D1648"
@@ -5131,6 +6716,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第九選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第九選舉區"
       },
@@ -5148,6 +6738,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275203"
@@ -5156,6 +6751,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "林德福 (立法委員)"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林德福"
       },
       "org" : {
         "type" : "uri",
@@ -5168,6 +6768,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5200,6 +6805,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8275466-84979614-BAC1-4975-8325-83C6F2BE5799"
@@ -5210,6 +6820,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第十一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第十一選舉區"
       },
@@ -5227,12 +6842,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275466"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "羅明才"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "羅明才"
       },
@@ -5247,6 +6872,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5279,6 +6909,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8275493-2a0534a5-49cc-3f18-b3a5-9a8202810a99"
@@ -5289,6 +6924,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第八選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第八選舉區"
       },
@@ -5306,12 +6946,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275493"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "賴士葆"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "賴士葆"
       },
@@ -5326,6 +6976,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5363,6 +7018,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8277261-A90C82CA-9863-48AF-86E5-945E93961C3E"
@@ -5373,6 +7033,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -5390,6 +7055,11 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8277261"
@@ -5398,6 +7068,11 @@
         "xml:lang" : "zh",
         "type" : "literal",
         "value" : "吳志揚 (政治人物)"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "吳志揚"
       },
       "org" : {
         "type" : "uri",
@@ -5410,6 +7085,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5442,6 +7122,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8278820-45FACA2F-AF5E-4F2A-89C9-BF2ABAD9B0E5"
@@ -5452,6 +7137,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第二選舉區"
       },
@@ -5469,12 +7159,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8278820"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顏寬恒"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "顏寬恒"
       },
@@ -5489,6 +7189,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5521,6 +7226,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279603-A435A56F-05E8-47F4-AE66-2652729A07AD"
@@ -5531,6 +7241,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第八選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第八選舉區"
       },
@@ -5548,12 +7263,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279603"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "江啟臣"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "江啟臣"
       },
@@ -5568,6 +7293,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5600,6 +7330,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279684-C2233B9A-C617-457E-AD27-1EF9059CFE67"
@@ -5610,6 +7345,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "彰化縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "彰化縣第一選舉區"
       },
@@ -5627,12 +7367,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279684"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王惠美"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "王惠美"
       },
@@ -5647,6 +7397,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5679,6 +7434,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279711-600BA878-1670-4D1F-958B-F8DF2E55B938"
@@ -5689,6 +7449,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -5706,12 +7471,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279711"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王育敏"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "王育敏"
       },
@@ -5726,6 +7501,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5753,6 +7533,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279858-0E0A4D9E-792B-4306-979B-E07234766455"
@@ -5763,6 +7548,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "南投縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "南投縣第一選舉區"
       },
@@ -5780,12 +7570,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279858"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "馬文君"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "馬文君"
       },
@@ -5800,6 +7600,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5832,6 +7637,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347319-A1F00189-4F73-4F46-8C38-76D2117DD24E"
@@ -5842,6 +7652,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第四選舉區"
       },
@@ -5859,12 +7674,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347319"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張廖萬堅"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "張廖萬堅"
       },
@@ -5879,6 +7704,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5911,6 +7741,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347574-E39AFC19-C849-4B7C-9073-9A6667C4CDB9"
@@ -5921,6 +7756,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "嘉義市選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義市選舉區"
       },
@@ -5938,12 +7778,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347574"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李俊俋"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "李俊俋"
       },
@@ -5958,6 +7808,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -5995,6 +7850,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347638-0CEB3ADD-B3B4-4330-AE9E-79D411226D93"
@@ -6005,6 +7865,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "基隆市選舉區"
       },
@@ -6022,12 +7887,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347638"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡適應"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔡適應"
       },
@@ -6042,6 +7917,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6074,6 +7954,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347718-B987B478-07F9-4FD1-8430-D8D90D9C3954"
@@ -6084,6 +7969,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第二選舉區"
       },
@@ -6101,12 +7991,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347718"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "邱志偉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "邱志偉"
       },
@@ -6121,6 +8021,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6158,6 +8063,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347775-6D338AA3-8425-4985-B4B2-297ACAF3854F"
@@ -6168,6 +8078,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第一選舉區"
       },
@@ -6185,12 +8100,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347775"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "邱議瑩"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "邱議瑩"
       },
@@ -6205,6 +8130,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6242,6 +8172,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347820-9488B444-D80B-41B8-AE90-7487A0EECFA3"
@@ -6252,6 +8187,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺南市第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺南市第三選舉區"
       },
@@ -6269,12 +8209,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347820"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳亭妃"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳亭妃"
       },
@@ -6289,6 +8239,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6321,6 +8276,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347997-42356CFD-ED7E-4AE5-9BA4-B11EC40554ED"
@@ -6331,6 +8291,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "宜蘭縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "宜蘭縣選舉區"
       },
@@ -6348,12 +8313,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347997"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳歐珀"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "陳歐珀"
       },
@@ -6368,6 +8343,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6405,6 +8385,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348328-8C007846-AC92-469E-9435-D24029A4E741"
@@ -6415,6 +8400,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -6432,12 +8422,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348328"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "郭正亮"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "郭正亮"
       },
@@ -6452,6 +8452,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6484,6 +8489,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348463-A4D86A40-6563-40FF-87AB-E6A31B3F9163"
@@ -6494,6 +8504,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第三選舉區"
       },
@@ -6511,12 +8526,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348463"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高志鵬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高志鵬"
       },
@@ -6531,6 +8556,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6568,6 +8598,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348653-3B84217B-E477-489A-BAC3-CB952DC3FC9F"
@@ -6578,6 +8613,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺南市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺南市第二選舉區"
       },
@@ -6595,12 +8635,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348653"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃偉哲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "黃偉哲"
       },
@@ -6615,6 +8665,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6647,6 +8702,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348788-852D0A71-565A-4432-AE68-B35AADCD8205"
@@ -6657,6 +8717,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第七選舉區"
       },
@@ -6674,12 +8739,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348788"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "何欣純"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "何欣純"
       },
@@ -6694,6 +8769,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6726,6 +8806,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348841-C30DB8CB-2B0A-479C-B66D-86D288710207"
@@ -6736,6 +8821,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -6753,12 +8843,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348841"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐國勇"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "徐國勇"
       },
@@ -6773,6 +8873,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6805,6 +8910,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349077-E44CE65E-541D-4750-8745-B7F0BC71BA63"
@@ -6815,6 +8925,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第八選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第八選舉區"
       },
@@ -6832,12 +8947,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349077"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許智傑"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "許智傑"
       },
@@ -6852,6 +8977,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6884,6 +9014,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349282-048D42BC-96C6-42B7-B7EA-EC7ABEF3FCB3"
@@ -6894,6 +9029,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "彰化縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "彰化縣第二選舉區"
       },
@@ -6911,12 +9051,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349282"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃秀芳"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "黃秀芳"
       },
@@ -6931,6 +9081,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -6963,6 +9118,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349451-63A995F3-E70C-4740-B752-12B00397ABFF"
@@ -6973,6 +9133,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第四選舉區"
       },
@@ -6990,12 +9155,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349451"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鄭寶清"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "鄭寶清"
       },
@@ -7010,6 +9185,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7042,6 +9222,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349613-4BB63D7B-41F1-429A-B360-9F2DF3E44412"
@@ -7052,6 +9237,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第七選舉區"
       },
@@ -7069,12 +9259,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349613"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "羅致政"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "羅致政"
       },
@@ -7089,6 +9289,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7126,6 +9331,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349646-EB480813-C007-4F55-9E1A-BC1CCA252C55"
@@ -7136,6 +9346,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "雲林縣第二選舉區"
       },
@@ -7153,12 +9368,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349646"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "劉建國"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "劉建國"
       },
@@ -7173,6 +9398,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7205,6 +9435,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349660-2371F226-DA3B-40A9-BCA4-5EB8F64CAEDB"
@@ -7215,6 +9450,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺東縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺東縣選舉區"
       },
@@ -7232,12 +9472,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349660"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "劉櫂豪"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "劉櫂豪"
       },
@@ -7252,6 +9502,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7289,6 +9544,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349723-F07D9689-9942-44A7-BF07-300FC2D473CF"
@@ -7299,6 +9559,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第六選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第六選舉區"
       },
@@ -7316,12 +9581,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349723"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李昆澤"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "李昆澤"
       },
@@ -7336,6 +9611,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7368,6 +9648,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349768-D64C2223-0E38-4900-8081-B2DEDD0C1E0C"
@@ -7378,6 +9663,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "高雄市第四選舉區"
       },
@@ -7395,12 +9685,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349768"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林岱樺"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林岱樺"
       },
@@ -7415,6 +9715,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7447,6 +9752,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350160-92E7C7EA-ED59-4D4F-BA9C-AA9800D00C81"
@@ -7457,6 +9767,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "雲林縣第一選舉區"
       },
@@ -7474,12 +9789,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350160"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇治芬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蘇治芬"
       },
@@ -7494,6 +9819,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7526,6 +9856,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350171-F6CB6CD4-EDC2-4203-9EB5-BD25A554D7AC"
@@ -7536,6 +9871,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -7553,12 +9893,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350171"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "施義芳"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "施義芳"
       },
@@ -7573,6 +9923,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7605,6 +9960,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350223-6C17AFF4-C706-444F-BD14-D8FF1E79407D"
@@ -7615,6 +9975,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屏東縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "屏東縣第一選舉區"
       },
@@ -7632,12 +9997,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350223"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇震清"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蘇震清"
       },
@@ -7652,6 +10027,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7679,6 +10059,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350279-7FFF27BD-82EB-480B-9070-6A01DAEC31EB"
@@ -7689,6 +10074,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺中市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市第一選舉區"
       },
@@ -7706,12 +10096,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350279"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡其昌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔡其昌"
       },
@@ -7726,6 +10126,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7758,6 +10163,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350388-9C5FF6C1-8B50-4185-B146-480745BA6BDB"
@@ -7768,6 +10178,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "嘉義縣第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義縣第一選舉區"
       },
@@ -7785,12 +10200,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350388"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡易餘"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "蔡易餘"
       },
@@ -7805,6 +10230,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7832,6 +10262,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350455-360EA141-54C6-429A-A762-84665A82913B"
@@ -7842,6 +10277,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第一選舉區"
       },
@@ -7859,12 +10299,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350455"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳思瑤"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "吳思瑤"
       },
@@ -7879,6 +10329,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7916,6 +10371,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350478-7FE76E23-6E8B-443E-90F7-00B18883BAE5"
@@ -7926,6 +10386,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第四選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第四選舉區"
       },
@@ -7943,12 +10408,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350478"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳秉叡"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "吳秉叡"
       },
@@ -7963,6 +10438,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -7995,6 +10475,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350543-B95362BD-386A-4DC4-B18E-02888A2623FC"
@@ -8005,6 +10490,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -8022,12 +10512,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350543"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王榮璋"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "王榮璋"
       },
@@ -8042,6 +10542,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8074,6 +10579,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350665-5DD63449-97FD-4DD1-9862-6E12234DED83"
@@ -8084,6 +10594,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第二選舉區"
       },
@@ -8101,12 +10616,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350665"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "姚文智"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "姚文智"
       },
@@ -8121,6 +10646,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8158,6 +10688,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350686-223CF6D9-A0D3-469B-9245-767D90AC8B0F"
@@ -8168,6 +10703,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "澎湖縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "澎湖縣選舉區"
       },
@@ -8185,12 +10725,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350686"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊曜"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "楊曜"
       },
@@ -8205,6 +10755,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8242,6 +10797,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350727-B85E879B-12F6-4070-AAF9-55404544C653"
@@ -8252,6 +10812,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺南市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺南市第一選舉區"
       },
@@ -8269,12 +10834,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350727"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "葉宜津"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "葉宜津"
       },
@@ -8289,6 +10864,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8321,6 +10901,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350806-4f1a487c-4b5e-d8b3-2600-71a4f5122a08"
@@ -8331,6 +10916,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第六選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第六選舉區"
       },
@@ -8348,12 +10938,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350806"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張宏陸"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "張宏陸"
       },
@@ -8368,6 +10968,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8405,6 +11010,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350960-3994D250-C19B-4EE2-A98E-13EB4A411DE4"
@@ -8415,6 +11025,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第八選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第八選舉區"
       },
@@ -8432,12 +11047,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350960"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "江永昌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "江永昌"
       },
@@ -8452,6 +11077,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8484,6 +11114,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8351019-0413CA76-2BED-4642-A1CF-44485DD48FF7"
@@ -8494,6 +11129,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屏東縣第三選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "屏東縣第三選舉區"
       },
@@ -8511,12 +11151,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351019"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "莊瑞雄"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "莊瑞雄"
       },
@@ -8531,6 +11181,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8563,6 +11218,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8351107-C199693E-B270-4788-9474-215F4D3A25D8"
@@ -8573,6 +11233,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -8590,12 +11255,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351107"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鄭麗君"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "鄭麗君"
       },
@@ -8610,6 +11285,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8647,6 +11327,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8351569-1F6DF685-9614-4CB4-AFA6-6C619A7E8C6A"
@@ -8657,6 +11342,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新竹縣選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新竹縣選舉區"
       },
@@ -8674,12 +11364,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351569"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林為洲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林為洲"
       },
@@ -8694,6 +11394,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8726,6 +11431,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8351814-4DE193B2-8D36-4CB8-A769-B7F4A48789EC"
@@ -8736,6 +11446,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "屏東縣第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "屏東縣第二選舉區"
       },
@@ -8753,12 +11468,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351814"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鍾佳濱"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "鍾佳濱"
       },
@@ -8773,6 +11498,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8805,6 +11535,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8357056-4b46f50d-47ad-b50c-d868-96fa8499f33e"
@@ -8815,6 +11550,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -8832,12 +11572,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8357056"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "段宜康"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "段宜康"
       },
@@ -8852,6 +11602,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8884,6 +11639,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8357125-7F0D2614-4D62-4CB7-B311-9287B2B29BD2"
@@ -8894,6 +11654,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "桃園市第一選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "桃園市第一選舉區"
       },
@@ -8911,12 +11676,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8357125"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鄭運鵬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "鄭運鵬"
       },
@@ -8931,6 +11706,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -8968,6 +11748,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8357162-CBE4E65D-6C62-461E-80FD-98ECC662664D"
@@ -8978,6 +11763,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "新北市第二選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市第二選舉區"
       },
@@ -8995,12 +11785,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8357162"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林淑芬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林淑芬"
       },
@@ -9015,6 +11815,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -9065,6 +11870,11 @@
         "type" : "literal",
         "value" : "全國不分區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -9079,12 +11889,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8967661"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐永明"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "徐永明"
       },
@@ -9099,6 +11919,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -9131,6 +11956,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9130647-a011551b-482d-5bab-ffb2-aa29054aa312"
@@ -9141,6 +11971,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "全國不分區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "全國不分區"
       },
@@ -9158,12 +11993,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9130647"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "尤美女"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "尤美女"
       },
@@ -9178,6 +12023,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -9223,6 +12073,11 @@
         "type" : "literal",
         "value" : "臺北市第五選舉區"
       },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "臺北市第五選舉區"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6310593"
@@ -9237,12 +12092,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9292454"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林昶佐"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林昶佐"
       },
@@ -9257,6 +12122,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },
@@ -9298,6 +12168,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9346217-AA3C1DBB-14AB-4930-94B4-309A663F3748"
@@ -9308,6 +12183,11 @@
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "臺北市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺北市第七選舉區"
       },
@@ -9325,12 +12205,22 @@
         "type" : "literal",
         "value" : "立法委員"
       },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9346217"
       },
       "name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "費鴻泰"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "費鴻泰"
       },
@@ -9345,6 +12235,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中華民國立法院"
       },

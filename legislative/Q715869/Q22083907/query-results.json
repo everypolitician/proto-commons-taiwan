@@ -29,7 +29,7 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "桃園縣第五選舉區"
+        "value" : "桃園市第五選舉區"
       },
       "role" : {
         "type" : "uri",
@@ -1070,7 +1070,7 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "桃園縣第二選舉區"
+        "value" : "桃園市第二選舉區"
       },
       "role" : {
         "type" : "uri",
@@ -2017,7 +2017,7 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "桃園縣第六選舉區"
+        "value" : "桃園市第六選舉區"
       },
       "role" : {
         "type" : "uri",
@@ -8895,7 +8895,7 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "桃園縣第一選舉區"
+        "value" : "桃園市第一選舉區"
       },
       "role" : {
         "type" : "uri",

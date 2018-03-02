@@ -3,6 +3,452 @@
     "vars" : [ "statement", "item", "name_zh", "name_en", "party", "party_name_zh", "party_name_en", "district", "district_name_zh", "district_name_en", "role", "role_zh", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh", "role_superclass_en", "org", "org_zh", "org_en", "org_jurisdiction" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q317462"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wellington Koo"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顧維鈞"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q317462-068832DB-6964-4ACC-9DEA-F6E0364D8450"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3847080"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William Lai"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "賴清德"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-09-08T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "chingte"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6127766"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wang Zhengting"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王正廷"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950326"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tongmenghui"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中国同盟会"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6127766"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wang Zhengting"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王正廷"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_superclass_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院院長"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6130548"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xiong Xiling"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "熊希齡"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中華民國行政院"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6130548-5ACC5169-96F0-4DEF-A412-89CA73AF168B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      }
+    } ]
   }
 }

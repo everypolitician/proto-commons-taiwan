@@ -1,0 +1,104 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "涂醒哲",
+        "lang:en_US": "Twu Shiing-jer"
+      },
+      "id": "Q8350363",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350363"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張文英",
+        "lang:en_US": "Chang Wen-ying"
+      },
+      "id": "Q9188552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9188552"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "嘉義市政府",
+        "lang:en_US": "Chiayi City Government"
+      },
+      "id": "Q15897754",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15897754"
+        }
+      ],
+      "area_id": "Q249995"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350363-39e2cab6-4d05-6f95-3a3d-2edae15e55e1",
+      "person_id": "Q8350363",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15897754",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q6627476",
+      "role": {
+        "lang:zh_CN": "嘉義市市長",
+        "lang:en_US": "Mayor of Chiayi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9188552-c4918d7c-4391-38f6-6de7-413cac2db310",
+      "person_id": "Q9188552",
+      "organization_id": "Q15897754",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q6627476",
+      "role": {
+        "lang:zh_CN": "嘉義市市長",
+        "lang:en_US": "Mayor of Chiayi"
+      }
+    }
+  ]
+}

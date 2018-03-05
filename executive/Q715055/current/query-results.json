@@ -16,12 +16,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "role" : {
         "type" : "uri",
@@ -39,12 +39,12 @@
       "role_superclass_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -54,12 +54,12 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "item" : {
         "type" : "uri",
@@ -120,12 +120,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "role" : {
         "type" : "uri",
@@ -143,12 +143,12 @@
       "role_superclass_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -158,12 +158,12 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "item" : {
         "type" : "uri",
@@ -252,12 +252,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "role" : {
         "type" : "uri",
@@ -275,12 +275,12 @@
       "role_superclass_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -290,12 +290,12 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "item" : {
         "type" : "uri",
@@ -370,12 +370,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "role" : {
         "type" : "uri",
@@ -393,12 +393,12 @@
       "role_superclass_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -408,12 +408,12 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "item" : {
         "type" : "uri",
@@ -488,12 +488,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國"
+        "value" : "台灣"
       },
       "role" : {
         "type" : "uri",
@@ -511,12 +511,12 @@
       "role_superclass_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -526,12 +526,12 @@
       "role_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院院長"
+        "value" : "台灣行政院院長"
       },
       "item" : {
         "type" : "uri",

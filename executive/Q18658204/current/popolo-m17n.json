@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "黃健庭",
+        "lang:en_US": "Justin Huang"
+      },
+      "id": "Q8274104",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274104"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "臺東縣政府",
+        "lang:en_US": "Taitung County Government"
+      },
+      "id": "Q18658204",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18658204"
+        }
+      ],
+      "area_id": "Q249904"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274104-27206dc2-49b0-a7cc-4413-420b96566640",
+      "person_id": "Q8274104",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q18658204",
+      "start_date": "2009-12-20",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50306440",
+      "role": {
+        "lang:zh_CN": "臺東縣縣長",
+        "lang:en_US": "Mayor of Taitung County"
+      }
+    }
+  ]
+}

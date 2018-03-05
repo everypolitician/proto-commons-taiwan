@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "陳金德",
+        "lang:en_US": "Chen Chin-te"
+      },
+      "id": "Q8348181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8348181"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "宜蘭縣政府",
+        "lang:en_US": "Yilan County Government"
+      },
+      "id": "Q10949116",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10949116"
+        }
+      ],
+      "area_id": "Q237258"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8348181-a56209ec-43ca-597d-bc78-8923db24fb7c",
+      "person_id": "Q8348181",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10949116",
+      "start_date": "2017-11-06",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50306553",
+      "role": {
+        "lang:zh_CN": "宜蘭縣縣長",
+        "lang:en_US": "Mayor of Yilan County"
+      }
+    }
+  ]
+}

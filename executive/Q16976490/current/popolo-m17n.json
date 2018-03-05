@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "陳福海",
+        "lang:en_US": "Chen Fu-hai"
+      },
+      "id": "Q8984370",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8984370"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "金門縣政府",
+        "lang:en_US": "Kinmen County Government"
+      },
+      "id": "Q16976490",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16976490"
+        }
+      ],
+      "area_id": "Q249870"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8984370-ab49f1e2-4578-98da-84cb-b52f86c6092c",
+      "person_id": "Q8984370",
+      "organization_id": "Q16976490",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50294007",
+      "role": {
+        "lang:zh_CN": "金門縣縣長",
+        "lang:en_US": "Mayor of Kinmen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "邱鏡淳",
+        "lang:en_US": "Chiu Ching-chun"
+      },
+      "id": "Q8273181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8273181"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "新竹縣政府",
+        "lang:en_US": "Hsinchu County Government"
+      },
+      "id": "Q11084050",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11084050"
+        }
+      ],
+      "area_id": "Q74054"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8273181-41c883fa-4268-da4f-0d77-8dcfe160fd0d",
+      "person_id": "Q8273181",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q11084050",
+      "start_date": "2009-12-20",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50293600",
+      "role": {
+        "lang:zh_CN": "新竹縣縣長",
+        "lang:en_US": "Mayor of Hsinchu County"
+      }
+    }
+  ]
+}

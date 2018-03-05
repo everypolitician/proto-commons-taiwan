@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "林明溱",
+        "lang:en_US": "Lin Ming-chen"
+      },
+      "id": "Q8274333",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274333"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "南投縣政府",
+        "lang:en_US": "Nantou County Government"
+      },
+      "id": "Q17011999",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17011999"
+        }
+      ],
+      "area_id": "Q82357"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274333-d675a9a3-49da-74f3-c614-31ce2671b47e",
+      "person_id": "Q8274333",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q17011999",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50306171",
+      "role": {
+        "lang:zh_CN": "南投縣縣長",
+        "lang:en_US": "Mayor of Nantou County"
+      }
+    }
+  ]
+}

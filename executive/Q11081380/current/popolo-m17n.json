@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "朱立伦",
+        "lang:en_US": "Eric Chu"
+      },
+      "id": "Q5386280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5386280"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "新北市政府",
+        "lang:en_US": "New Taipei City Government"
+      },
+      "id": "Q11081380",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11081380"
+        }
+      ],
+      "area_id": "Q244898"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5386280-C44875F5-81FD-495C-9521-69E617E475FF",
+      "person_id": "Q5386280",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q11081380",
+      "start_date": "2010-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q6797771",
+      "role": {
+        "lang:zh_CN": "新北市市長",
+        "lang:en_US": "Mayor of New Taipei"
+      }
+    }
+  ]
+}

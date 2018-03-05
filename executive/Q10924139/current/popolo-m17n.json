@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "張花冠",
+        "lang:en_US": "Helen Chang"
+      },
+      "id": "Q8347506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8347506"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "嘉義縣政府",
+        "lang:en_US": "Chiayi County Government"
+      },
+      "id": "Q10924139",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10924139"
+        }
+      ],
+      "area_id": "Q166977"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347506-96f76158-4962-2910-367a-b492b27af843",
+      "person_id": "Q8347506",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10924139",
+      "start_date": "2009-12-20",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50292905",
+      "role": {
+        "lang:zh_CN": "嘉義縣縣長",
+        "lang:en_US": "Mayor of Chiayi County"
+      }
+    }
+  ]
+}

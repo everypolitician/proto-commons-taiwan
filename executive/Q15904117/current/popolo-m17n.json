@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "劉增應",
+        "lang:en_US": "Liu Cheng-ying"
+      },
+      "id": "Q18612457",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18612457"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "連江縣政府",
+        "lang:en_US": "Lienchiang County Government"
+      },
+      "id": "Q15904117",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15904117"
+        }
+      ],
+      "area_id": "Q249872"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18612457-fb3a68ce-4545-ea46-8cff-d7ee66055768",
+      "person_id": "Q18612457",
+      "organization_id": "Q15904117",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50293953",
+      "role": {
+        "lang:zh_CN": "連江縣縣長",
+        "lang:en_US": "Mayor of Lienchiang"
+      }
+    }
+  ]
+}

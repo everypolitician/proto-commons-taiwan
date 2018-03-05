@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "陳菊",
+        "lang:en_US": "Chen Chu"
+      },
+      "id": "Q465280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q465280"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "高雄市政府",
+        "lang:en_US": "Kaohsiung City Government"
+      },
+      "id": "Q6366077",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6366077"
+        }
+      ],
+      "area_id": "Q181557"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q465280-84d82af3-416a-6992-0a0e-2a8fa2093572",
+      "person_id": "Q465280",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q6366077",
+      "start_date": "2010-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50293830",
+      "role": {
+        "lang:zh_CN": "高雄市市長",
+        "lang:en_US": "Mayor of Kaohsiung"
+      }
+    }
+  ]
+}

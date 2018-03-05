@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "林智堅",
+        "lang:en_US": "Lin Chih-chien"
+      },
+      "id": "Q8347529",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8347529"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "新竹市政府",
+        "lang:en_US": "Hsinchu City Government"
+      },
+      "id": "Q11083998",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11083998"
+        }
+      ],
+      "area_id": "Q249994"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347529-b9a24522-4c8a-ff9c-b8b8-5bb0392ba7a9",
+      "person_id": "Q8347529",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q11083998",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50292741",
+      "role": {
+        "lang:zh_CN": "新竹市市長",
+        "lang:en_US": "Mayor of Hsinchu"
+      }
+    }
+  ]
+}

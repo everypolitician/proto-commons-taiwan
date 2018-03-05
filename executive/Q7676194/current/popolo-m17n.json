@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "李孟諺",
+        "lang:en_US": "Lee Meng-yen"
+      },
+      "id": "Q38876935",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38876935"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "臺南市政府",
+        "lang:en_US": "Tainan City Government"
+      },
+      "id": "Q7676194",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7676194"
+        }
+      ],
+      "area_id": "Q140631"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38876935-4655e10b-4ef3-293c-ba61-b8984b81bc37",
+      "person_id": "Q38876935",
+      "organization_id": "Q7676194",
+      "start_date": "2017-09-07",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q50293073",
+      "role": {
+        "lang:zh_CN": "臺南市市長",
+        "lang:en_US": "Mayor of Tainan"
+      }
+    }
+  ]
+}

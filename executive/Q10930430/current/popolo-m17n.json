@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "林右昌",
+        "lang:en_US": "Lin Yu-chang"
+      },
+      "id": "Q8349914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8349914"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "基隆市政府",
+        "lang:en_US": "Keelung City Government"
+      },
+      "id": "Q10930430",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10930430"
+        }
+      ],
+      "area_id": "Q249996"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8349914-e42d4695-49c7-d38d-30fb-c9c90f4be7c6",
+      "person_id": "Q8349914",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930430",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q6797738",
+      "role": {
+        "lang:zh_CN": "基隆市市長",
+        "lang:en_US": "Mayor of Keelung"
+      }
+    }
+  ]
+}

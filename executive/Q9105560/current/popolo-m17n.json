@@ -1,0 +1,61 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "柯文哲",
+        "lang:en_US": "Ko Wen-je"
+      },
+      "id": "Q18113714",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18113714"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DoctorKoWJ"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "臺北市政府",
+        "lang:en_US": "Taipei City Government"
+      },
+      "id": "Q9105560",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9105560"
+        }
+      ],
+      "area_id": "Q1867"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18113714-7adf6e4a-4b5b-8c4e-1daf-2fa89f9a1c39",
+      "person_id": "Q18113714",
+      "organization_id": "Q9105560",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh_CN": "市长",
+        "lang:en_US": "mayor"
+      },
+      "role_code": "Q6310674",
+      "role": {
+        "lang:zh_CN": "臺北市市長",
+        "lang:en_US": "Mayor of Taipei"
+      }
+    }
+  ]
+}

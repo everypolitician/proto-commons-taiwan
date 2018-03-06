@@ -880,12 +880,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -947,6 +947,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -4915,12 +4920,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -4986,7 +4991,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Highland Aborigine district"
+        "value" : "Highland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -5445,12 +5450,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -5512,6 +5517,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -6192,12 +6202,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -6263,7 +6273,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Highland Aborigine district"
+        "value" : "Highland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -6301,12 +6311,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "山地原住民選舉區"
+        "value" : "山地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -6372,7 +6382,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Highland Aborigine district"
+        "value" : "Highland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -6410,12 +6420,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "平地原住民選舉區"
+        "value" : "平地原住民立法委員選區"
       },
       "role" : {
         "type" : "uri",
@@ -6477,6 +6487,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",

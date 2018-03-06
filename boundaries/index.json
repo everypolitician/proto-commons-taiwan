@@ -66,5 +66,18 @@
       "lang:en_US": "COUNTYENG",
       "lang:zh_TW": "COUNTYNAME"
     }
+  },
+  {
+    "directory": "national-constituencies",
+    "area_type_wikidata_item_id": "Q19409201",
+    "associations": [
+      {
+        "comment": "Member of the Legislative Yuan",
+        "position_item_id": "Q6310593"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "name_zh"
+    }
   }
 ]

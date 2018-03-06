@@ -31,7 +31,6 @@ COUNTYNAME,COUNTYID,COUNTYCODE,WIKIDATA,MS_FB_PARE,MS_FB,name_zh
 桃園市,H,68000,Q11112202,country:tw/special-municipality:tao,country:tw/special-municipality:tao/constituency:桃園市第五選舉區,桃園市第五選舉區
 桃園市,H,68000,Q11112195,country:tw/special-municipality:tao,country:tw/special-municipality:tao/constituency:桃園市第一選舉區,桃園市第一選舉區
 桃園市,H,68000,Q11112196,country:tw/special-municipality:tao,country:tw/special-municipality:tao/constituency:桃園市第三選舉區,桃園市第三選舉區
-新竹縣,J,10004,Q11084066,country:tw/county:hsq,country:tw/county:hsq/constituency:新竹縣選舉區,新竹縣選舉區
 雲林縣,P,10009,Q19432866,country:tw/county:yun,country:tw/county:yun/constituency:雲林縣第一選舉區,雲林縣第一選舉區
 雲林縣,P,10009,Q17035924,country:tw/county:yun,country:tw/county:yun/constituency:雲林縣第二選舉區,雲林縣第二選舉區
 屏東縣,T,10013,Q17024900,country:tw/county:pif,country:tw/county:pif/constituency:屏東縣第三選舉區,屏東縣第三選舉區
@@ -39,7 +38,6 @@ COUNTYNAME,COUNTYID,COUNTYCODE,WIKIDATA,MS_FB_PARE,MS_FB,name_zh
 屏東縣,T,10013,Q17024901,country:tw/county:pif,country:tw/county:pif/constituency:屏東縣第二選舉區,屏東縣第二選舉區
 臺東縣,V,10014,Q17028006,country:tw/county:ttt,country:tw/county:ttt/constituency:臺東縣選舉區,臺東縣選舉區
 新竹市,O,10018,Q11084018,country:tw/city:hsz,country:tw/city:hsz/constituency:新竹市選舉區,新竹市選舉區
-高雄市,E,64000,Q16929478,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第五選舉區,高雄市第五選舉區
 高雄市,E,64000,Q16929475,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第三選舉區,高雄市第三選舉區
 高雄市,E,64000,Q16929474,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第七選舉區,高雄市第七選舉區
 高雄市,E,64000,Q16929476,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第九選舉區,高雄市第九選舉區
@@ -80,5 +78,8 @@ COUNTYNAME,COUNTYID,COUNTYCODE,WIKIDATA,MS_FB_PARE,MS_FB,name_zh
 新竹市,O,10018,missing,country:tw/city:hsz,country:tw/city:hsz/constituency:missing,missing
 高雄市,E,64000,missing,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:missing,missing
 澎湖縣,X,10016,missing,country:tw/county:pen,country:tw/county:pen/constituency:missing,missing
-新竹縣,J,10004,missing,country:tw/county:hsq,country:tw/county:hsq/constituency:missing,missing
 雲林縣,P,10009,missing,country:tw/county:yun,country:tw/county:yun/constituency:missing,missing
+高雄市,E,64000,Q16929480,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第六選舉區,高雄市第六選舉區
+高雄市,E,64000,Q16929479,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第八選舉區,高雄市第八選舉區
+高雄市,E,64000,Q16929478,country:tw/special-municipality:khh,country:tw/special-municipality:khh/constituency:高雄市第五選舉區,高雄市第五選舉區
+新竹縣,J,10004,Q11084066,country:tw/county:hsq,country:tw/county:hsq/constituency:新竹縣選舉區,新竹縣選舉區

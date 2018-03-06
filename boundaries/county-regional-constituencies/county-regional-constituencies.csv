@@ -54,9 +54,6 @@ CONSTIT_ID,MS_FB_PARE,MS_FB,WIKIDATA,COUNTYID,COUNTYCODE,COUNTYNAME
 新北市第08選區,country:tw/special-municipality:nwt,country:tw/special-municipality:nwt/county-constituency:8,Q49939988,F,65000,新北市
 新北市第09選區,country:tw/special-municipality:nwt,country:tw/special-municipality:nwt/county-constituency:9,Q49940091,F,65000,新北市
 新北市第10選區,country:tw/special-municipality:nwt,country:tw/special-municipality:nwt/county-constituency:10,Q49940196,F,65000,新北市
-新竹市第01選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:1,Q49940493,O,10018,新竹市
-新竹市第03選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:3,Q49940656,O,10018,新竹市
-新竹市第05選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:5,Q49940825,O,10018,新竹市
 新竹縣第01選區,country:tw/county:hsq,country:tw/county:hsq/county-constituency:1,Q49940994,J,10004,新竹縣
 新竹縣第02選區,country:tw/county:hsq,country:tw/county:hsq/county-constituency:2,Q49941083,J,10004,新竹縣
 新竹縣第03選區,country:tw/county:hsq,country:tw/county:hsq/county-constituency:3,Q49941171,J,10004,新竹縣
@@ -161,3 +158,8 @@ CONSTIT_ID,MS_FB_PARE,MS_FB,WIKIDATA,COUNTYID,COUNTYCODE,COUNTYNAME
 高雄市第09選區,country:tw/special-municipality:khh,country:tw/special-municipality:khh/county-constituency:9,Q49986698,E,64000,高雄市
 高雄市第10選區,country:tw/special-municipality:khh,country:tw/special-municipality:khh/county-constituency:10,Q49986765,E,64000,高雄市
 高雄市第11選區,country:tw/special-municipality:khh,country:tw/special-municipality:khh/county-constituency:11,Q49986831,E,64000,高雄市
+新竹市第03選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:3,Q49940656,O,10018,新竹市
+新竹市第04選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:4,Q49940747,O,10018,新竹市
+新竹市第02選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:2,Q49940571,O,10018,新竹市
+新竹市第01選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:1,Q49940493,O,10018,新竹市
+新竹市第05選區,country:tw/city:hsz,country:tw/city:hsz/county-constituency:5,Q49940825,O,10018,新竹市

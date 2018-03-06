@@ -31,6 +31,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112202"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 5th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -101,11 +106,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 5th district"
       }
     }, {
       "party" : {
@@ -129,6 +129,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928978"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 12th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -201,11 +206,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 12th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -242,6 +242,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -346,6 +351,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -456,6 +466,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926780"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 3rd district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -527,11 +542,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 3rd district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -564,6 +574,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -663,6 +678,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -768,6 +788,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928962"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 1st district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -839,11 +864,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 1st district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -876,6 +896,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21041600"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -985,6 +1010,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1397,6 +1427,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112198"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 2nd district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -1467,11 +1502,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 2nd district"
       }
     }, {
       "party" : {
@@ -1704,6 +1734,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928971"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 5th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -1774,11 +1809,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 5th district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -2114,6 +2144,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928980"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 10th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -2185,11 +2220,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 10th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2222,6 +2252,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15930080"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 4th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2293,11 +2328,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 4th district"
       }
     }, {
       "party" : {
@@ -2321,6 +2351,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2426,6 +2461,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -2529,6 +2569,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2634,6 +2679,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112204"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 6th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -2705,11 +2755,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 6th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2742,6 +2787,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2847,6 +2897,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -2945,6 +3000,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -3050,6 +3110,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3154,6 +3219,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3252,6 +3322,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -3357,6 +3432,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19432865"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3427,11 +3507,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen County district"
       }
     }, {
       "party" : {
@@ -3460,6 +3535,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -3565,6 +3645,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3669,6 +3754,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3767,6 +3857,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -3872,6 +3967,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -3976,6 +4076,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -4079,6 +4184,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -4392,6 +4502,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -4600,6 +4715,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11084018"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hsinchu district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -4671,11 +4791,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4708,6 +4823,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -4917,6 +5037,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21055063"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Highland Aborigine district of national legislators electoral area"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -5026,6 +5151,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17029209"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hualien County district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -5097,11 +5227,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hualien County district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5134,6 +5259,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -5238,6 +5368,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -5447,6 +5582,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21041600"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -5556,6 +5696,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -5660,6 +5805,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112196"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 3rd district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -5731,11 +5881,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 3rd district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5768,6 +5913,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19432864"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lienchiang County district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -5840,11 +5990,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lienchiang County district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5881,6 +6026,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -5981,6 +6131,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15920178"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miaoli County 1st district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -6052,11 +6207,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miaoli County 1st district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6089,6 +6239,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926792"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 6th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -6161,11 +6316,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 6th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6198,6 +6348,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21055063"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Highland Aborigine district of national legislators electoral area"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -6308,6 +6463,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21055063"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Highland Aborigine district of national legislators electoral area"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -6416,6 +6576,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21041600"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -6625,6 +6790,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -6729,6 +6899,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928967"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 9th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -6799,11 +6974,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 9th district"
       }
     }, {
       "party" : {
@@ -6832,6 +7002,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928977"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 11th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -6903,11 +7078,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 11th district"
       }
     }, {
       "party" : {
@@ -6936,6 +7106,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926788"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 8th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7008,11 +7183,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 8th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7045,6 +7215,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7462,6 +7637,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -7769,6 +7949,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10924121"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chiayi district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -7840,11 +8025,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7877,6 +8057,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17023592"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7948,11 +8133,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Keelung district"
       }
     }, {
       "party" : {
@@ -7981,6 +8161,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929477"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kaohsiung 2nd district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8053,11 +8238,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung 2nd district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8090,6 +8270,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929473"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kaohsiung 1st district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8161,11 +8346,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung 1st district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -8304,6 +8484,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10949153"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yilan County district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -8375,11 +8560,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yilan County district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8412,6 +8592,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8517,6 +8702,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928966"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 3rd district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -8587,11 +8777,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 3rd district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -8833,6 +9018,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9146,6 +9336,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112209"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 4th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -9216,11 +9411,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 4th district"
       }
     }, {
       "party" : {
@@ -9249,6 +9439,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928964"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 7th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9320,11 +9515,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 7th district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -9463,6 +9653,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17028006"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taitung County district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -9533,11 +9728,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taitung County district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -9883,6 +10073,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10290,6 +10485,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14943831"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 1st district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -10361,11 +10561,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 1st district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10398,6 +10593,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928982"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 4th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10469,11 +10669,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 4th district"
       }
     }, {
       "party" : {
@@ -10502,6 +10697,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10607,6 +10807,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926782"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 2nd district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -10678,11 +10883,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 2nd district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10715,6 +10915,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17033813"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Penghu County district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10786,11 +10991,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Penghu County district"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -10929,6 +11129,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928975"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 6th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -11000,11 +11205,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 6th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11037,6 +11237,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025378"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 8th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11108,11 +11313,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 8th district"
       }
     }, {
       "party" : {
@@ -11246,6 +11446,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -11355,6 +11560,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11084066"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hsinchu County district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -11425,11 +11635,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu County district"
       }
     }, {
       "party" : {
@@ -11563,6 +11768,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -11667,6 +11877,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11112195"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan 1st district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -11738,11 +11953,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan 1st district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11775,6 +11985,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025376"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei 2nd district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11847,11 +12062,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei 2nd district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11879,6 +12089,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11984,6 +12199,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48554359"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proportional Representation in national legislative election"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -12083,6 +12303,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926786"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 5th district"
+      },
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
@@ -12154,11 +12379,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 5th district"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12195,6 +12415,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926776"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei 7th district"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -12266,11 +12491,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei 7th district"
       },
       "name_en" : {
         "xml:lang" : "en",

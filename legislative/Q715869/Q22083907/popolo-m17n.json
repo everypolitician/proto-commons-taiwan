@@ -652,22 +652,6 @@
     },
     {
       "name": {
-        "lang:zh_CN": "趙天麟",
-        "lang:en_US": "Zhao Tianlin"
-      },
-      "id": "Q45604278",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q45604278"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh_CN": "陳其邁",
         "lang:en_US": "Chen Chi-mai"
       },
@@ -1201,6 +1185,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8347638"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "趙天麟"
+      },
+      "id": "Q8347665",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8347665"
         }
       ],
       "links": [
@@ -1915,20 +1914,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q31113"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:zh_CN": "無黨籍政治人物",
-        "lang:en_US": "independent politician"
-      },
-      "id": "Q327591",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q327591"
         }
       ]
     },
@@ -4620,7 +4605,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22100240-7C2D9EE6-337A-4704-B122-6A6E072236F3",
       "person_id": "Q22100240",
-      "on_behalf_of_id": "Q327591",
       "organization_id": "Q715869",
       "area_id": "Q11112204",
       "start_date": "2016-02-01",
@@ -4818,19 +4802,6 @@
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16929478",
-      "start_date": "2016-02-01",
-      "role_code": "Q6310593",
-      "role": {
-        "lang:zh_CN": "立法委員",
-        "lang:en_US": "Member of the Legislative Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q45604278-E04F1738-4AEA-44D6-9AD6-216797719F2B",
-      "person_id": "Q45604278",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q715869",
-      "area_id": "Q16929474",
       "start_date": "2016-02-01",
       "role_code": "Q6310593",
       "role": {
@@ -5274,6 +5245,32 @@
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17023592",
+      "start_date": "2016-02-01",
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh_CN": "立法委員",
+        "lang:en_US": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347665-850CDF8E-B9B1-4A22-96D2-F44CEC0705BA",
+      "person_id": "Q8347665",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929474",
+      "start_date": "2016-02-01",
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh_CN": "立法委員",
+        "lang:en_US": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347665-C790210F-0825-4F24-AC94-B1E607E280FC",
+      "person_id": "Q8347665",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929474",
       "start_date": "2016-02-01",
       "role_code": "Q6310593",
       "role": {

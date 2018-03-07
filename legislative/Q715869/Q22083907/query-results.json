@@ -18,11 +18,6 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10919979-7F350C6C-C0F9-4EA3-8471-D7A2D51A5CCF"
@@ -106,6 +101,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -230,11 +230,6 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15901623-68933222-73A3-480F-91AA-99178DFD06DE"
@@ -319,6 +314,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -336,11 +336,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -428,6 +423,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -450,11 +450,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -542,6 +537,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -559,11 +559,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "親民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -650,6 +645,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
       }
     }, {
       "party" : {
@@ -663,11 +663,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -755,6 +750,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -772,11 +772,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -864,6 +859,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -881,11 +881,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -973,6 +968,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -990,11 +990,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1081,6 +1076,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1094,11 +1094,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1181,6 +1176,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1198,11 +1198,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1285,6 +1280,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1302,11 +1302,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1389,6 +1384,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1406,11 +1406,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1497,6 +1492,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1510,11 +1510,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1596,6 +1591,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -1609,11 +1609,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1696,6 +1691,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1713,11 +1713,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1805,6 +1800,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1822,11 +1822,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1908,6 +1903,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1921,11 +1921,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -2007,6 +2002,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -2126,11 +2126,6 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849414-D90CEAA8-BE08-489F-9F4A-492151C84692"
@@ -2215,6 +2210,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2232,11 +2232,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -2323,6 +2318,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -2443,11 +2443,6 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22093639-D051871E-0124-4757-95CD-D1B7C80E54D3"
@@ -2532,6 +2527,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2549,11 +2549,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -2641,31 +2636,17 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kolas Yotaka"
       }
     }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "無黨籍政治人物"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "無黨籍政治人物"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22100240-7C2D9EE6-337A-4704-B122-6A6E072236F3"
@@ -2770,11 +2751,6 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22773998-2f0bd372-4bf7-ce9c-417f-e20c192a9b02"
@@ -2859,6 +2835,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2876,11 +2857,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -2967,6 +2943,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -2980,11 +2961,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3072,6 +3048,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3089,11 +3070,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3181,6 +3157,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3198,11 +3179,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3289,6 +3265,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -3302,11 +3283,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3394,6 +3370,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3411,11 +3392,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3502,6 +3478,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -3515,11 +3496,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3607,6 +3583,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3624,11 +3605,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3716,6 +3692,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3733,11 +3714,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3824,6 +3800,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-26T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -3837,11 +3818,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3929,6 +3905,11 @@
         "type" : "literal",
         "value" : "2016-10-04T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3946,11 +3927,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -4038,6 +4014,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4055,11 +4036,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -4147,6 +4123,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4164,11 +4145,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "親民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -4256,6 +4232,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4273,11 +4254,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4360,6 +4336,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4377,115 +4358,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q45604278-E04F1738-4AEA-44D6-9AD6-216797719F2B"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16929474"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "高雄市第七選舉區"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市第七選舉區"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6310593"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "立法委員"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "立法委員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45604278"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "趙天麟"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "趙天麟"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715869"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "立法院"
-      },
-      "org_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "立法院"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-02-01T00:00:00Z"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zhao Tianlin"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q903822"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4573,6 +4445,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4590,11 +4467,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4677,6 +4549,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4694,11 +4571,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4786,6 +4658,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4803,11 +4680,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4895,6 +4767,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4917,11 +4794,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5003,6 +4875,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -5128,11 +5005,6 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q700752-F29117F1-02FE-4CAB-BB0B-8115F97DA317"
@@ -5217,6 +5089,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5234,11 +5111,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5326,6 +5198,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5343,11 +5220,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5435,6 +5307,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5452,11 +5329,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5539,6 +5411,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5556,11 +5433,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5648,6 +5520,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5665,11 +5542,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5757,6 +5629,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5774,11 +5651,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5866,6 +5738,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5883,11 +5760,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5975,6 +5847,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5996,11 +5873,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6087,6 +5959,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6100,11 +5977,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6192,6 +6064,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6209,11 +6086,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6301,6 +6173,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6318,11 +6195,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6410,6 +6282,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6427,11 +6304,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6519,6 +6391,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6536,11 +6413,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6628,6 +6500,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6645,11 +6522,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6731,6 +6603,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6744,11 +6621,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "親民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -6836,6 +6708,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6853,11 +6730,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6944,6 +6816,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6957,11 +6834,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7048,6 +6920,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -7061,11 +6938,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7153,6 +7025,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7170,11 +7047,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7262,6 +7134,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7279,11 +7156,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7366,6 +7238,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7383,11 +7260,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7470,6 +7342,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7487,11 +7364,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7574,6 +7446,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7591,11 +7468,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7682,6 +7554,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -7695,11 +7572,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7782,6 +7654,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7799,11 +7676,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -7886,6 +7758,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7903,11 +7780,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -7995,6 +7867,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8012,11 +7889,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8103,6 +7975,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -8119,8 +7996,201 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8347665-850CDF8E-B9B1-4A22-96D2-F44CEC0705BA"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16929474"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "高雄市第七選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6310593"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8347665"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "趙天麟"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "趙天麟"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715869"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-02-01T00:00:00Z"
+      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8347665-C790210F-0825-4F24-AC94-B1E607E280FC"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16929474"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高雄市第七選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "高雄市第七選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6310593"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Yuan"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法委員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8347665"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "趙天麟"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "趙天麟"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715869"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Yuan"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "立法院"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "立法院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8208,6 +8278,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8225,11 +8300,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8317,6 +8387,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8334,11 +8409,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8421,6 +8491,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8438,11 +8513,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8530,6 +8600,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8547,11 +8622,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8639,6 +8709,11 @@
         "type" : "literal",
         "value" : "2016-09-02T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8656,11 +8731,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8748,6 +8818,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8765,11 +8840,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8852,6 +8922,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8869,11 +8944,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8956,6 +9026,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8973,11 +9048,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9065,6 +9135,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -9082,11 +9157,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9169,6 +9239,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9186,11 +9261,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9273,6 +9343,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9290,11 +9365,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9381,6 +9451,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -9394,11 +9469,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9486,6 +9556,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9503,11 +9578,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9590,6 +9660,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9607,11 +9682,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9699,6 +9769,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9716,11 +9791,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9803,6 +9873,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9820,11 +9895,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9907,6 +9977,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9924,11 +9999,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10011,6 +10081,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10028,11 +10103,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10120,6 +10190,11 @@
         "type" : "literal",
         "value" : "2016-05-26T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10137,11 +10212,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10223,6 +10293,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10236,11 +10311,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10323,6 +10393,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10340,11 +10415,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10426,6 +10496,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10439,11 +10514,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10531,6 +10601,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10548,11 +10623,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10639,6 +10709,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10652,11 +10727,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10744,6 +10814,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10761,11 +10836,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10853,6 +10923,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10870,11 +10945,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10962,6 +11032,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10979,11 +11054,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11066,6 +11136,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11083,11 +11158,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11175,6 +11245,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11192,11 +11267,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11283,6 +11353,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -11296,11 +11371,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11383,6 +11453,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11400,11 +11475,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11492,6 +11562,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11514,11 +11589,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -11605,6 +11675,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -11618,11 +11693,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11705,6 +11775,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11722,11 +11797,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11814,6 +11884,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11831,11 +11906,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11923,6 +11993,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11940,11 +12015,6 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -12031,6 +12101,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -12156,11 +12231,6 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9130647-a011551b-482d-5bab-ffb2-aa29054aa312"
@@ -12244,6 +12314,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -12373,11 +12448,6 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9346217-AA3C1DBB-14AB-4930-94B4-309A663F3748"
@@ -12461,6 +12531,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
       },
       "name_en" : {
         "xml:lang" : "en",

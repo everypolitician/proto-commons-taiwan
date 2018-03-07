@@ -559,6 +559,31 @@
   ],
   "areas": [
     {
+      "id": "Q249994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:hsz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "市",
+        "lang:en_US": "provincial city"
+      },
+      "name": {
+        "lang:en_US": "Hsinchu City",
+        "lang:zh_TW": "新竹市"
+      },
+      "parent_id": "Q865"
+    },
+    {
       "id": "Q49940493",
       "identifiers": [
         {
@@ -580,7 +605,7 @@
       "name": {
         "lang:zh_TW": "新竹市第01選區"
       },
-      "parent_id": null
+      "parent_id": "Q249994"
     },
     {
       "id": "Q49940571",
@@ -604,7 +629,7 @@
       "name": {
         "lang:zh_TW": "新竹市第02選區"
       },
-      "parent_id": null
+      "parent_id": "Q249994"
     },
     {
       "id": "Q49940656",
@@ -628,7 +653,7 @@
       "name": {
         "lang:zh_TW": "新竹市第03選區"
       },
-      "parent_id": null
+      "parent_id": "Q249994"
     },
     {
       "id": "Q49940747",
@@ -652,7 +677,7 @@
       "name": {
         "lang:zh_TW": "新竹市第04選區"
       },
-      "parent_id": null
+      "parent_id": "Q249994"
     },
     {
       "id": "Q49940825",
@@ -675,6 +700,31 @@
       },
       "name": {
         "lang:zh_TW": "新竹市第05選區"
+      },
+      "parent_id": "Q249994"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
       },
       "parent_id": null
     }

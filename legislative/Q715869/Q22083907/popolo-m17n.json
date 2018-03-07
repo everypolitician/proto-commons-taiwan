@@ -2080,7 +2080,7 @@
       "name": {
         "lang:zh_TW": "新竹市選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249994"
     },
     {
       "id": "Q11084066",
@@ -4111,6 +4111,31 @@
       "name": {
         "lang:en_US": "Taitung County",
         "lang:zh_TW": "臺東縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:hsz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "市",
+        "lang:en_US": "provincial city"
+      },
+      "name": {
+        "lang:en_US": "Hsinchu City",
+        "lang:zh_TW": "新竹市"
       },
       "parent_id": "Q865"
     },

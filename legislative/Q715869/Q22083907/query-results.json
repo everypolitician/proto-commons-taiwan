@@ -973,11 +973,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lowland Aborigine district of national legislators electoral area"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5113,15 +5108,10 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Highland Aborigine district of national legislators electoral area"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "May Chin"
+        "value" : "Kao Chin Su-mei"
       }
     }, {
       "party" : {
@@ -5657,11 +5647,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -6425,11 +6410,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Highland Aborigine district of national legislators electoral area"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6539,11 +6519,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Highland Aborigine district of national legislators electoral area"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6652,11 +6627,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lowland Aborigine district of national legislators electoral area"
       },
       "name_en" : {
         "xml:lang" : "en",

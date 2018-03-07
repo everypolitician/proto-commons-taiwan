@@ -1,0 +1,769 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_US": "Li Yingwen"
+      },
+      "id": "Q45517813",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45517813"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Yang Wanshan"
+      },
+      "id": "Q45623338",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45623338"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳玉珍"
+      },
+      "id": "Q48896684",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48896684"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "洪允典"
+      },
+      "id": "Q50088980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "石永城"
+      },
+      "id": "Q50089025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "唐麗輝"
+      },
+      "id": "Q50089076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許建中"
+      },
+      "id": "Q50089119",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089119"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許玉昭"
+      },
+      "id": "Q50089160",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089160"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "李誠智"
+      },
+      "id": "Q50089255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089255"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林孫全"
+      },
+      "id": "Q50089308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "王碧珍"
+      },
+      "id": "Q50089360",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089360"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許華玉"
+      },
+      "id": "Q50089399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "楊永立"
+      },
+      "id": "Q50089434",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089434"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "歐陽儀雄"
+      },
+      "id": "Q50089478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "周子傑"
+      },
+      "id": "Q50089581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089581"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "謝東龍"
+      },
+      "id": "Q50089625",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089625"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡水游"
+      },
+      "id": "Q50089671",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089671"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張雲德"
+      },
+      "id": "Q50089719",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089719"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡春生"
+      },
+      "id": "Q50089771",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089771"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "洪鴻斌"
+      },
+      "id": "Q50089917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089917"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "洪麗萍"
+      },
+      "id": "Q50089974",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50089974"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳滄江"
+      },
+      "id": "Q8348051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8348051"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "金門縣議會",
+        "lang:en_US": "Kinmen County Council"
+      },
+      "id": "Q15914537",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15914537"
+        }
+      ],
+      "area_id": "Q249870"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q249870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:kin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Kinmen County",
+        "lang:zh_TW": "金門縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q49985619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:kin/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257377"
+      ],
+      "type": {
+        "lang:zh_CN": "金門縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+      },
+      "name": {
+        "lang:zh_TW": "金門縣第01選區"
+      },
+      "parent_id": "Q249870"
+    },
+    {
+      "id": "Q49985680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:kin/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257377"
+      ],
+      "type": {
+        "lang:zh_CN": "金門縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+      },
+      "name": {
+        "lang:zh_TW": "金門縣第02選區"
+      },
+      "parent_id": "Q249870"
+    },
+    {
+      "id": "Q49985742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:kin/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257377"
+      ],
+      "type": {
+        "lang:zh_CN": "金門縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+      },
+      "name": {
+        "lang:zh_TW": "金門縣第03選區"
+      },
+      "parent_id": "Q249870"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45517813-8F5E5C94-C5E8-4067-B854-4A644DB13BA4",
+      "person_id": "Q45517813",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45623338-4EB9915D-648E-4D35-AFD2-7B5648BD361D",
+      "person_id": "Q45623338",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "end_date": "2016-01-15",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48896684-25D7AEC0-3560-4867-96C0-155DB700EAD0",
+      "person_id": "Q48896684",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088980-2CBAD3DE-A612-4DCB-9CF7-C50E61A81982",
+      "person_id": "Q50088980",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2016-07-22",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089025-F4AEE5ED-F1DC-4507-B2CB-675C30D49634",
+      "person_id": "Q50089025",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "end_date": "2016-07-22",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089076-C9C80048-1AA3-446D-9BE6-479C91D25D13",
+      "person_id": "Q50089076",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089119-13113F07-EBAC-40E1-AA3A-FB19A9570790",
+      "person_id": "Q50089119",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2015-09-01",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089160-420D3AFB-825F-405D-BFD1-316ADF56E2D3",
+      "person_id": "Q50089160",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089255-625D6947-D18D-4C79-9602-550B01C2FD50",
+      "person_id": "Q50089255",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089308-9DB7342F-58A9-44CF-AC42-AA648AB58149",
+      "person_id": "Q50089308",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "end_date": "2015-09-01",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089360-AB8C7C3D-12AF-41AA-97C1-10BA9FB59AEF",
+      "person_id": "Q50089360",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2016-01-15",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089399-A32A0ED4-0237-48C6-A596-C9024825C008",
+      "person_id": "Q50089399",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089434-6D4107F2-E8E5-4632-9462-F25490E6E7AB",
+      "person_id": "Q50089434",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089478-7DD7BC6A-49BD-460A-B479-F1120C53D447",
+      "person_id": "Q50089478",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089581-90E82E23-997B-4A0A-A849-E5AAD5887474",
+      "person_id": "Q50089581",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089625-B4DFE3B8-BC7A-432F-ACF6-979B231C5C59",
+      "person_id": "Q50089625",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089671-A27EE1E4-6F76-411B-B8AD-27B0B18673C9",
+      "person_id": "Q50089671",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089719-D96D36A0-95F5-4B96-9E53-3486E680E6C0",
+      "person_id": "Q50089719",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089771-E43469C9-6870-4E3A-8FD4-7F254F0BD685",
+      "person_id": "Q50089771",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985680",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089917-FC8FDE34-F658-4370-88AB-D37A9CDB7BA6",
+      "person_id": "Q50089917",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985742",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50089974-02BB125E-F9E8-4CF3-AFD2-5FCB8CA6330F",
+      "person_id": "Q50089974",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985742",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8348051-7872FA4B-2C47-4D40-B847-4F4794ABC8D1",
+      "person_id": "Q8348051",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15914537",
+      "area_id": "Q49985619",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257377",
+      "role": {
+        "lang:zh_CN": "金門縣議員"
+      }
+    }
+  ]
+}

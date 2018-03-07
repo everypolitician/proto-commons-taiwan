@@ -1,0 +1,1135 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "施世明"
+      },
+      "id": "Q18234376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18234376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "宋瑋莉"
+      },
+      "id": "Q21652185",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21652185"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "藍敏煌"
+      },
+      "id": "Q50062244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062244"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "詹春陽"
+      },
+      "id": "Q50062310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "呂美玲"
+      },
+      "id": "Q50062354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062354"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張漢土"
+      },
+      "id": "Q50062397",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062397"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳東財"
+      },
+      "id": "Q50062437",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062437"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "韓良圻"
+      },
+      "id": "Q50062516",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062516"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張芳麗"
+      },
+      "id": "Q50062561",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062561"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "莊榮欽"
+      },
+      "id": "Q50062604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "曾紀嚴"
+      },
+      "id": "Q50062651",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062651"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "楊石城"
+      },
+      "id": "Q50062800",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062800"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張錦煌"
+      },
+      "id": "Q50062839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062839"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "秦鉦"
+      },
+      "id": "Q50062878",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062878"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "洪森永"
+      },
+      "id": "Q50062918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062918"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "莊錦田"
+      },
+      "id": "Q50062951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50062951"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "鄭林清良"
+      },
+      "id": "Q50063003",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳志成"
+      },
+      "id": "Q50063045",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063045"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "俞叁發"
+      },
+      "id": "Q50063090",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063090"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "連恩典"
+      },
+      "id": "Q50063128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林明智"
+      },
+      "id": "Q50063163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳江山"
+      },
+      "id": "Q50063201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "楊秀玉"
+      },
+      "id": "Q50063242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蘇仁和"
+      },
+      "id": "Q50063278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡旺璉"
+      },
+      "id": "Q50063314",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063314"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張耿輝"
+      },
+      "id": "Q50063353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063353"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳明建"
+      },
+      "id": "Q50063384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50063384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "何淑萍"
+      },
+      "id": "Q50184385",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50184385"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "徐莉莉",
+        "lang:en_US": "Xu Lili"
+      },
+      "id": "Q8248927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8248927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡適應"
+      },
+      "id": "Q8347638",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8347638"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "游祥耀"
+      },
+      "id": "Q8350712",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350712"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "基隆市議會",
+        "lang:en_US": "Keelung City Council"
+      },
+      "id": "Q10930444",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10930444"
+        }
+      ],
+      "area_id": "Q249996"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "親民黨",
+        "lang:en_US": "People First Party"
+      },
+      "id": "Q1442482",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1442482"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民國黨",
+        "lang:en_US": "Minkuotang"
+      },
+      "id": "Q19684454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19684454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q249996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "市",
+        "lang:en_US": "provincial city"
+      },
+      "name": {
+        "lang:en_US": "Keelung City",
+        "lang:zh_TW": "基隆市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q49935001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第01選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第02選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第03選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第04選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第05選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第06選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q49935519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第07選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18234376-4040A514-E271-4CAC-962D-F8E7CDD380F2",
+      "person_id": "Q18234376",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935268",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21652185-FA9B12E7-BD4A-4A17-BD1D-B2C92468813F",
+      "person_id": "Q21652185",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935268",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062244-47DA8ABF-7F73-40C1-B5CA-7AC774479F70",
+      "person_id": "Q50062244",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935001",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062310-F1A27757-2D52-4AD5-902E-A16A4819D2BD",
+      "person_id": "Q50062310",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935001",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062354-93F9B5C8-D3BE-4120-9C79-03B05E684BAA",
+      "person_id": "Q50062354",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935001",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062397-8CBABB0C-A283-4D47-9170-1072B460D97D",
+      "person_id": "Q50062397",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935099",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062437-5EF3B566-B9FA-4D84-B4AA-6EC2395C4ECC",
+      "person_id": "Q50062437",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935099",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062516-83F2EA69-C6D2-44BB-9DA6-8173A0A78495",
+      "person_id": "Q50062516",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935099",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062561-A10CDF26-9F2C-4680-88F4-932076F2256E",
+      "person_id": "Q50062561",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935186",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062604-FAC56797-251F-49AF-B820-C96F3558A20C",
+      "person_id": "Q50062604",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935186",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062651-47FDBC81-EF39-4DDE-96A2-64D96DE8B9FC",
+      "person_id": "Q50062651",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935186",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062800-B31A167B-25D8-4E17-B477-AD0A1D880D2B",
+      "person_id": "Q50062800",
+      "on_behalf_of_id": "Q19684454",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935268",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062839-D778AD61-841C-4720-891D-6D1419C415F4",
+      "person_id": "Q50062839",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935268",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062878-012BB8F2-19BA-410B-A519-2B9C06CE05F1",
+      "person_id": "Q50062878",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062918-F407FB50-56EE-478A-A5CA-0A2C1024E235",
+      "person_id": "Q50062918",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50062951-4F567AB8-D7BB-4E68-A1AB-CDF4E337DE05",
+      "person_id": "Q50062951",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063003-B9C2B792-4D64-4D8B-A83D-B192030FE44A",
+      "person_id": "Q50063003",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063045-C699E928-C244-473D-B9AF-25758426BB82",
+      "person_id": "Q50063045",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063090-A56ED61C-1F7C-4709-8C84-2F8C1D532CFD",
+      "person_id": "Q50063090",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063128-2920D0CE-FD1B-4D24-B92E-8A0BB11F6327",
+      "person_id": "Q50063128",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935428",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063163-F1BB3AFC-27ED-40C1-9FCB-7A5F5EDB868F",
+      "person_id": "Q50063163",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935428",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063201-81720736-7C2C-4D32-8159-FC4F0B9FE30B",
+      "person_id": "Q50063201",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935428",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063242-F806F465-473B-438F-B61B-E72268AD6EA1",
+      "person_id": "Q50063242",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935519",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063278-7D1FFC66-C706-47D6-9DE3-179516886AAB",
+      "person_id": "Q50063278",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935519",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063314-D4BADEF4-B6F2-4D2A-AD2C-C586C0BA8636",
+      "person_id": "Q50063314",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935519",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063353-FB82878A-6B1C-494A-B62B-86607CD933EC",
+      "person_id": "Q50063353",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935519",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50063384-9A1F7997-BE13-45E6-B76E-71385E62544F",
+      "person_id": "Q50063384",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935600",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50184385-8293474F-EF36-4BDC-92DD-F5B20826C112",
+      "person_id": "Q50184385",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935099",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8248927-0ECAF1CD-9403-4CDC-A7B0-919BC9FAFE3D",
+      "person_id": "Q8248927",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935001",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347638-350FC7CB-DD47-419A-B457-6C8440647356",
+      "person_id": "Q8347638",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935344",
+      "start_date": "2014-12-25",
+      "end_date": "2016-01-31",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350712-78542F68-EACE-4B40-AC91-16AC0EE3649A",
+      "person_id": "Q8350712",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10930444",
+      "area_id": "Q49935186",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254733",
+      "role": {
+        "lang:zh_CN": "基隆市議員"
+      }
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
-  },
-  "results" : {
-    "bindings" : [ ]
-  }
-}

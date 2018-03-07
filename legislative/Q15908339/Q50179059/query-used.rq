@@ -49,7 +49,7 @@ OPTIONAL {
           ?role rdfs:label ?role_en
           FILTER(LANG(?role_en) = "en")
         }
-  ?statement pq:P2937 wd:Q48927639 .
+  ?statement pq:P2937 wd:Q50179059 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {

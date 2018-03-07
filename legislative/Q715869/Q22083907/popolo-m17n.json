@@ -749,7 +749,7 @@
     {
       "name": {
         "lang:zh_CN": "高金素梅",
-        "lang:en_US": "May Chin"
+        "lang:en_US": "Kao Chin Su-mei"
       },
       "id": "Q697862",
       "identifiers": [
@@ -1984,7 +1984,7 @@
       "name": {
         "lang:zh_TW": "南投縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q82357"
     },
     {
       "id": "Q10924121",
@@ -2008,7 +2008,7 @@
       "name": {
         "lang:zh_TW": "嘉義市選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249995"
     },
     {
       "id": "Q10949153",
@@ -2032,7 +2032,7 @@
       "name": {
         "lang:zh_TW": "宜蘭縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q237258"
     },
     {
       "id": "Q11042758",
@@ -2056,7 +2056,7 @@
       "name": {
         "lang:zh_TW": "屏東縣第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q194989"
     },
     {
       "id": "Q11084018",
@@ -2104,7 +2104,7 @@
       "name": {
         "lang:zh_TW": "新竹縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q74054"
     },
     {
       "id": "Q11112195",
@@ -2128,7 +2128,7 @@
       "name": {
         "lang:zh_TW": "桃園市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
     },
     {
       "id": "Q11112196",
@@ -2152,7 +2152,7 @@
       "name": {
         "lang:zh_TW": "桃園市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
     },
     {
       "id": "Q11112198",
@@ -2176,7 +2176,7 @@
       "name": {
         "lang:zh_TW": "桃園市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
     },
     {
       "id": "Q11112202",
@@ -2200,7 +2200,7 @@
       "name": {
         "lang:zh_TW": "桃園市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
     },
     {
       "id": "Q11112204",
@@ -2224,7 +2224,7 @@
       "name": {
         "lang:zh_TW": "桃園市第六選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
     },
     {
       "id": "Q11112209",
@@ -2248,7 +2248,82 @@
       "name": {
         "lang:zh_TW": "桃園市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q115256"
+    },
+    {
+      "id": "Q115256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tao"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q115256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "Taoyuan City",
+        "lang:zh_TW": "桃園市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q133865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:cha"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Changhua County",
+        "lang:zh_TW": "彰化縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q140631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tnn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q140631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "Tainan City",
+        "lang:zh_TW": "臺南市"
+      },
+      "parent_id": "Q865"
     },
     {
       "id": "Q14943831",
@@ -2272,7 +2347,32 @@
       "name": {
         "lang:zh_TW": "臺北市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
+    },
+    {
+      "id": "Q153221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:yun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q153221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Yunlin County",
+        "lang:zh_TW": "雲林縣"
+      },
+      "parent_id": "Q865"
     },
     {
       "id": "Q15886139",
@@ -2296,7 +2396,7 @@
       "name": {
         "lang:zh_TW": "臺中市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q15886536",
@@ -2320,7 +2420,7 @@
       "name": {
         "lang:zh_TW": "臺中市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q15886544",
@@ -2344,7 +2444,7 @@
       "name": {
         "lang:zh_TW": "臺中市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q15886553",
@@ -2368,7 +2468,7 @@
       "name": {
         "lang:zh_TW": "臺中市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q15920178",
@@ -2392,7 +2492,7 @@
       "name": {
         "lang:zh_TW": "苗栗縣第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q63706"
     },
     {
       "id": "Q15921474",
@@ -2416,7 +2516,7 @@
       "name": {
         "lang:zh_TW": "苗栗縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q63706"
     },
     {
       "id": "Q15930080",
@@ -2440,7 +2540,7 @@
       "name": {
         "lang:zh_TW": "臺北市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q15944591",
@@ -2464,7 +2564,32 @@
       "name": {
         "lang:zh_TW": "臺南市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q140631"
+    },
+    {
+      "id": "Q166977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:cyq"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q166977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Chiayi County",
+        "lang:zh_TW": "嘉義縣"
+      },
+      "parent_id": "Q865"
     },
     {
       "id": "Q16926776",
@@ -2488,7 +2613,7 @@
       "name": {
         "lang:zh_TW": "臺北市第七選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16926780",
@@ -2512,7 +2637,7 @@
       "name": {
         "lang:zh_TW": "臺北市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16926782",
@@ -2536,7 +2661,7 @@
       "name": {
         "lang:zh_TW": "臺北市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16926786",
@@ -2560,7 +2685,7 @@
       "name": {
         "lang:zh_TW": "臺北市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16926788",
@@ -2584,7 +2709,7 @@
       "name": {
         "lang:zh_TW": "臺北市第八選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16926792",
@@ -2608,7 +2733,7 @@
       "name": {
         "lang:zh_TW": "臺北市第六選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q1867"
     },
     {
       "id": "Q16928859",
@@ -2632,7 +2757,7 @@
       "name": {
         "lang:zh_TW": "臺南市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q140631"
     },
     {
       "id": "Q16928962",
@@ -2656,7 +2781,7 @@
       "name": {
         "lang:zh_TW": "新北市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928964",
@@ -2680,7 +2805,7 @@
       "name": {
         "lang:zh_TW": "新北市第七選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928966",
@@ -2704,7 +2829,7 @@
       "name": {
         "lang:zh_TW": "新北市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928967",
@@ -2728,7 +2853,7 @@
       "name": {
         "lang:zh_TW": "新北市第九選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928971",
@@ -2752,7 +2877,7 @@
       "name": {
         "lang:zh_TW": "新北市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928975",
@@ -2776,7 +2901,7 @@
       "name": {
         "lang:zh_TW": "新北市第六選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928977",
@@ -2800,7 +2925,7 @@
       "name": {
         "lang:zh_TW": "新北市第十一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928978",
@@ -2824,7 +2949,7 @@
       "name": {
         "lang:zh_TW": "新北市第十二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928980",
@@ -2848,7 +2973,7 @@
       "name": {
         "lang:zh_TW": "新北市第十選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16928982",
@@ -2872,7 +2997,7 @@
       "name": {
         "lang:zh_TW": "新北市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q16929240",
@@ -2896,7 +3021,7 @@
       "name": {
         "lang:zh_TW": "臺中市第七選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q16929241",
@@ -2920,7 +3045,7 @@
       "name": {
         "lang:zh_TW": "臺中市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q16929242",
@@ -2944,7 +3069,7 @@
       "name": {
         "lang:zh_TW": "臺中市第八選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q16929243",
@@ -2968,7 +3093,7 @@
       "name": {
         "lang:zh_TW": "臺中市第六選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q245023"
     },
     {
       "id": "Q16929264",
@@ -2992,7 +3117,7 @@
       "name": {
         "lang:zh_TW": "臺南市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q140631"
     },
     {
       "id": "Q16929265",
@@ -3016,7 +3141,7 @@
       "name": {
         "lang:zh_TW": "臺南市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q140631"
     },
     {
       "id": "Q16929473",
@@ -3040,7 +3165,7 @@
       "name": {
         "lang:zh_TW": "高雄市第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929474",
@@ -3064,7 +3189,7 @@
       "name": {
         "lang:zh_TW": "高雄市第七選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929475",
@@ -3088,7 +3213,7 @@
       "name": {
         "lang:zh_TW": "高雄市第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929476",
@@ -3112,7 +3237,7 @@
       "name": {
         "lang:zh_TW": "高雄市第九選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929477",
@@ -3136,7 +3261,7 @@
       "name": {
         "lang:zh_TW": "高雄市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929478",
@@ -3160,7 +3285,7 @@
       "name": {
         "lang:zh_TW": "高雄市第五選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929479",
@@ -3184,7 +3309,7 @@
       "name": {
         "lang:zh_TW": "高雄市第八選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929480",
@@ -3208,7 +3333,7 @@
       "name": {
         "lang:zh_TW": "高雄市第六選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q16929481",
@@ -3232,7 +3357,7 @@
       "name": {
         "lang:zh_TW": "高雄市第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q181557"
     },
     {
       "id": "Q17022795",
@@ -3256,7 +3381,7 @@
       "name": {
         "lang:zh_TW": "臺南市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q140631"
     },
     {
       "id": "Q17023495",
@@ -3280,7 +3405,7 @@
       "name": {
         "lang:zh_TW": "嘉義縣第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q166977"
     },
     {
       "id": "Q17023496",
@@ -3304,7 +3429,7 @@
       "name": {
         "lang:zh_TW": "嘉義縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q166977"
     },
     {
       "id": "Q17023592",
@@ -3328,7 +3453,7 @@
       "name": {
         "lang:zh_TW": "基隆市選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249996"
     },
     {
       "id": "Q17024900",
@@ -3352,7 +3477,7 @@
       "name": {
         "lang:zh_TW": "屏東縣第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q194989"
     },
     {
       "id": "Q17024901",
@@ -3376,7 +3501,7 @@
       "name": {
         "lang:zh_TW": "屏東縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q194989"
     },
     {
       "id": "Q17025178",
@@ -3400,7 +3525,7 @@
       "name": {
         "lang:zh_TW": "彰化縣第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q133865"
     },
     {
       "id": "Q17025179",
@@ -3424,7 +3549,7 @@
       "name": {
         "lang:zh_TW": "彰化縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q133865"
     },
     {
       "id": "Q17025180",
@@ -3448,7 +3573,7 @@
       "name": {
         "lang:zh_TW": "彰化縣第三選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q133865"
     },
     {
       "id": "Q17025181",
@@ -3472,7 +3597,7 @@
       "name": {
         "lang:zh_TW": "彰化縣第四選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q133865"
     },
     {
       "id": "Q17025376",
@@ -3496,7 +3621,7 @@
       "name": {
         "lang:zh_TW": "新北市第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q17025378",
@@ -3520,7 +3645,7 @@
       "name": {
         "lang:zh_TW": "新北市第八選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q244898"
     },
     {
       "id": "Q17028006",
@@ -3544,7 +3669,7 @@
       "name": {
         "lang:zh_TW": "臺東縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249904"
     },
     {
       "id": "Q17029209",
@@ -3568,7 +3693,7 @@
       "name": {
         "lang:zh_TW": "花蓮縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249868"
     },
     {
       "id": "Q17033813",
@@ -3592,7 +3717,7 @@
       "name": {
         "lang:zh_TW": "澎湖縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q198525"
     },
     {
       "id": "Q17035924",
@@ -3616,7 +3741,57 @@
       "name": {
         "lang:zh_TW": "雲林縣第二選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q153221"
+    },
+    {
+      "id": "Q181557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:khh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q181557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "Kaohsiung City",
+        "lang:zh_TW": "高雄市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q1867",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tpe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1867"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "Taipei City",
+        "lang:zh_TW": "臺北市"
+      },
+      "parent_id": "Q865"
     },
     {
       "id": "Q19432862",
@@ -3640,7 +3815,7 @@
       "name": {
         "lang:zh_TW": "南投縣第一選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q82357"
     },
     {
       "id": "Q19432864",
@@ -3664,7 +3839,7 @@
       "name": {
         "lang:zh_TW": "連江縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249872"
     },
     {
       "id": "Q19432865",
@@ -3688,7 +3863,7 @@
       "name": {
         "lang:zh_TW": "金門縣選舉區"
       },
-      "parent_id": null
+      "parent_id": "Q249870"
     },
     {
       "id": "Q19432866",
@@ -3711,6 +3886,381 @@
       },
       "name": {
         "lang:zh_TW": "雲林縣第一選舉區"
+      },
+      "parent_id": "Q153221"
+    },
+    {
+      "id": "Q194989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q194989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Pingtung County",
+        "lang:zh_TW": "屏東縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q198525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q198525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Penghu County",
+        "lang:zh_TW": "澎湖縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q237258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ila"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q237258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Yilan County",
+        "lang:zh_TW": "宜蘭縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q244898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:nwt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q244898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "New Taipei City",
+        "lang:zh_TW": "新北市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q245023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:txg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q245023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339864"
+      ],
+      "type": {
+        "lang:zh_CN": "直轄市",
+        "lang:en_US": "special municipality"
+      },
+      "name": {
+        "lang:en_US": "Taichung City",
+        "lang:zh_TW": "臺中市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Hualien County",
+        "lang:zh_TW": "花蓮縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:kin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Kinmen County",
+        "lang:zh_TW": "金門縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Lienchiang County",
+        "lang:zh_TW": "連江縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Taitung County",
+        "lang:zh_TW": "臺東縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:cyi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "市",
+        "lang:en_US": "provincial city"
+      },
+      "name": {
+        "lang:en_US": "Chiayi City",
+        "lang:zh_TW": "嘉義市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q249996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "市",
+        "lang:en_US": "provincial city"
+      },
+      "name": {
+        "lang:en_US": "Keelung City",
+        "lang:zh_TW": "基隆市"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q63706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q63706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Miaoli County",
+        "lang:zh_TW": "苗栗縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q74054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hsq"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q74054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Hsinchu County",
+        "lang:zh_TW": "新竹縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q82357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Nantou County",
+        "lang:zh_TW": "南投縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
       },
       "parent_id": null
     }

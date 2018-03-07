@@ -4175,6 +4175,31 @@
       "parent_id": "Q865"
     },
     {
+      "id": "Q48554359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48554359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6310593"
+      ],
+      "type": {
+        "lang:zh_CN": "選區",
+        "lang:en_US": "constituency"
+      },
+      "name": {
+        "lang:en_US": "Proportional Representation in national legislative election",
+        "lang:zh_TW": "全國不分區"
+      },
+      "parent_id": null
+    },
+    {
       "id": "Q63706",
       "identifiers": [
         {
@@ -5253,20 +5278,7 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q8347665-850CDF8E-B9B1-4A22-96D2-F44CEC0705BA",
-      "person_id": "Q8347665",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q715869",
-      "area_id": "Q16929474",
-      "start_date": "2016-02-01",
-      "role_code": "Q6310593",
-      "role": {
-        "lang:zh_CN": "立法委員",
-        "lang:en_US": "Member of the Legislative Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8347665-C790210F-0825-4F24-AC94-B1E607E280FC",
+      "id": "http://www.wikidata.org/entity/statement/Q8347665-bd137f54-4472-a077-783c-4f15db98654b",
       "person_id": "Q8347665",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",

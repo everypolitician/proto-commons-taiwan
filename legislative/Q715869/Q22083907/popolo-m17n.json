@@ -3925,6 +3925,56 @@
       "parent_id": "Q865"
     },
     {
+      "id": "Q21041600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/lowland-aborigine"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21041600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6310593"
+      ],
+      "type": {
+        "lang:zh_CN": "選區",
+        "lang:en_US": "constituency"
+      },
+      "name": {
+        "lang:en_US": "Lowland Aborigine district of national legislators electoral area",
+        "lang:zh_TW": "平地原住民立法委員選區"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q21055063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/highland-aborigine"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21055063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6310593"
+      ],
+      "type": {
+        "lang:zh_CN": "選區",
+        "lang:en_US": "constituency"
+      },
+      "name": {
+        "lang:en_US": "Highland Aborigine district of national legislators electoral area",
+        "lang:zh_TW": "山地原住民立法委員選區"
+      },
+      "parent_id": null
+    },
+    {
       "id": "Q237258",
       "identifiers": [
         {

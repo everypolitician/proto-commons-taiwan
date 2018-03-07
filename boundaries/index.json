@@ -79,5 +79,397 @@
     "name_columns": {
       "lang:zh_TW": "name_zh"
     }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314184",
+    "associations": [
+      {
+        "comment": "南投縣議員",
+        "position_item_id": "Q49254306"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:nan",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314184",
+    "associations": [
+      {
+        "comment": "南投縣議員",
+        "position_item_id": "Q49254306"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:nan",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314187",
+    "associations": [
+      {
+        "comment": "嘉義市議員",
+        "position_item_id": "Q49254452"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/city:cyi",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314189",
+    "associations": [
+      {
+        "comment": "嘉義縣議員",
+        "position_item_id": "Q49254596"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:cyq",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314191",
+    "associations": [
+      {
+        "comment": "基隆市議員",
+        "position_item_id": "Q49254733"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/city:kee",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314222",
+    "associations": [
+      {
+        "comment": "宜蘭縣議員",
+        "position_item_id": "Q49254881"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:ila",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314205",
+    "associations": [
+      {
+        "comment": "屏東縣議員",
+        "position_item_id": "Q49255006"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:pif",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314193",
+    "associations": [
+      {
+        "comment": "彰化縣議員",
+        "position_item_id": "Q49255147"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:cha",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314196",
+    "associations": [
+      {
+        "comment": "新北市議員",
+        "position_item_id": "Q48976144"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:nwt",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314199",
+    "associations": [
+      {
+        "comment": "新竹市議員",
+        "position_item_id": "Q49255439"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/city:hsz",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314200",
+    "associations": [
+      {
+        "comment": "新竹縣議員",
+        "position_item_id": "Q49255593"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:hsq",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314202",
+    "associations": [
+      {
+        "comment": "桃園市議員",
+        "position_item_id": "Q49255748"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:tao",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314229",
+    "associations": [
+      {
+        "comment": "澎湖縣議員",
+        "position_item_id": "Q49255918"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:pen",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314204",
+    "associations": [
+      {
+        "comment": "臺中市議員",
+        "position_item_id": "Q10493791"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:txg",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314182",
+    "associations": [
+      {
+        "comment": "臺北市議員",
+        "position_item_id": "Q49256298"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:tpe",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314181",
+    "associations": [
+      {
+        "comment": "臺南市議員",
+        "position_item_id": "Q49256480"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:tnn",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314210",
+    "associations": [
+      {
+        "comment": "臺東縣議員",
+        "position_item_id": "Q49256666"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:ttt",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314224",
+    "associations": [
+      {
+        "comment": "花蓮縣議員",
+        "position_item_id": "Q49256840"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:hua",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314206",
+    "associations": [
+      {
+        "comment": "苗栗縣議員",
+        "position_item_id": "Q49257021"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:mia",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314237",
+    "associations": [
+      {
+        "comment": "連江縣議員",
+        "position_item_id": "Q49257199"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:lie",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314226",
+    "associations": [
+      {
+        "comment": "金門縣議員",
+        "position_item_id": "Q49257377"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:kin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314215",
+    "associations": [
+      {
+        "comment": "雲林縣議員",
+        "position_item_id": "Q49257574"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/county:yun",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "county-regional-constituencies",
+    "area_type_wikidata_item_id": "Q50314162",
+    "associations": [
+      {
+        "comment": "高雄市議員",
+        "position_item_id": "Q49257749"
+      }
+    ],
+    "name_columns": {
+      "lang:zh_TW": "CONSTIT_ID"
+    },
+    "filter": {
+      "match": "country:tw/special-municipality:khh",
+      "column": "MS_FB_PARE"
+    }
   }
+
 ]

@@ -1,0 +1,1398 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "林寶珠"
+      },
+      "id": "Q10346874",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10346874"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張志宇"
+      },
+      "id": "Q18234084",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18234084"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Lv Mingliang"
+      },
+      "id": "Q45439850",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45439850"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "詹運喜"
+      },
+      "id": "Q50086785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "湯維岳"
+      },
+      "id": "Q50086810",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086810"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "邱鎮軍"
+      },
+      "id": "Q50086854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "徐集明"
+      },
+      "id": "Q50086894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "謝文禓"
+      },
+      "id": "Q50086929",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086929"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "禹耀東"
+      },
+      "id": "Q50086958",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50086958"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "胡忠勇"
+      },
+      "id": "Q50087000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087000"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "鄭碧玉"
+      },
+      "id": "Q50087038",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087038"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許櫻萍"
+      },
+      "id": "Q50087080",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087080"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "孫素娥"
+      },
+      "id": "Q50087225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張家靜"
+      },
+      "id": "Q50087271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "羅貴星"
+      },
+      "id": "Q50087311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "黎旭欽"
+      },
+      "id": "Q50087342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "韓茂賢"
+      },
+      "id": "Q50087384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "劉寶鈴"
+      },
+      "id": "Q50087471",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087471"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "劉秋東"
+      },
+      "id": "Q50087510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087510"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "周玉滿"
+      },
+      "id": "Q50087556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "李聰祥"
+      },
+      "id": "Q50087599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "邱紹俊"
+      },
+      "id": "Q50087637",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087637"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "黃聲全"
+      },
+      "id": "Q50087680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087680"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳碧華"
+      },
+      "id": "Q50087717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087717"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "鄭秋風"
+      },
+      "id": "Q50087758",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087758"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳明朝"
+      },
+      "id": "Q50087809",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087809"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "廖英利"
+      },
+      "id": "Q50087854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "謝芳紋"
+      },
+      "id": "Q50087887",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087887"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "謝端容"
+      },
+      "id": "Q50087977",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50087977"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "李文斌"
+      },
+      "id": "Q50088014",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088014"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "羅雪珠"
+      },
+      "id": "Q50088057",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088057"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "游忠鈿"
+      },
+      "id": "Q50088091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088091"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳永賢"
+      },
+      "id": "Q50088131",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088131"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳光軒"
+      },
+      "id": "Q50088170",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088170"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳漢清"
+      },
+      "id": "Q50088210",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088210"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "鍾福貴"
+      },
+      "id": "Q50088243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "邱秋琴"
+      },
+      "id": "Q50088276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "鍾東錦"
+      },
+      "id": "Q50088349",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088349"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "徐欽鴻"
+      },
+      "id": "Q50088383",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088383"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳春暖"
+      },
+      "id": "Q50088423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088423"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "楊恭林"
+      },
+      "id": "Q50088465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "潘秋榮"
+      },
+      "id": "Q50088503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "黃月娥"
+      },
+      "id": "Q50088530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088530"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "苗栗縣議會",
+        "lang:en_US": "Miaoli County Council"
+      },
+      "id": "Q15904162",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15904162"
+        }
+      ],
+      "area_id": "Q63706"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q49981743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第01選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第02選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第03選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第04選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第05選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第06選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q63706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q63706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Miaoli County",
+        "lang:zh_TW": "苗栗縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10346874-4EA1D15F-BC7C-4101-9921-A2258A407ED3",
+      "person_id": "Q10346874",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18234084-FF7976CD-7CC8-4CF0-ADDF-896F2EB751FC",
+      "person_id": "Q18234084",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "end_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45439850-57DA43CC-5B6A-481C-8DDC-99DBD676B7B1",
+      "person_id": "Q45439850",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "end_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086785-42BFEB34-7312-436B-895D-AB44594E7199",
+      "person_id": "Q50086785",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086810-D5723DEC-5598-456C-BD80-EC91713A9800",
+      "person_id": "Q50086810",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086854-2D46A8BC-B62D-40D5-B220-27E43816015A",
+      "person_id": "Q50086854",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086894-58BC327C-4CA0-4EF4-9F0F-5772F7E810C9",
+      "person_id": "Q50086894",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086929-3991012C-D2C7-4102-913A-90E4ED8D111F",
+      "person_id": "Q50086929",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50086958-A2ADE3AD-7682-4175-ADAD-AB2A46AA0266",
+      "person_id": "Q50086958",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087000-DBCE310D-9993-4913-AC02-25102F95F6B1",
+      "person_id": "Q50087000",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087038-2529B5E2-01DC-4064-A0A9-2659AC9E4917",
+      "person_id": "Q50087038",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087080-4B3DEBDF-A21C-4738-8797-42B4857381E2",
+      "person_id": "Q50087080",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "end_date": "2016-03-15",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087225-E5176EEA-C5ED-44A0-93EB-6BFA87ECBD48",
+      "person_id": "Q50087225",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981743",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087271-56EA1689-B1B5-44F7-8B8D-B244E6BAF65F",
+      "person_id": "Q50087271",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981777",
+      "start_date": "2014-12-25",
+      "end_date": "2015-09-16",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087311-AF629940-BE79-4042-9DD7-F4A8090274F1",
+      "person_id": "Q50087311",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981777",
+      "start_date": "2015-09-16",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087342-0AACAC7B-0901-4DA9-82F2-CB45ED6C3965",
+      "person_id": "Q50087342",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981777",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087384-AB13A1F2-374C-43D8-A177-83DD9483DA74",
+      "person_id": "Q50087384",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981777",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087471-E259E3F1-D047-44EF-8ED2-45BD551C3983",
+      "person_id": "Q50087471",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981814",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087510-C40D0F0F-03B9-4B3E-9953-89982FEEF530",
+      "person_id": "Q50087510",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981814",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087556-DBE0D5C0-0377-489D-8F01-1F7733391D87",
+      "person_id": "Q50087556",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981814",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087599-C337A6DC-A48E-475D-B160-3DE21B79BBCE",
+      "person_id": "Q50087599",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981814",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087637-10FEAA0E-3F1F-41FE-B5BA-D31E68D020D2",
+      "person_id": "Q50087637",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981814",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087680-1C0CE3A2-B1F0-4D5E-80A0-5D83043618FF",
+      "person_id": "Q50087680",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087717-9AC8FA6F-8CF6-498A-9EF5-97AEA87B6B9E",
+      "person_id": "Q50087717",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087758-5D3554D3-5E6E-4519-9D0D-5F6BC2CCCFBA",
+      "person_id": "Q50087758",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087809-663BC7A9-98C4-4672-A48A-2F75B5D12B05",
+      "person_id": "Q50087809",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087854-7F0BE742-77B8-49B2-9A7E-733AEA7DD48B",
+      "person_id": "Q50087854",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087887-FAA37DD6-D8C8-4549-A6A4-A408EE6512E0",
+      "person_id": "Q50087887",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50087977-859CE651-7C9C-493B-967B-7EBE8CF10B2E",
+      "person_id": "Q50087977",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088014-56FD056A-9815-4EEF-9589-4A7AC59EEEE8",
+      "person_id": "Q50088014",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981846",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088057-6C665133-2E93-4338-BCE7-72BF30196A9A",
+      "person_id": "Q50088057",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088091-C68C9A69-0B5A-4AD3-8DBA-1E577CD5A5B6",
+      "person_id": "Q50088091",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088131-74AA7600-90EE-4BCB-8DB2-8BF4C563697E",
+      "person_id": "Q50088131",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088170-CF07A5F9-A4F6-4CF2-8899-1420F87B5701",
+      "person_id": "Q50088170",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088210-47484453-1CE9-4D86-971C-96689159C1A9",
+      "person_id": "Q50088210",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "end_date": "2015-06-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088243-D151F9AA-FA6F-4F51-8C19-4B960B5223A1",
+      "person_id": "Q50088243",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2015-06-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088276-0B83BFA0-6E4B-4F93-A236-8F2447B835F0",
+      "person_id": "Q50088276",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088349-C338AEDE-7ED2-461A-8C86-31FAA2B3C7EA",
+      "person_id": "Q50088349",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981884",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088383-75C8B739-0D2A-4303-B780-88192508274B",
+      "person_id": "Q50088383",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981916",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088423-6D7701D9-42DE-4B9E-A463-D1B272010C66",
+      "person_id": "Q50088423",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981916",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088465-31BCC252-4BA0-40BB-A4A8-FF0816F46048",
+      "person_id": "Q50088465",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981916",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088503-E74C2B47-E6DB-4BAF-BFD4-8A1330915728",
+      "person_id": "Q50088503",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981946",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088530-8C76272A-7AC8-48A4-9735-CE4D425239C4",
+      "person_id": "Q50088530",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15904162",
+      "area_id": "Q49981980",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257021",
+      "role": {
+        "lang:zh_CN": "苗栗縣議員"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1225 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "陳翰立"
+      },
+      "id": "Q16908019",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16908019"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "吳國昌",
+        "lang:en_US": "Antonio Ng"
+      },
+      "id": "Q4776833",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4776833"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡宗智"
+      },
+      "id": "Q50018270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "莊文斌"
+      },
+      "id": "Q50018356",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018356"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "洪明科"
+      },
+      "id": "Q50018440",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018440"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "游宏達"
+      },
+      "id": "Q50018530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張維華"
+      },
+      "id": "Q50018615",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018615"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "曾振炎"
+      },
+      "id": "Q50018721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018721"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "于秀英"
+      },
+      "id": "Q50018971",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50018971"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "黃文君"
+      },
+      "id": "Q50019060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019060"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "李洲忠"
+      },
+      "id": "Q50019164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "簡景賢"
+      },
+      "id": "Q50019257",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019257"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "簡峻庭"
+      },
+      "id": "Q50019344",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019344"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "簡賜勝"
+      },
+      "id": "Q50019437",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019437"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "廖梓佑"
+      },
+      "id": "Q50019522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019522"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林永鴻"
+      },
+      "id": "Q50019612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019612"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "廖宜賢"
+      },
+      "id": "Q50019691",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019691"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳昭煜"
+      },
+      "id": "Q50019776",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019776"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蕭志全"
+      },
+      "id": "Q50019853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳淑惠"
+      },
+      "id": "Q50019923",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "謝明謀"
+      },
+      "id": "Q50019996",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50019996"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許素霞"
+      },
+      "id": "Q50020073",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020073"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡宜助"
+      },
+      "id": "Q50020137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張志銘"
+      },
+      "id": "Q50020207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "何勝豐"
+      },
+      "id": "Q50020278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "吳瑞芳"
+      },
+      "id": "Q50020361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "潘一全"
+      },
+      "id": "Q50020444",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020444"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林芳伃"
+      },
+      "id": "Q50020530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "邱美玲"
+      },
+      "id": "Q50020616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020616"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "廖志城"
+      },
+      "id": "Q50020679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "許阿甘"
+      },
+      "id": "Q50020736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020736"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "王彩雲"
+      },
+      "id": "Q50020855",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020855"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "石慶龍"
+      },
+      "id": "Q50020904",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020904"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "史清水"
+      },
+      "id": "Q50020926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020926"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "廖文賢"
+      },
+      "id": "Q50020956",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50020956"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "賴燕雪"
+      },
+      "id": "Q8350007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "羅美玲"
+      },
+      "id": "Q8988903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8988903"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "南投縣議會",
+        "lang:en_US": "Nantou County Council"
+      },
+      "id": "Q10907927",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10907927"
+        }
+      ],
+      "area_id": "Q82357"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "臺灣第一民族黨"
+      },
+      "id": "Q50059206",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50059206"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q49932606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49932606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第01選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49933507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第02選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49933604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第03選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49933702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第04選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49933800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第05選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q82357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q82357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Nantou County",
+        "lang:zh_TW": "南投縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16908019-DC6AC114-7E4B-41B4-BD2C-82A5E062B810",
+      "person_id": "Q16908019",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4776833-21F9CB90-94AF-43A6-8B9A-184057E79F9D",
+      "person_id": "Q4776833",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018270-F95D49A0-F069-42F0-91B3-AD2D1542F5E5",
+      "person_id": "Q50018270",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018356-C4C74E44-5D53-450D-ADF7-027FC1FC73A1",
+      "person_id": "Q50018356",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018440-73012D52-E3E4-4D10-8FD8-96A6F0BC205F",
+      "person_id": "Q50018440",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018530-432DA971-828B-4CF0-89D4-9631B40DDC97",
+      "person_id": "Q50018530",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018615-FB70D272-32BB-4FD9-85CD-AA5DFAD73743",
+      "person_id": "Q50018615",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018721-18D89452-00DD-41C3-9ECB-82F4D21DE280",
+      "person_id": "Q50018721",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50018971-F2F8F3FF-1747-4871-934F-D6115122BABC",
+      "person_id": "Q50018971",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019060-A5B6FBC8-86E1-4853-9696-E8B155DB9E7D",
+      "person_id": "Q50019060",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019164-7C4093E8-678E-4E83-97C7-1A3678394A84",
+      "person_id": "Q50019164",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019257-8029B2F0-D784-4D9C-8E59-5EF2F77E6872",
+      "person_id": "Q50019257",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019344-66A6C528-EF73-49AA-94C6-391DD5681C68",
+      "person_id": "Q50019344",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019437-BD7BEEFC-08F7-4EA3-8441-B99BECB2215A",
+      "person_id": "Q50019437",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019522-EA62AD3E-4872-4FAC-89CF-0F4865BCB0E1",
+      "person_id": "Q50019522",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019612-3DFC9F7D-5E4B-422C-B551-843803B72BD1",
+      "person_id": "Q50019612",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019691-F22BDF74-4970-4DEF-B913-732D3BFE4031",
+      "person_id": "Q50019691",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933507",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019776-2260B683-355A-454D-BF76-2539A010BE1A",
+      "person_id": "Q50019776",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933604",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019853-E31E2068-DA44-4281-9E5E-9A1687896E14",
+      "person_id": "Q50019853",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933604",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019923-FBB7461A-A99F-44BB-A862-D35B355410F3",
+      "person_id": "Q50019923",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933604",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50019996-4C368D47-B2AE-4338-AE40-DE9B89BAB1FF",
+      "person_id": "Q50019996",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933604",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020073-1B452033-BBD2-449A-A3A7-000A7E213F0A",
+      "person_id": "Q50020073",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933702",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020137-26298637-23F1-4898-9ABB-D7F18AB76638",
+      "person_id": "Q50020137",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933702",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020207-BEE0A04D-3052-4211-BA5F-AB798A8C4BF5",
+      "person_id": "Q50020207",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933702",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020278-5AB9B8CA-9DA4-4C59-8142-96A5DDE8D1EB",
+      "person_id": "Q50020278",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933702",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020361-44AD5A6A-C013-4BA5-ABEE-4D5C97B92E73",
+      "person_id": "Q50020361",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933702",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020444-FDB67627-87CF-4BBF-AE33-503992B7141B",
+      "person_id": "Q50020444",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020530-6E3C6387-D00B-4EB9-B675-C2153638AC82",
+      "person_id": "Q50020530",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020616-94ABD865-E983-401D-AD44-9BA3426D6834",
+      "person_id": "Q50020616",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020679-A3C8A13B-E58F-4366-929B-2FEF0F69E25C",
+      "person_id": "Q50020679",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020736-D6F3D30C-18A3-4F4C-A024-63229A4D055E",
+      "person_id": "Q50020736",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020855-B0DD9110-A549-4EED-958F-B9EACB7A89FF",
+      "person_id": "Q50020855",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933800",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020904-F2876637-B1F0-4B3A-8822-B88CDB7F9439",
+      "person_id": "Q50020904",
+      "on_behalf_of_id": "Q50059206",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933896",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020926-77BFE118-A80B-4181-8D7A-B7DBB7045746",
+      "person_id": "Q50020926",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q10907927",
+      "area_id": "Q49933997",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50020956-FF7D3DEF-93E1-4FDA-BD9E-B226E6688383",
+      "person_id": "Q50020956",
+      "organization_id": "Q10907927",
+      "area_id": "Q49934086",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350007-3AAC95F8-CA08-44FC-861F-A28E482B9639",
+      "person_id": "Q8350007",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8988903-D89BD35C-0E17-4AF4-B607-9E0B8FC1D25B",
+      "person_id": "Q8988903",
+      "organization_id": "Q10907927",
+      "area_id": "Q49932606",
+      "start_date": "2014-12-25",
+      "role_code": "Q49254306",
+      "role": {
+        "lang:zh_CN": "南投縣議員"
+      }
+    }
+  ]
+}

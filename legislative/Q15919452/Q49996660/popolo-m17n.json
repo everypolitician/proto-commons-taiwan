@@ -1,0 +1,425 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "曹丞君"
+      },
+      "id": "Q50088572",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088572"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "曹以標"
+      },
+      "id": "Q50088609",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088609"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳書建"
+      },
+      "id": "Q50088647",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088647"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林貽祥"
+      },
+      "id": "Q50088703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088703"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "林明揚"
+      },
+      "id": "Q50088755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088755"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "周瑞國"
+      },
+      "id": "Q50088805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳貴忠"
+      },
+      "id": "Q50088846",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088846"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳貽斌"
+      },
+      "id": "Q50088893",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088893"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "張永江"
+      },
+      "id": "Q50088941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50088941"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "連江縣議會",
+        "lang:en_US": "Lienchiang County Council"
+      },
+      "id": "Q15919452",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15919452"
+        }
+      ],
+      "area_id": "Q249872"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q249872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q249872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Lienchiang County",
+        "lang:zh_TW": "連江縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q49982015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49982015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257199"
+      ],
+      "type": {
+        "lang:zh_CN": "連江縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
+      },
+      "name": {
+        "lang:zh_TW": "連江縣第01選區"
+      },
+      "parent_id": "Q249872"
+    },
+    {
+      "id": "Q49985407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257199"
+      ],
+      "type": {
+        "lang:zh_CN": "連江縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
+      },
+      "name": {
+        "lang:zh_TW": "連江縣第02選區"
+      },
+      "parent_id": "Q249872"
+    },
+    {
+      "id": "Q49985473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257199"
+      ],
+      "type": {
+        "lang:zh_CN": "連江縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
+      },
+      "name": {
+        "lang:zh_TW": "連江縣第03選區"
+      },
+      "parent_id": "Q249872"
+    },
+    {
+      "id": "Q49985545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:lie/county-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49985545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257199"
+      ],
+      "type": {
+        "lang:zh_CN": "連江縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
+      },
+      "name": {
+        "lang:zh_TW": "連江縣第04選區"
+      },
+      "parent_id": "Q249872"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088572-F040F465-90DE-4446-A86E-C76E058997FA",
+      "person_id": "Q50088572",
+      "organization_id": "Q15919452",
+      "area_id": "Q49982015",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088609-B579AB1E-C133-453A-962F-552A2CF1BC68",
+      "person_id": "Q50088609",
+      "organization_id": "Q15919452",
+      "area_id": "Q49982015",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088647-8559637E-13BD-4C4A-A172-743BA4302F75",
+      "person_id": "Q50088647",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49982015",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088703-A935E4F0-5198-4256-8E68-05B309AA4B2B",
+      "person_id": "Q50088703",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49982015",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088755-7B2A9A2F-2D3B-4CE3-A3D5-526AAA0403EA",
+      "person_id": "Q50088755",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49982015",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088805-2F83EE00-4DB1-4B51-A143-E57CB300B379",
+      "person_id": "Q50088805",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49985407",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088846-C2935F9D-584F-4079-ACDB-11A3188F1E82",
+      "person_id": "Q50088846",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49985407",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088893-52B95AFC-0F91-4830-B0BE-CA038A0CD461",
+      "person_id": "Q50088893",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15919452",
+      "area_id": "Q49985473",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50088941-3EBC3542-E924-4B44-92F6-FB7491A67409",
+      "person_id": "Q50088941",
+      "organization_id": "Q15919452",
+      "area_id": "Q49985545",
+      "start_date": "2014-12-25",
+      "role_code": "Q49257199",
+      "role": {
+        "lang:zh_CN": "連江縣議員"
+      }
+    }
+  ]
+}

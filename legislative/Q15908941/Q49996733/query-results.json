@@ -1,0 +1,3928 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q10565633-084CC453-442E-411F-84A0-EB4144399EAF"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10565633"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳茂源"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳茂源"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17059691-FB11833F-71F5-4D23-8C32-B662A20F7C42"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17059691"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡秋敏"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡秋敏"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q24835400-BF6C818C-9F37-4C11-B113-22616E0C65DF"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24835400"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳俊龍"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳俊龍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CHEN, Leon"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28413224-A6C6B114-2CD9-4388-9FA5-64BB5F213BF4"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28413224"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林哲凌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林哲凌"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-09-11T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45505717-6B29222E-3C02-4BAE-B8DF-653509704437"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45505717"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林深"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lin Shensou"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45678955-FC2CFE45-34E5-461C-9FF4-30748BA43675"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45678955"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃凱"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Huang Kai"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-03-31T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45706440-DEBC3799-7A7F-4798-973E-96BD2C36857A"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45706440"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李培元"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Li Peiyuan"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090019-337EFB94-B05F-4940-9E92-46C3399712E2"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090019"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "賴淑娞"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "賴淑娞"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090066-DE62C2CF-7A17-482E-A494-B123D07CCE00"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090066"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王又民"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "王又民"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090110-60B53884-C2AC-40BA-AD2B-EFD67FDC2B39"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090110"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "江文登"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "江文登"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090155-EBD2C7BF-7EB5-405F-A169-CF7C9809C6F9"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090155"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林聖爵"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林聖爵"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090204-11D60E0C-068B-4F4E-9A41-AD4181F13635"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090204"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鍾明馨"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "鍾明馨"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090242-6BB6E643-9B0A-4CBC-84B1-B8E398D9DF9D"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090242"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周秀月"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "周秀月"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090292-9E18AEB5-0D49-4BCF-8E8E-AD4676C54FB2"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090292"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李建昇"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李建昇"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090337-EE94E059-E608-4C8A-899C-E7BCBFAFF4F9"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090337"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李建志"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李建志"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985807"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第1選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090376-4BEE249A-48D2-48B9-9DBC-98C13EF4669D"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090376"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林岳璋"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林岳璋"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090416-76801A58-B90D-45C3-BDD3-C2DB926C0AF4"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090416"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "沈銘恭"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "沈銘恭"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-18T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090450-FA9DC81F-E385-41B4-945E-224FE8EC39E7"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090450"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳滄得"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "吳滄得"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090482-93D842E6-F1C6-474C-A6E5-30EB4E2FB4F8"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090482"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王秋足"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "王秋足"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090521-62B0D562-3240-448B-A143-CC3AA216B9D8"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090521"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳樹吉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳樹吉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090560-A5704B9A-FDCF-425C-A1B8-4A7795622E2E"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090560"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡東富"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡東富"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090604-D12663D5-3D13-4828-B066-F9927CAE71DE"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090604"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "賴明源"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "賴明源"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985867"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第2選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090634-726EEFD2-88CE-466C-93B4-532C8845DB33"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090634"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "簡慈坊"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "簡慈坊"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-18T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090748-E4FAB434-9C89-47CB-B9FF-6D8060A8339E"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090748"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王士壬"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "王士壬"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q706834"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan Solidarity Union"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "台灣團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "台灣團結聯盟"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090833-CA0FEBA3-4194-4834-8789-3E3D8611F8A3"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090833"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃鈺惠"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃鈺惠"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090872-1043B2D1-0079-4335-B721-AA98CB88587E"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090872"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顏旭懋"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "顏旭懋"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50090961-7F6B9C90-2CCC-411B-B8C6-0CF9CAA9F527"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50090961"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳瑞雄"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳瑞雄"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985930"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第3選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091003-C31EAE84-1AF5-4DD7-95C9-1572AC03B4E1"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091003"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "沈宗隆"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "沈宗隆"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091046-57106832-2B7B-4183-A2D2-374B894BB93E"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091046"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "廖秋萍"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "廖秋萍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091151-BCA78BF4-DDA8-4BAD-A2E2-F59C50253E80"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091151"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王鐵道"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "王鐵道"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091186-844AEC6A-064A-4071-A6AD-7D6A1E6B80D3"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091186"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蕭澤梧"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蕭澤梧"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091224-839CA95E-61F4-4389-8692-FD13D97A88DF"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091224"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "梁銘忠"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "梁銘忠"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091256-A65619B1-D930-4A21-95AE-03FF0F7815D2"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091256"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "廖錦珠"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "廖錦珠"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091294-E3B3FE30-9472-467D-96EA-85946CFCBCC4"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091294"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃淑鈴"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃淑鈴"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091335-928B1B85-69FA-4140-AF3B-A9EF91994BC4"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091335"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林建鴻"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林建鴻"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091447-46D64A2C-E3C1-4018-97C7-9EB5590CA47A"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091447"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張健福"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張健福"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091516-86F2FFCD-AEF2-43AF-B6C3-FE05B0E0A44B"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091516"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇俊豪"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蘇俊豪"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091547-8D073C3D-2837-4940-9D00-BBDD907D7832"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091547"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃勝賢"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃勝賢"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091607-E0FEE867-3ACC-4C9A-92D7-E3A8EB16912D"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091607"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡岳儒"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡岳儒"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091646-835475C5-E957-4510-B2A1-735FE5F62CD3"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091646"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃文祥"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "黃文祥"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091682-AD576FF1-5C9D-43A6-90E5-2AFE3201178E"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091682"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡孟真"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡孟真"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第6選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50091714-527B39B7-EA73-4EC2-A503-21F201598A70"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50091714"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "翁水上"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "翁水上"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第4選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50185315-2F2433DA-E456-41D0-BF38-89CA5E17B02C"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50185315"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李明哲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李明哲"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49986050"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Yunlin County"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員第5選舉區"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q9044247-F742C27A-0905-4811-8F02-8BD6EE15E794"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257574"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9044247"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許志豪"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "許志豪"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15908941"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yunlin County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "雲林縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153221"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      }
+    } ]
+  }
+}

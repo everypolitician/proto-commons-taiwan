@@ -1,0 +1,878 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:zh_CN": "張再興",
+        "lang:en_US": "Chang Tsai-Hsing"
+      },
+      "id": "Q15921222",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15921222"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳振中"
+      },
+      "id": "Q15933673",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15933673"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳慧玲"
+      },
+      "id": "Q28415458",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28415458"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Lv Qizong"
+      },
+      "id": "Q45433195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45433195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳佩真"
+      },
+      "id": "Q47672130",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47672130"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "劉陳昭玲"
+      },
+      "id": "Q50077509",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077509"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳海山"
+      },
+      "id": "Q50077550",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077550"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "吳文相"
+      },
+      "id": "Q50077613",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077613"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蘇陳綉色"
+      },
+      "id": "Q50077638",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077638"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "藍俊逸"
+      },
+      "id": "Q50077664",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077664"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "黃春燕"
+      },
+      "id": "Q50077706",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077706"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "蔡清續"
+      },
+      "id": "Q50077734",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077734"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "呂黃春金"
+      },
+      "id": "Q50077847",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077847"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "胡松榮"
+      },
+      "id": "Q50077892",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077892"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "顏嘉弘"
+      },
+      "id": "Q50077936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "歐陽洲"
+      },
+      "id": "Q50077993",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50077993"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "成萬貫"
+      },
+      "id": "Q50078082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳百川"
+      },
+      "id": "Q50078136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "魏長源"
+      },
+      "id": "Q50078195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "宋國進"
+      },
+      "id": "Q50078242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "楊石龍"
+      },
+      "id": "Q50078276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "葉明縣"
+      },
+      "id": "Q50078352",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50078352"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "陳雙全"
+      },
+      "id": "Q50184747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50184747"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:zh_CN": "澎湖縣議會",
+        "lang:en_US": "Penghu County Council"
+      },
+      "id": "Q15915051",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15915051"
+        }
+      ],
+      "area_id": "Q198525"
+    },
+    {
+      "name": {
+        "lang:zh_CN": "中國國民黨",
+        "lang:en_US": "Kuomintang"
+      },
+      "id": "Q31113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "無黨團結聯盟",
+        "lang:en_US": "Non-Partisan Solidarity Union"
+      },
+      "id": "Q718487",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q718487"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh_CN": "民主進步黨",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q903822",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q903822"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q198525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q198525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50339957"
+      ],
+      "type": {
+        "lang:zh_CN": "縣",
+        "lang:en_US": "county of Taiwan"
+      },
+      "name": {
+        "lang:en_US": "Penghu County",
+        "lang:zh_TW": "澎湖縣"
+      },
+      "parent_id": "Q865"
+    },
+    {
+      "id": "Q49943478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第01選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q49943571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第02選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q49943668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第03選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q49943762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第04選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q49943859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第05選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q49977978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pen/county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49977978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255918"
+      ],
+      "type": {
+        "lang:zh_CN": "澎湖縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Penghu County"
+      },
+      "name": {
+        "lang:zh_TW": "澎湖縣第06選區"
+      },
+      "parent_id": "Q198525"
+    },
+    {
+      "id": "Q865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q702650"
+      ],
+      "type": {
+        "lang:zh_CN": "国家",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Taiwan",
+        "lang:zh_TW": "中華民國"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15921222-F22B03CD-BC9D-4831-9716-DCC65FA1203E",
+      "person_id": "Q15921222",
+      "on_behalf_of_id": "Q718487",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15933673-C25E4EE0-3835-4995-AD94-734BD0D13F9F",
+      "person_id": "Q15933673",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943571",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28415458-70FEFF69-2B52-448E-9214-250060C09645",
+      "person_id": "Q28415458",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45433195-C832BB09-4267-4EB7-9361-6F16875B8C3B",
+      "person_id": "Q45433195",
+      "organization_id": "Q15915051",
+      "area_id": "Q49977978",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47672130-CD4E16E8-7451-41C9-990A-8FAF29E77457",
+      "person_id": "Q47672130",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943762",
+      "start_date": "2016-07-04",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077509-4FBE0BC7-A043-40A8-A65A-7619A18AB278",
+      "person_id": "Q50077509",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077550-FB613D44-22DF-45BE-A5E2-726961D27824",
+      "person_id": "Q50077550",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077613-06C064C2-8B05-4B5F-8931-CC92001B6198",
+      "person_id": "Q50077613",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "end_date": "2015-12-08",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077638-CFEAE27B-5FEA-419B-AF30-78AB0B410D86",
+      "person_id": "Q50077638",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2015-12-08",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077664-E3FBCF1A-8865-4268-8A3F-2C9CF8A78446",
+      "person_id": "Q50077664",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077706-E5838670-1D0D-4E38-80DA-D284E3AE99F9",
+      "person_id": "Q50077706",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2016-03-28",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077734-EC8F8E03-DA9C-4A00-97D8-4AE04B91B00B",
+      "person_id": "Q50077734",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2015-12-18",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077847-BC1C3AB7-6FDA-4284-8A10-C42C43760181",
+      "person_id": "Q50077847",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077892-2D544422-3D7A-4B28-8A13-2F3013A9F68E",
+      "person_id": "Q50077892",
+      "on_behalf_of_id": "Q718487",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077936-4BE85329-0E38-434C-BD41-F363ECA74F75",
+      "person_id": "Q50077936",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "end_date": "2016-03-28",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50077993-3DD24C19-11F1-4329-9D7D-9806C757F96D",
+      "person_id": "Q50077993",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943571",
+      "start_date": "2014-12-25",
+      "end_date": "2015-12-18",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078082-306C39CF-8FE8-4C80-A143-831A6A70E7C3",
+      "person_id": "Q50078082",
+      "on_behalf_of_id": "Q718487",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943571",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078136-C2EC2115-3DF5-4845-9146-C1E54802C615",
+      "person_id": "Q50078136",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943571",
+      "start_date": "2014-12-25",
+      "end_date": "2016-03-31",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078195-5F7D1B53-F1CC-4E36-BA54-5E6102DFA6D5",
+      "person_id": "Q50078195",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943668",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078242-9B212243-AE4D-4A13-9F83-E0FDE1BB7726",
+      "person_id": "Q50078242",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943668",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078276-7264EE0D-3214-44B5-B359-83961C03A501",
+      "person_id": "Q50078276",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943762",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50078352-E9EFBDE4-0B58-4B96-BBB0-D2209E00D0BF",
+      "person_id": "Q50078352",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943859",
+      "start_date": "2014-12-25",
+      "end_date": "2016-07-04",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50184747-0347BBCD-844B-407A-83BE-B344F3E61C32",
+      "person_id": "Q50184747",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15915051",
+      "area_id": "Q49943478",
+      "start_date": "2014-12-25",
+      "role_code": "Q49255918",
+      "role": {
+        "lang:zh_CN": "澎湖縣議員"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2144 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45517813-8F5E5C94-C5E8-4067-B854-4A644DB13BA4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45517813"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李應文"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Li Yingwen"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45623338-4EB9915D-648E-4D35-AFD2-7B5648BD361D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45623338"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "楊萬山"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yang Wanshan"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-15T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q48896684-25D7AEC0-3560-4867-96C0-155DB700EAD0"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48896684"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳玉珍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳玉珍"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50088980-2CBAD3DE-A612-4DCB-9CF7-C50E61A81982"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50088980"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "洪允典"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-22T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪允典"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089025-F4AEE5ED-F1DC-4507-B2CB-675C30D49634"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089025"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "石永城"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-22T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "石永城"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089076-C9C80048-1AA3-446D-9BE6-479C91D25D13"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089076"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "唐麗輝"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "唐麗輝"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089119-13113F07-EBAC-40E1-AA3A-FB19A9570790"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089119"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "許建中"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-09-01T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許建中"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089160-420D3AFB-825F-405D-BFD1-316ADF56E2D3"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089160"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "許玉昭"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許玉昭"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089255-625D6947-D18D-4C79-9602-550B01C2FD50"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089255"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李誠智"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李誠智"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089308-9DB7342F-58A9-44CF-AC42-AA648AB58149"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089308"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林孫全"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-09-01T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林孫全"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089360-AB8C7C3D-12AF-41AA-97C1-10BA9FB59AEF"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089360"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "王碧珍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-15T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王碧珍"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089399-A32A0ED4-0237-48C6-A596-C9024825C008"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089399"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "許華玉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許華玉"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089434-6D4107F2-E8E5-4632-9462-F25490E6E7AB"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089434"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "楊永立"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊永立"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089478-7DD7BC6A-49BD-460A-B479-F1120C53D447"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089478"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "歐陽儀雄"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "歐陽儀雄"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089581-90E82E23-997B-4A0A-A849-E5AAD5887474"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089581"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "周子傑"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周子傑"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089625-B4DFE3B8-BC7A-432F-ACF6-979B231C5C59"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089625"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "謝東龍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "謝東龍"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089671-A27EE1E4-6F76-411B-B8AD-27B0B18673C9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089671"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡水游"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡水游"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089719-D96D36A0-95F5-4B96-9E53-3486E680E6C0"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089719"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張雲德"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張雲德"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089771-E43469C9-6870-4E3A-8FD4-7F254F0BD685"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985680"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089771"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡春生"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡春生"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089917-FC8FDE34-F658-4370-88AB-D37A9CDB7BA6"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985742"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089917"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "洪鴻斌"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪鴻斌"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50089974-02BB125E-F9E8-4CF3-AFD2-5FCB8CA6330F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985742"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50089974"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "洪麗萍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪麗萍"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8348051-7872FA4B-2C47-4D40-B847-4F4794ABC8D1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49985619"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Kinmen"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49257377"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8348051"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳滄江"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15914537"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinmen County Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "金門縣議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249870"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳滄江"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,3030 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18234376-4040A514-E271-4CAC-962D-F8E7CDD380F2"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935268"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18234376"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "施世明"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "施世明"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21652185-FA9B12E7-BD4A-4A17-BD1D-B2C92468813F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935268"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21652185"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "宋瑋莉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "宋瑋莉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062244-47DA8ABF-7F73-40C1-B5CA-7AC774479F70"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935001"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062244"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "藍敏煌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "藍敏煌"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062310-F1A27757-2D52-4AD5-902E-A16A4819D2BD"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935001"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062310"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "詹春陽"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "詹春陽"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062354-93F9B5C8-D3BE-4120-9C79-03B05E684BAA"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935001"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062354"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "呂美玲"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "呂美玲"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062397-8CBABB0C-A283-4D47-9170-1072B460D97D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935099"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062397"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張漢土"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張漢土"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062437-5EF3B566-B9FA-4D84-B4AA-6EC2395C4ECC"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935099"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062437"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳東財"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳東財"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062516-83F2EA69-C6D2-44BB-9DA6-8173A0A78495"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935099"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062516"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "韓良圻"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "韓良圻"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062561-A10CDF26-9F2C-4680-88F4-932076F2256E"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935186"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062561"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張芳麗"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張芳麗"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062604-FAC56797-251F-49AF-B820-C96F3558A20C"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935186"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062604"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "莊榮欽"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "莊榮欽"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062651-47FDBC81-EF39-4DDE-96A2-64D96DE8B9FC"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935186"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062651"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "曾紀嚴"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "曾紀嚴"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19684454"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minkuotang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民國黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民國黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062800-B31A167B-25D8-4E17-B477-AD0A1D880D2B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935268"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062800"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊石城"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "楊石城"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062839-D778AD61-841C-4720-891D-6D1419C415F4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935268"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第4選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062839"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張錦煌"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張錦煌"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062878-012BB8F2-19BA-410B-A519-2B9C06CE05F1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062878"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "秦鉦"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "秦鉦"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062918-F407FB50-56EE-478A-A5CA-0A2C1024E235"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062918"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪森永"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "洪森永"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442482"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People First Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50062951-4F567AB8-D7BB-4E68-A1AB-CDF4E337DE05"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50062951"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "莊錦田"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "莊錦田"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063003-B9C2B792-4D64-4D8B-A83D-B192030FE44A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063003"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鄭林清良"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "鄭林清良"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063045-C699E928-C244-473D-B9AF-25758426BB82"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063045"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳志成"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳志成"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063090-A56ED61C-1F7C-4709-8C84-2F8C1D532CFD"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063090"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "俞叁發"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "俞叁發"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063128-2920D0CE-FD1B-4D24-B92E-8A0BB11F6327"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935428"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063128"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "連恩典"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "連恩典"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063163-F1BB3AFC-27ED-40C1-9FCB-7A5F5EDB868F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935428"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063163"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林明智"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林明智"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063201-81720736-7C2C-4D32-8159-FC4F0B9FE30B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935428"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第6選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063201"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳江山"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳江山"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442482"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People First Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063242-F806F465-473B-438F-B61B-E72268AD6EA1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935519"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063242"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "楊秀玉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "楊秀玉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063278-7D1FFC66-C706-47D6-9DE3-179516886AAB"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935519"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063278"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蘇仁和"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蘇仁和"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063314-D4BADEF4-B6F2-4D2A-AD2C-C586C0BA8636"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935519"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063314"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡旺璉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡旺璉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063353-FB82878A-6B1C-494A-B62B-86607CD933EC"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935519"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第7選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063353"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張耿輝"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張耿輝"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50063384-9A1F7997-BE13-45E6-B76E-71385E62544F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935600"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "8th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第8選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第8選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50063384"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳明建"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳明建"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50184385-8293474F-EF36-4BDC-92DD-F5B20826C112"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935099"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第2選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50184385"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "何淑萍"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "何淑萍"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442482"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People First Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8248927-0ECAF1CD-9403-4CDC-A7B0-919BC9FAFE3D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935001"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第1選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8248927"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐莉莉"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "徐莉莉"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xu Lili"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8347638-350FC7CB-DD47-419A-B457-6C8440647356"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935344"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第5選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8347638"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "蔡適應"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "蔡適應"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-31T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Progressive Party"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8350712-78542F68-EACE-4B40-AC91-16AC0EE3649A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49935186"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of Regional Councilors of Keelung"
+      },
+      "district_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員第3選舉區"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49254733"
+      },
+      "role_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8350712"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "游祥耀"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "游祥耀"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10930444"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keelung City Council"
+      },
+      "org_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "基隆市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249996"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    } ]
+  }
+}

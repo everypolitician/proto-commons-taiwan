@@ -713,6 +713,222 @@
       "parent_id": "Q249904"
     },
     {
+      "id": "Q49981189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第07選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第08選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第09選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第10選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第11選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第12選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第13選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第14選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
+      "id": "Q49981463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:ttt/county-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256666"
+      ],
+      "type": {
+        "lang:zh_CN": "臺東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taitung County"
+      },
+      "name": {
+        "lang:zh_TW": "臺東縣第15選區"
+      },
+      "parent_id": "Q249904"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

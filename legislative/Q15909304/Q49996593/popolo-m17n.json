@@ -665,6 +665,150 @@
       "parent_id": "Q249868"
     },
     {
+      "id": "Q49981584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第05選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
+      "id": "Q49981606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第06選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
+      "id": "Q49981629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第07選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
+      "id": "Q49981653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第08選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
+      "id": "Q49981682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第09選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
+      "id": "Q49981711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hua/county-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256840"
+      ],
+      "type": {
+        "lang:zh_CN": "花蓮縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hualien County"
+      },
+      "name": {
+        "lang:zh_TW": "花蓮縣第10選區"
+      },
+      "parent_id": "Q249868"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

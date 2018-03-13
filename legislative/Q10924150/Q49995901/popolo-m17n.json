@@ -772,6 +772,30 @@
       "parent_id": "Q166977"
     },
     {
+      "id": "Q49934920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:cyq/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49934920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254596"
+      ],
+      "type": {
+        "lang:zh_CN": "嘉義縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Chiayi County"
+      },
+      "name": {
+        "lang:zh_TW": "嘉義縣第07選區"
+      },
+      "parent_id": "Q166977"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

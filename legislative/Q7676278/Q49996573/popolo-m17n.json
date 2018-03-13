@@ -1223,6 +1223,54 @@
       "parent_id": "Q1867"
     },
     {
+      "id": "Q49979678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tpe/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49979678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256298"
+      ],
+      "type": {
+        "lang:zh_CN": "臺北市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taipei"
+      },
+      "name": {
+        "lang:zh_TW": "臺北市第07選區"
+      },
+      "parent_id": "Q1867"
+    },
+    {
+      "id": "Q49979750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tpe/county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49979750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256298"
+      ],
+      "type": {
+        "lang:zh_CN": "臺北市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taipei"
+      },
+      "name": {
+        "lang:zh_TW": "臺北市第08選區"
+      },
+      "parent_id": "Q1867"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

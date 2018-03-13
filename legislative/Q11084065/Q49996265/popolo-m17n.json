@@ -901,6 +901,78 @@
       "parent_id": "Q74054"
     },
     {
+      "id": "Q49941929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hsq/county-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49941929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255593"
+      ],
+      "type": {
+        "lang:zh_CN": "新竹縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hsinchu County"
+      },
+      "name": {
+        "lang:zh_TW": "新竹縣第11選區"
+      },
+      "parent_id": "Q74054"
+    },
+    {
+      "id": "Q49942018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hsq/county-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49942018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255593"
+      ],
+      "type": {
+        "lang:zh_CN": "新竹縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hsinchu County"
+      },
+      "name": {
+        "lang:zh_TW": "新竹縣第12選區"
+      },
+      "parent_id": "Q74054"
+    },
+    {
+      "id": "Q49942109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:hsq/county-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49942109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255593"
+      ],
+      "type": {
+        "lang:zh_CN": "新竹縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hsinchu County"
+      },
+      "name": {
+        "lang:zh_TW": "新竹縣第13選區"
+      },
+      "parent_id": "Q74054"
+    },
+    {
       "id": "Q74054",
       "identifiers": [
         {

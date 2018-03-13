@@ -737,6 +737,78 @@
       "parent_id": "Q82357"
     },
     {
+      "id": "Q49933896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第06選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49933997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49933997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第07選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
+      "id": "Q49934086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:nan/county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49934086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254306"
+      ],
+      "type": {
+        "lang:zh_CN": "南投縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Nantou County"
+      },
+      "name": {
+        "lang:zh_TW": "南投縣第08選區"
+      },
+      "parent_id": "Q82357"
+    },
+    {
       "id": "Q82357",
       "identifiers": [
         {

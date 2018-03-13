@@ -1112,6 +1112,222 @@
       "parent_id": "Q194989"
     },
     {
+      "id": "Q49937560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49937560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第08選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49937659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49937659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第09選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49937751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49937751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第10選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49937845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49937845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第11選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49937937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49937937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第12選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49938033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49938033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第13選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49938137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49938137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第14選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49938238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49938238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第15選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
+      "id": "Q49938335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:pif/county-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49938335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255006"
+      ],
+      "type": {
+        "lang:zh_CN": "屏東縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+      },
+      "name": {
+        "lang:zh_TW": "屏東縣第16選區"
+      },
+      "parent_id": "Q194989"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

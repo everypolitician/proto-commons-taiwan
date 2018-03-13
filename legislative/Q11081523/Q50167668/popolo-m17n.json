@@ -1368,6 +1368,54 @@
       "parent_id": "Q244898"
     },
     {
+      "id": "Q49940300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:nwt/county-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49940300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48976144"
+      ],
+      "type": {
+        "lang:zh_CN": "新北市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+      },
+      "name": {
+        "lang:zh_TW": "新北市第11選區"
+      },
+      "parent_id": "Q244898"
+    },
+    {
+      "id": "Q49940403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:nwt/county-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49940403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48976144"
+      ],
+      "type": {
+        "lang:zh_CN": "新北市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+      },
+      "name": {
+        "lang:zh_TW": "新北市第12選區"
+      },
+      "parent_id": "Q244898"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

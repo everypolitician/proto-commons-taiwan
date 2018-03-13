@@ -59,8 +59,8 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "Mayor of special municipality",
-        "position_item_id": "Q50339864"
+        "comment": "mayor",
+        "position_item_id": "Q30185"
       }
     ],
     "area_type_wikidata_item_id": "Q2225003",
@@ -77,8 +77,8 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "County or provincial city mayor",
-        "position_item_id": "Q50339957"
+        "comment": "mayor",
+        "position_item_id": "Q30185"
       }
     ],
     "area_type_wikidata_item_id": "Q83020",
@@ -95,8 +95,8 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "County or provincial city mayor",
-        "position_item_id": "Q50339957"
+        "comment": "mayor",
+        "position_item_id": "Q30185"
       }
     ],
     "area_type_wikidata_item_id": "Q706447",

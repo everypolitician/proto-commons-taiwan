@@ -837,6 +837,54 @@
       "parent_id": "Q63706"
     },
     {
+      "id": "Q49981946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/aboriginal-county-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第07選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
+      "id": "Q49981980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:mia/aboriginal-county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49981980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257021"
+      ],
+      "type": {
+        "lang:zh_CN": "苗栗縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+      },
+      "name": {
+        "lang:zh_TW": "苗栗縣第08選區"
+      },
+      "parent_id": "Q63706"
+    },
+    {
       "id": "Q63706",
       "identifiers": [
         {

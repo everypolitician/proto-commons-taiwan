@@ -1422,6 +1422,54 @@
       "parent_id": "Q245023"
     },
     {
+      "id": "Q49979069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:txg/aboriginal-county-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49979069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q10493791"
+      ],
+      "type": {
+        "lang:zh_CN": "臺中市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taichung"
+      },
+      "name": {
+        "lang:zh_TW": "臺中市第15選區"
+      },
+      "parent_id": "Q245023"
+    },
+    {
+      "id": "Q49979141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:txg/aboriginal-county-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49979141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q10493791"
+      ],
+      "type": {
+        "lang:zh_CN": "臺中市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taichung"
+      },
+      "name": {
+        "lang:zh_TW": "臺中市第16選區"
+      },
+      "parent_id": "Q245023"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

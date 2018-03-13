@@ -1106,6 +1106,30 @@
       "parent_id": "Q133865"
     },
     {
+      "id": "Q49939210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/county:cha/aboriginal-county-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49939210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255147"
+      ],
+      "type": {
+        "lang:zh_CN": "彰化縣議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Changhua County"
+      },
+      "name": {
+        "lang:zh_TW": "彰化縣第09選區"
+      },
+      "parent_id": "Q133865"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

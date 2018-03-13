@@ -1306,6 +1306,54 @@
       "parent_id": "Q115256"
     },
     {
+      "id": "Q49943298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tao/aboriginal-county-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255748"
+      ],
+      "type": {
+        "lang:zh_CN": "桃園市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taoyuan City"
+      },
+      "name": {
+        "lang:zh_TW": "桃園市第13選區"
+      },
+      "parent_id": "Q115256"
+    },
+    {
+      "id": "Q49943385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tao/aboriginal-county-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49943385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255748"
+      ],
+      "type": {
+        "lang:zh_CN": "桃園市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Taoyuan City"
+      },
+      "name": {
+        "lang:zh_TW": "桃園市第14選區"
+      },
+      "parent_id": "Q115256"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

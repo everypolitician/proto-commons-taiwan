@@ -704,6 +704,30 @@
       "parent_id": "Q249994"
     },
     {
+      "id": "Q49940907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:hsz/aboriginal-county-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49940907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49255439"
+      ],
+      "type": {
+        "lang:zh_CN": "新竹市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Hsinchu"
+      },
+      "name": {
+        "lang:zh_TW": "新竹市第06選區"
+      },
+      "parent_id": "Q249994"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

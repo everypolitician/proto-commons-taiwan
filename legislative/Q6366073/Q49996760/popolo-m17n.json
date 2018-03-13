@@ -1419,6 +1419,102 @@
       "parent_id": "Q181557"
     },
     {
+      "id": "Q49986899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:khh/aboriginal-county-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49986899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257749"
+      ],
+      "type": {
+        "lang:zh_CN": "高雄市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kaohsiung City"
+      },
+      "name": {
+        "lang:zh_TW": "高雄市第12選區"
+      },
+      "parent_id": "Q181557"
+    },
+    {
+      "id": "Q49986969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:khh/aboriginal-county-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49986969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257749"
+      ],
+      "type": {
+        "lang:zh_CN": "高雄市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kaohsiung City"
+      },
+      "name": {
+        "lang:zh_TW": "高雄市第13選區"
+      },
+      "parent_id": "Q181557"
+    },
+    {
+      "id": "Q49987034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:khh/aboriginal-county-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49987034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257749"
+      ],
+      "type": {
+        "lang:zh_CN": "高雄市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kaohsiung City"
+      },
+      "name": {
+        "lang:zh_TW": "高雄市第14選區"
+      },
+      "parent_id": "Q181557"
+    },
+    {
+      "id": "Q49987095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:khh/aboriginal-county-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49987095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49257749"
+      ],
+      "type": {
+        "lang:zh_CN": "高雄市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Kaohsiung City"
+      },
+      "name": {
+        "lang:zh_TW": "高雄市第15選區"
+      },
+      "parent_id": "Q181557"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

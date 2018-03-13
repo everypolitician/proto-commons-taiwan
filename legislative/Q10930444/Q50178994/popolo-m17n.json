@@ -735,6 +735,30 @@
       "parent_id": "Q249996"
     },
     {
+      "id": "Q49935600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/city:kee/aboriginal-county-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49935600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49254733"
+      ],
+      "type": {
+        "lang:zh_CN": "基隆市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Keelung"
+      },
+      "name": {
+        "lang:zh_TW": "基隆市第08選區"
+      },
+      "parent_id": "Q249996"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

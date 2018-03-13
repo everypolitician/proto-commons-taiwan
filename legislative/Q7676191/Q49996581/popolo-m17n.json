@@ -1347,6 +1347,54 @@
       "parent_id": "Q140631"
     },
     {
+      "id": "Q49980794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tnn/aboriginal-county-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49980794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256480"
+      ],
+      "type": {
+        "lang:zh_CN": "臺南市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Tainan"
+      },
+      "name": {
+        "lang:zh_TW": "臺南市第17選區"
+      },
+      "parent_id": "Q140631"
+    },
+    {
+      "id": "Q49980858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:tw/special-municipality:tnn/aboriginal-county-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49980858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49256480"
+      ],
+      "type": {
+        "lang:zh_CN": "臺南市議員選區",
+        "lang:en_US": "Constituency of Regional Councilors of Tainan"
+      },
+      "name": {
+        "lang:zh_TW": "臺南市第18選區"
+      },
+      "parent_id": "Q140631"
+    },
+    {
       "id": "Q865",
       "identifiers": [
         {

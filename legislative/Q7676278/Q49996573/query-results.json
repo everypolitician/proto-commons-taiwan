@@ -64,11 +64,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11176040"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃向群"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -96,6 +91,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃向群"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -163,11 +163,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15897619"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鍾小平"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -195,6 +190,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "鍾小平"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -262,11 +262,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15926220"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王閔生"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -294,6 +289,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王閔生"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -361,11 +361,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16904293"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "葉林傳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -393,6 +388,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "葉林傳"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -460,11 +460,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16926490"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何志偉"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -492,6 +487,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "何志偉"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -564,11 +564,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17370642"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "厲耿桂芳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -596,6 +591,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "厲耿桂芳"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -663,11 +663,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17499378"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林世宗"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -695,6 +690,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林世宗"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -743,11 +743,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17499593"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "童仲彥"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -775,6 +770,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "童仲彥"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -842,11 +842,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18226621"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃珊珊"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -874,6 +869,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "黃珊珊"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -941,11 +941,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18653805"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李慶鋒"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -973,6 +968,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李慶鋒"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1040,11 +1040,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18659294"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "謝維洲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1072,6 +1067,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "謝維洲"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1139,11 +1139,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20063502"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李彥秀"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1171,6 +1166,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李彥秀"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1243,11 +1243,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20689197"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "闕枚莎"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1275,6 +1270,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "闕枚莎"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1342,11 +1342,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20689220"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳彥伯"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1374,6 +1369,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳彥伯"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1441,11 +1441,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20689237"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳義洲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1473,6 +1468,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳義洲"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1540,11 +1540,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21016981"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李芳儒"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1572,6 +1567,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李芳儒"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1639,11 +1639,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22099965"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐世勳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1671,6 +1666,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐世勳"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1738,11 +1738,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30942877"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "簡舒培"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1770,6 +1765,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "簡舒培"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1837,11 +1837,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30942878"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王威中"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1869,6 +1864,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王威中"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1936,11 +1936,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30942892"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周威佑"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1968,6 +1963,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周威佑"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2035,11 +2035,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30942894"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "顏若芳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2067,6 +2062,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顏若芳"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2134,11 +2134,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38958796"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許家蓓"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2166,6 +2161,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許家蓓"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2318,11 +2318,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47668356"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳政忠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2350,6 +2345,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳政忠"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2417,11 +2417,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49806361"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李傅中武"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2449,6 +2444,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李傅中武"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2516,11 +2516,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50005539"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳慈慧"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2548,6 +2543,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳慈慧"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2615,11 +2615,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50005922"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "汪志冰"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2647,6 +2642,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "汪志冰"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2714,11 +2714,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50007141"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳重文"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2746,6 +2741,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳重文"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2813,11 +2813,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50011563"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王孝維"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2845,6 +2840,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王孝維"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2912,11 +2912,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50012140"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "江志銘"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2944,6 +2939,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "江志銘"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3011,11 +3011,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50013837"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳永德"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3043,6 +3038,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳永德"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3110,11 +3110,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50014211"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張茂楠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3142,6 +3137,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "張茂楠"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3209,11 +3209,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50014251"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "戴錫欽"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3241,6 +3236,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "戴錫欽"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3308,11 +3308,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50014287"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳孋輝"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3340,6 +3335,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳孋輝"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3407,11 +3407,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50014443"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林亭君"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3439,6 +3434,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林亭君"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3506,11 +3506,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50014512"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳炳甫"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3538,6 +3533,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳炳甫"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3605,11 +3605,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50015312"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭昭巖"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3637,6 +3632,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "郭昭巖"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3704,11 +3704,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50015420"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉耀仁"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3736,6 +3731,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "劉耀仁"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3803,11 +3803,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50015767"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王欣儀"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3835,6 +3830,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王欣儀"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3902,11 +3902,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50016023"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳錦祥"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3934,6 +3929,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳錦祥"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4001,11 +4001,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7250870"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周柏雅"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4033,6 +4028,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "周柏雅"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4100,11 +4100,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8272145"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳建銘"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4132,6 +4127,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "陳建銘"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4180,11 +4180,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274364"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李慶元"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4212,6 +4207,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李慶元"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4284,11 +4284,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275686"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "歐陽龍"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4316,6 +4311,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "歐陽龍"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4388,11 +4388,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275964"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "秦慧珠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4420,6 +4415,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "秦慧珠"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4487,11 +4487,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8277252"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳志剛"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4519,6 +4514,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳志剛"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4586,11 +4586,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8277283"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳碧珠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4618,6 +4613,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳碧珠"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4685,11 +4685,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279467"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐弘庭"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4717,6 +4712,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "徐弘庭"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4784,11 +4784,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8279470"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "應曉薇"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4816,6 +4811,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "應曉薇"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4883,11 +4883,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8348414"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "高嘉瑜"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4915,6 +4910,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "高嘉瑜"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4982,11 +4982,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349100"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許淑華"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5014,6 +5009,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "許淑華"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5081,11 +5081,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349706"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李建昌"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5113,6 +5108,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "李建昌"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5180,11 +5180,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349924"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "梁文傑"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5212,6 +5207,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "梁文傑"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5279,11 +5279,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350423"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王世堅"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5311,6 +5306,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王世堅"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5378,11 +5378,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350455"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳思瑤"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5410,6 +5405,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳思瑤"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5487,11 +5487,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351000"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "洪建益"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5519,6 +5514,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "洪建益"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5586,11 +5586,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351182"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "顏聖冠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5618,6 +5613,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "顏聖冠"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5666,11 +5666,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351582"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林瑞圖"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5698,6 +5693,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林瑞圖"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5765,11 +5765,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8351790"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "阮昭雄"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5797,6 +5792,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "阮昭雄"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5869,11 +5869,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8982750"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林國成"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5901,6 +5896,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "林國成"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5968,11 +5968,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9025162"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘懷宗"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6000,6 +5995,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "潘懷宗"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6067,11 +6067,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9067119"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王鴻薇"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6099,6 +6094,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "王鴻薇"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6166,11 +6166,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9118836"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳世正"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6198,6 +6193,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "吳世正"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",

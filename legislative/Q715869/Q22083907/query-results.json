@@ -18,6 +18,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q10919979-7F350C6C-C0F9-4EA3-8471-D7A2D51A5CCF"
@@ -101,11 +106,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -230,9 +230,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15901623-68933222-73A3-480F-91AA-99178DFD06DE"
+        "value" : "http://www.wikidata.org/entity/statement/Q15901623-1FDD6934-A1FB-48A7-A7C8-F0A7FEBAF14D"
       },
       "district" : {
         "type" : "uri",
@@ -314,11 +319,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -336,6 +336,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -423,11 +428,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -450,6 +450,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -537,11 +542,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -559,6 +559,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -645,11 +650,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "親民黨"
       }
     }, {
       "party" : {
@@ -663,6 +663,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -715,7 +720,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "曾铭宗"
+        "value" : "曾銘宗"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -750,11 +755,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -772,6 +772,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -859,11 +864,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -881,6 +881,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -933,7 +938,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "鄭天財"
+        "value" : "鄭天財Sra‧Kacaw"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -968,11 +973,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -993,9 +993,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18415702-AD4625F5-37D6-4F4C-AC85-BE29D26D1E4E"
+        "value" : "http://www.wikidata.org/entity/statement/Q18415702-06459C8A-A2E4-4212-B00A-6408A39138FB"
       },
       "district" : {
         "type" : "uri",
@@ -1076,11 +1081,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1097,6 +1097,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18659220-79415287-7D81-4314-8428-2015A15FD92F"
@@ -1104,6 +1109,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10907926"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Nantou County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1176,11 +1186,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1201,6 +1206,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19058548-77130FED-CBCC-4FF0-9BEF-A49CCEE46F5B"
@@ -1208,6 +1218,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929243"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1245,7 +1260,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "黃國書 (臺中市政治人物)"
+        "value" : "黃國書"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1280,11 +1295,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1305,6 +1315,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19653988-15F357C8-3BB3-4BC9-8FB1-224FA158E754"
@@ -1312,6 +1327,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025181"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of National Legislators of Changhua County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1384,11 +1404,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1406,6 +1421,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1492,11 +1512,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1513,6 +1528,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825322-606641B5-6B59-45F3-9413-CA1814821CC8"
@@ -1520,6 +1540,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15921474"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Miaoli County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1591,11 +1616,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -1612,6 +1632,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825673-4967A539-8B0F-4B01-B7BB-E921135AEB7A"
@@ -1619,6 +1644,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929265"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of National Legislators of Tainan"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1691,11 +1721,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1713,6 +1738,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1800,11 +1830,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1825,6 +1850,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825797-44EEE7B4-1C38-48A3-A135-02CDAE2FC5BF"
@@ -1832,6 +1862,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929476"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "9th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -1903,11 +1938,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1924,6 +1954,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849340-A4430F9A-8AD5-4084-9EF7-84D4F15F9C2A"
@@ -1931,6 +1966,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025180"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of National Legislators of Changhua County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2002,11 +2042,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -2030,6 +2065,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15886553"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -2126,9 +2166,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19849414-D90CEAA8-BE08-489F-9F4A-492151C84692"
+        "value" : "http://www.wikidata.org/entity/statement/Q19849414-C9FBE92C-EFDB-457E-AD8A-6FB47C89DE57"
       },
       "district" : {
         "type" : "uri",
@@ -2210,11 +2255,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2232,6 +2272,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -2318,11 +2363,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -2388,12 +2428,12 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "kawloiyunpacidal"
+        "value" : "高潞‧以用‧巴魕剌Kawlo‧Iyun‧Pacidal"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "kawloiyunpacidal"
+        "value" : "高潞‧以用‧巴魕剌Kawlo‧Iyun‧Pacidal"
       },
       "org" : {
         "type" : "uri",
@@ -2440,6 +2480,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -2527,11 +2572,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2549,6 +2589,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -2601,12 +2646,12 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "kolasyotaka"
+        "value" : "谷辣斯‧尤達卡Kolasyotaka"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "kolasyotaka"
+        "value" : "谷辣斯‧尤達卡Kolasyotaka"
       },
       "org" : {
         "type" : "uri",
@@ -2636,17 +2681,31 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kolas Yotaka"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "party_name_zh" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨籍政治人物"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "無黨籍政治人物"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22100240-7C2D9EE6-337A-4704-B122-6A6E072236F3"
@@ -2751,9 +2810,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22773998-2f0bd372-4bf7-ce9c-417f-e20c192a9b02"
+        "value" : "http://www.wikidata.org/entity/statement/Q22773998-CF2329B2-4D6C-4072-8208-024E7E34BF98"
       },
       "district" : {
         "type" : "uri",
@@ -2835,11 +2899,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2857,6 +2916,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -2943,11 +3007,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -2961,6 +3020,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3048,11 +3112,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3070,6 +3129,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3157,11 +3221,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3179,6 +3238,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3265,11 +3329,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -3283,6 +3342,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3370,11 +3434,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3392,6 +3451,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3478,11 +3542,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -3496,6 +3555,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3583,11 +3647,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3605,6 +3664,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -3692,11 +3756,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3714,6 +3773,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3800,11 +3864,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-26T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -3818,6 +3877,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -3905,11 +3969,6 @@
         "type" : "literal",
         "value" : "2016-10-04T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3927,6 +3986,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -4014,11 +4078,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4036,6 +4095,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -4123,11 +4187,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4145,6 +4204,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -4232,11 +4296,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "親民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4257,6 +4316,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3846662-F9B2C696-847B-48D6-B2BC-341F05BFAA6C"
@@ -4264,6 +4328,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929478"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -4336,11 +4405,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4358,6 +4422,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4445,11 +4514,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4470,13 +4534,23 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5090859-E35F0643-3875-4583-B3E6-CCF355966753"
+        "value" : "http://www.wikidata.org/entity/statement/Q5090859-33B9914A-331E-4686-A860-95107873FF43"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17023496"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Chiayi County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -4549,11 +4623,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4571,6 +4640,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4658,11 +4732,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4680,6 +4749,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -4767,11 +4841,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4797,13 +4866,23 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6653712-E31CD38F-8C74-403F-915C-19ED7615C39D"
+        "value" : "http://www.wikidata.org/entity/statement/Q6653712-F40F3FA7-4507-4E8D-858F-4F652097F33F"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929475"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -4875,11 +4954,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -5005,6 +5079,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q700752-F29117F1-02FE-4CAB-BB0B-8115F97DA317"
@@ -5089,11 +5168,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5111,6 +5185,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5198,11 +5277,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5220,6 +5294,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5307,11 +5386,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5332,6 +5406,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q709508-37542A76-5745-4CDF-94F6-FD6FDD03C2DC"
@@ -5339,6 +5418,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16928859"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of National Legislators of Tainan"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -5411,11 +5495,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5433,6 +5512,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -5520,11 +5604,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5542,6 +5621,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5629,11 +5713,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5651,6 +5730,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5738,11 +5822,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5760,6 +5839,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5847,11 +5931,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5873,6 +5952,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -5959,11 +6043,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -5977,6 +6056,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6064,11 +6148,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6086,6 +6165,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6173,11 +6257,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6195,6 +6274,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6247,12 +6331,12 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "簡東明Uliw‧Qaljupayare"
+        "value" : "簡東明"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "簡東明Uliw‧Qaljupayare"
+        "value" : "簡東明"
       },
       "org" : {
         "type" : "uri",
@@ -6282,11 +6366,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6304,6 +6383,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6391,11 +6475,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6416,9 +6495,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8274398-2B5C7EBB-0254-4ECE-9F95-09843B6145B4"
+        "value" : "http://www.wikidata.org/entity/statement/Q8274398-F5F8328F-CC6D-45AA-A78E-0DA3772AE3C9"
       },
       "district" : {
         "type" : "uri",
@@ -6465,12 +6549,12 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "廖國棟Sufin‧Siluko"
+        "value" : "廖國棟"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "廖國棟Sufin‧Siluko"
+        "value" : "廖國棟"
       },
       "org" : {
         "type" : "uri",
@@ -6500,11 +6584,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6525,6 +6604,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274707-4B322BB5-3187-4E7D-ABF8-A80FA57C574E"
@@ -6532,6 +6616,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929241"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -6603,11 +6692,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6621,6 +6705,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "親民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "親民黨"
       },
@@ -6673,7 +6762,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "李鴻鈞 (立委)"
+        "value" : "李鴻鈞"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6708,11 +6797,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "親民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -6730,6 +6814,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6782,7 +6871,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "林德福 (立法委員)"
+        "value" : "林德福"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6816,11 +6905,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6834,6 +6918,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -6920,11 +7009,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -6938,6 +7022,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7025,11 +7114,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7047,6 +7131,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7099,7 +7188,7 @@
       "name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "吳志揚 (政治人物)"
+        "value" : "吳志揚"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7134,11 +7223,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7159,6 +7243,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8278820-45FACA2F-AF5E-4F2A-89C9-BF2ABAD9B0E5"
@@ -7166,6 +7255,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15886544"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7238,11 +7332,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7263,6 +7352,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279603-A435A56F-05E8-47F4-AE66-2652729A07AD"
@@ -7270,6 +7364,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929242"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "8th Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7342,11 +7441,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7367,6 +7461,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279684-C2233B9A-C617-457E-AD27-1EF9059CFE67"
@@ -7374,6 +7473,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025178"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Changhua County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7446,11 +7550,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7468,6 +7567,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -7554,11 +7658,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -7575,6 +7674,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8279858-0E0A4D9E-792B-4306-979B-E07234766455"
@@ -7582,6 +7686,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19432862"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Nantou County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7654,11 +7763,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7679,6 +7783,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347319-A1F00189-4F73-4F46-8C38-76D2117DD24E"
@@ -7686,6 +7795,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15886139"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -7758,11 +7872,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7780,6 +7889,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -7867,11 +7981,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7889,6 +7998,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -7975,11 +8089,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -7996,6 +8105,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347665-bd137f54-4472-a077-783c-4f15db98654b"
@@ -8003,6 +8117,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929474"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8074,11 +8193,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -8092,6 +8206,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8179,11 +8298,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8201,6 +8315,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8288,11 +8407,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8313,6 +8427,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347820-9488B444-D80B-41B8-AE90-7487A0EECFA3"
@@ -8320,6 +8439,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929264"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of National Legislators of Tainan"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8392,11 +8516,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8414,6 +8533,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8501,11 +8625,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8523,6 +8642,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8610,11 +8734,6 @@
         "type" : "literal",
         "value" : "2016-09-02T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8632,6 +8751,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -8719,11 +8843,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8744,6 +8863,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348653-3B84217B-E477-489A-BAC3-CB952DC3FC9F"
@@ -8751,6 +8875,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17022795"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Tainan"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8823,11 +8952,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8848,6 +8972,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8348788-852D0A71-565A-4432-AE68-B35AADCD8205"
@@ -8855,6 +8984,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929240"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "7th Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -8927,11 +9061,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8949,6 +9078,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9036,11 +9170,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -9061,6 +9190,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349077-E44CE65E-541D-4750-8745-B7F0BC71BA63"
@@ -9068,6 +9202,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929479"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "8th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9140,11 +9279,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9165,6 +9299,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349282-048D42BC-96C6-42B7-B7EA-EC7ABEF3FCB3"
@@ -9172,6 +9311,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17025179"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Changhua County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9244,11 +9388,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9266,6 +9405,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9352,11 +9496,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -9370,6 +9509,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9457,11 +9601,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9482,6 +9621,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349646-EB480813-C007-4F55-9E1A-BC1CCA252C55"
@@ -9489,6 +9633,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17035924"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Yunlin County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9561,11 +9710,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9583,6 +9727,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -9670,11 +9819,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9695,6 +9839,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349723-F07D9689-9942-44A7-BF07-300FC2D473CF"
@@ -9702,6 +9851,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929480"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "6th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9774,11 +9928,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9799,6 +9948,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349768-D64C2223-0E38-4900-8081-B2DEDD0C1E0C"
@@ -9806,6 +9960,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16929481"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "4th Constituency of National Legislators of Kaohsiung City"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9878,11 +10037,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9903,6 +10057,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350160-92E7C7EA-ED59-4D4F-BA9C-AA9800D00C81"
@@ -9910,6 +10069,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19432866"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Yunlin County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -9982,11 +10146,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10004,6 +10163,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10091,11 +10255,6 @@
         "type" : "literal",
         "value" : "2016-05-26T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10116,6 +10275,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350223-6C17AFF4-C706-444F-BD14-D8FF1E79407D"
@@ -10123,6 +10287,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11042758"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Pingtung County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10194,11 +10363,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10215,6 +10379,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350279-7FFF27BD-82EB-480B-9070-6A01DAEC31EB"
@@ -10222,6 +10391,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15886536"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Taichung"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10294,11 +10468,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10319,6 +10488,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350388-9C5FF6C1-8B50-4185-B146-480745BA6BDB"
@@ -10326,6 +10500,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17023495"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Chiayi County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -10397,11 +10576,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10415,6 +10589,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10502,11 +10681,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10524,6 +10698,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10610,11 +10789,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -10628,6 +10802,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10715,11 +10894,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10737,6 +10911,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10824,11 +11003,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10846,6 +11020,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -10933,11 +11112,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10958,6 +11132,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350727-B85E879B-12F6-4070-AAF9-55404544C653"
@@ -10965,6 +11144,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15944591"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "1st Constituency of National Legislators of Tainan"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11037,11 +11221,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11059,6 +11238,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11146,11 +11330,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11168,6 +11347,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11254,11 +11438,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -11275,6 +11454,11 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8351019-0413CA76-2BED-4642-A1CF-44485DD48FF7"
@@ -11282,6 +11466,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17024900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "3rd Constituency of National Legislators of Pingtung County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11354,11 +11543,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11376,6 +11560,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11463,11 +11652,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11490,6 +11674,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -11576,11 +11765,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -11597,13 +11781,23 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8351814-4DE193B2-8D36-4CB8-A769-B7F4A48789EC"
+        "value" : "http://www.wikidata.org/entity/statement/Q8351814-AB10FC56-68B6-45C2-885A-5EEBB2F159F7"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17024901"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "2nd Constituency of National Legislators of Pingtung County"
       },
       "district_name_zh" : {
         "xml:lang" : "zh",
@@ -11676,11 +11870,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11698,6 +11887,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11785,11 +11979,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11807,6 +11996,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -11894,11 +12088,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11916,6 +12105,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -12003,11 +12197,6 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12030,7 +12219,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8967661-0E959DCF-C74E-4B46-8190-E9B8D4E2DADE"
+        "value" : "http://www.wikidata.org/entity/statement/Q8967661-727DCB67-05AB-481D-B85B-A76BC703BA8A"
       },
       "district" : {
         "type" : "uri",
@@ -12132,9 +12321,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "民主進步黨"
+      },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q9130647-a011551b-482d-5bab-ffb2-aa29054aa312"
+        "value" : "http://www.wikidata.org/entity/statement/Q9130647-6C152FF7-7AC1-444C-83D4-E9201109EBF5"
       },
       "district" : {
         "type" : "uri",
@@ -12215,11 +12409,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -12349,6 +12538,11 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q9346217-AA3C1DBB-14AB-4930-94B4-309A663F3748"
@@ -12432,11 +12626,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "name_en" : {
         "xml:lang" : "en",

@@ -1,73 +1,14 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:zh_CN": "徐耀昌",
-        "lang:en_US": "Hsu Yao-chang"
-      },
-      "id": "Q8276570",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q8276570"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:zh_CN": "苗栗縣政府",
-        "lang:en_US": "Miaoli County Government"
-      },
-      "id": "Q15909984",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15909984"
-        }
-      ],
-      "area_id": "Q63706"
-    },
-    {
-      "name": {
-        "lang:zh_CN": "中國國民黨",
-        "lang:en_US": "Kuomintang"
-      },
-      "id": "Q31113",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q31113"
-        }
-      ]
-    }
+
   ],
   "areas": [
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8276570-1f085c10-407c-2de6-d7e6-bcdab69e05a5",
-      "person_id": "Q8276570",
-      "on_behalf_of_id": "Q31113",
-      "organization_id": "Q15909984",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:zh_CN": "市长",
-        "lang:en_US": "mayor"
-      },
-      "role_code": "Q50305971",
-      "role": {
-        "lang:zh_CN": "苗栗縣縣長",
-        "lang:en_US": "Mayor of Miaoli County"
-      }
-    }
+
   ]
 }

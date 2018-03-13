@@ -1,73 +1,14 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:zh_CN": "潘孟安",
-        "lang:en_US": "Pan Meng-an"
-      },
-      "id": "Q8350110",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q8350110"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:zh_CN": "屏東縣政府",
-        "lang:en_US": "Pingtung County Government"
-      },
-      "id": "Q11042707",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q11042707"
-        }
-      ],
-      "area_id": "Q194989"
-    },
-    {
-      "name": {
-        "lang:zh_CN": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
-      },
-      "id": "Q903822",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q903822"
-        }
-      ]
-    }
+
   ],
   "areas": [
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8350110-062291d7-493f-26c0-1395-132cf19e8c9d",
-      "person_id": "Q8350110",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q11042707",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:zh_CN": "市长",
-        "lang:en_US": "mayor"
-      },
-      "role_code": "Q50306369",
-      "role": {
-        "lang:zh_CN": "屏東縣縣長",
-        "lang:en_US": "Mayor of Pingtung County"
-      }
-    }
+
   ]
 }

@@ -15,25 +15,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:zh_CN": "林佳龍",
-        "lang:en_US": "Lin Chia-lung"
-      },
-      "id": "Q6550004",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6550004"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/forpeople"
-        }
-      ]
     }
   ],
   "organizations": [
@@ -65,20 +46,6 @@
           "identifier": "Q31113"
         }
       ]
-    },
-    {
-      "name": {
-        "lang:zh_CN": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
-      },
-      "id": "Q903822",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q903822"
-        }
-      ]
     }
   ],
   "areas": [
@@ -90,23 +57,6 @@
       "person_id": "Q284597",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q15898718",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:zh_CN": "市长",
-        "lang:en_US": "mayor"
-      },
-      "role_code": "Q6797822",
-      "role": {
-        "lang:zh_CN": "臺中市市長",
-        "lang:en_US": "Mayor of Taichung"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6550004-67294d63-4bff-dd98-42b0-81a8f648b0e4",
-      "person_id": "Q6550004",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q15898718",
-      "start_date": "2014-12-25",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh_CN": "市长",

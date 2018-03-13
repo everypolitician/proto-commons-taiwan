@@ -122,6 +122,21 @@
     },
     {
       "name": {
+        "lang:zh_CN": "吳宗憲"
+      },
+      "id": "Q21055059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21055059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh_CN": "趙正宇",
         "lang:en_US": "Chao Cheng-yu"
       },
@@ -873,25 +888,6 @@
     },
     {
       "name": {
-        "lang:zh_CN": "吳宗憲",
-        "lang:en_US": "Jacky Wu"
-      },
-      "id": "Q697458",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q697458"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/jackywuofficial"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:zh_CN": "林正峰"
       },
       "id": "Q8275249",
@@ -1428,6 +1424,17 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943037",
       "start_date": "2014-12-25",
+      "role_code": "Q49255748",
+      "role": {
+        "lang:zh_CN": "桃園市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21055059-800DE1BB-31AF-493B-A786-6C46049C7BC8",
+      "person_id": "Q21055059",
+      "organization_id": "Q11112210",
+      "area_id": "Q49943205",
+      "start_date": "2015-08-24",
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2029,17 +2036,6 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942949",
       "start_date": "2014-12-25",
-      "role_code": "Q49255748",
-      "role": {
-        "lang:zh_CN": "桃園市議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q697458-B6237632-8D52-448C-AFBA-B299EF7D56C7",
-      "person_id": "Q697458",
-      "organization_id": "Q11112210",
-      "area_id": "Q49943205",
-      "start_date": "2015-08-24",
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"

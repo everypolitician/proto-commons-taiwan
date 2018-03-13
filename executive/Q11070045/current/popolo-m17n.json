@@ -1,73 +1,14 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:zh_CN": "魏明谷",
-        "lang:en_US": "Wei Ming-ku"
-      },
-      "id": "Q8350592",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q8350592"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:zh_CN": "彰化縣政府",
-        "lang:en_US": "Changhua County Government"
-      },
-      "id": "Q11070045",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q11070045"
-        }
-      ],
-      "area_id": "Q133865"
-    },
-    {
-      "name": {
-        "lang:zh_CN": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
-      },
-      "id": "Q903822",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q903822"
-        }
-      ]
-    }
+
   ],
   "areas": [
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8350592-03e19cfd-4535-a345-2f4d-e88a968f1bfa",
-      "person_id": "Q8350592",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q11070045",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:zh_CN": "市长",
-        "lang:en_US": "mayor"
-      },
-      "role_code": "Q50290512",
-      "role": {
-        "lang:zh_CN": "彰化縣縣長",
-        "lang:en_US": "Mayor of Changhua"
-      }
-    }
+
   ]
 }

@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:zh_CN": "蔡玉玲",
-        "lang:en_US": "Jaclyn Tsai"
-      },
-      "id": "Q15704593",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15704593"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh_CN": "黃瑞華"
       },
       "id": "Q15945432",
@@ -484,6 +468,21 @@
     },
     {
       "name": {
+        "lang:zh_CN": "蔡玉玲"
+      },
+      "id": "Q50369028",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50369028"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh_CN": "陳宏宗"
       },
       "id": "Q9367492",
@@ -740,18 +739,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q15704593-B79FDA28-242A-47CE-92D4-7C3562FFD281",
-      "person_id": "Q15704593",
-      "on_behalf_of_id": "Q31113",
-      "organization_id": "Q15908339",
-      "area_id": "Q49981429",
-      "start_date": "2014-12-25",
-      "role_code": "Q49256666",
-      "role": {
-        "lang:zh_CN": "臺東縣議員"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q15945432-8D9AB0AF-82FE-489D-A953-5C48719DB87D",
       "person_id": "Q15945432",
@@ -1126,6 +1113,18 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q15908339",
       "area_id": "Q49981463",
+      "start_date": "2014-12-25",
+      "role_code": "Q49256666",
+      "role": {
+        "lang:zh_CN": "臺東縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50369028-5AF156D7-5099-4DC3-898B-FECE9EE7F27C",
+      "person_id": "Q50369028",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15908339",
+      "area_id": "Q49981429",
       "start_date": "2014-12-25",
       "role_code": "Q49256666",
       "role": {

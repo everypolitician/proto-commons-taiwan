@@ -141,23 +141,6 @@
   },
   {
     "directory": "county-regional-constituencies",
-    "area_type_wikidata_item_id": "Q50314184",
-    "associations": [
-      {
-        "comment": "南投縣議員",
-        "position_item_id": "Q49254306"
-      }
-    ],
-    "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
-    },
-    "filter": {
-      "match": "country:tw/county:nan",
-      "column": "MS_FB_PARE"
-    }
-  },
-  {
-    "directory": "county-regional-constituencies",
     "area_type_wikidata_item_id": "Q50314187",
     "associations": [
       {

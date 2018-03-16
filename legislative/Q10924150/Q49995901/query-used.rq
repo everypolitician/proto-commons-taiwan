@@ -3,8 +3,9 @@ SELECT ?statement
        ?party ?party_name_zh_tw ?party_name_zh ?party_name_en
        ?district ?district_name_zh_tw ?district_name_zh ?district_name_en
        ?role ?role_zh_tw ?role_zh ?role_en
+       ?role_superclass ?role_superclass_zh_tw ?role_superclass_zh ?role_superclass_en
        ?start ?end ?facebook
-       ?org ?org_zh_tw ?org_zh ?org_en ?org_jurisdiction
+       ?org ?org_zh_tw ?org_zh ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q49254596 as ?role) .
   BIND(wd:Q10924150 as ?org) .
@@ -22,6 +23,9 @@ OPTIONAL {
         }
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
+  }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
   }
   ?item p:P39 ?statement .
   OPTIONAL {
@@ -49,6 +53,22 @@ OPTIONAL {
           ?role rdfs:label ?role_en
           FILTER(LANG(?role_en) = "en")
         }
+  OPTIONAL {
+    ?role wdt:P279 ?role_superclass .
+    ?role_superclass wdt:P279+ wd:Q4175034
+    OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_zh_tw
+          FILTER(LANG(?role_superclass_zh_tw) = "zh-tw")
+        }
+OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_zh
+          FILTER(LANG(?role_superclass_zh) = "zh")
+        }
+OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_en
+          FILTER(LANG(?role_superclass_en) = "en")
+        }
+  }
   ?statement pq:P2937 wd:Q49995901 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }

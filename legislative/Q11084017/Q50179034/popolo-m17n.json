@@ -526,7 +526,10 @@
           "identifier": "Q11084017"
         }
       ],
-      "area_id": "Q249994"
+      "area_id": "Q249994",
+      "seat_counts": {
+        "Q49255439": "33"
+      }
     },
     {
       "name": {
@@ -761,6 +764,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -772,6 +780,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -783,6 +796,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -794,6 +812,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -805,6 +828,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -817,6 +845,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -829,6 +862,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -841,6 +879,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2016-04-26",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -853,6 +896,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -865,6 +913,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -877,6 +930,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -889,6 +947,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -900,6 +963,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -913,6 +981,11 @@
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
       "end_date": "2016-04-26",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -924,6 +997,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -936,6 +1014,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -947,6 +1030,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -959,6 +1047,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940656",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -971,6 +1064,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940656",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -983,6 +1081,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -994,6 +1097,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1006,6 +1114,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1017,6 +1130,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1028,6 +1146,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1040,6 +1163,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1052,6 +1180,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1064,6 +1197,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1076,6 +1214,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940825",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1088,6 +1231,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940907",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1100,6 +1248,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1112,6 +1265,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1124,6 +1282,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940493",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1136,6 +1299,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"
@@ -1148,6 +1316,11 @@
       "organization_id": "Q11084017",
       "area_id": "Q49940747",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255439",
       "role": {
         "lang:zh_CN": "新竹市議員"

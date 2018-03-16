@@ -676,7 +676,10 @@
           "identifier": "Q15908941"
         }
       ],
-      "area_id": "Q153221"
+      "area_id": "Q153221",
+      "seat_counts": {
+        "Q49257574": "43"
+      }
     },
     {
       "name": {
@@ -924,6 +927,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -936,6 +944,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -947,6 +960,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -960,6 +978,11 @@
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
       "end_date": "2016-09-11",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -971,6 +994,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -983,6 +1011,11 @@
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
       "end_date": "2016-03-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -994,6 +1027,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1006,6 +1044,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1017,6 +1060,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1029,6 +1077,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1041,6 +1094,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1052,6 +1110,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1064,6 +1127,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1076,6 +1144,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1087,6 +1160,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1098,6 +1176,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985807",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1109,6 +1192,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2016-04-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1121,6 +1209,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1133,6 +1226,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1144,6 +1242,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1155,6 +1258,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1166,6 +1274,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1178,6 +1291,11 @@
       "area_id": "Q49985867",
       "start_date": "2014-12-25",
       "end_date": "2016-04-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1190,6 +1308,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1201,6 +1324,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1213,6 +1341,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1225,6 +1358,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1237,6 +1375,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985930",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1249,6 +1392,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1260,6 +1408,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1272,6 +1425,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1283,6 +1441,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1294,6 +1457,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1306,6 +1474,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1317,6 +1490,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1329,6 +1507,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1340,6 +1523,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1351,6 +1539,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1363,6 +1556,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1374,6 +1572,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1385,6 +1588,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1396,6 +1604,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986113",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1408,6 +1621,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49985990",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"
@@ -1420,6 +1638,11 @@
       "organization_id": "Q15908941",
       "area_id": "Q49986050",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49257574",
       "role": {
         "lang:zh_CN": "雲林縣議員"

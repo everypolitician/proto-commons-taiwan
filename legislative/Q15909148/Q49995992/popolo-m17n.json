@@ -541,7 +541,10 @@
           "identifier": "Q15909148"
         }
       ],
-      "area_id": "Q237258"
+      "area_id": "Q237258",
+      "seat_counts": {
+        "Q49254881": "34"
+      }
     },
     {
       "name": {
@@ -956,6 +959,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936310",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -968,6 +976,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935856",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -980,6 +993,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936405",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -992,6 +1010,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1004,6 +1027,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1016,6 +1044,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1028,6 +1061,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1040,6 +1078,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1051,6 +1094,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1063,6 +1111,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935685",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1075,6 +1128,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935767",
       "start_date": "2015-06-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1087,6 +1145,11 @@
       "area_id": "Q49935767",
       "start_date": "2014-12-25",
       "end_date": "2015-06-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1099,6 +1162,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935767",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1111,6 +1179,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935856",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1123,6 +1196,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935946",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1135,6 +1213,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49935946",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1147,6 +1230,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936042",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1159,6 +1247,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936042",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1171,6 +1264,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936132",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1183,6 +1281,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936132",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1195,6 +1298,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936132",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1207,6 +1315,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936132",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1219,6 +1332,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936132",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1231,6 +1349,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936222",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1243,6 +1366,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936222",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1255,6 +1383,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936222",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1267,6 +1400,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936310",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1280,6 +1418,11 @@
       "area_id": "Q49936310",
       "start_date": "2014-12-25",
       "end_date": "2016-08-13",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1292,6 +1435,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936310",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1304,6 +1452,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936499",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1316,6 +1469,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936499",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1327,6 +1485,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936499",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1338,6 +1501,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936594",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1349,6 +1517,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936691",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"
@@ -1361,6 +1534,11 @@
       "organization_id": "Q15909148",
       "area_id": "Q49936786",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254881",
       "role": {
         "lang:zh_CN": "宜蘭縣議員"

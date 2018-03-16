@@ -375,7 +375,10 @@
           "identifier": "Q10924120"
         }
       ],
-      "area_id": "Q249995"
+      "area_id": "Q249995",
+      "seat_counts": {
+        "Q49254452": "24"
+      }
     },
     {
       "name": {
@@ -528,6 +531,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -539,6 +547,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -550,6 +563,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -562,6 +580,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -574,6 +597,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -586,6 +614,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -597,6 +630,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -609,6 +647,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -621,6 +664,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -632,6 +680,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -644,6 +697,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -656,6 +714,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -668,6 +731,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934181",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -680,6 +748,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -691,6 +764,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -702,6 +780,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -713,6 +796,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -725,6 +813,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -736,6 +829,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -747,6 +845,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -758,6 +861,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -769,6 +877,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -781,6 +894,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"
@@ -793,6 +911,11 @@
       "organization_id": "Q10924120",
       "area_id": "Q49934270",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254452",
       "role": {
         "lang:zh_CN": "嘉義市議員"

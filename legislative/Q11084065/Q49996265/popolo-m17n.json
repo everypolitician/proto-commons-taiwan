@@ -586,7 +586,10 @@
           "identifier": "Q11084065"
         }
       ],
-      "area_id": "Q74054"
+      "area_id": "Q74054",
+      "seat_counts": {
+        "Q49255593": "36"
+      }
     },
     {
       "name": {
@@ -1031,6 +1034,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941929",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1044,6 +1052,11 @@
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
       "end_date": "2017-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1056,6 +1069,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1068,6 +1086,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1080,6 +1103,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1092,6 +1120,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1104,6 +1137,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1116,6 +1154,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1128,6 +1171,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1139,6 +1187,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1152,6 +1205,11 @@
       "area_id": "Q49941083",
       "start_date": "2014-12-25",
       "end_date": "2016-01-27",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1164,6 +1222,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941083",
       "start_date": "2016-01-06",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1177,6 +1240,11 @@
       "area_id": "Q49941083",
       "start_date": "2014-12-25",
       "end_date": "2016-01-06",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1189,6 +1257,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941083",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1200,6 +1273,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941083",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1212,6 +1290,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941083",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1224,6 +1307,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941171",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1236,6 +1324,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941171",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1248,6 +1341,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941171",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1260,6 +1358,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941171",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1272,6 +1375,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941263",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1283,6 +1391,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941263",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1295,6 +1408,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941354",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1307,6 +1425,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941354",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1319,6 +1442,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941460",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1331,6 +1459,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941539",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1343,6 +1476,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1355,6 +1493,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941647",
       "start_date": "2016-03-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1368,6 +1511,11 @@
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
       "end_date": "2016-03-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1380,6 +1528,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1392,6 +1545,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1405,6 +1563,11 @@
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
       "end_date": "2017-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1417,6 +1580,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941647",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1428,6 +1596,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941738",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1440,6 +1613,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49941831",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1452,6 +1630,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49942018",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1464,6 +1647,11 @@
       "organization_id": "Q11084065",
       "area_id": "Q49942109",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"
@@ -1477,6 +1665,11 @@
       "area_id": "Q49940994",
       "start_date": "2014-12-25",
       "end_date": "2016-01-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255593",
       "role": {
         "lang:zh_CN": "新竹縣議員"

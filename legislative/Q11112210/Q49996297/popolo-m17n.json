@@ -932,7 +932,10 @@
           "identifier": "Q11112210"
         }
       ],
-      "area_id": "Q115256"
+      "area_id": "Q115256",
+      "seat_counts": {
+        "Q49255748": "60"
+      }
     },
     {
       "name": {
@@ -1387,6 +1390,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1399,6 +1407,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943385",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1411,6 +1424,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942296",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1423,6 +1441,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1435,6 +1458,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1448,6 +1476,11 @@
       "area_id": "Q49942949",
       "start_date": "2014-12-25",
       "end_date": "2016-01-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1460,6 +1493,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1472,6 +1510,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943037",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1483,6 +1526,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943205",
       "start_date": "2015-08-24",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1495,6 +1543,11 @@
       "area_id": "Q49942394",
       "start_date": "2014-12-25",
       "end_date": "2016-01-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1507,6 +1560,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1519,6 +1577,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1531,6 +1594,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1543,6 +1611,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942949",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1555,6 +1628,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942394",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1567,6 +1645,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1579,6 +1662,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1591,6 +1679,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1603,6 +1696,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1615,6 +1713,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1627,6 +1730,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1639,6 +1747,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1651,6 +1764,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1663,6 +1781,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1675,6 +1798,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942296",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1687,6 +1815,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942296",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1699,6 +1832,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942394",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1711,6 +1849,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942394",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1723,6 +1866,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942394",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1735,6 +1883,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942490",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1747,6 +1900,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942490",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1759,6 +1917,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942490",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1771,6 +1934,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942490",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1783,6 +1951,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942588",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1795,6 +1968,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942588",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1807,6 +1985,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942678",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1819,6 +2002,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942678",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1831,6 +2019,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942678",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1843,6 +2036,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1855,6 +2053,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1867,6 +2070,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1880,6 +2088,11 @@
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
       "end_date": "2016-03-28",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1892,6 +2105,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1904,6 +2122,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942764",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1916,6 +2139,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1928,6 +2156,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1940,6 +2173,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1952,6 +2190,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1964,6 +2207,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942859",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1976,6 +2224,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942949",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -1988,6 +2241,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943037",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2000,6 +2258,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943037",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2012,6 +2275,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943122",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2024,6 +2292,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943205",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2036,6 +2309,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943298",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2048,6 +2326,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943298",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2060,6 +2343,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943298",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2072,6 +2360,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49943385",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2084,6 +2377,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942949",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2096,6 +2394,11 @@
       "organization_id": "Q11112210",
       "area_id": "Q49942296",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"
@@ -2109,6 +2412,11 @@
       "area_id": "Q49943205",
       "start_date": "2014-12-25",
       "end_date": "2015-08-24",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255748",
       "role": {
         "lang:zh_CN": "桃園市議員"

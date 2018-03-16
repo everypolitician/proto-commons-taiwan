@@ -511,7 +511,10 @@
           "identifier": "Q15909304"
         }
       ],
-      "area_id": "Q249868"
+      "area_id": "Q249868",
+      "seat_counts": {
+        "Q49256840": "33"
+      }
     },
     {
       "name": {
@@ -843,6 +846,11 @@
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
       "end_date": "2016-09-02",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -855,6 +863,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -867,6 +880,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981682",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -879,6 +897,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -891,6 +914,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -903,6 +931,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -915,6 +948,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -927,6 +965,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -939,6 +982,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -951,6 +999,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -963,6 +1016,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981513",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -975,6 +1033,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981513",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -986,6 +1049,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -998,6 +1066,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1010,6 +1083,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1022,6 +1100,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1033,6 +1116,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1045,6 +1133,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1057,6 +1150,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1069,6 +1167,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981536",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1081,6 +1184,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981560",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1092,6 +1200,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981560",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1104,6 +1217,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981560",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1115,6 +1233,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981584",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1127,6 +1250,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981584",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1138,6 +1266,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981584",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1150,6 +1283,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981606",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1161,6 +1299,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981606",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1172,6 +1315,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981629",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1184,6 +1332,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981629",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1196,6 +1349,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981653",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1208,6 +1366,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981711",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"
@@ -1220,6 +1383,11 @@
       "organization_id": "Q15909304",
       "area_id": "Q49981489",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49256840",
       "role": {
         "lang:zh_CN": "花蓮縣議員"

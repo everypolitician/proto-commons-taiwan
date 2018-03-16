@@ -192,7 +192,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0",
       "person_id": "Q6127766",
-      "on_behalf_of_id": "Q950326",
+      "on_behalf_of_id": "Q31113",
       "organization_id": "Q715055",
       "area_id": "Q865",
       "role_superclass_code": "Q702650",
@@ -209,7 +209,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0",
       "person_id": "Q6127766",
-      "on_behalf_of_id": "Q31113",
+      "on_behalf_of_id": "Q950326",
       "organization_id": "Q715055",
       "area_id": "Q865",
       "role_superclass_code": "Q702650",

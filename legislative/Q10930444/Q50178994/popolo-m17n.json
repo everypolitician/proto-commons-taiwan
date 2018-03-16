@@ -481,7 +481,10 @@
           "identifier": "Q10930444"
         }
       ],
-      "area_id": "Q249996"
+      "area_id": "Q249996",
+      "seat_counts": {
+        "Q49254733": "31"
+      }
     },
     {
       "name": {
@@ -792,6 +795,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935268",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -804,6 +812,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935268",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -816,6 +829,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935001",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -828,6 +846,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935001",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -840,6 +863,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935001",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -852,6 +880,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935099",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -864,6 +897,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935099",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -876,6 +914,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935099",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -888,6 +931,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935186",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -900,6 +948,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935186",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -912,6 +965,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935186",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -924,6 +982,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935268",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -936,6 +999,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935268",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -948,6 +1016,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -960,6 +1033,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -972,6 +1050,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -984,6 +1067,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -996,6 +1084,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1008,6 +1101,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1019,6 +1117,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935428",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1031,6 +1134,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935428",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1043,6 +1151,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935428",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1055,6 +1168,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935519",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1067,6 +1185,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935519",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1079,6 +1202,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935519",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1090,6 +1218,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935519",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1101,6 +1234,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935600",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1113,6 +1251,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935099",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1125,6 +1268,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935001",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1138,6 +1286,11 @@
       "area_id": "Q49935344",
       "start_date": "2014-12-25",
       "end_date": "2016-01-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"
@@ -1150,6 +1303,11 @@
       "organization_id": "Q10930444",
       "area_id": "Q49935186",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49254733",
       "role": {
         "lang:zh_CN": "基隆市議員"

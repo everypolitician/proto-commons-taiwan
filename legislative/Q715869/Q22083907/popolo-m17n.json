@@ -1873,7 +1873,10 @@
           "identifier": "Q715869"
         }
       ],
-      "area_id": "Q865"
+      "area_id": "Q865",
+      "seat_counts": {
+        "Q6310593": "113"
+      }
     },
     {
       "name": {
@@ -4372,6 +4375,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112202",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4385,6 +4393,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928978",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4398,6 +4411,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4412,6 +4430,11 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-08-31",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4425,6 +4448,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926780",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4438,6 +4466,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4451,6 +4484,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4464,6 +4502,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928962",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4477,6 +4520,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21041600",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4490,6 +4538,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4503,6 +4556,11 @@
       "organization_id": "Q715869",
       "area_id": "Q10907926",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4516,6 +4574,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929243",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4529,6 +4592,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025181",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4542,6 +4610,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112198",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4555,6 +4628,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15921474",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4568,6 +4646,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929265",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4581,6 +4664,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928971",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4594,6 +4682,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929476",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4607,6 +4700,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025180",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4620,6 +4718,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15886553",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4633,6 +4736,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928980",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4646,6 +4754,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15930080",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4659,6 +4772,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4672,6 +4790,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4685,6 +4808,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4698,6 +4826,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112204",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4711,6 +4844,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4724,6 +4862,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4737,6 +4880,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4750,6 +4898,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4763,6 +4916,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4776,6 +4934,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4789,6 +4952,11 @@
       "organization_id": "Q715869",
       "area_id": "Q19432865",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4802,6 +4970,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4815,6 +4988,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4828,6 +5006,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-05-26",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4841,6 +5024,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-10-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4854,6 +5042,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4867,6 +5060,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4880,6 +5078,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4893,6 +5096,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929478",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4906,6 +5114,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4919,6 +5132,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17023496",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4932,6 +5150,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11084018",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4946,6 +5169,11 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-05-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4959,6 +5187,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929475",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4972,6 +5205,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21055063",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4985,6 +5223,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17029209",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -4998,6 +5241,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5011,6 +5259,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5024,6 +5277,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928859",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5037,6 +5295,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21041600",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5050,6 +5313,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5063,6 +5331,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112196",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5076,6 +5349,11 @@
       "organization_id": "Q715869",
       "area_id": "Q19432864",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5089,6 +5367,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5102,6 +5385,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15920178",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5115,6 +5403,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926792",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5128,6 +5421,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21055063",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5141,6 +5439,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21055063",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5154,6 +5457,11 @@
       "organization_id": "Q715869",
       "area_id": "Q21041600",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5167,6 +5475,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929241",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5180,6 +5493,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5193,6 +5511,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928967",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5206,6 +5529,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928977",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5219,6 +5547,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926788",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5232,6 +5565,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5245,6 +5583,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15886544",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5258,6 +5601,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929242",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5271,6 +5619,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025178",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5284,6 +5637,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5297,6 +5655,11 @@
       "organization_id": "Q715869",
       "area_id": "Q19432862",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5310,6 +5673,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15886139",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5323,6 +5691,11 @@
       "organization_id": "Q715869",
       "area_id": "Q10924121",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5336,6 +5709,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17023592",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5349,6 +5727,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929474",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5362,6 +5745,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929477",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5375,6 +5763,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929473",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5388,6 +5781,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929264",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5401,6 +5799,11 @@
       "organization_id": "Q715869",
       "area_id": "Q10949153",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5414,6 +5817,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-09-02",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5427,6 +5835,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928966",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5440,6 +5853,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17022795",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5453,6 +5871,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929240",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5467,6 +5890,11 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-10-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5480,6 +5908,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929479",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5493,6 +5926,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025179",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5506,6 +5944,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112209",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5519,6 +5962,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928964",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5532,6 +5980,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17035924",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5545,6 +5998,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17028006",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5558,6 +6016,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929480",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5571,6 +6034,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16929481",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5584,6 +6052,11 @@
       "organization_id": "Q715869",
       "area_id": "Q19432866",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5597,6 +6070,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-05-26",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5610,6 +6088,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11042758",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5623,6 +6106,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15886536",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5636,6 +6124,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17023495",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5649,6 +6142,11 @@
       "organization_id": "Q715869",
       "area_id": "Q14943831",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5662,6 +6160,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928982",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5675,6 +6178,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5688,6 +6196,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926782",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5701,6 +6214,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17033813",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5714,6 +6232,11 @@
       "organization_id": "Q715869",
       "area_id": "Q15944591",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5727,6 +6250,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16928975",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5740,6 +6268,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025378",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5753,6 +6286,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17024900",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5767,6 +6305,11 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-05-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5780,6 +6323,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11084066",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5793,6 +6341,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17024901",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5806,6 +6359,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5819,6 +6377,11 @@
       "organization_id": "Q715869",
       "area_id": "Q11112195",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5832,6 +6395,11 @@
       "organization_id": "Q715869",
       "area_id": "Q17025376",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5845,6 +6413,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5858,6 +6431,11 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5871,6 +6449,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926786",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",
@@ -5884,6 +6467,11 @@
       "organization_id": "Q715869",
       "area_id": "Q16926776",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh_CN": "國會議員",
+        "lang:en_US": "member of parliament"
+      },
       "role_code": "Q6310593",
       "role": {
         "lang:zh_CN": "立法委員",

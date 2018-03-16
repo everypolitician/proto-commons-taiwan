@@ -361,7 +361,10 @@
           "identifier": "Q15915051"
         }
       ],
-      "area_id": "Q198525"
+      "area_id": "Q198525",
+      "seat_counts": {
+        "Q49255918": "19"
+      }
     },
     {
       "name": {
@@ -610,6 +613,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -622,6 +630,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -634,6 +647,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -645,6 +663,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49977978",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -656,6 +679,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943762",
       "start_date": "2016-07-04",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -668,6 +696,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -679,6 +712,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -691,6 +729,11 @@
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
       "end_date": "2015-12-08",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -702,6 +745,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2015-12-08",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -714,6 +762,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -726,6 +779,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2016-03-28",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -737,6 +795,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2015-12-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -749,6 +812,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -761,6 +829,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -774,6 +847,11 @@
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
       "end_date": "2016-03-28",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -786,6 +864,11 @@
       "area_id": "Q49943571",
       "start_date": "2014-12-25",
       "end_date": "2015-12-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -798,6 +881,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943571",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -811,6 +899,11 @@
       "area_id": "Q49943571",
       "start_date": "2014-12-25",
       "end_date": "2016-03-31",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -822,6 +915,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943668",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -834,6 +932,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943668",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -845,6 +948,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943762",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -857,6 +965,11 @@
       "area_id": "Q49943859",
       "start_date": "2014-12-25",
       "end_date": "2016-07-04",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"
@@ -869,6 +982,11 @@
       "organization_id": "Q15915051",
       "area_id": "Q49943478",
       "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh_CN": "地方議會議員",
+        "lang:en_US": "councillor"
+      },
       "role_code": "Q49255918",
       "role": {
         "lang:zh_CN": "澎湖縣議員"

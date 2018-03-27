@@ -16,12 +16,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "role" : {
         "type" : "uri",
@@ -87,12 +87,12 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "statement" : {
         "type" : "uri",
@@ -120,12 +120,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "role" : {
         "type" : "uri",
@@ -191,12 +191,12 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "statement" : {
         "type" : "uri",
@@ -252,12 +252,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "role" : {
         "type" : "uri",
@@ -323,12 +323,12 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "statement" : {
         "type" : "uri",
@@ -370,12 +370,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "role" : {
         "type" : "uri",
@@ -441,12 +441,12 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "statement" : {
         "type" : "uri",
@@ -488,12 +488,12 @@
       "district_name_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣"
+        "value" : "中華民國"
       },
       "role" : {
         "type" : "uri",
@@ -559,12 +559,12 @@
       "org_zh" : {
         "xml:lang" : "zh",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中華民國行政院"
+        "value" : "行政院"
       },
       "statement" : {
         "type" : "uri",

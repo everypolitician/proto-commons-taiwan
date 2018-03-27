@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "陳翰立",
         "lang:zh_CN": "陳翰立"
       },
       "id": "Q16908019",
@@ -17,6 +18,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳國昌",
         "lang:zh_CN": "吳國昌",
         "lang:en_US": "Antonio Ng"
       },
@@ -33,6 +35,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡宗智",
         "lang:zh_CN": "蔡宗智"
       },
       "id": "Q50018270",
@@ -48,6 +51,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "莊文斌",
         "lang:zh_CN": "莊文斌"
       },
       "id": "Q50018356",
@@ -63,6 +67,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "洪明科",
         "lang:zh_CN": "洪明科"
       },
       "id": "Q50018440",
@@ -78,6 +83,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "游宏達",
         "lang:zh_CN": "游宏達"
       },
       "id": "Q50018530",
@@ -93,6 +99,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "張維華",
         "lang:zh_CN": "張維華"
       },
       "id": "Q50018615",
@@ -108,6 +115,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "曾振炎",
         "lang:zh_CN": "曾振炎"
       },
       "id": "Q50018721",
@@ -123,6 +131,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "于秀英",
         "lang:zh_CN": "于秀英"
       },
       "id": "Q50018971",
@@ -138,6 +147,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃文君",
         "lang:zh_CN": "黃文君"
       },
       "id": "Q50019060",
@@ -153,6 +163,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李洲忠",
         "lang:zh_CN": "李洲忠"
       },
       "id": "Q50019164",
@@ -168,6 +179,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "簡景賢",
         "lang:zh_CN": "簡景賢"
       },
       "id": "Q50019257",
@@ -183,6 +195,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "簡峻庭",
         "lang:zh_CN": "簡峻庭"
       },
       "id": "Q50019344",
@@ -198,6 +211,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "簡賜勝",
         "lang:zh_CN": "簡賜勝"
       },
       "id": "Q50019437",
@@ -213,6 +227,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "廖梓佑",
         "lang:zh_CN": "廖梓佑"
       },
       "id": "Q50019522",
@@ -228,6 +243,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林永鴻",
         "lang:zh_CN": "林永鴻"
       },
       "id": "Q50019612",
@@ -243,6 +259,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "廖宜賢",
         "lang:zh_CN": "廖宜賢"
       },
       "id": "Q50019691",
@@ -258,6 +275,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳昭煜",
         "lang:zh_CN": "陳昭煜"
       },
       "id": "Q50019776",
@@ -273,6 +291,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蕭志全",
         "lang:zh_CN": "蕭志全"
       },
       "id": "Q50019853",
@@ -288,6 +307,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳淑惠",
         "lang:zh_CN": "陳淑惠"
       },
       "id": "Q50019923",
@@ -303,6 +323,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "謝明謀",
         "lang:zh_CN": "謝明謀"
       },
       "id": "Q50019996",
@@ -318,6 +339,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "許素霞",
         "lang:zh_CN": "許素霞"
       },
       "id": "Q50020073",
@@ -333,6 +355,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡宜助",
         "lang:zh_CN": "蔡宜助"
       },
       "id": "Q50020137",
@@ -348,6 +371,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "張志銘",
         "lang:zh_CN": "張志銘"
       },
       "id": "Q50020207",
@@ -363,6 +387,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "何勝豐",
         "lang:zh_CN": "何勝豐"
       },
       "id": "Q50020278",
@@ -378,6 +403,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳瑞芳",
         "lang:zh_CN": "吳瑞芳"
       },
       "id": "Q50020361",
@@ -393,6 +419,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "潘一全",
         "lang:zh_CN": "潘一全"
       },
       "id": "Q50020444",
@@ -408,6 +435,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林芳伃",
         "lang:zh_CN": "林芳伃"
       },
       "id": "Q50020530",
@@ -423,6 +451,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "邱美玲",
         "lang:zh_CN": "邱美玲"
       },
       "id": "Q50020616",
@@ -438,6 +467,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "廖志城",
         "lang:zh_CN": "廖志城"
       },
       "id": "Q50020679",
@@ -453,6 +483,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "許阿甘",
         "lang:zh_CN": "許阿甘"
       },
       "id": "Q50020736",
@@ -468,6 +499,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王彩雲",
         "lang:zh_CN": "王彩雲"
       },
       "id": "Q50020855",
@@ -483,6 +515,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "石慶龍",
         "lang:zh_CN": "石慶龍"
       },
       "id": "Q50020904",
@@ -498,6 +531,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "史清水",
         "lang:zh_CN": "史清水"
       },
       "id": "Q50020926",
@@ -513,6 +547,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "廖文賢",
         "lang:zh_CN": "廖文賢"
       },
       "id": "Q50020956",
@@ -528,6 +563,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "賴燕雪",
         "lang:zh_CN": "賴燕雪"
       },
       "id": "Q8350007",
@@ -543,6 +579,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "羅美玲",
         "lang:zh_CN": "羅美玲"
       },
       "id": "Q8988903",
@@ -560,6 +597,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "南投縣議會",
         "lang:zh_CN": "南投縣議會",
         "lang:en_US": "Nantou County Council"
       },
@@ -578,6 +616,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "中國國民黨",
         "lang:zh_CN": "中國國民黨",
         "lang:en_US": "Kuomintang"
       },
@@ -592,6 +631,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "臺灣第一民族黨",
         "lang:zh_CN": "臺灣第一民族黨"
       },
       "id": "Q50059206",
@@ -605,6 +645,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "民主進步黨",
         "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
@@ -635,6 +676,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -659,6 +701,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -683,6 +726,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -707,6 +751,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -731,6 +776,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -755,6 +801,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -779,6 +826,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -803,6 +851,7 @@
         "Q49254306"
       ],
       "type": {
+        "lang:zh_TW": "南投縣議員選區",
         "lang:zh_CN": "南投縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Nantou County"
       },
@@ -827,6 +876,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -852,6 +902,7 @@
         "Q702650"
       ],
       "type": {
+        "lang:zh_TW": "國家",
         "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
@@ -872,11 +923,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -888,11 +941,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -904,11 +959,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -921,11 +978,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -937,11 +996,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -953,11 +1014,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -970,11 +1033,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -987,11 +1052,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1003,11 +1070,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1019,11 +1088,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1036,11 +1107,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1053,11 +1126,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1069,11 +1144,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1085,11 +1162,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1102,11 +1181,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1119,11 +1200,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1136,11 +1219,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1153,11 +1238,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1170,11 +1257,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1187,11 +1276,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1204,11 +1295,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1221,11 +1314,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1238,11 +1333,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1255,11 +1352,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1272,11 +1371,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1288,11 +1389,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1305,11 +1408,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1322,11 +1427,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1339,11 +1446,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1356,11 +1465,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1373,11 +1484,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1390,11 +1503,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1407,11 +1522,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1424,11 +1541,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1440,11 +1559,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1457,11 +1578,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     },
@@ -1473,11 +1596,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
+        "lang:zh_TW": "地方議會議員",
         "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49254306",
       "role": {
+        "lang:zh_TW": "南投縣議員",
         "lang:zh_CN": "南投縣議員"
       }
     }

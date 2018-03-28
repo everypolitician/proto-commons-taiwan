@@ -1321,6 +1321,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wu, Kuen-Yuh"
       }
     }, {
       "party" : {
@@ -5392,7 +5397,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kuan Bi-ling"
+        "value" : "Bi-ling Kuan"
       }
     }, {
       "party" : {
@@ -6323,7 +6328,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hsiao Bi-khim"
+        "value" : "Bi-khim Hsiao"
       }
     }, {
       "party" : {
@@ -6988,7 +6993,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Huang Chao-shun"
+        "value" : "Chao-shun Huang"
       }
     }, {
       "party" : {
@@ -7519,7 +7524,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chen Chao-ming"
+        "value" : "Chao-ming Chen"
       }
     }, {
       "party" : {
@@ -12006,7 +12011,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liu Chao-hao"
+        "value" : "Chao-hao Liu"
       }
     }, {
       "party" : {

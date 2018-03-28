@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "呂玉玲",
         "lang:zh_CN": "呂玉玲"
       },
       "id": "Q10919979",
@@ -17,6 +18,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃國昌",
         "lang:zh_CN": "黃國昌",
         "lang:en_US": "Huang Kuo-chang"
       },
@@ -36,6 +38,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡培慧",
         "lang:zh_CN": "蔡培慧",
         "lang:en_US": "Frida Tsai"
       },
@@ -52,6 +55,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "顧立雄",
         "lang:zh_CN": "顧立雄",
         "lang:en_US": "Wellington Koo"
       },
@@ -68,6 +72,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔣萬安",
         "lang:zh_CN": "蔣萬安",
         "lang:en_US": "Chiang Wan-an"
       },
@@ -84,6 +89,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳怡潔",
         "lang:zh_CN": "陳怡潔"
       },
       "id": "Q15930216",
@@ -99,6 +105,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "曾銘宗",
         "lang:zh_CN": "曾銘宗",
         "lang:en_US": "Tseng Ming-chung"
       },
@@ -115,6 +122,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "呂孫綾",
         "lang:zh_CN": "呂孫綾",
         "lang:en_US": "Lu Sun-ling"
       },
@@ -131,6 +139,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鄭天財Sra‧Kacaw",
         "lang:zh_CN": "鄭天財Sra‧Kacaw",
         "lang:en_US": "Zheng Tiancai"
       },
@@ -147,7 +156,9 @@
     },
     {
       "name": {
-        "lang:zh_CN": "吳焜裕"
+        "lang:zh_TW": "吳焜裕",
+        "lang:zh_CN": "吳焜裕",
+        "lang:en_US": "Wu, Kuen-Yuh"
       },
       "id": "Q18415702",
       "identifiers": [
@@ -162,6 +173,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "許淑華",
         "lang:zh_CN": "許淑華",
         "lang:en_US": "Hsu Shu-hua"
       },
@@ -178,6 +190,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃國書",
         "lang:zh_CN": "黃國書",
         "lang:en_US": "Huang Kuo-shu"
       },
@@ -194,6 +207,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳素月",
         "lang:zh_CN": "陳素月",
         "lang:en_US": "Chen Su-yueh"
       },
@@ -210,6 +224,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳賴素美",
         "lang:zh_CN": "陳賴素美"
       },
       "id": "Q19825208",
@@ -225,6 +240,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "徐志榮",
         "lang:zh_CN": "徐志榮"
       },
       "id": "Q19825322",
@@ -240,6 +256,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林俊憲",
         "lang:zh_CN": "林俊憲",
         "lang:en_US": "Lin Chun-hsien"
       },
@@ -256,6 +273,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蘇巧慧",
         "lang:zh_CN": "蘇巧慧",
         "lang:en_US": "Su Chiao-hui"
       },
@@ -272,6 +290,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "賴瑞隆",
         "lang:zh_CN": "賴瑞隆"
       },
       "id": "Q19825797",
@@ -287,6 +306,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "洪宗熠",
         "lang:zh_CN": "洪宗熠"
       },
       "id": "Q19849340",
@@ -302,6 +322,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "洪慈庸",
         "lang:zh_CN": "洪慈庸",
         "lang:en_US": "Hung Tzu-yung"
       },
@@ -321,6 +342,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳琪銘",
         "lang:zh_CN": "吳琪銘",
         "lang:en_US": "Wu Chi-ming"
       },
@@ -337,6 +359,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李彥秀",
         "lang:zh_CN": "李彥秀"
       },
       "id": "Q20063502",
@@ -352,6 +375,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "高潞‧以用‧巴魕剌Kawlo‧Iyun‧Pacidal",
         "lang:zh_CN": "高潞‧以用‧巴魕剌Kawlo‧Iyun‧Pacidal",
         "lang:en_US": "Kawlo Iyun Pacidal"
       },
@@ -368,6 +392,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林麗蟬",
         "lang:zh_CN": "林麗蟬",
         "lang:en_US": "Lin Li-chan"
       },
@@ -384,6 +409,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "谷辣斯‧尤達卡Kolasyotaka",
         "lang:zh_CN": "谷辣斯‧尤達卡Kolasyotaka",
         "lang:en_US": "Kolas Yotaka"
       },
@@ -400,6 +426,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "趙正宇",
         "lang:zh_CN": "趙正宇",
         "lang:en_US": "Chao Cheng-yu"
       },
@@ -416,6 +443,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "余宛如",
         "lang:zh_CN": "余宛如",
         "lang:en_US": "Karen Yu"
       },
@@ -432,6 +460,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳玉琴",
         "lang:zh_CN": "吳玉琴"
       },
       "id": "Q22774114",
@@ -447,6 +476,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "周春米",
         "lang:zh_CN": "周春米",
         "lang:en_US": "Chou,Chun-Mi"
       },
@@ -463,6 +493,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林靜儀",
         "lang:zh_CN": "林靜儀",
         "lang:en_US": "Lin Ching-yi"
       },
@@ -479,6 +510,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鍾孔炤",
         "lang:zh_CN": "鍾孔炤"
       },
       "id": "Q22774142",
@@ -494,6 +526,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳曼麗",
         "lang:zh_CN": "陳曼麗",
         "lang:en_US": "Chen Man-li"
       },
@@ -510,6 +543,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "楊鎮浯",
         "lang:zh_CN": "楊鎮浯"
       },
       "id": "Q22774355",
@@ -525,6 +559,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "許毓仁",
         "lang:zh_CN": "許毓仁",
         "lang:en_US": "Hsu Yu-jen"
       },
@@ -541,6 +576,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳宜民",
         "lang:zh_CN": "陳宜民",
         "lang:en_US": "Chen Yi-Ming"
       },
@@ -557,6 +593,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李麗芬",
         "lang:zh_CN": "李麗芬"
       },
       "id": "Q24840132",
@@ -572,6 +609,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "邱泰源",
         "lang:zh_CN": "邱泰源",
         "lang:en_US": "Tai-Yuan Chiu"
       },
@@ -588,6 +626,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "柯志恩",
         "lang:zh_CN": "柯志恩",
         "lang:en_US": "Chih-En Ko"
       },
@@ -604,6 +643,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "徐榛蔚",
         "lang:zh_CN": "徐榛蔚",
         "lang:en_US": "Chen-Wei Hsu"
       },
@@ -620,6 +660,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "周陳秀霞",
         "lang:zh_CN": "周陳秀霞",
         "lang:en_US": "Hsiu-Hsia Chou Chen"
       },
@@ -636,8 +677,9 @@
     },
     {
       "name": {
+        "lang:zh_TW": "管碧玲",
         "lang:zh_CN": "管碧玲",
-        "lang:en_US": "Kuan Bi-ling"
+        "lang:en_US": "Bi-ling Kuan"
       },
       "id": "Q3846662",
       "identifiers": [
@@ -652,6 +694,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳其邁",
         "lang:zh_CN": "陳其邁",
         "lang:en_US": "Chen Chi-mai"
       },
@@ -668,6 +711,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳明文",
         "lang:zh_CN": "陳明文",
         "lang:en_US": "Chen Ming-Wen"
       },
@@ -684,6 +728,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "柯建銘",
         "lang:zh_CN": "柯建銘",
         "lang:en_US": "Ker Chien-ming"
       },
@@ -700,6 +745,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李應元",
         "lang:zh_CN": "李應元",
         "lang:en_US": "Lee Ying-yuan"
       },
@@ -716,6 +762,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "劉世芳",
         "lang:zh_CN": "劉世芳",
         "lang:en_US": "Liu Shih-fang"
       },
@@ -732,6 +779,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "高金素梅",
         "lang:zh_CN": "高金素梅",
         "lang:en_US": "Kao Chin Su-mei"
       },
@@ -748,8 +796,9 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蕭美琴",
         "lang:zh_CN": "蕭美琴",
-        "lang:en_US": "Hsiao Bi-khim"
+        "lang:en_US": "Bi-khim Hsiao"
       },
       "id": "Q700752",
       "identifiers": [
@@ -764,6 +813,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蘇嘉全",
         "lang:zh_CN": "蘇嘉全",
         "lang:en_US": "Su Chia-chyuan"
       },
@@ -780,6 +830,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王金平",
         "lang:zh_CN": "王金平",
         "lang:en_US": "Wang Jin-pyng"
       },
@@ -796,6 +847,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王定宇",
         "lang:zh_CN": "王定宇",
         "lang:en_US": "Wang Ding-yu"
       },
@@ -812,6 +864,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳瑩",
         "lang:zh_CN": "陳瑩",
         "lang:en_US": "Chen Ying"
       },
@@ -828,8 +881,9 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃昭順",
         "lang:zh_CN": "黃昭順",
-        "lang:en_US": "Huang Chao-shun"
+        "lang:en_US": "Chao-shun Huang"
       },
       "id": "Q8270063",
       "identifiers": [
@@ -844,6 +898,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳學聖",
         "lang:zh_CN": "陳學聖",
         "lang:en_US": "Apollo Chen"
       },
@@ -860,6 +915,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳雪生",
         "lang:zh_CN": "陳雪生",
         "lang:en_US": "Chen Hsueh-sheng"
       },
@@ -879,6 +935,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "張麗善",
         "lang:zh_CN": "張麗善"
       },
       "id": "Q8273132",
@@ -894,8 +951,9 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳超明",
         "lang:zh_CN": "陳超明",
-        "lang:en_US": "Chen Chao-ming"
+        "lang:en_US": "Chao-ming Chen"
       },
       "id": "Q8273248",
       "identifiers": [
@@ -910,6 +968,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔣乃辛",
         "lang:zh_CN": "蔣乃辛",
         "lang:en_US": "Chiang Nai-shin"
       },
@@ -926,6 +985,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "簡東明",
         "lang:zh_CN": "簡東明",
         "lang:en_US": "Chien Tung-ming"
       },
@@ -942,6 +1002,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "孔文吉",
         "lang:zh_CN": "孔文吉",
         "lang:en_US": "Kung Wen-chi"
       },
@@ -958,6 +1019,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "廖國棟",
         "lang:zh_CN": "廖國棟",
         "lang:en_US": "Liao Kuo-tung"
       },
@@ -974,6 +1036,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "盧秀燕",
         "lang:zh_CN": "盧秀燕"
       },
       "id": "Q8274707",
@@ -989,6 +1052,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李鴻鈞",
         "lang:zh_CN": "李鴻鈞",
         "lang:en_US": "Lee Hong-cuan"
       },
@@ -1005,6 +1069,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林德福",
         "lang:zh_CN": "林德福"
       },
       "id": "Q8275203",
@@ -1020,6 +1085,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "羅明才",
         "lang:zh_CN": "羅明才"
       },
       "id": "Q8275466",
@@ -1035,6 +1101,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "賴士葆",
         "lang:zh_CN": "賴士葆",
         "lang:en_US": "Lai Shyh-bao"
       },
@@ -1051,6 +1118,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳志揚",
         "lang:zh_CN": "吳志揚",
         "lang:en_US": "John Wu"
       },
@@ -1067,6 +1135,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "顏寬恒",
         "lang:zh_CN": "顏寬恒",
         "lang:en_US": "Yen Kuan-heng"
       },
@@ -1083,6 +1152,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "江啟臣",
         "lang:zh_CN": "江啟臣",
         "lang:en_US": "Johnny Chiang"
       },
@@ -1099,6 +1169,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王惠美",
         "lang:zh_CN": "王惠美",
         "lang:en_US": "Wang Huei-mei"
       },
@@ -1115,6 +1186,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王育敏",
         "lang:zh_CN": "王育敏"
       },
       "id": "Q8279711",
@@ -1130,6 +1202,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "馬文君",
         "lang:zh_CN": "馬文君",
         "lang:en_US": "Ma Wen-chun"
       },
@@ -1146,6 +1219,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "張廖萬堅",
         "lang:zh_CN": "張廖萬堅",
         "lang:en_US": "Chang Liao Wan-chien"
       },
@@ -1162,6 +1236,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李俊俋",
         "lang:zh_CN": "李俊俋",
         "lang:en_US": "Lee Chun-yi"
       },
@@ -1178,6 +1253,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡適應",
         "lang:zh_CN": "蔡適應"
       },
       "id": "Q8347638",
@@ -1193,6 +1269,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "趙天麟",
         "lang:zh_CN": "趙天麟"
       },
       "id": "Q8347665",
@@ -1208,6 +1285,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "邱志偉",
         "lang:zh_CN": "邱志偉",
         "lang:en_US": "Chiu Chi-wei"
       },
@@ -1224,6 +1302,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "邱議瑩",
         "lang:zh_CN": "邱議瑩",
         "lang:en_US": "Chiu Yi-ying"
       },
@@ -1240,6 +1319,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳亭妃",
         "lang:zh_CN": "陳亭妃",
         "lang:en_US": "Chen Ting-fei"
       },
@@ -1256,6 +1336,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "陳歐珀",
         "lang:zh_CN": "陳歐珀",
         "lang:en_US": "Chen Ou-po"
       },
@@ -1272,6 +1353,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "郭正亮",
         "lang:zh_CN": "郭正亮",
         "lang:en_US": "Julian Kuo"
       },
@@ -1288,6 +1370,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "高志鵬",
         "lang:zh_CN": "高志鵬",
         "lang:en_US": "Gao Jyh-peng"
       },
@@ -1304,6 +1387,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃偉哲",
         "lang:zh_CN": "黃偉哲",
         "lang:en_US": "Huang Wei-cher"
       },
@@ -1320,6 +1404,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "何欣純",
         "lang:zh_CN": "何欣純",
         "lang:en_US": "Ho Hsin-chun"
       },
@@ -1336,6 +1421,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "徐國勇",
         "lang:zh_CN": "徐國勇"
       },
       "id": "Q8348841",
@@ -1351,6 +1437,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "許智傑",
         "lang:zh_CN": "許智傑",
         "lang:en_US": "Hsu Chih-chieh"
       },
@@ -1367,6 +1454,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "黃秀芳",
         "lang:zh_CN": "黃秀芳",
         "lang:en_US": "Huang Hsiu-fang"
       },
@@ -1383,6 +1471,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鄭寶清",
         "lang:zh_CN": "鄭寶清"
       },
       "id": "Q8349451",
@@ -1398,6 +1487,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "羅致政",
         "lang:zh_CN": "羅致政",
         "lang:en_US": "Lo Chih-cheng"
       },
@@ -1414,6 +1504,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "劉建國",
         "lang:zh_CN": "劉建國",
         "lang:en_US": "Liu Chien-kuo"
       },
@@ -1430,8 +1521,9 @@
     },
     {
       "name": {
+        "lang:zh_TW": "劉櫂豪",
         "lang:zh_CN": "劉櫂豪",
-        "lang:en_US": "Liu Chao-hao"
+        "lang:en_US": "Chao-hao Liu"
       },
       "id": "Q8349660",
       "identifiers": [
@@ -1446,6 +1538,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "李昆澤",
         "lang:zh_CN": "李昆澤",
         "lang:en_US": "Lee Kun-tse"
       },
@@ -1462,6 +1555,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林岱樺",
         "lang:zh_CN": "林岱樺",
         "lang:en_US": "Lin Tai-hua"
       },
@@ -1478,6 +1572,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蘇治芬",
         "lang:zh_CN": "蘇治芬",
         "lang:en_US": "Su Chih-fen"
       },
@@ -1494,6 +1589,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "施義芳",
         "lang:zh_CN": "施義芳",
         "lang:en_US": "Shih Yi-fang"
       },
@@ -1510,6 +1606,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蘇震清",
         "lang:zh_CN": "蘇震清"
       },
       "id": "Q8350223",
@@ -1525,6 +1622,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡其昌",
         "lang:zh_CN": "蔡其昌",
         "lang:en_US": "Tsai Chi-chang"
       },
@@ -1541,6 +1639,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "蔡易餘",
         "lang:zh_CN": "蔡易餘"
       },
       "id": "Q8350388",
@@ -1556,6 +1655,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳思瑤",
         "lang:zh_CN": "吳思瑤",
         "lang:en_US": "Rosalia Wu"
       },
@@ -1572,6 +1672,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "吳秉叡",
         "lang:zh_CN": "吳秉叡"
       },
       "id": "Q8350478",
@@ -1587,6 +1688,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "王榮璋",
         "lang:zh_CN": "王榮璋",
         "lang:en_US": "Wang Jung-chang"
       },
@@ -1603,6 +1705,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "姚文智",
         "lang:zh_CN": "姚文智",
         "lang:en_US": "Pasuya Yao"
       },
@@ -1619,6 +1722,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "楊曜",
         "lang:zh_CN": "楊曜",
         "lang:en_US": "Yang Yao"
       },
@@ -1635,6 +1739,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "葉宜津",
         "lang:zh_CN": "葉宜津",
         "lang:en_US": "Yeh Yi-jin"
       },
@@ -1651,6 +1756,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "張宏陸",
         "lang:zh_CN": "張宏陸",
         "lang:en_US": "Chang Hung-lu"
       },
@@ -1667,6 +1773,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "江永昌",
         "lang:zh_CN": "江永昌"
       },
       "id": "Q8350960",
@@ -1682,6 +1789,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "莊瑞雄",
         "lang:zh_CN": "莊瑞雄",
         "lang:en_US": "Chuang Jui-hsiung"
       },
@@ -1698,6 +1806,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鄭麗君",
         "lang:zh_CN": "鄭麗君",
         "lang:en_US": "Cheng Li-chun"
       },
@@ -1714,6 +1823,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林為洲",
         "lang:zh_CN": "林為洲"
       },
       "id": "Q8351569",
@@ -1729,6 +1839,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鍾佳濱",
         "lang:zh_CN": "鍾佳濱",
         "lang:en_US": "Chung Chia-pin"
       },
@@ -1745,6 +1856,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "段宜康",
         "lang:zh_CN": "段宜康",
         "lang:en_US": "Tuan Yi-kang"
       },
@@ -1761,6 +1873,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "鄭運鵬",
         "lang:zh_CN": "鄭運鵬",
         "lang:en_US": "Cheng Yun-peng"
       },
@@ -1777,6 +1890,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林淑芬",
         "lang:zh_CN": "林淑芬",
         "lang:en_US": "Lin Shu-fen"
       },
@@ -1793,6 +1907,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "徐永明",
         "lang:zh_CN": "徐永明",
         "lang:en_US": "Hsu Yung-ming"
       },
@@ -1809,6 +1924,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "尤美女",
         "lang:zh_CN": "尤美女",
         "lang:en_US": "Yu Mei-nu"
       },
@@ -1825,6 +1941,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "林昶佐",
         "lang:zh_CN": "林昶佐",
         "lang:en_US": "Freddy Lim"
       },
@@ -1844,6 +1961,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "費鴻泰",
         "lang:zh_CN": "費鴻泰",
         "lang:en_US": "Fai Hungtai"
       },
@@ -1862,6 +1980,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "立法院",
         "lang:zh_CN": "立法院",
         "lang:en_US": "Legislative Yuan"
       },
@@ -1880,6 +1999,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "親民黨",
         "lang:zh_CN": "親民黨",
         "lang:en_US": "People First Party"
       },
@@ -1908,6 +2028,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "中國國民黨",
         "lang:zh_CN": "中國國民黨",
         "lang:en_US": "Kuomintang"
       },
@@ -1922,6 +2043,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "無黨籍政治人物",
         "lang:zh_CN": "無黨籍政治人物",
         "lang:en_US": "independent politician"
       },
@@ -1950,6 +2072,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "民主進步黨",
         "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
@@ -1980,6 +2103,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2004,6 +2128,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2028,6 +2153,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2052,6 +2178,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2076,6 +2203,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2100,6 +2228,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2124,6 +2253,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2148,6 +2278,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2172,6 +2303,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2196,6 +2328,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2220,6 +2353,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2244,6 +2378,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2268,6 +2403,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -2293,6 +2429,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -2318,6 +2455,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -2343,6 +2481,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2367,6 +2506,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -2392,6 +2532,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2416,6 +2557,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2440,6 +2582,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2464,6 +2607,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2488,6 +2632,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2512,6 +2657,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2536,6 +2682,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2560,6 +2707,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2584,6 +2732,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -2609,6 +2758,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2633,6 +2783,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2657,6 +2808,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2681,6 +2833,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2705,6 +2858,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2729,6 +2883,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2753,6 +2908,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2777,6 +2933,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2801,6 +2958,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2825,6 +2983,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2849,6 +3008,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2873,6 +3033,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2897,6 +3058,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2921,6 +3083,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2945,6 +3108,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2969,6 +3133,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -2993,6 +3158,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3017,6 +3183,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3041,6 +3208,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3065,6 +3233,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3089,6 +3258,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3113,6 +3283,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3137,6 +3308,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3161,6 +3333,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3185,6 +3358,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3209,6 +3383,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3233,6 +3408,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3257,6 +3433,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3281,6 +3458,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3305,6 +3483,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3329,6 +3508,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3353,6 +3533,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3377,6 +3558,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3401,6 +3583,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3425,6 +3608,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3449,6 +3633,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3473,6 +3658,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3497,6 +3683,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3521,6 +3708,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3545,6 +3733,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3569,6 +3758,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3593,6 +3783,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3617,6 +3808,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3641,6 +3833,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3665,6 +3858,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3689,6 +3883,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3713,6 +3908,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3737,6 +3933,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3761,6 +3958,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -3786,6 +3984,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -3811,6 +4010,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3835,6 +4035,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3859,6 +4060,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3883,6 +4085,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "區域立法委員選區",
         "lang:zh_CN": "區域立法委員選區",
         "lang:en_US": "Taiwan legislative election regional district"
       },
@@ -3907,6 +4110,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -3932,6 +4136,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -3957,6 +4162,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "選區",
         "lang:zh_CN": "選區",
         "lang:en_US": "constituency"
       },
@@ -3982,6 +4188,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "選區",
         "lang:zh_CN": "選區",
         "lang:en_US": "constituency"
       },
@@ -4007,6 +4214,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4032,6 +4240,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -4057,6 +4266,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -4082,6 +4292,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4107,6 +4318,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4132,6 +4344,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4157,6 +4370,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4182,6 +4396,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -4207,6 +4422,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -4232,6 +4448,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -4257,6 +4474,7 @@
         "Q6310593"
       ],
       "type": {
+        "lang:zh_TW": "選區",
         "lang:zh_CN": "選區",
         "lang:en_US": "constituency"
       },
@@ -4282,6 +4500,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4307,6 +4526,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4332,6 +4552,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -4357,6 +4578,7 @@
         "Q702650"
       ],
       "type": {
+        "lang:zh_TW": "國家",
         "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
@@ -4377,11 +4599,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4395,11 +4619,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4413,11 +4639,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4432,11 +4660,13 @@
       "end_date": "2016-08-31",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4450,11 +4680,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4468,11 +4700,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4486,11 +4720,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4504,11 +4740,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4522,11 +4760,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4540,11 +4780,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4558,11 +4800,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4576,11 +4820,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4594,11 +4840,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4612,11 +4860,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4630,11 +4880,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4648,11 +4900,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4666,11 +4920,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4684,11 +4940,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4702,11 +4960,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4720,11 +4980,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4738,11 +5000,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4756,11 +5020,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4774,11 +5040,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4792,11 +5060,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4810,11 +5080,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4828,11 +5100,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4846,11 +5120,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4864,11 +5140,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4882,11 +5160,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4900,11 +5180,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4918,11 +5200,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4936,11 +5220,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4954,11 +5240,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4972,11 +5260,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -4990,11 +5280,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5008,11 +5300,13 @@
       "start_date": "2016-05-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5026,11 +5320,13 @@
       "start_date": "2016-10-04",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5044,11 +5340,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5062,11 +5360,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5080,11 +5380,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5098,11 +5400,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5116,11 +5420,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5134,11 +5440,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5152,11 +5460,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5171,11 +5481,13 @@
       "end_date": "2016-05-20",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5189,11 +5501,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5207,11 +5521,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5225,11 +5541,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5243,11 +5561,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5261,11 +5581,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5279,11 +5601,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5297,11 +5621,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5315,11 +5641,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5333,11 +5661,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5351,11 +5681,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5369,11 +5701,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5387,11 +5721,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5405,11 +5741,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5423,11 +5761,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5441,11 +5781,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5459,11 +5801,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5477,11 +5821,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5495,11 +5841,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5513,11 +5861,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5531,11 +5881,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5549,11 +5901,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5567,11 +5921,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5585,11 +5941,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5603,11 +5961,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5621,11 +5981,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5639,11 +6001,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5657,11 +6021,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5675,11 +6041,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5693,11 +6061,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5711,11 +6081,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5729,11 +6101,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5747,11 +6121,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5765,11 +6141,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5783,11 +6161,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5801,11 +6181,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5819,11 +6201,13 @@
       "start_date": "2016-09-02",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5837,11 +6221,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5855,11 +6241,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5873,11 +6261,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5892,11 +6282,13 @@
       "end_date": "2016-10-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5910,11 +6302,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5928,11 +6322,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5946,11 +6342,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5964,11 +6362,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -5982,11 +6382,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6000,11 +6402,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6018,11 +6422,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6036,11 +6442,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6054,11 +6462,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6072,11 +6482,13 @@
       "start_date": "2016-05-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6090,11 +6502,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6108,11 +6522,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6126,11 +6542,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6144,11 +6562,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6162,11 +6582,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6180,11 +6602,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6198,11 +6622,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6216,11 +6642,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6234,11 +6662,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6252,11 +6682,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6270,11 +6702,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6288,11 +6722,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6307,11 +6743,13 @@
       "end_date": "2016-05-20",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6325,11 +6763,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6343,11 +6783,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6361,11 +6803,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6379,11 +6823,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6397,11 +6843,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6415,11 +6863,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6433,11 +6883,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6451,11 +6903,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }
@@ -6469,11 +6923,13 @@
       "start_date": "2016-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
+        "lang:zh_TW": "國會議員",
         "lang:zh_CN": "國會議員",
         "lang:en_US": "member of parliament"
       },
       "role_code": "Q6310593",
       "role": {
+        "lang:zh_TW": "立法委員",
         "lang:zh_CN": "立法委員",
         "lang:en_US": "Member of the Legislative Yuan"
       }

@@ -35,6 +35,7 @@
     },
     {
       "name": {
+        "lang:zh_TW": "民主進步黨",
         "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
@@ -65,6 +66,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -90,6 +92,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -115,6 +118,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -140,6 +144,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -165,6 +170,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -190,6 +196,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -215,6 +222,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -240,6 +248,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -265,6 +274,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -290,6 +300,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -315,6 +326,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -340,6 +352,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -365,6 +378,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -390,6 +404,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -415,6 +430,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -440,6 +456,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -465,6 +482,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -490,6 +508,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -515,6 +534,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -540,6 +560,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -565,6 +586,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -590,6 +612,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -615,6 +638,7 @@
         "Q702650"
       ],
       "type": {
+        "lang:zh_TW": "國家",
         "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
@@ -634,11 +658,13 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q30185",
       "role_superclass": {
+        "lang:zh_TW": "市長",
         "lang:zh_CN": "市长",
         "lang:en_US": "mayor"
       },
       "role_code": "Q6797738",
       "role": {
+        "lang:zh_TW": "基隆市市長",
         "lang:zh_CN": "基隆市市長",
         "lang:en_US": "Mayor of Keelung"
       }

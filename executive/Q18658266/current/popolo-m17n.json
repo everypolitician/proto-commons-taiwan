@@ -20,6 +20,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "花蓮縣政府",
         "lang:zh_CN": "花蓮縣政府",
         "lang:en_US": "Hualien County Government"
       },
@@ -51,6 +52,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -76,6 +78,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -101,6 +104,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -126,6 +130,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -151,6 +156,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -176,6 +182,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -201,6 +208,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -226,6 +234,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -251,6 +260,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -276,6 +286,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -301,6 +312,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -326,6 +338,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "直轄市",
         "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
@@ -351,6 +364,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -376,6 +390,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -401,6 +416,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -426,6 +442,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -451,6 +468,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -476,6 +494,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -501,6 +520,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "市",
         "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
@@ -526,6 +546,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -551,6 +572,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -576,6 +598,7 @@
         "Q30185"
       ],
       "type": {
+        "lang:zh_TW": "縣",
         "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
@@ -601,6 +624,7 @@
         "Q702650"
       ],
       "type": {
+        "lang:zh_TW": "國家",
         "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
@@ -619,11 +643,13 @@
       "start_date": "2009-12-20",
       "role_superclass_code": "Q30185",
       "role_superclass": {
+        "lang:zh_TW": "市長",
         "lang:zh_CN": "市长",
         "lang:en_US": "mayor"
       },
       "role_code": "Q50293691",
       "role": {
+        "lang:zh_TW": "花蓮縣縣長",
         "lang:zh_CN": "花蓮縣縣長",
         "lang:en_US": "Mayor of Hualien"
       }

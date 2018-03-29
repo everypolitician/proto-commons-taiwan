@@ -75,6 +75,11 @@
         "type" : "literal",
         "value" : "張花冠"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "張花冠"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10924139"

@@ -75,6 +75,11 @@
         "type" : "literal",
         "value" : "陳金德"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳金德"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10949116"

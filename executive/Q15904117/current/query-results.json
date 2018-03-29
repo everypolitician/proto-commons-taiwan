@@ -56,6 +56,11 @@
         "type" : "literal",
         "value" : "劉增應"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "劉增應"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15904117"

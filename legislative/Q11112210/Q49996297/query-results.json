@@ -18,14 +18,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11176440-C810F00E-7EEE-454A-A419-35F1C241746B"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11176440-C810F00E-7EEE-454A-A419-35F1C241746B"
       },
       "district" : {
         "type" : "uri",
@@ -141,14 +141,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15903406-49A5DAE7-E325-48E3-80AD-3166E3D1AE71"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15903406-49A5DAE7-E325-48E3-80AD-3166E3D1AE71"
       },
       "district" : {
         "type" : "uri",
@@ -264,14 +264,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16908001-8B4FDF27-BEDE-431D-9E11-B634A1B0F3FE"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16908001-8B4FDF27-BEDE-431D-9E11-B634A1B0F3FE"
       },
       "district" : {
         "type" : "uri",
@@ -387,14 +387,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16908359-1C43D29A-C9D3-4AC6-8FFE-FA7780171B10"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16908359-1C43D29A-C9D3-4AC6-8FFE-FA7780171B10"
       },
       "district" : {
         "type" : "uri",
@@ -510,14 +510,14 @@
         "type" : "literal",
         "value" : "綠黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18654613-E0F727ED-C983-402B-B39D-21599776F032"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "綠黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18654613-E0F727ED-C983-402B-B39D-21599776F032"
       },
       "district" : {
         "type" : "uri",
@@ -633,14 +633,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19825208-168D4E54-63EA-4E76-BE8E-FD5241E64D77"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19825208-168D4E54-63EA-4E76-BE8E-FD5241E64D77"
       },
       "district" : {
         "type" : "uri",
@@ -761,14 +761,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19825622-DA1D98A1-FDC5-4A4D-9653-53B580FFB40F"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19825622-DA1D98A1-FDC5-4A4D-9653-53B580FFB40F"
       },
       "district" : {
         "type" : "uri",
@@ -884,14 +884,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21040218-5F5C49B8-DA02-4285-B584-90832AE1ABFB"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21040218-5F5C49B8-DA02-4285-B584-90832AE1ABFB"
       },
       "district" : {
         "type" : "uri",
@@ -1225,14 +1225,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22100595-ECC9AFBA-C24E-49F7-A58A-9E4A227F74C0"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q22100595-ECC9AFBA-C24E-49F7-A58A-9E4A227F74C0"
       },
       "district" : {
         "type" : "uri",
@@ -1348,14 +1348,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28418573-CF7F831F-80DE-4226-9B6F-C214AB439F17"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28418573-CF7F831F-80DE-4226-9B6F-C214AB439F17"
       },
       "district" : {
         "type" : "uri",
@@ -1471,14 +1471,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q30941045-3E5B02F7-2003-4ECC-AC0B-EDC1F1741BFC"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30941045-3E5B02F7-2003-4ECC-AC0B-EDC1F1741BFC"
       },
       "district" : {
         "type" : "uri",
@@ -1594,14 +1594,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q30942957-16D5D19F-06AD-4500-90B1-F26500ED4986"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30942957-16D5D19F-06AD-4500-90B1-F26500ED4986"
       },
       "district" : {
         "type" : "uri",
@@ -1717,14 +1717,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q45540571-EB6AE61F-B427-4BD8-9C9A-7B8BBB73F6D3"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q45540571-EB6AE61F-B427-4BD8-9C9A-7B8BBB73F6D3"
       },
       "district" : {
         "type" : "uri",
@@ -1840,14 +1840,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47669448-EFF23C9E-D819-4533-BF5C-41485F05C4B2"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47669448-EFF23C9E-D819-4533-BF5C-41485F05C4B2"
       },
       "district" : {
         "type" : "uri",
@@ -1963,14 +1963,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50074772-288E87E0-EF85-44EC-96DF-16137CD7D19A"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50074772-288E87E0-EF85-44EC-96DF-16137CD7D19A"
       },
       "district" : {
         "type" : "uri",
@@ -2086,14 +2086,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50074821-C298E63B-D1B6-4C7F-84E0-0C85FE0C14D0"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50074821-C298E63B-D1B6-4C7F-84E0-0C85FE0C14D0"
       },
       "district" : {
         "type" : "uri",
@@ -2209,14 +2209,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50074907-EF9CB2F8-F4B5-4B71-A2B5-3E854592E5A1"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50074907-EF9CB2F8-F4B5-4B71-A2B5-3E854592E5A1"
       },
       "district" : {
         "type" : "uri",
@@ -2332,14 +2332,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50074948-6836F60D-BD91-409E-B668-59BAB22A2B73"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50074948-6836F60D-BD91-409E-B668-59BAB22A2B73"
       },
       "district" : {
         "type" : "uri",
@@ -2455,14 +2455,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075031-4EB06360-E96F-400C-AB78-2822BBF664F5"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075031-4EB06360-E96F-400C-AB78-2822BBF664F5"
       },
       "district" : {
         "type" : "uri",
@@ -2578,14 +2578,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075072-A8DA75E5-A965-48E0-BF9E-6D37D633790F"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075072-A8DA75E5-A965-48E0-BF9E-6D37D633790F"
       },
       "district" : {
         "type" : "uri",
@@ -2701,14 +2701,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075123-C62BF3C1-1545-4AEE-A066-B0BA5311C352"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075123-C62BF3C1-1545-4AEE-A066-B0BA5311C352"
       },
       "district" : {
         "type" : "uri",
@@ -2824,14 +2824,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075173-51272DAE-6B71-4966-A7BB-D6BE62E8E8E1"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075173-51272DAE-6B71-4966-A7BB-D6BE62E8E8E1"
       },
       "district" : {
         "type" : "uri",
@@ -2947,14 +2947,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075281-F40A3B2A-9DE8-4111-A827-63A005B8EE83"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075281-F40A3B2A-9DE8-4111-A827-63A005B8EE83"
       },
       "district" : {
         "type" : "uri",
@@ -3070,14 +3070,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075333-7CDC5FAE-C8F3-4431-8021-5ABF1257DAD8"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075333-7CDC5FAE-C8F3-4431-8021-5ABF1257DAD8"
       },
       "district" : {
         "type" : "uri",
@@ -3193,14 +3193,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075491-ECC71EE4-7182-4D52-83AC-BC7A1237D3E3"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075491-ECC71EE4-7182-4D52-83AC-BC7A1237D3E3"
       },
       "district" : {
         "type" : "uri",
@@ -3316,14 +3316,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075552-ABC2F269-8D0E-4803-A0FA-D29A4E647623"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075552-ABC2F269-8D0E-4803-A0FA-D29A4E647623"
       },
       "district" : {
         "type" : "uri",
@@ -3439,14 +3439,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075596-92C0CB85-F97F-4ABA-B1A3-C7B43857E88F"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075596-92C0CB85-F97F-4ABA-B1A3-C7B43857E88F"
       },
       "district" : {
         "type" : "uri",
@@ -3562,14 +3562,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075697-35355951-12E4-4135-A5F9-7FEA8AF78B59"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075697-35355951-12E4-4135-A5F9-7FEA8AF78B59"
       },
       "district" : {
         "type" : "uri",
@@ -3685,14 +3685,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075732-3701DD17-BB53-4814-8CFF-97BA682A4762"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075732-3701DD17-BB53-4814-8CFF-97BA682A4762"
       },
       "district" : {
         "type" : "uri",
@@ -3808,14 +3808,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075774-ECA0863E-7096-4131-864E-8F7AEFA15812"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075774-ECA0863E-7096-4131-864E-8F7AEFA15812"
       },
       "district" : {
         "type" : "uri",
@@ -3928,6 +3928,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -4049,14 +4054,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075870-FE1013CA-F3C5-40FE-B6A5-D2F1B25DC94F"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075870-FE1013CA-F3C5-40FE-B6A5-D2F1B25DC94F"
       },
       "district" : {
         "type" : "uri",
@@ -4172,14 +4177,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075907-31794040-F4B7-4727-B76B-A90226D9EBB9"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075907-31794040-F4B7-4727-B76B-A90226D9EBB9"
       },
       "district" : {
         "type" : "uri",
@@ -4295,14 +4300,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075948-1146C826-ACCF-406D-AFFD-8959C3D6BFD9"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075948-1146C826-ACCF-406D-AFFD-8959C3D6BFD9"
       },
       "district" : {
         "type" : "uri",
@@ -4418,14 +4423,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50075980-1D9176E8-032A-41F5-9C3C-C8B3FDCE602D"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50075980-1D9176E8-032A-41F5-9C3C-C8B3FDCE602D"
       },
       "district" : {
         "type" : "uri",
@@ -4541,14 +4546,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076036-79A12DC7-5025-4970-9011-74F158D37ADA"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076036-79A12DC7-5025-4970-9011-74F158D37ADA"
       },
       "district" : {
         "type" : "uri",
@@ -4661,6 +4666,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -4782,14 +4792,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076161-27C21FEC-2601-4400-8360-9158A510E7E0"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076161-27C21FEC-2601-4400-8360-9158A510E7E0"
       },
       "district" : {
         "type" : "uri",
@@ -4902,6 +4912,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -5023,14 +5038,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076279-F5BEA402-6B34-4809-B4CF-DDB3DAD84101"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076279-F5BEA402-6B34-4809-B4CF-DDB3DAD84101"
       },
       "district" : {
         "type" : "uri",
@@ -5151,14 +5166,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076380-67E3754E-293C-42C0-AD14-672E093F95C4"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076380-67E3754E-293C-42C0-AD14-672E093F95C4"
       },
       "district" : {
         "type" : "uri",
@@ -5274,14 +5289,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076473-52E3882A-3654-4C0E-9894-A375FC4B85B5"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076473-52E3882A-3654-4C0E-9894-A375FC4B85B5"
       },
       "district" : {
         "type" : "uri",
@@ -5397,14 +5412,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076548-A2CB7F9D-BCBD-4403-A656-3A04DFCED526"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076548-A2CB7F9D-BCBD-4403-A656-3A04DFCED526"
       },
       "district" : {
         "type" : "uri",
@@ -5517,6 +5532,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -5638,14 +5658,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076708-619720FF-0230-40B6-AE76-A5034C7BAD37"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076708-619720FF-0230-40B6-AE76-A5034C7BAD37"
       },
       "district" : {
         "type" : "uri",
@@ -5761,14 +5781,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076751-8A99D0C5-C304-4004-AA65-B05EFAC235B5"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076751-8A99D0C5-C304-4004-AA65-B05EFAC235B5"
       },
       "district" : {
         "type" : "uri",
@@ -5884,14 +5904,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076792-FEC559A1-A908-4001-8134-E395E8606DB7"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076792-FEC559A1-A908-4001-8134-E395E8606DB7"
       },
       "district" : {
         "type" : "uri",
@@ -6007,14 +6027,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50076935-0CB6CD5B-F727-4FEF-B759-4F97E6CB4812"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50076935-0CB6CD5B-F727-4FEF-B759-4F97E6CB4812"
       },
       "district" : {
         "type" : "uri",
@@ -6130,14 +6150,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077028-31057331-CCFF-49D5-8212-A33A9196209D"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077028-31057331-CCFF-49D5-8212-A33A9196209D"
       },
       "district" : {
         "type" : "uri",
@@ -6253,14 +6273,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077062-51DA44A3-E244-4D44-82E8-B9D5DCF42450"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077062-51DA44A3-E244-4D44-82E8-B9D5DCF42450"
       },
       "district" : {
         "type" : "uri",
@@ -6376,14 +6396,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077099-D8A2FF6F-8C9E-47E8-9E15-BD179345C11E"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077099-D8A2FF6F-8C9E-47E8-9E15-BD179345C11E"
       },
       "district" : {
         "type" : "uri",
@@ -6496,6 +6516,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -6617,14 +6642,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077272-3897C023-E578-49F3-A67C-75700F9A8747"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077272-3897C023-E578-49F3-A67C-75700F9A8747"
       },
       "district" : {
         "type" : "uri",
@@ -6740,14 +6765,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077317-1BD0ADBF-BC13-4103-A55F-ACEC4B6EEC88"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077317-1BD0ADBF-BC13-4103-A55F-ACEC4B6EEC88"
       },
       "district" : {
         "type" : "uri",
@@ -6863,14 +6888,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50077353-B1EB80A6-A8B3-409A-9B29-FF6B24644FA1"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50077353-B1EB80A6-A8B3-409A-9B29-FF6B24644FA1"
       },
       "district" : {
         "type" : "uri",
@@ -6983,6 +7008,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -7104,14 +7134,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50184527-0B3A5888-A48B-4B4C-AF3D-887049E20339"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50184527-0B3A5888-A48B-4B4C-AF3D-887049E20339"
       },
       "district" : {
         "type" : "uri",
@@ -7227,14 +7257,14 @@
         "type" : "literal",
         "value" : "中國國民黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8275249-EE2B4509-A147-480C-AB72-729DA3E2322E"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8275249-EE2B4509-A147-480C-AB72-729DA3E2322E"
       },
       "district" : {
         "type" : "uri",
@@ -7350,14 +7380,14 @@
         "type" : "literal",
         "value" : "民主進步黨"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8357076-9683EB9B-000B-4DE4-B5EF-A0C5647A18DF"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8357076-9683EB9B-000B-4DE4-B5EF-A0C5647A18DF"
       },
       "district" : {
         "type" : "uri",

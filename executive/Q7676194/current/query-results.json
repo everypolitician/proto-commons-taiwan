@@ -56,6 +56,11 @@
         "type" : "literal",
         "value" : "李孟諺"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "李孟諺"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7676194"

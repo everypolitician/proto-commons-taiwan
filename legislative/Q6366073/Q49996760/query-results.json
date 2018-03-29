@@ -3823,6 +3823,11 @@
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50092289-D41C78B3-CFE7-4112-8F85-985F17CA21A8"
@@ -6876,6 +6881,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },

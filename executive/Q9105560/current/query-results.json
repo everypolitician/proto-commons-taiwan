@@ -70,6 +70,11 @@
         "type" : "literal",
         "value" : "臺北市政府"
       },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "臺北市政府"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18113714-7adf6e4a-4b5b-8c4e-1daf-2fa89f9a1c39"

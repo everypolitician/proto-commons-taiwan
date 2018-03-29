@@ -75,6 +75,11 @@
         "type" : "literal",
         "value" : "陳光復"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳光復"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17500943"
@@ -86,6 +91,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "澎湖縣政府"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "澎湖縣政府"
       },

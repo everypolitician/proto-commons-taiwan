@@ -89,6 +89,11 @@
         "type" : "literal",
         "value" : "嘉義市政府"
       },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "嘉義市政府"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350363-39e2cab6-4d05-6f95-3a3d-2edae15e55e1"
@@ -101,6 +106,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "涂醒哲"
       }
     }, {
       "item" : {
@@ -166,6 +176,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "嘉義市政府"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義市政府"
       },

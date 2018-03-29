@@ -56,6 +56,11 @@
         "type" : "literal",
         "value" : "陳福海"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳福海"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16976490"

@@ -146,6 +146,11 @@
         "type" : "literal",
         "value" : "時代力量"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "時代力量"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15899237-8006598f-4b71-ae1c-c40d-e2b9b8081a43"
@@ -2519,6 +2524,11 @@
         "type" : "literal",
         "value" : "時代力量"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "時代力量"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849402-A7F92D57-2D96-4235-97C9-D589E24526DD"
@@ -2909,6 +2919,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "時代力量"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "時代力量"
       },
@@ -6081,6 +6096,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "無黨團結聯盟"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -14934,6 +14954,11 @@
         "type" : "literal",
         "value" : "時代力量"
       },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "時代力量"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8967661-727DCB67-05AB-481D-B85B-A76BC703BA8A"
@@ -15192,6 +15217,11 @@
       },
       "party_name_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "時代力量"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "時代力量"
       },

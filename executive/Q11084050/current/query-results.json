@@ -75,6 +75,11 @@
         "type" : "literal",
         "value" : "邱鏡淳"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "邱鏡淳"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11084050"

@@ -56,6 +56,11 @@
         "type" : "literal",
         "value" : "傅崐萁"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "傅崐萁"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18658266"

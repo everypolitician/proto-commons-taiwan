@@ -75,6 +75,11 @@
         "type" : "literal",
         "value" : "林右昌"
       },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林右昌"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10930430"
@@ -86,6 +91,11 @@
       },
       "org_zh" : {
         "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "基隆市政府"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "基隆市政府"
       },

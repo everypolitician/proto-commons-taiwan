@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -13,19 +13,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q11176440-C810F00E-7EEE-454A-A419-35F1C241746B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -35,11 +30,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -69,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -82,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11176440"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃景熙"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -101,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -136,19 +106,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15903406-49A5DAE7-E325-48E3-80AD-3166E3D1AE71"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -158,11 +123,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第14選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -178,11 +138,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -192,11 +147,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -205,11 +155,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15903406"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳瑛"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -224,11 +169,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -259,19 +199,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16908001-8B4FDF27-BEDE-431D-9E11-B634A1B0F3FE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -281,11 +216,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -301,11 +231,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -315,11 +240,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -328,11 +248,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16908001"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳志謀"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -347,11 +262,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -382,19 +292,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16908359-1C43D29A-C9D3-4AC6-8FFE-FA7780171B10"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -404,11 +309,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -424,11 +324,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -438,11 +333,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -451,11 +341,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16908359"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃敬平"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -470,11 +355,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -505,19 +385,14 @@
         "type" : "literal",
         "value" : "Green Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "綠黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18654613-E0F727ED-C983-402B-B39D-21599776F032"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "綠黨"
       },
       "district" : {
         "type" : "uri",
@@ -527,11 +402,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -547,11 +417,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -561,11 +426,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -574,11 +434,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18654613"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王浩宇"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -593,11 +448,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -628,19 +478,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825208-168D4E54-63EA-4E76-BE8E-FD5241E64D77"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -650,11 +495,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第9選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -670,11 +510,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -684,11 +519,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -697,11 +527,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825208"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳賴素美"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -716,11 +541,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -756,19 +576,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825622-DA1D98A1-FDC5-4A4D-9653-53B580FFB40F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -778,11 +593,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -798,11 +608,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -812,11 +617,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -825,11 +625,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825622"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "彭俊豪"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -844,11 +639,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -879,19 +669,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21040218-5F5C49B8-DA02-4285-B584-90832AE1ABFB"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -901,11 +686,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -921,11 +701,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -935,11 +710,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -948,11 +718,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21040218"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張肇良"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -967,11 +732,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1006,11 +766,6 @@
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第12選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1025,11 +780,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1039,11 +789,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1052,11 +797,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21055059"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳宗憲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1071,11 +811,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1110,11 +845,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1129,11 +859,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1143,11 +868,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1156,11 +876,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22100240"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "趙正宇"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1175,11 +890,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1220,19 +930,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q22100595-ECC9AFBA-C24E-49F7-A58A-9E4A227F74C0"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1242,11 +947,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1262,11 +962,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1275,11 +970,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1290,11 +980,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22100595"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱奕勝"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1308,11 +993,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1343,19 +1023,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28418573-CF7F831F-80DE-4226-9B6F-C214AB439F17"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1366,11 +1041,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1385,11 +1055,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1399,11 +1064,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1412,11 +1072,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28418573"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林政賢"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1431,11 +1086,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1466,19 +1116,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30941045-3E5B02F7-2003-4ECC-AC0B-EDC1F1741BFC"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1489,11 +1134,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1508,11 +1148,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1521,11 +1156,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1536,11 +1166,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30941045"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "魯明哲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1554,11 +1179,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1589,19 +1209,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30942957-16D5D19F-06AD-4500-90B1-F26500ED4986"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -1612,11 +1227,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1631,11 +1241,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1645,11 +1250,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1658,11 +1258,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30942957"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張火爐"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1677,11 +1272,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1712,19 +1302,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45540571-EB6AE61F-B427-4BD8-9C9A-7B8BBB73F6D3"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -1734,11 +1319,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1754,11 +1334,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1767,11 +1342,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1795,11 +1365,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1835,19 +1400,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q47669448-EFF23C9E-D819-4533-BF5C-41485F05C4B2"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -1857,11 +1417,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1877,11 +1432,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1890,11 +1440,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1905,11 +1450,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47669448"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "范綱祥"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1923,11 +1463,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1958,19 +1493,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50074772-288E87E0-EF85-44EC-96DF-16137CD7D19A"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1980,11 +1510,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2000,11 +1525,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2013,11 +1533,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2028,11 +1543,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50074772"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳美梅"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2046,11 +1556,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2081,19 +1586,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50074821-C298E63B-D1B6-4C7F-84E0-0C85FE0C14D0"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2103,11 +1603,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2123,11 +1618,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2136,11 +1626,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2151,11 +1636,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50074821"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃婉如"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2169,11 +1649,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2204,19 +1679,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50074907-EF9CB2F8-F4B5-4B71-A2B5-3E854592E5A1"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -2226,11 +1696,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2246,11 +1711,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2259,11 +1719,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2274,11 +1729,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50074907"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱素芬"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2292,11 +1742,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2327,19 +1772,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50074948-6836F60D-BD91-409E-B668-59BAB22A2B73"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2349,11 +1789,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2369,11 +1804,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2382,11 +1812,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2397,11 +1822,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50074948"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇家明"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2415,11 +1835,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2450,19 +1865,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075031-4EB06360-E96F-400C-AB78-2822BBF664F5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2472,11 +1882,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2492,11 +1897,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2505,11 +1905,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2520,11 +1915,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075031"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "萬美玲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2538,11 +1928,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2573,19 +1958,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075072-A8DA75E5-A965-48E0-BF9E-6D37D633790F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -2595,11 +1975,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2615,11 +1990,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2628,11 +1998,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2643,11 +2008,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075072"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李光達"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2661,11 +2021,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2696,19 +2051,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075123-C62BF3C1-1545-4AEE-A066-B0BA5311C352"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2718,11 +2068,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2738,11 +2083,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2751,11 +2091,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2766,11 +2101,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075123"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李曉鐘"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2784,11 +2114,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2819,19 +2144,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075173-51272DAE-6B71-4966-A7BB-D6BE62E8E8E1"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2842,11 +2162,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2861,11 +2176,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2874,11 +2184,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2889,11 +2194,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075173"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "詹江村"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2907,11 +2207,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2942,19 +2237,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075281-F40A3B2A-9DE8-4111-A827-63A005B8EE83"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -2964,11 +2254,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2984,11 +2269,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2997,11 +2277,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3012,11 +2287,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075281"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林俐玲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3030,11 +2300,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3065,19 +2330,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075333-7CDC5FAE-C8F3-4431-8021-5ABF1257DAD8"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3088,11 +2348,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3107,11 +2362,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3120,11 +2370,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3135,11 +2380,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075333"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李雲強"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3153,11 +2393,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3188,19 +2423,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075491-ECC71EE4-7182-4D52-83AC-BC7A1237D3E3"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3210,11 +2440,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3230,11 +2455,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3243,11 +2463,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3258,11 +2473,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075491"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "呂林小鳳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3276,11 +2486,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3311,19 +2516,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075552-ABC2F269-8D0E-4803-A0FA-D29A4E647623"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3333,11 +2533,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3353,11 +2548,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3366,11 +2556,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3381,11 +2566,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075552"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉茂群"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3399,11 +2579,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3434,19 +2609,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075596-92C0CB85-F97F-4ABA-B1A3-C7B43857E88F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3457,11 +2627,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3476,11 +2641,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3490,11 +2650,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3503,11 +2658,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075596"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "呂淑真"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3522,11 +2672,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3557,19 +2702,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075697-35355951-12E4-4135-A5F9-7FEA8AF78B59"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3579,11 +2719,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3599,11 +2734,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3612,11 +2742,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3627,11 +2752,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075697"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳麗莉"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3645,11 +2765,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3680,19 +2795,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075732-3701DD17-BB53-4814-8CFF-97BA682A4762"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3702,11 +2812,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3722,11 +2827,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3735,11 +2835,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3750,11 +2845,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075732"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許清順"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3768,11 +2858,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3803,19 +2888,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075774-ECA0863E-7096-4131-864E-8F7AEFA15812"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3825,11 +2905,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3845,11 +2920,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3859,11 +2929,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3872,11 +2937,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075774"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭麗華"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3891,11 +2951,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3926,8 +2981,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -3944,11 +2999,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3963,11 +3013,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3976,11 +3021,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3991,11 +3031,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075831"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉勝全"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4009,11 +3044,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4044,19 +3074,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075870-FE1013CA-F3C5-40FE-B6A5-D2F1B25DC94F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4066,11 +3091,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第5選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4086,11 +3106,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4099,11 +3114,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4114,11 +3124,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075870"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐其萬"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4132,11 +3137,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4167,19 +3167,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075907-31794040-F4B7-4727-B76B-A90226D9EBB9"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -4190,11 +3185,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4209,11 +3199,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4223,11 +3208,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4236,11 +3216,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075907"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "游吾和"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4255,11 +3230,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4290,19 +3260,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075948-1146C826-ACCF-406D-AFFD-8959C3D6BFD9"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4312,11 +3277,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4332,11 +3292,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4346,11 +3301,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4359,11 +3309,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075948"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊朝偉"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4378,11 +3323,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4413,19 +3353,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50075980-1D9176E8-032A-41F5-9C3C-C8B3FDCE602D"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -4435,11 +3370,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4455,11 +3385,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4469,11 +3394,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4482,11 +3402,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50075980"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳治文"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4501,11 +3416,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4536,19 +3446,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076036-79A12DC7-5025-4970-9011-74F158D37ADA"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4558,11 +3463,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4578,11 +3478,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4592,11 +3487,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4605,11 +3495,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076036"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李柏坊"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4624,11 +3509,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4659,8 +3539,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -4677,11 +3557,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4696,11 +3571,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4710,11 +3580,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4723,11 +3588,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076083"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張運炳"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4742,11 +3602,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4777,19 +3632,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076161-27C21FEC-2601-4400-8360-9158A510E7E0"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4799,11 +3649,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4819,11 +3664,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4833,11 +3673,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4846,11 +3681,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076161"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "梁為超"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4865,11 +3695,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4900,8 +3725,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -4918,11 +3743,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4937,11 +3757,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4951,11 +3766,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4964,11 +3774,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076238"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉曾玉春"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4983,11 +3788,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5018,19 +3818,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076279-F5BEA402-6B34-4809-B4CF-DDB3DAD84101"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5040,11 +3835,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5060,11 +3850,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5074,11 +3859,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5087,11 +3867,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076279"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "袁明星"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5106,11 +3881,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5146,19 +3916,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076380-67E3754E-293C-42C0-AD14-672E093F95C4"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5168,11 +3933,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5188,11 +3948,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5201,11 +3956,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5216,11 +3966,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076380"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃傅淑香"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5234,11 +3979,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5269,19 +4009,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076473-52E3882A-3654-4C0E-9894-A375FC4B85B5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -5292,11 +4027,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5311,11 +4041,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5325,11 +4050,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5338,11 +4058,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076473"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "葉明月"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5357,11 +4072,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5392,19 +4102,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076548-A2CB7F9D-BCBD-4403-A656-3A04DFCED526"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -5414,11 +4119,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5434,11 +4134,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5448,11 +4143,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5461,11 +4151,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076548"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "舒翠玲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5480,11 +4165,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5515,8 +4195,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -5533,11 +4213,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5552,11 +4227,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5565,11 +4235,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5580,11 +4245,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076658"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "莊玉輝"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5598,11 +4258,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5633,19 +4288,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076708-619720FF-0230-40B6-AE76-A5034C7BAD37"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5655,11 +4305,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5675,11 +4320,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5688,11 +4328,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5703,11 +4338,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076708"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊家俍"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5721,11 +4351,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5756,19 +4381,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076751-8A99D0C5-C304-4004-AA65-B05EFAC235B5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5778,11 +4398,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5798,11 +4413,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5811,11 +4421,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5826,11 +4431,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076751"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉仁照"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5844,11 +4444,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5879,19 +4474,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076792-FEC559A1-A908-4001-8134-E395E8606DB7"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -5902,11 +4492,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5921,11 +4506,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5934,11 +4514,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5949,11 +4524,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076792"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "謝彰文"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5967,11 +4537,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6002,19 +4567,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50076935-0CB6CD5B-F727-4FEF-B759-4F97E6CB4812"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6025,11 +4585,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6044,11 +4599,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6057,11 +4607,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6072,11 +4617,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50076935"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李家興"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6090,11 +4630,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6125,19 +4660,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077028-31057331-CCFF-49D5-8212-A33A9196209D"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6147,11 +4677,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6167,11 +4692,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6180,11 +4700,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6195,11 +4710,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077028"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "閻中傑"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6213,11 +4723,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6248,19 +4753,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077062-51DA44A3-E244-4D44-82E8-B9D5DCF42450"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6270,11 +4770,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6290,11 +4785,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6304,11 +4794,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6317,11 +4802,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077062"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐玉樹"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6336,11 +4816,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6371,19 +4846,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077099-D8A2FF6F-8C9E-47E8-9E15-BD179345C11E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -6393,11 +4863,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第11選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6413,11 +4878,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6427,11 +4887,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6440,11 +4895,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077099"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱佳亮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6459,11 +4909,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6494,8 +4939,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -6512,11 +4957,6 @@
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第12選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6531,11 +4971,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6544,11 +4979,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6559,11 +4989,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077225"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "歐炳辰"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6577,11 +5002,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6612,19 +5032,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077272-3897C023-E578-49F3-A67C-75700F9A8747"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6634,11 +5049,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第13選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6654,11 +5064,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6667,11 +5072,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6682,11 +5082,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077272"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊進福"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6700,11 +5095,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6735,19 +5125,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077317-1BD0ADBF-BC13-4103-A55F-ACEC4B6EEC88"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6757,11 +5142,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第13選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6777,11 +5157,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6791,11 +5166,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6804,11 +5174,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077317"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳春芳"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6823,11 +5188,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6858,19 +5218,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50077353-B1EB80A6-A8B3-409A-9B29-FF6B24644FA1"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -6880,11 +5235,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第13選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6900,11 +5250,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6914,11 +5259,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6927,11 +5267,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077353"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林志強"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6946,11 +5281,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6981,8 +5311,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -6999,11 +5329,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7018,11 +5343,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7031,11 +5351,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7046,11 +5361,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077410"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇志強"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7064,11 +5374,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7099,19 +5404,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50184527-0B3A5888-A48B-4B4C-AF3D-887049E20339"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -7122,11 +5422,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Taoyuan City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7141,11 +5436,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7155,11 +5445,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7168,11 +5453,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50184527"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周玉琴"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7187,11 +5467,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7222,19 +5497,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8275249-EE2B4509-A147-480C-AB72-729DA3E2322E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -7244,11 +5514,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7264,11 +5529,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7278,11 +5538,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7291,11 +5546,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8275249"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林正峰"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7310,11 +5560,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7345,19 +5590,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8357076-9683EB9B-000B-4DE4-B5EF-A0C5647A18DF"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7367,11 +5607,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Taoyuan City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員第12選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7387,11 +5622,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7401,11 +5631,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255748"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7414,11 +5639,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8357076"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭榮宗"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7433,11 +5653,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoyuan County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "桃園縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

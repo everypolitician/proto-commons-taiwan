@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "org", "org_zh_tw", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "mayor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "市长"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "Mayor of Chiayi"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "嘉義市市長"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -70,11 +55,6 @@
         "type" : "literal",
         "value" : "Twu Shiing-jer"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "涂醒哲"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15897754"
@@ -84,8 +64,8 @@
         "type" : "literal",
         "value" : "Chiayi City Government"
       },
-      "org_zh" : {
-        "xml:lang" : "zh",
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義市政府"
       },
@@ -101,6 +81,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "涂醒哲"
       }
     }, {
       "item" : {
@@ -116,11 +101,6 @@
         "type" : "literal",
         "value" : "mayor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "市长"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -135,11 +115,6 @@
         "type" : "literal",
         "value" : "Mayor of Chiayi"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "嘉義市市長"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -150,11 +125,6 @@
         "type" : "literal",
         "value" : "Chang Wen-ying"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張文英"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15897754"
@@ -164,8 +134,8 @@
         "type" : "literal",
         "value" : "Chiayi City Government"
       },
-      "org_zh" : {
-        "xml:lang" : "zh",
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "嘉義市政府"
       },

@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -69,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -82,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11068022"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張世賢"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -101,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -141,11 +111,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -164,11 +129,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -183,11 +143,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -197,11 +152,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -210,11 +160,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15905278"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林宜瑾"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -229,11 +174,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -263,11 +203,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -287,11 +222,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -306,11 +236,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -320,11 +245,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -333,11 +253,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15942320"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡旺詮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -352,11 +267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -386,11 +296,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -410,11 +315,6 @@
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第11選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -429,11 +329,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -443,11 +338,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -456,11 +346,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17502266"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳怡珍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -475,11 +360,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -510,11 +390,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -533,11 +408,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -552,11 +422,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -566,11 +431,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -579,11 +439,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22100706"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭國文"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -598,11 +453,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -643,11 +493,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -666,11 +511,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -685,11 +525,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -699,11 +534,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -712,11 +542,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30943269"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李退之"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -731,11 +556,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -766,11 +586,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -789,11 +604,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -808,11 +618,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -822,11 +627,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -835,11 +635,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30946589"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "賴惠員"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -854,11 +649,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -898,11 +688,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -917,11 +702,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -931,11 +711,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -944,11 +719,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50081830"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "趙昆原"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -963,11 +733,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -998,11 +763,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1021,11 +781,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1040,11 +795,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1054,11 +804,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1067,11 +812,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082016"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡育輝"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1086,11 +826,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1121,11 +856,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1144,11 +874,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1163,11 +888,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1177,11 +897,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1190,11 +905,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082089"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "侯澄財"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1209,11 +919,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1248,11 +953,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1267,11 +967,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1281,11 +976,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1294,11 +984,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082165"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "謝財旺"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1313,11 +998,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1348,11 +1028,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1371,11 +1046,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1390,11 +1060,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1404,11 +1069,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1417,11 +1077,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082227"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳文賢"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1436,11 +1091,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1475,11 +1125,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1494,11 +1139,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1508,11 +1148,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1521,11 +1156,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082298"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭秀珠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1540,11 +1170,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1575,11 +1200,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1598,11 +1218,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1617,11 +1232,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1631,11 +1241,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1644,11 +1249,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082341"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳通龍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1663,11 +1263,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1702,11 +1297,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1721,11 +1311,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1735,11 +1320,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1748,11 +1328,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082382"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡秋蘭"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1767,11 +1342,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1806,11 +1376,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1825,11 +1390,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1839,11 +1399,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1852,11 +1407,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082420"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳朝來"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1871,11 +1421,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1906,11 +1451,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1929,11 +1469,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1948,11 +1483,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1962,11 +1492,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1975,11 +1500,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082450"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡蘇秋金"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1994,11 +1514,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2033,11 +1548,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2052,11 +1562,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2066,11 +1571,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2079,11 +1579,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082492"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "梁順發"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2098,11 +1593,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2133,11 +1623,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2156,11 +1641,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2175,11 +1655,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2189,11 +1664,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2202,11 +1672,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082533"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林志展"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2221,11 +1686,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2256,11 +1716,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2279,11 +1734,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2298,11 +1748,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2312,11 +1757,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2325,11 +1765,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082578"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林全忠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2344,11 +1779,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2378,11 +1808,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2402,11 +1827,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2421,11 +1841,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2435,11 +1850,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2448,11 +1858,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082623"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林志聰"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2467,11 +1872,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2502,11 +1902,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2525,11 +1920,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2544,11 +1934,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2558,11 +1943,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2571,11 +1951,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082673"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王峻潭"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2590,11 +1965,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2625,11 +1995,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2648,11 +2013,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2667,11 +2027,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2681,11 +2036,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2694,11 +2044,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082819"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳秋萍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2713,11 +2058,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2748,11 +2088,6 @@
         "type" : "literal",
         "value" : "Taiwan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣團結聯盟"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2771,11 +2106,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2790,11 +2120,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2804,11 +2129,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2817,11 +2137,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082866"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊中成"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2836,11 +2151,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2871,11 +2181,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2894,11 +2199,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2913,11 +2213,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2927,11 +2222,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2940,11 +2230,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50082968"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林燕祝"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2959,11 +2244,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2998,11 +2278,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3017,11 +2292,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3031,11 +2301,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3044,11 +2309,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083019"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林阳乙"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3063,11 +2323,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3098,11 +2353,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3121,11 +2371,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3140,11 +2385,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3154,11 +2394,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3167,11 +2402,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083063"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李坤煌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3186,11 +2416,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3225,11 +2450,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3244,11 +2464,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3258,11 +2473,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3271,11 +2481,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083119"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林慶鎭"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3290,11 +2495,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3325,11 +2525,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3348,11 +2543,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3367,11 +2557,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3381,11 +2566,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3394,11 +2574,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083155"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭信良"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3413,11 +2588,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3448,11 +2618,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3471,11 +2636,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3490,11 +2650,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3504,11 +2659,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3517,11 +2667,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083207"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李中岑"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3536,11 +2681,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3571,11 +2711,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3594,11 +2729,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3613,11 +2743,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3627,11 +2752,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3640,11 +2760,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083246"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王錦德"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3659,11 +2774,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3698,11 +2808,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3717,11 +2822,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3731,11 +2831,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3744,11 +2839,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083290"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林炳利"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3763,11 +2853,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3798,11 +2883,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3821,11 +2901,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3840,11 +2915,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3854,11 +2924,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3867,11 +2932,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083326"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭清華"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3886,11 +2946,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3920,11 +2975,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3944,11 +2994,6 @@
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第11選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3963,11 +3008,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3977,11 +3017,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3990,11 +3025,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083404"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許至椿"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4009,11 +3039,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4043,11 +3068,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4067,11 +3087,6 @@
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第12選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4086,11 +3101,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4100,11 +3110,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4113,11 +3118,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083553"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "洪玉鳳"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4132,11 +3132,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4167,11 +3162,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4190,11 +3180,6 @@
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第13選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4209,11 +3194,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4223,11 +3203,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4236,11 +3211,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083601"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "盧崑福"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4255,11 +3225,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4294,11 +3259,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4313,11 +3273,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4327,11 +3282,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4340,11 +3290,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083726"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曾順良"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4359,11 +3304,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4393,11 +3333,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4417,11 +3352,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4436,11 +3366,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4450,11 +3375,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4463,11 +3383,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083790"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳金鐘"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4482,11 +3397,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4516,11 +3426,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4540,11 +3445,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4559,11 +3459,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4573,11 +3468,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4586,11 +3476,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083822"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曾培雅"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4605,11 +3490,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4639,11 +3519,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4663,11 +3538,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4682,11 +3552,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4696,11 +3561,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4709,11 +3569,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083865"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陸美祈"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4728,11 +3583,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4763,11 +3613,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4786,11 +3631,6 @@
         "type" : "literal",
         "value" : "15th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第15選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4805,11 +3645,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4819,11 +3654,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4832,11 +3662,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083907"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "呂維胤"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4851,11 +3676,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4885,11 +3705,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4909,11 +3724,6 @@
         "type" : "literal",
         "value" : "15th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第15選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4928,11 +3738,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4942,11 +3747,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4955,11 +3755,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083941"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡淑惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4974,11 +3769,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5009,11 +3799,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5032,11 +3817,6 @@
         "type" : "literal",
         "value" : "15th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第15選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5051,11 +3831,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5065,11 +3840,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5078,11 +3848,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50083985"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林美燕"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5097,11 +3862,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5136,11 +3896,6 @@
         "type" : "literal",
         "value" : "15th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第15選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5155,11 +3910,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5169,11 +3919,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5182,11 +3927,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084024"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "莊玉珠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5201,11 +3941,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5240,11 +3975,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5259,11 +3989,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5273,11 +3998,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5286,11 +4006,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084053"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳特清"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5305,11 +4020,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5349,11 +4059,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5368,11 +4073,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5382,11 +4082,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5395,11 +4090,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084088"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "杜素吟"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5414,11 +4104,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5453,11 +4138,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5472,11 +4152,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5486,11 +4161,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5499,11 +4169,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084124"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張伯祿"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5518,11 +4183,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5562,11 +4222,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5581,11 +4236,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5595,11 +4245,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5608,11 +4253,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084166"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曾王雅雲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5627,11 +4267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5662,11 +4297,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5685,11 +4315,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5704,11 +4329,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5718,11 +4338,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5731,11 +4346,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084207"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉正昌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5750,11 +4360,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5785,11 +4390,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5808,11 +4408,6 @@
         "type" : "literal",
         "value" : "17th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第17選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5827,11 +4422,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5841,11 +4431,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5854,11 +4439,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084240"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡玉枝"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5873,11 +4453,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5912,11 +4487,6 @@
         "type" : "literal",
         "value" : "18th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第18選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5931,11 +4501,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5945,11 +4510,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5958,11 +4518,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50084280"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "谷暮‧哈就"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5977,11 +4532,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6012,11 +4562,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6035,11 +4580,6 @@
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第11選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6054,11 +4594,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6068,11 +4603,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6081,11 +4611,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7682659"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "唐碧娥"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6100,11 +4625,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6140,11 +4660,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6163,11 +4678,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6182,11 +4692,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6196,11 +4701,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6209,11 +4709,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274968"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李全教"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6228,11 +4723,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6268,11 +4758,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6291,11 +4776,6 @@
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第11選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6310,11 +4790,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6324,11 +4799,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6337,11 +4807,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8277906"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "謝龍介"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6356,11 +4821,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6396,11 +4856,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6419,11 +4874,6 @@
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第12選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6438,11 +4888,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6452,11 +4897,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6465,11 +4905,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347743"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱莉莉"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6484,11 +4919,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6518,11 +4948,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6542,11 +4967,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6561,11 +4981,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6575,11 +4990,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6588,11 +4998,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350016"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "賴美惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6607,11 +5012,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6642,11 +5042,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6665,11 +5060,6 @@
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第13選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6684,11 +5074,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6698,11 +5083,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6711,11 +5091,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8995080"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李文正"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6730,11 +5105,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6770,11 +5140,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6793,11 +5158,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Tainan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6812,11 +5172,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6826,11 +5181,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256480"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6839,11 +5189,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9314157"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王家貞"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6858,11 +5203,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tainan City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "臺南市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

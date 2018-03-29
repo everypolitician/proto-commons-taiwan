@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "org", "org_zh_tw", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taiwan"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "President of the Executive Yuan"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -50,11 +40,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of the Executive Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -70,11 +55,6 @@
         "type" : "literal",
         "value" : "Wellington Koo"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "顧維鈞"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q715055"
@@ -83,11 +63,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Executive Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -117,11 +92,6 @@
         "type" : "literal",
         "value" : "Taiwan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -140,11 +110,6 @@
         "type" : "literal",
         "value" : "President of the Executive Yuan"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -154,11 +119,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of the Executive Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -174,11 +134,6 @@
         "type" : "literal",
         "value" : "William Lai"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "賴清德"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q715055"
@@ -187,11 +142,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Executive Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -220,11 +170,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -249,11 +194,6 @@
         "type" : "literal",
         "value" : "Taiwan"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -272,11 +212,6 @@
         "type" : "literal",
         "value" : "President of the Executive Yuan"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -286,11 +221,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of the Executive Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -306,11 +236,6 @@
         "type" : "literal",
         "value" : "Wang Zhengting"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王正廷"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q715055"
@@ -319,11 +244,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Executive Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -347,11 +267,6 @@
         "type" : "literal",
         "value" : "Tongmenghui"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中国同盟会"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -366,11 +281,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taiwan"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -390,11 +300,6 @@
         "type" : "literal",
         "value" : "President of the Executive Yuan"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -404,11 +309,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of the Executive Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -424,11 +324,6 @@
         "type" : "literal",
         "value" : "Wang Zhengting"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王正廷"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q715055"
@@ -437,11 +332,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Executive Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -465,11 +355,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -484,11 +369,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taiwan"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中華民國"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -508,11 +388,6 @@
         "type" : "literal",
         "value" : "President of the Executive Yuan"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -522,11 +397,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of the Executive Yuan"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣行政院院長"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -542,11 +412,6 @@
         "type" : "literal",
         "value" : "Xiong Xiling"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "熊希齡"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q715055"
@@ -555,11 +420,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Executive Yuan"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "行政院"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

@@ -3,7 +3,6 @@
     {
       "name": {
         "lang:zh_TW": "柯文哲",
-        "lang:zh_CN": "柯文哲",
         "lang:en_US": "Ko Wen-je"
       },
       "id": "Q18113714",
@@ -24,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_CN": "臺北市政府",
+        "lang:zh_TW": "臺北市政府",
         "lang:en_US": "Taipei City Government"
       },
       "id": "Q9105560",
@@ -56,7 +55,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -82,7 +80,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -108,7 +105,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -134,7 +130,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -160,7 +155,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -186,7 +180,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -212,7 +205,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -238,7 +230,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -264,7 +255,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -290,7 +280,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -316,7 +305,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -342,7 +330,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -368,7 +355,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -394,7 +380,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -420,7 +405,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -446,7 +430,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -472,7 +455,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -498,7 +480,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -524,7 +505,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -550,7 +530,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -576,7 +555,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -602,7 +580,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -628,7 +605,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -647,13 +623,11 @@
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh_TW": "市長",
-        "lang:zh_CN": "市长",
         "lang:en_US": "mayor"
       },
       "role_code": "Q6310674",
       "role": {
         "lang:zh_TW": "臺北市市長",
-        "lang:zh_CN": "臺北市市長",
         "lang:en_US": "Mayor of Taipei"
       }
     }

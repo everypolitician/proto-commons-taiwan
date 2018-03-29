@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_CN": "陳光復",
+        "lang:zh_TW": "陳光復",
         "lang:en_US": "Chen Kuang-fu"
       },
       "id": "Q8347192",
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_CN": "澎湖縣政府",
+        "lang:zh_TW": "澎湖縣政府",
         "lang:en_US": "Penghu County Government"
       },
       "id": "Q17500943",
@@ -36,7 +36,6 @@
     {
       "name": {
         "lang:zh_TW": "民主進步黨",
-        "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
       "id": "Q903822",
@@ -67,7 +66,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -93,7 +91,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -119,7 +116,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -145,7 +141,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -171,7 +166,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -197,7 +191,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -223,7 +216,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -249,7 +241,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -275,7 +266,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -301,7 +291,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -327,7 +316,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -353,7 +341,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -379,7 +366,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -405,7 +391,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -431,7 +416,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -457,7 +441,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -483,7 +466,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -509,7 +491,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -535,7 +516,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -561,7 +541,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -587,7 +566,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -613,7 +591,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -639,7 +616,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -659,13 +635,11 @@
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh_TW": "市長",
-        "lang:zh_CN": "市长",
         "lang:en_US": "mayor"
       },
       "role_code": "Q50306294",
       "role": {
         "lang:zh_TW": "澎湖縣縣長",
-        "lang:zh_CN": "澎湖縣縣長",
         "lang:en_US": "Mayor of Penghu County"
       }
     }

@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -69,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -82,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27150807"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "魏嘉賢"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -101,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -141,11 +111,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -164,11 +129,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -183,11 +143,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -197,11 +152,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -210,11 +160,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28408602"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉曉玫"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -229,11 +174,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -269,11 +209,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -292,11 +227,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -311,11 +241,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -324,11 +249,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -352,11 +272,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -392,11 +307,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -415,11 +325,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -434,11 +339,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -448,11 +348,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -461,11 +356,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48928430"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張峻"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -480,11 +370,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -514,11 +399,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -538,11 +418,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -557,11 +432,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -571,11 +441,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -584,11 +449,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085509"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "施金樹"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -603,11 +463,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -638,11 +493,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -661,11 +511,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -680,11 +525,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -694,11 +534,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -707,11 +542,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085552"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林宗昆"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -726,11 +556,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -761,11 +586,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -784,11 +604,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -803,11 +618,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -817,11 +627,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -830,11 +635,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085682"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "莊枝財"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -849,11 +649,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -883,11 +678,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -907,11 +697,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -926,11 +711,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -940,11 +720,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -953,11 +728,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085709"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊文值"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -972,11 +742,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1006,11 +771,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1030,11 +790,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1049,11 +804,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1063,11 +813,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1076,11 +821,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085743"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李秋旺"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1095,11 +835,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1129,11 +864,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1153,11 +883,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1172,11 +897,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1186,11 +906,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1199,11 +914,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085776"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "謝國榮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1218,11 +928,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1252,11 +957,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1276,11 +976,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1295,11 +990,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1309,11 +999,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1322,11 +1007,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085809"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "賴進坤"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1341,11 +1021,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1376,11 +1051,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1399,11 +1069,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1418,11 +1083,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1432,11 +1092,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1445,11 +1100,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085858"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何禮臺"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1464,11 +1114,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1503,11 +1148,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1522,11 +1162,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1536,11 +1171,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1549,11 +1179,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085897"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "葉鯤璟"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1568,11 +1193,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1602,11 +1222,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1626,11 +1241,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1645,11 +1255,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1659,11 +1264,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1672,11 +1272,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085928"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱永双"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1691,11 +1286,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1725,11 +1315,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1749,11 +1334,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1768,11 +1348,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1782,11 +1357,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1795,11 +1365,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50085965"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張正治"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1814,11 +1379,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1849,11 +1409,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1872,11 +1427,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1891,11 +1441,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1905,11 +1450,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1918,11 +1458,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086001"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐雪玉"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1937,11 +1472,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1976,11 +1506,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1995,11 +1520,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2009,11 +1529,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2022,11 +1537,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086042"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "游淑貞"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2041,11 +1551,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2075,11 +1580,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2099,11 +1599,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2118,11 +1613,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2132,11 +1622,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2145,11 +1630,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086121"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭乾龍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2164,11 +1644,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2198,11 +1673,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2222,11 +1692,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2241,11 +1706,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2255,11 +1715,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2268,11 +1723,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086155"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "游美雲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2287,11 +1737,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2322,11 +1767,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2345,11 +1785,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2364,11 +1799,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2378,11 +1808,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2391,11 +1816,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086196"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃振富"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2410,11 +1830,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2445,11 +1860,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2468,11 +1878,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2487,11 +1892,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2501,11 +1901,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2514,11 +1909,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086236"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張智冠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2533,11 +1923,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2572,11 +1957,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2591,11 +1971,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2605,11 +1980,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2618,11 +1988,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086270"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王燕美"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2637,11 +2002,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2672,11 +2032,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2695,11 +2050,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2714,11 +2064,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2728,11 +2073,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2741,11 +2081,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086308"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘富民"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2760,11 +2095,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2799,11 +2129,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2818,11 +2143,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2832,11 +2152,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2845,11 +2160,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086357"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林秋美"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2864,11 +2174,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2899,11 +2204,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2922,11 +2222,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2941,11 +2236,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2955,11 +2245,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2968,11 +2253,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086394"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "余夏夫"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2987,11 +2267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3026,11 +2301,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3045,11 +2315,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3059,11 +2324,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3072,11 +2332,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086439"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "笛布斯顗賚"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3091,11 +2346,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3126,11 +2376,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3149,11 +2394,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3168,11 +2408,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3182,11 +2417,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3195,11 +2425,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086477"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊德金"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3214,11 +2439,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3253,11 +2473,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3272,11 +2487,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3286,11 +2496,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3299,11 +2504,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086519"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "萬榮財"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3318,11 +2518,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3357,11 +2552,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3376,11 +2566,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3390,11 +2575,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3403,11 +2583,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086559"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳英妹"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3422,11 +2597,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3456,11 +2626,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3480,11 +2645,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3499,11 +2659,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3513,11 +2668,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3526,11 +2676,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086599"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳建忠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3545,11 +2690,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3579,11 +2719,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3603,11 +2738,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3622,11 +2752,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3636,11 +2761,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3649,11 +2769,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086641"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許淑銀"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3668,11 +2783,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3702,11 +2812,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3726,11 +2831,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3745,11 +2845,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3759,11 +2854,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3772,11 +2862,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50086717"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇忠亮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3791,11 +2876,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3826,11 +2906,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3849,11 +2924,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Hualien County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3868,11 +2938,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3882,11 +2947,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49256840"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3895,11 +2955,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8276916"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "施慧萍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3914,11 +2969,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hualien County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

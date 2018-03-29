@@ -1,21 +1,17 @@
 SELECT ?statement
-       ?item ?name_zh_tw ?name_zh ?name_en
-       ?party ?party_name_zh_tw ?party_name_zh ?party_name_en
-       ?district ?district_name_zh_tw ?district_name_zh ?district_name_en
-       ?role ?role_zh_tw ?role_zh ?role_en
+       ?item ?name_zh_tw ?name_en
+       ?party ?party_name_zh_tw ?party_name_en
+       ?district ?district_name_zh_tw ?district_name_en
+       ?role ?role_zh_tw ?role_en
        ?start ?end ?facebook
-       ?role_superclass ?role_superclass_zh_tw ?role_superclass_zh ?role_superclass_en
-       ?org ?org_zh_tw ?org_zh ?org_en ?org_jurisdiction
+       ?role_superclass ?role_superclass_zh_tw ?role_superclass_en
+       ?org ?org_zh_tw ?org_en ?org_jurisdiction
 WHERE {
   VALUES ?role_superclass { wd:Q30185 }
   BIND(wd:Q10949116 AS ?org)
   OPTIONAL {
           ?org rdfs:label ?org_zh_tw
           FILTER(LANG(?org_zh_tw) = "zh-tw")
-        }
-OPTIONAL {
-          ?org rdfs:label ?org_zh
-          FILTER(LANG(?org_zh) = "zh")
         }
 OPTIONAL {
           ?org rdfs:label ?org_en
@@ -30,10 +26,6 @@ OPTIONAL {
           FILTER(LANG(?name_zh_tw) = "zh-tw")
         }
 OPTIONAL {
-          ?item rdfs:label ?name_zh
-          FILTER(LANG(?name_zh) = "zh")
-        }
-OPTIONAL {
           ?item rdfs:label ?name_en
           FILTER(LANG(?name_en) = "en")
         }
@@ -41,10 +33,6 @@ OPTIONAL {
   OPTIONAL {
           ?role rdfs:label ?role_zh_tw
           FILTER(LANG(?role_zh_tw) = "zh-tw")
-        }
-OPTIONAL {
-          ?role rdfs:label ?role_zh
-          FILTER(LANG(?role_zh) = "zh")
         }
 OPTIONAL {
           ?role rdfs:label ?role_en
@@ -56,10 +44,6 @@ OPTIONAL {
           FILTER(LANG(?role_superclass_zh_tw) = "zh-tw")
         }
 OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_zh
-          FILTER(LANG(?role_superclass_zh) = "zh")
-        }
-OPTIONAL {
           ?role_superclass rdfs:label ?role_superclass_en
           FILTER(LANG(?role_superclass_en) = "en")
         }
@@ -69,10 +53,6 @@ OPTIONAL {
     OPTIONAL {
           ?district rdfs:label ?district_name_zh_tw
           FILTER(LANG(?district_name_zh_tw) = "zh-tw")
-        }
-OPTIONAL {
-          ?district rdfs:label ?district_name_zh
-          FILTER(LANG(?district_name_zh) = "zh")
         }
 OPTIONAL {
           ?district rdfs:label ?district_name_en
@@ -92,10 +72,6 @@ OPTIONAL {
           FILTER(LANG(?party_name_zh_tw) = "zh-tw")
         }
 OPTIONAL {
-          ?party rdfs:label ?party_name_zh
-          FILTER(LANG(?party_name_zh) = "zh")
-        }
-OPTIONAL {
           ?party rdfs:label ?party_name_en
           FILTER(LANG(?party_name_en) = "en")
         }
@@ -104,4 +80,4 @@ OPTIONAL {
     FILTER(?party_end_or_sentinel >= NOW())
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-} ORDER BY ?item ?role ?start ?end
+} ORDER BY ?item ?role ?district ?start ?end

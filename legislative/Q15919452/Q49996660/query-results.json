@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -50,11 +40,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -63,11 +48,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088572"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曹丞君"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -82,11 +62,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -116,11 +91,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -140,11 +110,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -154,11 +119,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -167,11 +127,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088609"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曹以標"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -186,11 +141,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -220,11 +170,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -244,11 +189,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -258,11 +198,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -271,11 +206,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088647"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳書建"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -290,11 +220,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -324,11 +249,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -343,11 +263,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -367,11 +282,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -381,11 +291,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -394,11 +299,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088703"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林貽祥"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -413,11 +313,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -447,11 +342,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -466,11 +356,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -490,11 +375,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -504,11 +384,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -517,11 +392,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088755"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林明揚"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -536,11 +406,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -570,11 +435,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -589,11 +449,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -613,11 +468,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -627,11 +477,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -640,11 +485,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088805"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周瑞國"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -659,11 +499,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -693,11 +528,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -712,11 +542,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -736,11 +561,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -750,11 +570,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -763,11 +578,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088846"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳貴忠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -782,11 +592,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -816,11 +621,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -835,11 +635,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -859,11 +654,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -873,11 +663,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -886,11 +671,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088893"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳貽斌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -905,11 +685,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -939,11 +714,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -958,11 +728,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Lienchiang County"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -982,11 +747,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -996,11 +756,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49257199"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1009,11 +764,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50088941"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張永江"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1028,11 +778,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lienchiang County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連江縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

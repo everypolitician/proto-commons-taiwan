@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -13,19 +13,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15935127-3282F89B-75A8-4E1A-9977-928E51796061"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -35,11 +30,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -69,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -82,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15935127"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李坤城"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -101,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -136,19 +106,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15955832-920D79DE-A2BA-4F35-8FB8-FF3DCB18FBBE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -158,11 +123,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -178,11 +138,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -192,11 +147,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -205,11 +155,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15955832"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳明義 (台灣)"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -224,11 +169,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -264,19 +204,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18384128-8329E3FC-2827-4B71-A16F-E35B86E3F4D7"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -286,11 +221,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -306,11 +236,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -319,11 +244,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -334,11 +254,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18384128"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳文治"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -352,11 +267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -387,19 +297,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18663302-F3E1BF0C-BEAC-4635-92E5-5E377968A8CB"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -410,11 +315,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -429,11 +329,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -443,11 +338,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -456,11 +346,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18663302"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱婷蔚"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -475,11 +360,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -510,19 +390,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18668852-A00E269A-4B69-44FC-82A1-E819F083FCD6"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -532,11 +407,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -552,11 +422,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -566,11 +431,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -579,11 +439,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18668852"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鍾宏仁"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -598,11 +453,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -633,19 +483,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825342-18B144FF-B751-461B-8F80-FEECBFDD81EF"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -655,11 +500,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -675,11 +515,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -689,11 +524,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -702,11 +532,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825342"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曾煥嘉"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -721,11 +546,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -756,19 +576,14 @@
         "type" : "literal",
         "value" : "Taiwan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "台灣團結聯盟"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825617-6D9FE21C-9004-4E50-AF4F-FE668CD88CF4"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "台灣團結聯盟"
       },
       "district" : {
         "type" : "uri",
@@ -778,11 +593,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -798,11 +608,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -812,11 +617,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -825,11 +625,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825617"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張晉婷"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -844,11 +639,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -884,19 +674,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825680-C571BA18-BB06-4570-83B1-DB3B7340F4D7"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -906,11 +691,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第9選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -926,11 +706,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -940,11 +715,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -953,11 +723,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825680"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林裔綺"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -972,11 +737,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1007,19 +767,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825823-289E54A2-B81D-4E2F-B54E-2F4301B125D7"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -1029,11 +784,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1049,11 +799,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1063,11 +808,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1076,11 +816,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825823"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭宇恩"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1095,11 +830,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1130,19 +860,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19825847-43F801F9-2A2E-4DF8-96F1-B67DF44FDD62"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1152,11 +877,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1172,11 +892,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1186,11 +901,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1199,11 +909,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825847"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳錦錠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1218,11 +923,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1257,11 +957,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1276,11 +971,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1290,11 +980,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1303,11 +988,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19825848"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳世榮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1322,11 +1002,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1357,19 +1032,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19849414-524DA84D-9171-401C-808D-5A3AE49CADAB"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -1379,11 +1049,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1399,11 +1064,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1413,11 +1073,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1426,11 +1081,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19849414"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳琪銘"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1445,11 +1095,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1490,19 +1135,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q21449558-FE4F36B7-B20B-4BB7-B165-6212205460BE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1512,11 +1152,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1532,11 +1167,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1545,11 +1175,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1560,11 +1185,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21449558"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃林玲玲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1578,11 +1198,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1613,19 +1228,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24833561-7FA564AF-36A3-4457-90A8-AA86A795B28B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1636,11 +1246,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1655,11 +1260,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1668,11 +1268,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1683,11 +1278,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24833561"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳幸進"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1701,11 +1291,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1736,19 +1321,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24833767-217D77F3-627A-4ACD-BF0D-4BD8A40D52B0"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1759,11 +1339,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1778,11 +1353,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1791,11 +1361,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1806,11 +1371,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24833767"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔣根煌"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1824,11 +1384,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1859,19 +1414,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24836704-FC414E90-0F5E-49AD-9EEE-D00A2B00C7D5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -1882,11 +1432,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1901,11 +1446,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1914,11 +1454,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1929,11 +1464,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24836704"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳儀君"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1947,11 +1477,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1982,19 +1507,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28416553-7E0D09C6-4ABA-4846-8DB4-DCD9A24286CB"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2004,11 +1524,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2024,11 +1539,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2037,11 +1547,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2052,11 +1557,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28416553"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭戴麗香"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2070,11 +1570,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2105,19 +1600,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28416592-6FA24631-862D-4806-9A79-702AC7FEAB36"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2127,11 +1617,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第1選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2147,11 +1632,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2161,11 +1641,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2174,11 +1649,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28416592"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡葉偉"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2193,11 +1663,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2232,11 +1697,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2251,11 +1711,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2264,11 +1719,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2279,11 +1729,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28417334"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李翁月娥"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2297,11 +1742,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2332,19 +1772,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30941039-FD1E591A-A970-482B-82BB-DD523DA9EAD5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2355,11 +1790,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2374,11 +1804,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2388,11 +1813,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2401,11 +1821,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30941039"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林國春"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2420,11 +1835,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2455,19 +1865,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45529980-69636E74-28DE-449C-9795-1F3DFE7877B9"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2477,11 +1882,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第12選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2497,11 +1897,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2510,11 +1905,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2538,11 +1928,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2578,19 +1963,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q47546114-E09F6E32-26E3-40E5-91BE-95ABF17E74CE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -2600,11 +1980,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2620,11 +1995,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2634,11 +2004,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2647,11 +2012,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47546114"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡淑君"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2666,11 +2026,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2701,19 +2056,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48897481-A11183D9-7FD4-4762-9479-B2B649382EFE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -2723,11 +2073,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2743,11 +2088,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2757,11 +2097,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2770,11 +2105,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48897481"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳永福"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2789,11 +2119,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2824,8 +2149,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -2842,11 +2167,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2861,11 +2181,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2874,11 +2189,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2889,11 +2199,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50069459"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡錦賢"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2907,11 +2212,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2942,19 +2242,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50069717-F669EAE6-FA91-444B-9B9F-95AB758E2830"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -2964,11 +2259,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2984,11 +2274,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2997,11 +2282,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3012,11 +2292,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50069717"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "賴秋媚"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3030,11 +2305,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3065,19 +2335,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50069799-06E71D94-FA70-4C2A-AE2E-D4EB54AFD415"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3087,11 +2352,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3107,11 +2367,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3120,11 +2375,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3135,11 +2385,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50069799"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何淑峯"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3153,11 +2398,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3188,19 +2428,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070000-33900D1F-0CF0-4E45-A5CB-A2A2B9CF8FC4"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3210,11 +2445,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3230,11 +2460,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3243,11 +2468,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3258,11 +2478,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070000"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "宋明宗"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3276,11 +2491,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3311,19 +2521,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070035-29C2798A-B3C0-4D99-B94E-BDB775A9269F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3334,11 +2539,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3353,11 +2553,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3366,11 +2561,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3381,11 +2571,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070035"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳科名"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3399,11 +2584,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3434,19 +2614,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070076-7A1ADA72-6AD3-4311-8626-6960C569FF6B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3456,11 +2631,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3476,11 +2646,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3489,11 +2654,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3504,11 +2664,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070076"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭金隆"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3522,11 +2677,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3557,19 +2707,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070241-E21AC655-B0F1-454C-82CF-C205A0C70790"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3579,11 +2724,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3599,11 +2739,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3613,11 +2748,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3626,11 +2756,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070241"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳啟能"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3645,11 +2770,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3680,19 +2800,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070286-5D49C063-81E6-4965-9683-1184AFE3A00A"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -3702,11 +2817,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3722,11 +2832,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3735,11 +2840,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3750,11 +2850,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070286"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡明堂"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3768,11 +2863,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3803,19 +2893,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070394-08C96FB4-896A-4663-8D94-6C57BB711B97"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3826,11 +2911,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3845,11 +2925,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3859,11 +2934,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3872,11 +2942,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070394"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李余典"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3891,11 +2956,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3926,19 +2986,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070601-5C099ABD-1372-4EC0-9CF9-9DF543EB89C6"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -3948,11 +3003,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3968,11 +3018,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3982,11 +3027,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3995,11 +3035,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070601"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃俊哲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4014,11 +3049,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4053,11 +3083,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4072,11 +3097,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4086,11 +3106,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4099,11 +3114,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070668"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "廖裕德"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4118,11 +3128,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4158,19 +3163,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070755-5298CB22-843B-47E0-BD6A-0FDB4193C054"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4180,11 +3180,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4200,11 +3195,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4214,11 +3204,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4227,11 +3212,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070755"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周勝考"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4246,11 +3226,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4281,19 +3256,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50070789-1F62194F-77AA-4854-8054-7244DDFB0BE8"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4303,11 +3273,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4323,11 +3288,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4337,11 +3297,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4350,11 +3305,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070789"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "邱烽堯"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4369,11 +3319,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4404,8 +3349,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -4422,11 +3367,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4441,11 +3381,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4454,11 +3389,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4469,11 +3399,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50070833"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "游輝宂"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4487,11 +3412,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4522,19 +3442,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071048-A2341DF7-6B99-4866-BC2E-5B098F6E178B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -4544,11 +3459,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4564,11 +3474,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4577,11 +3482,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4592,11 +3492,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071048"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "羅文崇"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4610,11 +3505,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4645,19 +3535,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071088-7E73DAE9-5F96-4D29-BFF6-797B5A7DE51F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -4667,11 +3552,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4687,11 +3567,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4700,11 +3575,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4715,11 +3585,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071088"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許昭興"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4733,11 +3598,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4768,19 +3628,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071127-0BEC2345-84D5-40F1-BB3C-C8600B117589"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4790,11 +3645,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第6選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4810,11 +3660,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4823,11 +3668,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4838,11 +3678,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071127"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "連斐璠"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4856,11 +3691,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4891,19 +3721,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071170-4AB67657-AD2E-4ACD-8E85-29D203C8E8A0"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -4914,11 +3739,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4933,11 +3753,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4947,11 +3762,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4960,11 +3770,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071170"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳鴻源"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4979,11 +3784,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5014,19 +3814,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071208-73B052D1-1F93-41C4-B415-64A06448D94E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5036,11 +3831,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5056,11 +3846,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5070,11 +3855,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5083,11 +3863,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071208"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林銘仁"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5102,11 +3877,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5137,19 +3907,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071252-E860F217-B918-40F3-B24C-C14625C70C0B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -5159,11 +3924,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5179,11 +3939,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5192,11 +3947,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5207,11 +3957,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071252"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林金結"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5225,11 +3970,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5260,19 +4000,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071296-093D7ADE-8414-45B7-AD03-95FDFC951FD3"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5282,11 +4017,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5302,11 +4032,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5315,11 +4040,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5330,11 +4050,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071296"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "高敏慧"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5348,11 +4063,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5383,19 +4093,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071342-597CD982-58DA-4A29-8B05-E00417A2936A"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5405,11 +4110,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5425,11 +4125,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5439,11 +4134,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5452,11 +4142,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071342"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "彭成龍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5471,11 +4156,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5506,8 +4186,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -5524,11 +4204,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5543,11 +4218,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5557,11 +4227,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5570,11 +4235,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071567"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇有仁"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5589,11 +4249,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5624,19 +4279,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071668-95F13418-8B47-47E9-9D6B-5F665FD08972"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -5646,11 +4296,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第8選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5666,11 +4311,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5680,11 +4320,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5693,11 +4328,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071668"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉哲彰"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5712,11 +4342,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5747,8 +4372,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -5765,11 +4390,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5784,11 +4404,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5797,11 +4412,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5812,11 +4422,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071710"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "金中玉"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5830,11 +4435,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5865,19 +4465,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071752-F4D5C08E-47A9-4EE1-89B7-CA0EAC31909B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -5888,11 +4483,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5907,11 +4497,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5920,11 +4505,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5935,11 +4515,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071752"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "廖筱清"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5953,11 +4528,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5988,19 +4558,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071865-567509D9-5302-4E8C-9E0A-D476BF9DC918"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6010,11 +4575,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6030,11 +4590,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6043,11 +4598,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6058,11 +4608,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071865"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "廖正良"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6076,11 +4621,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6111,19 +4651,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071950-9912FCFA-1AEF-4D2F-9641-2D2A77DB4B9A"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -6133,11 +4668,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6153,11 +4683,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6166,11 +4691,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6181,11 +4701,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071950"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周雅玲"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6199,11 +4714,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6234,19 +4744,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50071992-91721529-4385-4479-8683-17062347B062"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6257,11 +4762,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6276,11 +4776,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6289,11 +4784,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6304,11 +4794,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50071992"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "白珮茹"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6322,11 +4807,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6357,19 +4837,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50072069-53BBCBB8-6FCE-4105-97F9-AC509C22C5ED"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6379,11 +4854,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第11選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6399,11 +4869,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6412,11 +4877,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6427,11 +4887,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50072069"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "宋雨蓁Nikar‧Falong"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6445,11 +4900,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6480,19 +4930,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50072104-D86C6CF4-2895-48D3-865F-6665781E1979"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6502,11 +4947,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第11選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6522,11 +4962,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6536,11 +4971,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6549,11 +4979,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50072104"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊春妹"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6568,11 +4993,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6603,19 +5023,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7967625-592B6A71-9A57-4126-A9F8-6ABFFA418D2B"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -6625,11 +5040,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6645,11 +5055,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6659,11 +5064,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6672,11 +5072,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7967625"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王淑慧"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6691,11 +5086,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6731,19 +5121,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8273543-6C156DBF-7A6D-4505-8946-EB5B87B2B2E5"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6753,11 +5138,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6773,11 +5153,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6786,11 +5161,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6801,11 +5171,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8273543"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "洪佳君"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6819,11 +5184,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6854,19 +5214,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274110-14C031B2-BA65-47B6-9675-7BB404F1A4AE"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -6877,11 +5232,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6896,11 +5246,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6910,11 +5255,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6923,11 +5263,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274110"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃永昌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6942,11 +5277,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6977,19 +5307,14 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8274527-8322023A-2C5E-43E1-BDDD-166CB08F0767"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "district" : {
         "type" : "uri",
@@ -7000,11 +5325,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7019,11 +5339,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7032,11 +5347,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7047,11 +5357,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8274527"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉美芳"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7065,11 +5370,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7100,19 +5400,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8347460-0091CD66-9C24-4651-9555-BB664158788E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7122,11 +5417,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7142,11 +5432,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7155,11 +5440,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7170,11 +5450,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8347460"
       },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張瑞山"
-      },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7188,11 +5463,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7223,19 +5493,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349597-DEA737C3-508F-44E5-9396-719082B8C381"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7246,11 +5511,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7265,11 +5525,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7279,11 +5534,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7292,11 +5542,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349597"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林秀惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7311,11 +5556,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7346,19 +5586,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8349626-78A94097-5ACF-4974-A6FA-270BCD4A1D75"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7368,11 +5603,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第3選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7388,11 +5618,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7402,11 +5627,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7415,11 +5635,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349626"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李倩萍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7434,11 +5649,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7473,11 +5683,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7492,11 +5697,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7506,11 +5706,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7519,11 +5714,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349628"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李婉鈺"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7538,11 +5728,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7573,19 +5758,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350030-FBD3DAA9-CB86-4B3F-B446-B2F67E3502A4"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7595,11 +5775,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第11選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7615,11 +5790,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7629,11 +5799,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7642,11 +5807,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350030"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "夷將·拔路兒"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7661,11 +5821,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7706,19 +5861,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350180-C91C0876-26A1-4318-84C7-25549D7BA04E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7728,11 +5878,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第10選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7748,11 +5893,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7762,11 +5902,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7775,11 +5910,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350180"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "沈發惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7794,11 +5924,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7834,19 +5959,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350806-1029C2C4-8F1D-4E16-9F32-FA2F1B37C50F"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7856,11 +5976,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7876,11 +5991,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7890,11 +6000,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -7903,11 +6008,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350806"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張宏陸"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7922,11 +6022,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -7967,19 +6062,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350824-8637762E-3691-47A0-9E4D-C0A4333B5BCB"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -7989,11 +6079,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第4選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8009,11 +6094,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8023,11 +6103,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8036,11 +6111,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350824"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何博文"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8055,11 +6125,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8090,19 +6155,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350893-879959B8-EB34-48ED-85C6-F655D5EF2A2E"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -8112,11 +6172,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第7選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8132,11 +6187,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8146,11 +6196,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8159,11 +6204,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350893"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "廖本煙"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8178,11 +6218,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8218,19 +6253,14 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8350960-120CCCA0-0053-4716-97F6-AF3444ED8DB6"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "district" : {
         "type" : "uri",
@@ -8240,11 +6270,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of New Taipei City"
-      },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員第5選舉區"
       },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8260,11 +6285,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8274,11 +6294,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48976144"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -8287,11 +6302,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8350960"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "江永昌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -8306,11 +6316,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New Taipei City Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "新北市議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

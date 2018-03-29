@@ -2,8 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "陳茂源",
-        "lang:zh_CN": "陳茂源"
+        "lang:zh_TW": "陳茂源"
       },
       "id": "Q10565633",
       "identifiers": [
@@ -18,8 +17,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡秋敏",
-        "lang:zh_CN": "蔡秋敏"
+        "lang:zh_TW": "蔡秋敏"
       },
       "id": "Q17059691",
       "identifiers": [
@@ -35,7 +33,6 @@
     {
       "name": {
         "lang:zh_TW": "陳俊龍",
-        "lang:zh_CN": "陳俊龍",
         "lang:en_US": "CHEN, Leon"
       },
       "id": "Q24835400",
@@ -51,8 +48,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林哲凌",
-        "lang:zh_CN": "林哲凌"
+        "lang:zh_TW": "林哲凌"
       },
       "id": "Q28413224",
       "identifiers": [
@@ -115,8 +111,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "賴淑娞",
-        "lang:zh_CN": "賴淑娞"
+        "lang:zh_TW": "賴淑娞"
       },
       "id": "Q50090019",
       "identifiers": [
@@ -131,8 +126,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王又民",
-        "lang:zh_CN": "王又民"
+        "lang:zh_TW": "王又民"
       },
       "id": "Q50090066",
       "identifiers": [
@@ -147,8 +141,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "江文登",
-        "lang:zh_CN": "江文登"
+        "lang:zh_TW": "江文登"
       },
       "id": "Q50090110",
       "identifiers": [
@@ -163,8 +156,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林聖爵",
-        "lang:zh_CN": "林聖爵"
+        "lang:zh_TW": "林聖爵"
       },
       "id": "Q50090155",
       "identifiers": [
@@ -179,8 +171,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鍾明馨",
-        "lang:zh_CN": "鍾明馨"
+        "lang:zh_TW": "鍾明馨"
       },
       "id": "Q50090204",
       "identifiers": [
@@ -195,8 +186,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周秀月",
-        "lang:zh_CN": "周秀月"
+        "lang:zh_TW": "周秀月"
       },
       "id": "Q50090242",
       "identifiers": [
@@ -211,8 +201,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李建昇",
-        "lang:zh_CN": "李建昇"
+        "lang:zh_TW": "李建昇"
       },
       "id": "Q50090292",
       "identifiers": [
@@ -227,8 +216,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李建志",
-        "lang:zh_CN": "李建志"
+        "lang:zh_TW": "李建志"
       },
       "id": "Q50090337",
       "identifiers": [
@@ -243,8 +231,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林岳璋",
-        "lang:zh_CN": "林岳璋"
+        "lang:zh_TW": "林岳璋"
       },
       "id": "Q50090376",
       "identifiers": [
@@ -259,8 +246,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "沈銘恭",
-        "lang:zh_CN": "沈銘恭"
+        "lang:zh_TW": "沈銘恭"
       },
       "id": "Q50090416",
       "identifiers": [
@@ -275,8 +261,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "吳滄得",
-        "lang:zh_CN": "吳滄得"
+        "lang:zh_TW": "吳滄得"
       },
       "id": "Q50090450",
       "identifiers": [
@@ -291,8 +276,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王秋足",
-        "lang:zh_CN": "王秋足"
+        "lang:zh_TW": "王秋足"
       },
       "id": "Q50090482",
       "identifiers": [
@@ -307,8 +291,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳樹吉",
-        "lang:zh_CN": "陳樹吉"
+        "lang:zh_TW": "陳樹吉"
       },
       "id": "Q50090521",
       "identifiers": [
@@ -323,8 +306,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡東富",
-        "lang:zh_CN": "蔡東富"
+        "lang:zh_TW": "蔡東富"
       },
       "id": "Q50090560",
       "identifiers": [
@@ -339,8 +321,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "賴明源",
-        "lang:zh_CN": "賴明源"
+        "lang:zh_TW": "賴明源"
       },
       "id": "Q50090604",
       "identifiers": [
@@ -355,8 +336,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "簡慈坊",
-        "lang:zh_CN": "簡慈坊"
+        "lang:zh_TW": "簡慈坊"
       },
       "id": "Q50090634",
       "identifiers": [
@@ -371,8 +351,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王士壬",
-        "lang:zh_CN": "王士壬"
+        "lang:zh_TW": "王士壬"
       },
       "id": "Q50090748",
       "identifiers": [
@@ -387,8 +366,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃鈺惠",
-        "lang:zh_CN": "黃鈺惠"
+        "lang:zh_TW": "黃鈺惠"
       },
       "id": "Q50090833",
       "identifiers": [
@@ -403,8 +381,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "顏旭懋",
-        "lang:zh_CN": "顏旭懋"
+        "lang:zh_TW": "顏旭懋"
       },
       "id": "Q50090872",
       "identifiers": [
@@ -419,8 +396,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳瑞雄",
-        "lang:zh_CN": "陳瑞雄"
+        "lang:zh_TW": "陳瑞雄"
       },
       "id": "Q50090961",
       "identifiers": [
@@ -435,8 +411,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "沈宗隆",
-        "lang:zh_CN": "沈宗隆"
+        "lang:zh_TW": "沈宗隆"
       },
       "id": "Q50091003",
       "identifiers": [
@@ -451,8 +426,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖秋萍",
-        "lang:zh_CN": "廖秋萍"
+        "lang:zh_TW": "廖秋萍"
       },
       "id": "Q50091046",
       "identifiers": [
@@ -467,8 +441,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王鐵道",
-        "lang:zh_CN": "王鐵道"
+        "lang:zh_TW": "王鐵道"
       },
       "id": "Q50091151",
       "identifiers": [
@@ -483,8 +456,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蕭澤梧",
-        "lang:zh_CN": "蕭澤梧"
+        "lang:zh_TW": "蕭澤梧"
       },
       "id": "Q50091186",
       "identifiers": [
@@ -499,8 +471,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "梁銘忠",
-        "lang:zh_CN": "梁銘忠"
+        "lang:zh_TW": "梁銘忠"
       },
       "id": "Q50091224",
       "identifiers": [
@@ -515,8 +486,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖錦珠",
-        "lang:zh_CN": "廖錦珠"
+        "lang:zh_TW": "廖錦珠"
       },
       "id": "Q50091256",
       "identifiers": [
@@ -531,8 +501,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃淑鈴",
-        "lang:zh_CN": "黃淑鈴"
+        "lang:zh_TW": "黃淑鈴"
       },
       "id": "Q50091294",
       "identifiers": [
@@ -547,8 +516,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林建鴻",
-        "lang:zh_CN": "林建鴻"
+        "lang:zh_TW": "林建鴻"
       },
       "id": "Q50091335",
       "identifiers": [
@@ -563,8 +531,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張健福",
-        "lang:zh_CN": "張健福"
+        "lang:zh_TW": "張健福"
       },
       "id": "Q50091447",
       "identifiers": [
@@ -579,8 +546,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蘇俊豪",
-        "lang:zh_CN": "蘇俊豪"
+        "lang:zh_TW": "蘇俊豪"
       },
       "id": "Q50091516",
       "identifiers": [
@@ -595,8 +561,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃勝賢",
-        "lang:zh_CN": "黃勝賢"
+        "lang:zh_TW": "黃勝賢"
       },
       "id": "Q50091547",
       "identifiers": [
@@ -611,8 +576,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡岳儒",
-        "lang:zh_CN": "蔡岳儒"
+        "lang:zh_TW": "蔡岳儒"
       },
       "id": "Q50091607",
       "identifiers": [
@@ -627,8 +591,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃文祥",
-        "lang:zh_CN": "黃文祥"
+        "lang:zh_TW": "黃文祥"
       },
       "id": "Q50091646",
       "identifiers": [
@@ -643,8 +606,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡孟真",
-        "lang:zh_CN": "蔡孟真"
+        "lang:zh_TW": "蔡孟真"
       },
       "id": "Q50091682",
       "identifiers": [
@@ -659,8 +621,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "翁水上",
-        "lang:zh_CN": "翁水上"
+        "lang:zh_TW": "翁水上"
       },
       "id": "Q50091714",
       "identifiers": [
@@ -675,8 +636,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李明哲",
-        "lang:zh_CN": "李明哲"
+        "lang:zh_TW": "李明哲"
       },
       "id": "Q50185315",
       "identifiers": [
@@ -691,8 +651,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許志豪",
-        "lang:zh_CN": "許志豪"
+        "lang:zh_TW": "許志豪"
       },
       "id": "Q9044247",
       "identifiers": [
@@ -710,7 +669,6 @@
     {
       "name": {
         "lang:zh_TW": "雲林縣議會",
-        "lang:zh_CN": "雲林縣議會",
         "lang:en_US": "Yunlin County Council"
       },
       "id": "Q15908941",
@@ -729,7 +687,6 @@
     {
       "name": {
         "lang:zh_TW": "中國國民黨",
-        "lang:zh_CN": "中國國民黨",
         "lang:en_US": "Kuomintang"
       },
       "id": "Q31113",
@@ -744,7 +701,6 @@
     {
       "name": {
         "lang:zh_TW": "台灣團結聯盟",
-        "lang:zh_CN": "台灣團結聯盟",
         "lang:en_US": "Taiwan Solidarity Union"
       },
       "id": "Q706834",
@@ -759,7 +715,6 @@
     {
       "name": {
         "lang:zh_TW": "民主進步黨",
-        "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
       "id": "Q903822",
@@ -790,7 +745,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -816,7 +770,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -841,7 +794,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -866,7 +818,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -891,7 +842,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -916,7 +866,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -941,7 +890,6 @@
       ],
       "type": {
         "lang:zh_TW": "雲林縣議員選區",
-        "lang:zh_CN": "雲林縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
@@ -966,7 +914,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -986,13 +933,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1005,13 +950,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1023,13 +966,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1043,13 +984,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1061,13 +1000,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1080,13 +1017,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1098,13 +1033,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1117,13 +1050,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1135,13 +1066,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1154,13 +1083,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1173,13 +1100,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1191,13 +1116,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1210,13 +1133,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1229,13 +1150,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1247,13 +1166,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1265,13 +1182,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1283,13 +1198,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1302,13 +1215,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1321,13 +1232,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1339,13 +1248,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1357,13 +1264,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1375,13 +1280,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1394,13 +1297,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1413,13 +1314,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1431,13 +1330,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1450,13 +1347,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1469,13 +1364,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1488,13 +1381,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1507,13 +1398,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1525,13 +1414,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1544,13 +1431,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1562,13 +1447,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1580,13 +1463,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1599,13 +1480,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1617,13 +1496,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1636,13 +1513,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1654,13 +1529,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1672,13 +1545,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1691,13 +1562,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1709,13 +1578,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1727,13 +1594,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1745,13 +1610,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1764,13 +1627,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     },
     {
@@ -1783,13 +1644,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257574",
       "role": {
-        "lang:zh_TW": "雲林縣議員",
-        "lang:zh_CN": "雲林縣議員"
+        "lang:zh_TW": "雲林縣議員"
       }
     }
   ]

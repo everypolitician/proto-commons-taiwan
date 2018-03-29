@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -13,8 +13,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -31,11 +31,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -50,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -64,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -77,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15921222"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張再興"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -96,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -136,8 +111,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -154,11 +129,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -173,11 +143,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -187,11 +152,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -200,11 +160,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15933673"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳振中"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -219,11 +174,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -243,11 +193,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -259,8 +204,8 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -277,11 +222,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -296,11 +236,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -310,11 +245,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -323,11 +253,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28415458"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳慧玲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -342,11 +267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -366,11 +286,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "statement" : {
@@ -386,11 +301,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -405,11 +315,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -418,11 +323,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -446,11 +346,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -490,11 +385,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -509,11 +399,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -523,11 +408,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -536,11 +416,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47672130"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳佩真"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -555,11 +430,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -590,8 +460,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -608,11 +478,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -627,11 +492,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -641,11 +501,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -654,11 +509,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077509"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉陳昭玲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -673,11 +523,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -697,11 +542,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "statement" : {
@@ -717,11 +557,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -736,11 +571,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -750,11 +580,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -763,11 +588,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077550"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳海山"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -782,11 +602,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -821,11 +636,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -840,11 +650,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -854,11 +659,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -867,11 +667,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077613"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳文相"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -886,11 +681,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -930,11 +720,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -949,11 +734,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -963,11 +743,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -976,11 +751,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077638"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇陳綉色"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -995,11 +765,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1030,8 +795,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1048,11 +813,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1067,11 +827,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1081,11 +836,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1094,11 +844,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077664"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "藍俊逸"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1113,11 +858,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1137,11 +877,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "party" : {
@@ -1153,8 +888,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1171,11 +906,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1190,11 +920,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1204,11 +929,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1217,11 +937,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077706"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃春燕"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1236,11 +951,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1260,11 +970,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-28T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "statement" : {
@@ -1280,11 +985,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1299,11 +999,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1313,11 +1008,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1326,11 +1016,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077734"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔡清續"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1345,11 +1030,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1380,8 +1060,8 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "民主進步黨"
       },
@@ -1398,11 +1078,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1417,11 +1092,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1431,11 +1101,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1444,11 +1109,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077847"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "呂黃春金"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1463,11 +1123,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1487,11 +1142,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
       }
     }, {
       "party" : {
@@ -1503,8 +1153,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -1521,11 +1171,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1540,11 +1185,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1554,11 +1194,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1567,11 +1202,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077892"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "胡松榮"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1586,11 +1216,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1621,8 +1246,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1639,11 +1264,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1658,11 +1278,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1672,11 +1287,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1685,11 +1295,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077936"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "顏嘉弘"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1704,11 +1309,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1729,11 +1329,6 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -1753,11 +1348,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1772,11 +1362,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1786,11 +1371,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1799,11 +1379,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50077993"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "歐陽洲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1818,11 +1393,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1858,8 +1428,8 @@
         "type" : "literal",
         "value" : "Non-Partisan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "無黨團結聯盟"
       },
@@ -1876,11 +1446,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1895,11 +1460,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1909,11 +1469,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1922,11 +1477,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078082"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "成萬貫"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1941,11 +1491,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1976,8 +1521,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -1994,11 +1539,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2013,11 +1553,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2027,11 +1562,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2040,11 +1570,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078136"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳百川"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2059,11 +1584,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2083,11 +1603,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2108,11 +1623,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2127,11 +1637,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2141,11 +1646,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2154,11 +1654,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078195"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "魏長源"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2173,11 +1668,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2208,8 +1698,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -2226,11 +1716,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2245,11 +1730,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2259,11 +1739,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2272,11 +1747,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078242"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "宋國進"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2291,11 +1761,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2315,11 +1780,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     }, {
       "statement" : {
@@ -2335,11 +1795,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2354,11 +1809,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2368,11 +1818,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2381,11 +1826,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078276"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "楊石龍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2400,11 +1840,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2439,11 +1874,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2458,11 +1888,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2472,11 +1897,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2485,11 +1905,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50078352"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "葉明縣"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2504,11 +1919,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2544,8 +1954,8 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "中國國民黨"
       },
@@ -2562,11 +1972,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Penghu County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2581,11 +1986,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2595,11 +1995,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255918"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2608,11 +2003,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50184747"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳雙全"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2627,11 +2017,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Penghu County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2651,11 +2036,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
       }
     } ]
   }

@@ -3,7 +3,6 @@
     {
       "name": {
         "lang:zh_TW": "顧維鈞",
-        "lang:zh_CN": "顧維鈞",
         "lang:en_US": "Wellington Koo"
       },
       "id": "Q317462",
@@ -20,7 +19,6 @@
     {
       "name": {
         "lang:zh_TW": "賴清德",
-        "lang:zh_CN": "賴清德",
         "lang:en_US": "William Lai"
       },
       "id": "Q3847080",
@@ -39,7 +37,6 @@
     },
     {
       "name": {
-        "lang:zh_CN": "王正廷",
         "lang:en_US": "Wang Zhengting"
       },
       "id": "Q6127766",
@@ -55,7 +52,6 @@
     },
     {
       "name": {
-        "lang:zh_CN": "熊希齡",
         "lang:en_US": "Xiong Xiling"
       },
       "id": "Q6130548",
@@ -74,7 +70,6 @@
     {
       "name": {
         "lang:zh_TW": "行政院",
-        "lang:zh_CN": "行政院",
         "lang:en_US": "Executive Yuan"
       },
       "id": "Q715055",
@@ -90,7 +85,6 @@
     {
       "name": {
         "lang:zh_TW": "中國國民黨",
-        "lang:zh_CN": "中國國民黨",
         "lang:en_US": "Kuomintang"
       },
       "id": "Q31113",
@@ -105,7 +99,6 @@
     {
       "name": {
         "lang:zh_TW": "民主進步黨",
-        "lang:zh_CN": "民主進步黨",
         "lang:en_US": "Democratic Progressive Party"
       },
       "id": "Q903822",
@@ -120,7 +113,6 @@
     {
       "name": {
         "lang:zh_TW": "中國同盟會",
-        "lang:zh_CN": "中国同盟会",
         "lang:en_US": "Tongmenghui"
       },
       "id": "Q950326",
@@ -151,7 +143,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -170,13 +161,11 @@
       "role_superclass_code": "Q702650",
       "role_superclass": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       },
       "role_code": "Q702650",
       "role": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       }
     },
@@ -190,13 +179,11 @@
       "role_superclass_code": "Q702650",
       "role_superclass": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       },
       "role_code": "Q702650",
       "role": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       }
     },
@@ -209,13 +196,11 @@
       "role_superclass_code": "Q702650",
       "role_superclass": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       },
       "role_code": "Q702650",
       "role": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       }
     },
@@ -228,13 +213,11 @@
       "role_superclass_code": "Q702650",
       "role_superclass": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       },
       "role_code": "Q702650",
       "role": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       }
     },
@@ -246,13 +229,11 @@
       "role_superclass_code": "Q702650",
       "role_superclass": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       },
       "role_code": "Q702650",
       "role": {
         "lang:zh_TW": "台灣行政院院長",
-        "lang:zh_CN": "台灣行政院院長",
         "lang:en_US": "President of the Executive Yuan"
       }
     }

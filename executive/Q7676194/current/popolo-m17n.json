@@ -3,7 +3,6 @@
     {
       "name": {
         "lang:zh_TW": "李孟諺",
-        "lang:zh_CN": "李孟諺",
         "lang:en_US": "Lee Meng-yen"
       },
       "id": "Q38876935",
@@ -22,7 +21,6 @@
     {
       "name": {
         "lang:zh_TW": "臺南市政府",
-        "lang:zh_CN": "臺南市政府",
         "lang:en_US": "Tainan City Government"
       },
       "id": "Q7676194",
@@ -54,7 +52,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -80,7 +77,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -106,7 +102,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -132,7 +127,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -158,7 +152,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -184,7 +177,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -210,7 +202,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -236,7 +227,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -262,7 +252,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -288,7 +277,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -314,7 +302,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -340,7 +327,6 @@
       ],
       "type": {
         "lang:zh_TW": "直轄市",
-        "lang:zh_CN": "直轄市",
         "lang:en_US": "special municipality"
       },
       "name": {
@@ -366,7 +352,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -392,7 +377,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -418,7 +402,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -444,7 +427,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -470,7 +452,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -496,7 +477,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -522,7 +502,6 @@
       ],
       "type": {
         "lang:zh_TW": "市",
-        "lang:zh_CN": "市",
         "lang:en_US": "provincial city"
       },
       "name": {
@@ -548,7 +527,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -574,7 +552,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -600,7 +577,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -626,7 +602,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -645,13 +620,11 @@
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh_TW": "市長",
-        "lang:zh_CN": "市长",
         "lang:en_US": "mayor"
       },
       "role_code": "Q50293073",
       "role": {
         "lang:zh_TW": "臺南市市長",
-        "lang:zh_CN": "臺南市市長",
         "lang:en_US": "Mayor of Tainan"
       }
     }

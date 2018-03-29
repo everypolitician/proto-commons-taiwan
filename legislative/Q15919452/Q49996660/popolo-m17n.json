@@ -2,8 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "曹丞君",
-        "lang:zh_CN": "曹丞君"
+        "lang:zh_TW": "曹丞君"
       },
       "id": "Q50088572",
       "identifiers": [
@@ -18,8 +17,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "曹以標",
-        "lang:zh_CN": "曹以標"
+        "lang:zh_TW": "曹以標"
       },
       "id": "Q50088609",
       "identifiers": [
@@ -34,8 +32,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳書建",
-        "lang:zh_CN": "陳書建"
+        "lang:zh_TW": "陳書建"
       },
       "id": "Q50088647",
       "identifiers": [
@@ -50,8 +47,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林貽祥",
-        "lang:zh_CN": "林貽祥"
+        "lang:zh_TW": "林貽祥"
       },
       "id": "Q50088703",
       "identifiers": [
@@ -66,8 +62,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林明揚",
-        "lang:zh_CN": "林明揚"
+        "lang:zh_TW": "林明揚"
       },
       "id": "Q50088755",
       "identifiers": [
@@ -82,8 +77,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周瑞國",
-        "lang:zh_CN": "周瑞國"
+        "lang:zh_TW": "周瑞國"
       },
       "id": "Q50088805",
       "identifiers": [
@@ -98,8 +92,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳貴忠",
-        "lang:zh_CN": "陳貴忠"
+        "lang:zh_TW": "陳貴忠"
       },
       "id": "Q50088846",
       "identifiers": [
@@ -114,8 +107,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳貽斌",
-        "lang:zh_CN": "陳貽斌"
+        "lang:zh_TW": "陳貽斌"
       },
       "id": "Q50088893",
       "identifiers": [
@@ -130,8 +122,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張永江",
-        "lang:zh_CN": "張永江"
+        "lang:zh_TW": "張永江"
       },
       "id": "Q50088941",
       "identifiers": [
@@ -149,7 +140,6 @@
     {
       "name": {
         "lang:zh_TW": "連江縣議會",
-        "lang:zh_CN": "連江縣議會",
         "lang:en_US": "Lienchiang County Council"
       },
       "id": "Q15919452",
@@ -168,7 +158,6 @@
     {
       "name": {
         "lang:zh_TW": "中國國民黨",
-        "lang:zh_CN": "中國國民黨",
         "lang:en_US": "Kuomintang"
       },
       "id": "Q31113",
@@ -199,7 +188,6 @@
       ],
       "type": {
         "lang:zh_TW": "縣",
-        "lang:zh_CN": "縣",
         "lang:en_US": "county of Taiwan"
       },
       "name": {
@@ -225,7 +213,6 @@
       ],
       "type": {
         "lang:zh_TW": "連江縣議員選區",
-        "lang:zh_CN": "連江縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
       },
       "name": {
@@ -250,7 +237,6 @@
       ],
       "type": {
         "lang:zh_TW": "連江縣議員選區",
-        "lang:zh_CN": "連江縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
       },
       "name": {
@@ -275,7 +261,6 @@
       ],
       "type": {
         "lang:zh_TW": "連江縣議員選區",
-        "lang:zh_CN": "連江縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
       },
       "name": {
@@ -300,7 +285,6 @@
       ],
       "type": {
         "lang:zh_TW": "連江縣議員選區",
-        "lang:zh_CN": "連江縣議員選區",
         "lang:en_US": "Constituency of Regional Councilors of Lienchiang County"
       },
       "name": {
@@ -325,7 +309,6 @@
       ],
       "type": {
         "lang:zh_TW": "國家",
-        "lang:zh_CN": "国家",
         "lang:en_US": "country"
       },
       "name": {
@@ -345,13 +328,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -363,13 +344,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -382,13 +361,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -401,13 +378,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -420,13 +395,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -439,13 +412,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -458,13 +429,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -477,13 +446,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     },
     {
@@ -495,13 +462,11 @@
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh_TW": "地方議會議員",
-        "lang:zh_CN": "地方議會議員",
         "lang:en_US": "councillor"
       },
       "role_code": "Q49257199",
       "role": {
-        "lang:zh_TW": "連江縣議員",
-        "lang:zh_CN": "連江縣議員"
+        "lang:zh_TW": "連江縣議員"
       }
     }
   ]

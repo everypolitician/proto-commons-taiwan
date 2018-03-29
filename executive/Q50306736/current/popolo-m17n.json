@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "鄭文燦",
         "lang:zh_CN": "鄭文燦",
         "lang:en_US": "Cheng Wen-tsan"
       },

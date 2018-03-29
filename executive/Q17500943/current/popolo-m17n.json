@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "陳光復",
         "lang:zh_CN": "陳光復",
         "lang:en_US": "Chen Kuang-fu"
       },
@@ -20,6 +21,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "澎湖縣政府",
         "lang:zh_CN": "澎湖縣政府",
         "lang:en_US": "Penghu County Government"
       },

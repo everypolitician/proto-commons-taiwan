@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "涂醒哲",
         "lang:zh_CN": "涂醒哲",
         "lang:en_US": "Twu Shiing-jer"
       },
@@ -36,6 +37,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "嘉義市政府",
         "lang:zh_CN": "嘉義市政府",
         "lang:en_US": "Chiayi City Government"
       },

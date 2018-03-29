@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:zh_TW": "林右昌",
         "lang:zh_CN": "林右昌",
         "lang:en_US": "Lin Yu-chang"
       },
@@ -20,6 +21,7 @@
   "organizations": [
     {
       "name": {
+        "lang:zh_TW": "基隆市政府",
         "lang:zh_CN": "基隆市政府",
         "lang:en_US": "Keelung City Government"
       },

@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_zh", "name_en", "party", "party_name_zh_tw", "party_name_zh", "party_name_en", "district", "district_name_zh_tw", "district_name_zh", "district_name_en", "role", "role_zh_tw", "role_zh", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_zh", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_zh", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "start", "end", "facebook", "org", "org_zh_tw", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -12,11 +12,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -36,11 +31,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -55,11 +45,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -69,11 +54,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -82,11 +62,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q253862"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李香蘭"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -101,11 +76,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -141,11 +111,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -164,11 +129,6 @@
         "type" : "literal",
         "value" : "15th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第15選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -183,11 +143,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -196,11 +151,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -224,11 +174,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -268,11 +213,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -287,11 +227,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -300,11 +235,6 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
-      },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -328,11 +258,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -368,11 +293,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -391,11 +311,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -410,11 +325,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -424,11 +334,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -437,11 +342,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50064819"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉育豪"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -456,11 +356,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -490,11 +385,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -514,11 +404,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -533,11 +418,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -547,11 +427,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -560,11 +435,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50064850"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鍾明輝"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -579,11 +449,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -614,11 +479,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -637,11 +497,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -656,11 +511,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -670,11 +520,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -683,11 +528,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50064919"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃國安"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -702,11 +542,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -737,11 +572,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -760,11 +590,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -779,11 +604,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -793,11 +613,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -806,11 +621,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065001"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蘇義峰"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -825,11 +635,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -860,11 +665,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -883,11 +683,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -902,11 +697,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -916,11 +706,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -929,11 +714,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065047"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳美瓊"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -948,11 +728,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -987,11 +762,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1006,11 +776,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1020,11 +785,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1033,11 +793,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065086"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張金文"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1052,11 +807,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1091,11 +841,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1110,11 +855,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1124,11 +864,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1137,11 +872,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065117"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔣家煌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1156,11 +886,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1191,11 +916,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1214,11 +934,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1233,11 +948,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1247,11 +957,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1260,11 +965,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065152"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "唐玉琴"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1279,11 +979,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1318,11 +1013,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1337,11 +1027,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1351,11 +1036,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1364,11 +1044,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065187"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "蔣月惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1383,11 +1058,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1422,11 +1092,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1441,11 +1106,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1455,11 +1115,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1468,11 +1123,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065222"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張平原"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1487,11 +1137,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1521,11 +1166,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1545,11 +1185,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1564,11 +1199,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1578,11 +1208,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1591,11 +1216,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065256"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "江維屏"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1610,11 +1230,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1645,11 +1260,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1668,11 +1278,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1687,11 +1292,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1701,11 +1301,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1714,11 +1309,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065295"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳明達"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1733,11 +1323,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1772,11 +1357,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1791,11 +1371,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1805,11 +1380,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1818,11 +1388,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065336"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "盧文瑞"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1837,11 +1402,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1872,11 +1432,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1895,11 +1450,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1914,11 +1464,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1928,11 +1473,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1941,11 +1481,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065365"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭雙銓"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1960,11 +1495,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1995,11 +1525,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2018,11 +1543,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2037,11 +1557,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2051,11 +1566,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2064,11 +1574,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065400"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳芳琍"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2083,11 +1588,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2123,11 +1623,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2146,11 +1641,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2165,11 +1655,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2179,11 +1664,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2192,11 +1672,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065428"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何春美"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2211,11 +1686,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2250,11 +1720,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2269,11 +1734,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2283,11 +1743,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2296,11 +1751,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065469"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "尤慶賀"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2315,11 +1765,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2349,11 +1794,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2373,11 +1813,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2392,11 +1827,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2406,11 +1836,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2419,11 +1844,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065532"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "吳亮慶"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2438,11 +1858,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2472,11 +1887,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2496,11 +1906,6 @@
         "type" : "literal",
         "value" : "2nd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第2選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2515,11 +1920,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2529,11 +1929,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2542,11 +1937,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065572"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "宋麗華"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2561,11 +1951,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2595,11 +1980,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2619,11 +1999,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2638,11 +2013,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2652,11 +2022,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2665,11 +2030,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065612"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許馨勻"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2684,11 +2044,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2719,11 +2074,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2742,11 +2092,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2761,11 +2106,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2775,11 +2115,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2788,11 +2123,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065670"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林郁虹"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2807,11 +2137,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2842,11 +2167,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2865,11 +2185,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2884,11 +2199,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2898,11 +2208,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2911,11 +2216,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065713"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "黃建溢"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2930,11 +2230,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2965,11 +2260,6 @@
         "type" : "literal",
         "value" : "Taiwan Solidarity Union"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "台灣團結聯盟"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2988,11 +2278,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3007,11 +2292,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3021,11 +2301,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3034,11 +2309,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065765"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘長成"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3053,11 +2323,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3087,11 +2352,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3111,11 +2371,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3130,11 +2385,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3144,11 +2394,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3157,11 +2402,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065811"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘淑真"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3176,11 +2416,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3210,11 +2445,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3234,11 +2464,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3253,11 +2478,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3267,11 +2487,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3280,11 +2495,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065893"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "曾福金"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3299,11 +2509,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3333,11 +2538,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3357,11 +2557,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3376,11 +2571,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3390,11 +2580,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3403,11 +2588,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065933"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王志豐"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3422,11 +2602,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3456,11 +2631,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3480,11 +2650,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3499,11 +2664,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3513,11 +2673,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3526,11 +2681,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50065971"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "徐榮耀"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3545,11 +2695,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3580,11 +2725,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3603,11 +2743,6 @@
         "type" : "literal",
         "value" : "3rd Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第3選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3622,11 +2757,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3636,11 +2766,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3649,11 +2774,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066017"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉淼松"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3668,11 +2788,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3703,11 +2818,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3726,11 +2836,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3745,11 +2850,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3759,11 +2859,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3772,11 +2867,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066066"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "何輝能"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3791,11 +2881,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3830,11 +2915,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3849,11 +2929,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3863,11 +2938,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3876,11 +2946,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066119"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林蔡鳳梅"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3895,11 +2960,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3930,11 +2990,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3953,11 +3008,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3972,11 +3022,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3986,11 +3031,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -3999,11 +3039,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066158"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "許展維"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4018,11 +3053,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4057,11 +3087,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4076,11 +3101,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4090,11 +3110,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4103,11 +3118,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066208"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "郭再添"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4122,11 +3132,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4161,11 +3166,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4180,11 +3180,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4194,11 +3189,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4207,11 +3197,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066243"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "鄭寶川"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4226,11 +3211,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4265,11 +3245,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4284,11 +3259,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4298,11 +3268,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4311,11 +3276,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066275"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周典論"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4330,11 +3290,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4369,11 +3324,6 @@
         "type" : "literal",
         "value" : "4th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第4選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4388,11 +3338,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4402,11 +3347,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4415,11 +3355,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066345"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "劉水復"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4434,11 +3369,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4468,11 +3398,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4492,11 +3417,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4511,11 +3431,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4525,11 +3440,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4538,11 +3448,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066378"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "周碧雲"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4557,11 +3462,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4591,11 +3491,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4615,11 +3510,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4634,11 +3524,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4648,11 +3533,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4661,11 +3541,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066419"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林玉花"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4680,11 +3555,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4714,11 +3584,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Democratic Progressive Party"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4738,11 +3603,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4757,11 +3617,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4771,11 +3626,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4784,11 +3634,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066458"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "羅平道"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4803,11 +3648,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4837,11 +3677,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kuomintang"
-      },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4861,11 +3696,6 @@
         "type" : "literal",
         "value" : "5th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第5選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4880,11 +3710,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4894,11 +3719,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4907,11 +3727,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066519"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "王啟敏"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4926,11 +3741,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4961,11 +3771,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -4984,11 +3789,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5003,11 +3803,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5017,11 +3812,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5030,11 +3820,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066562"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "張榮志"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5049,11 +3834,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5084,11 +3864,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5107,11 +3882,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5126,11 +3896,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5140,11 +3905,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5153,11 +3913,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066628"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳文弘"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5172,11 +3927,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5211,11 +3961,6 @@
         "type" : "literal",
         "value" : "7th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第7選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5230,11 +3975,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5244,11 +3984,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5257,11 +3992,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066659"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "洪慈綪"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5276,11 +4006,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5311,11 +4036,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5334,11 +4054,6 @@
         "type" : "literal",
         "value" : "8th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第8選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5353,11 +4068,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5367,11 +4077,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5380,11 +4085,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066693"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘裕隆"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5399,11 +4099,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5438,11 +4133,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5457,11 +4147,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5471,11 +4156,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5484,11 +4164,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066737"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "歸曉惠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5503,11 +4178,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5547,11 +4217,6 @@
         "type" : "literal",
         "value" : "9th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第9選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5566,11 +4231,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5580,11 +4240,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5593,11 +4248,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066785"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "車牧勒薩以‧拉勒格安Cemelesailjaljegan"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5612,11 +4262,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5651,11 +4296,6 @@
         "type" : "literal",
         "value" : "10th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第10選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5670,11 +4310,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5684,11 +4319,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5697,11 +4327,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066793"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陸月嬌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5716,11 +4341,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5751,11 +4371,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5774,11 +4389,6 @@
         "type" : "literal",
         "value" : "11th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第11選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5793,11 +4403,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5807,11 +4412,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5820,11 +4420,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066832"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘政治"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5839,11 +4434,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5878,11 +4468,6 @@
         "type" : "literal",
         "value" : "12th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第12選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5897,11 +4482,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5911,11 +4491,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -5924,11 +4499,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066868"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "潘正義"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5943,11 +4513,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5978,11 +4543,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6001,11 +4561,6 @@
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第13選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6020,11 +4575,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6034,11 +4584,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6047,11 +4592,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066898"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "陳昭忠"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6066,11 +4606,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6110,11 +4645,6 @@
         "type" : "literal",
         "value" : "13th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第13選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6129,11 +4659,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6143,11 +4668,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6156,11 +4676,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066928"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "林輝雄"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6175,11 +4690,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6210,11 +4720,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6233,11 +4738,6 @@
         "type" : "literal",
         "value" : "14th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第14選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6252,11 +4752,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6266,11 +4761,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6279,11 +4769,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50066984"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李冀香"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6298,11 +4783,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6333,11 +4813,6 @@
         "type" : "literal",
         "value" : "Kuomintang"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "中國國民黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6356,11 +4831,6 @@
         "type" : "literal",
         "value" : "16th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第16選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6375,11 +4845,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6389,11 +4854,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6402,11 +4862,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50067053"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "顏金成"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6421,11 +4876,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6456,11 +4906,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6479,11 +4924,6 @@
         "type" : "literal",
         "value" : "6th Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第6選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6498,11 +4938,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6512,11 +4947,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6525,11 +4955,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5354771"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李天翔"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6544,11 +4969,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6584,11 +5004,6 @@
         "type" : "literal",
         "value" : "Democratic Progressive Party"
       },
-      "party_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6607,11 +5022,6 @@
         "type" : "literal",
         "value" : "1st Constituency of Regional Councilors of Pingtung County"
       },
-      "district_name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員第1選舉區"
-      },
       "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6626,11 +5036,6 @@
         "type" : "literal",
         "value" : "councillor"
       },
-      "role_superclass_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6640,11 +5045,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255006"
       },
-      "role_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -6653,11 +5053,6 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349699"
-      },
-      "name_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "李世斌"
       },
       "name_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -6672,11 +5067,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pingtung County Council"
-      },
-      "org_zh" : {
-        "xml:lang" : "zh",
-        "type" : "literal",
-        "value" : "屏東縣議會"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",

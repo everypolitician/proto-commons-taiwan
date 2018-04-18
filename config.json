@@ -1,7 +1,7 @@
 {
-    "language_map": {
-      "lang:zh_TW": "zh-tw",
-      "lang:en_US": "en"
-    },
-    "country_wikidata_id": "Q865"
+  "languages": [
+    "zh-tw",
+    "en"
+  ],
+  "country_wikidata_id": "Q865"
 }

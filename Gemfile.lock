@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/everypolitician/commons-builder.git
-  revision: d438eee54e43bd59c1660bfd32aa1a16b211e9fb
+  revision: 0e34a060ae8b124e4e1131bb540379ea1f5acccc
   specs:
     commons-builder (0.1.0)
       rest-client (~> 2.0.2)
@@ -8,7 +8,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    domain_name (0.5.20170404)
+    domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)

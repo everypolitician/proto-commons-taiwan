@@ -9,8 +9,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_en",
-      "lang:zh_TW": "name"
+      "lang:en": "name_en",
+      "lang:zh-tw": "name"
     }
   },
   {
@@ -23,8 +23,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_en",
-      "lang:zh_TW": "name"
+      "lang:en": "name_en",
+      "lang:zh-tw": "name"
     }
   },
   {
@@ -37,8 +37,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_en",
-      "lang:zh_TW": "name"
+      "lang:en": "name_en",
+      "lang:zh-tw": "name"
     }
   },
   {
@@ -51,8 +51,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_en",
-      "lang:zh_TW": "name"
+      "lang:en": "name_en",
+      "lang:zh-tw": "name"
     }
   },
   {
@@ -69,8 +69,8 @@
       "match": "country:tw/special-municipality"
     },
     "name_columns": {
-      "lang:en_US": "COUNTYENG",
-      "lang:zh_TW": "COUNTYNAME"
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
     }
   },
   {
@@ -87,8 +87,8 @@
       "match": "country:tw/city"
     },
     "name_columns": {
-      "lang:en_US": "COUNTYENG",
-      "lang:zh_TW": "COUNTYNAME"
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
     }
   },
   {
@@ -105,8 +105,8 @@
       "match": "country:tw/county"
     },
     "name_columns": {
-      "lang:en_US": "COUNTYENG",
-      "lang:zh_TW": "COUNTYNAME"
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
     }
   },
   {
@@ -119,7 +119,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name_zh"
+      "lang:zh-tw": "name_zh"
     }
   },
   {
@@ -132,7 +132,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:nan",
@@ -149,7 +149,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/city:cyi",
@@ -166,7 +166,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:cyq",
@@ -183,7 +183,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/city:kee",
@@ -200,7 +200,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:ila",
@@ -217,7 +217,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:pif",
@@ -234,7 +234,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:cha",
@@ -251,7 +251,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:nwt",
@@ -268,7 +268,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/city:hsz",
@@ -285,7 +285,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:hsq",
@@ -302,7 +302,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:tao",
@@ -319,7 +319,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:pen",
@@ -336,7 +336,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:txg",
@@ -353,7 +353,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:tpe",
@@ -370,7 +370,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:tnn",
@@ -387,7 +387,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:ttt",
@@ -404,7 +404,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:hua",
@@ -421,7 +421,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:mia",
@@ -438,7 +438,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:lie",
@@ -455,7 +455,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:kin",
@@ -472,7 +472,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/county:yun",
@@ -489,7 +489,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "CONSTIT_ID"
+      "lang:zh-tw": "CONSTIT_ID"
     },
     "filter": {
       "match": "country:tw/special-municipality:khh",
@@ -506,7 +506,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:nan",
@@ -523,7 +523,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/city:cyi",
@@ -540,7 +540,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:cyq",
@@ -557,7 +557,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/city:kee",
@@ -574,7 +574,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:ila",
@@ -591,7 +591,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:pif",
@@ -608,7 +608,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:cha",
@@ -625,7 +625,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:nwt",
@@ -642,7 +642,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/city:hsz",
@@ -659,7 +659,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:hsq",
@@ -676,7 +676,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:tao",
@@ -693,7 +693,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:pen",
@@ -710,7 +710,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:txg",
@@ -727,7 +727,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:tpe",
@@ -744,7 +744,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:tnn",
@@ -761,7 +761,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:ttt",
@@ -778,7 +778,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:hua",
@@ -795,7 +795,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:mia",
@@ -812,7 +812,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:lie",
@@ -829,7 +829,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:kin",
@@ -846,7 +846,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/county:yun",
@@ -863,7 +863,7 @@
       }
     ],
     "name_columns": {
-      "lang:zh_TW": "name-zh"
+      "lang:zh-tw": "name-zh"
     },
     "filter": {
       "match": "country:tw/special-municipality:khh",

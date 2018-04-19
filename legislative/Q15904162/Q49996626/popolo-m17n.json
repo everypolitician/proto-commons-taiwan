@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "林寶珠"
+        "lang:zh-tw": "林寶珠"
       },
       "id": "Q10346874",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張志宇"
+        "lang:zh-tw": "張志宇"
       },
       "id": "Q18234084",
       "identifiers": [
@@ -32,8 +32,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "呂明亮",
-        "lang:en_US": "Lv Mingliang"
+        "lang:zh-tw": "呂明亮",
+        "lang:en": "Lv Mingliang"
       },
       "id": "Q45439850",
       "identifiers": [
@@ -48,7 +48,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "詹運喜"
+        "lang:zh-tw": "詹運喜"
       },
       "id": "Q50086785",
       "identifiers": [
@@ -63,7 +63,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "湯維岳"
+        "lang:zh-tw": "湯維岳"
       },
       "id": "Q50086810",
       "identifiers": [
@@ -78,7 +78,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱鎮軍"
+        "lang:zh-tw": "邱鎮軍"
       },
       "id": "Q50086854",
       "identifiers": [
@@ -93,7 +93,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "徐集明"
+        "lang:zh-tw": "徐集明"
       },
       "id": "Q50086894",
       "identifiers": [
@@ -108,7 +108,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "謝文禓"
+        "lang:zh-tw": "謝文禓"
       },
       "id": "Q50086929",
       "identifiers": [
@@ -123,7 +123,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "禹耀東"
+        "lang:zh-tw": "禹耀東"
       },
       "id": "Q50086958",
       "identifiers": [
@@ -138,7 +138,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "胡忠勇"
+        "lang:zh-tw": "胡忠勇"
       },
       "id": "Q50087000",
       "identifiers": [
@@ -153,7 +153,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭碧玉"
+        "lang:zh-tw": "鄭碧玉"
       },
       "id": "Q50087038",
       "identifiers": [
@@ -168,7 +168,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許櫻萍"
+        "lang:zh-tw": "許櫻萍"
       },
       "id": "Q50087080",
       "identifiers": [
@@ -183,7 +183,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "孫素娥"
+        "lang:zh-tw": "孫素娥"
       },
       "id": "Q50087225",
       "identifiers": [
@@ -198,7 +198,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張家靜"
+        "lang:zh-tw": "張家靜"
       },
       "id": "Q50087271",
       "identifiers": [
@@ -213,7 +213,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "羅貴星"
+        "lang:zh-tw": "羅貴星"
       },
       "id": "Q50087311",
       "identifiers": [
@@ -228,7 +228,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黎旭欽"
+        "lang:zh-tw": "黎旭欽"
       },
       "id": "Q50087342",
       "identifiers": [
@@ -243,7 +243,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "韓茂賢"
+        "lang:zh-tw": "韓茂賢"
       },
       "id": "Q50087384",
       "identifiers": [
@@ -258,7 +258,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉寶鈴"
+        "lang:zh-tw": "劉寶鈴"
       },
       "id": "Q50087471",
       "identifiers": [
@@ -273,7 +273,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉秋東"
+        "lang:zh-tw": "劉秋東"
       },
       "id": "Q50087510",
       "identifiers": [
@@ -288,7 +288,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周玉滿"
+        "lang:zh-tw": "周玉滿"
       },
       "id": "Q50087556",
       "identifiers": [
@@ -303,7 +303,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李聰祥"
+        "lang:zh-tw": "李聰祥"
       },
       "id": "Q50087599",
       "identifiers": [
@@ -318,7 +318,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱紹俊"
+        "lang:zh-tw": "邱紹俊"
       },
       "id": "Q50087637",
       "identifiers": [
@@ -333,7 +333,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃聲全"
+        "lang:zh-tw": "黃聲全"
       },
       "id": "Q50087680",
       "identifiers": [
@@ -348,7 +348,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳碧華"
+        "lang:zh-tw": "陳碧華"
       },
       "id": "Q50087717",
       "identifiers": [
@@ -363,7 +363,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭秋風"
+        "lang:zh-tw": "鄭秋風"
       },
       "id": "Q50087758",
       "identifiers": [
@@ -378,7 +378,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳明朝"
+        "lang:zh-tw": "陳明朝"
       },
       "id": "Q50087809",
       "identifiers": [
@@ -393,7 +393,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖英利"
+        "lang:zh-tw": "廖英利"
       },
       "id": "Q50087854",
       "identifiers": [
@@ -408,7 +408,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "謝芳紋"
+        "lang:zh-tw": "謝芳紋"
       },
       "id": "Q50087887",
       "identifiers": [
@@ -423,7 +423,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "謝端容"
+        "lang:zh-tw": "謝端容"
       },
       "id": "Q50087977",
       "identifiers": [
@@ -438,7 +438,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李文斌"
+        "lang:zh-tw": "李文斌"
       },
       "id": "Q50088014",
       "identifiers": [
@@ -453,7 +453,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "羅雪珠"
+        "lang:zh-tw": "羅雪珠"
       },
       "id": "Q50088057",
       "identifiers": [
@@ -468,7 +468,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "游忠鈿"
+        "lang:zh-tw": "游忠鈿"
       },
       "id": "Q50088091",
       "identifiers": [
@@ -483,7 +483,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳永賢"
+        "lang:zh-tw": "陳永賢"
       },
       "id": "Q50088131",
       "identifiers": [
@@ -498,7 +498,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳光軒"
+        "lang:zh-tw": "陳光軒"
       },
       "id": "Q50088170",
       "identifiers": [
@@ -513,7 +513,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳漢清"
+        "lang:zh-tw": "陳漢清"
       },
       "id": "Q50088210",
       "identifiers": [
@@ -528,7 +528,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鍾福貴"
+        "lang:zh-tw": "鍾福貴"
       },
       "id": "Q50088243",
       "identifiers": [
@@ -543,7 +543,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱秋琴"
+        "lang:zh-tw": "邱秋琴"
       },
       "id": "Q50088276",
       "identifiers": [
@@ -558,7 +558,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鍾東錦"
+        "lang:zh-tw": "鍾東錦"
       },
       "id": "Q50088349",
       "identifiers": [
@@ -573,7 +573,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "徐欽鴻"
+        "lang:zh-tw": "徐欽鴻"
       },
       "id": "Q50088383",
       "identifiers": [
@@ -588,7 +588,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳春暖"
+        "lang:zh-tw": "陳春暖"
       },
       "id": "Q50088423",
       "identifiers": [
@@ -603,7 +603,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊恭林"
+        "lang:zh-tw": "楊恭林"
       },
       "id": "Q50088465",
       "identifiers": [
@@ -618,7 +618,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘秋榮"
+        "lang:zh-tw": "潘秋榮"
       },
       "id": "Q50088503",
       "identifiers": [
@@ -633,7 +633,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃月娥"
+        "lang:zh-tw": "黃月娥"
       },
       "id": "Q50088530",
       "identifiers": [
@@ -650,8 +650,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "苗栗縣議會",
-        "lang:en_US": "Miaoli County Council"
+        "lang:zh-tw": "苗栗縣議會",
+        "lang:en": "Miaoli County Council"
       },
       "id": "Q15904162",
       "classification": "branch",
@@ -668,8 +668,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -682,8 +682,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q903822",
       "classification": "party",
@@ -712,8 +712,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第01選區"
@@ -736,8 +736,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第02選區"
@@ -760,8 +760,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第03選區"
@@ -784,8 +784,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第04選區"
@@ -808,8 +808,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第05選區"
@@ -832,8 +832,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第06選區"
@@ -856,8 +856,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第07選區"
@@ -880,8 +880,8 @@
         "Q49257021"
       ],
       "type": {
-        "lang:zh_TW": "苗栗縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Miaoli County"
+        "lang:zh-tw": "苗栗縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
         "lang:zh_TW": "苗栗縣第08選區"
@@ -904,8 +904,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Miaoli County",
@@ -929,8 +929,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -949,12 +949,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -967,12 +967,12 @@
       "end_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -984,12 +984,12 @@
       "end_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1001,12 +1001,12 @@
       "start_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1017,12 +1017,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1033,12 +1033,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1050,12 +1050,12 @@
       "start_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1066,12 +1066,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1083,12 +1083,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1100,12 +1100,12 @@
       "start_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1117,12 +1117,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1135,12 +1135,12 @@
       "end_date": "2016-03-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1152,12 +1152,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1170,12 +1170,12 @@
       "end_date": "2015-09-16",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1187,12 +1187,12 @@
       "start_date": "2015-09-16",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1204,12 +1204,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1221,12 +1221,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1237,12 +1237,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1254,12 +1254,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1270,12 +1270,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1287,12 +1287,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1303,12 +1303,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1319,12 +1319,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1336,12 +1336,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1353,12 +1353,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1370,12 +1370,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1387,12 +1387,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1404,12 +1404,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1420,12 +1420,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1437,12 +1437,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1453,12 +1453,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1470,12 +1470,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1487,12 +1487,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1504,12 +1504,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1522,12 +1522,12 @@
       "end_date": "2015-06-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1539,12 +1539,12 @@
       "start_date": "2015-06-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1555,12 +1555,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1571,12 +1571,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1587,12 +1587,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1604,12 +1604,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1620,12 +1620,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1636,12 +1636,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     },
     {
@@ -1653,12 +1653,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257021",
       "role": {
-        "lang:zh_TW": "苗栗縣議員"
+        "lang:zh-tw": "苗栗縣議員"
       }
     }
   ]

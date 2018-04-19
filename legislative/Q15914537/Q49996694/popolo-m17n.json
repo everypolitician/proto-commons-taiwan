@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "李應文",
-        "lang:en_US": "Li Yingwen"
+        "lang:zh-tw": "李應文",
+        "lang:en": "Li Yingwen"
       },
       "id": "Q45517813",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊萬山",
-        "lang:en_US": "Yang Wanshan"
+        "lang:zh-tw": "楊萬山",
+        "lang:en": "Yang Wanshan"
       },
       "id": "Q45623338",
       "identifiers": [
@@ -34,7 +34,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳玉珍"
+        "lang:zh-tw": "陳玉珍"
       },
       "id": "Q48896684",
       "identifiers": [
@@ -49,7 +49,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "洪允典"
+        "lang:zh-tw": "洪允典"
       },
       "id": "Q50088980",
       "identifiers": [
@@ -64,7 +64,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "石永城"
+        "lang:zh-tw": "石永城"
       },
       "id": "Q50089025",
       "identifiers": [
@@ -79,7 +79,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "唐麗輝"
+        "lang:zh-tw": "唐麗輝"
       },
       "id": "Q50089076",
       "identifiers": [
@@ -94,7 +94,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許建中"
+        "lang:zh-tw": "許建中"
       },
       "id": "Q50089119",
       "identifiers": [
@@ -109,7 +109,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許玉昭"
+        "lang:zh-tw": "許玉昭"
       },
       "id": "Q50089160",
       "identifiers": [
@@ -124,7 +124,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李誠智"
+        "lang:zh-tw": "李誠智"
       },
       "id": "Q50089255",
       "identifiers": [
@@ -139,7 +139,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林孫全"
+        "lang:zh-tw": "林孫全"
       },
       "id": "Q50089308",
       "identifiers": [
@@ -154,7 +154,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王碧珍"
+        "lang:zh-tw": "王碧珍"
       },
       "id": "Q50089360",
       "identifiers": [
@@ -169,7 +169,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許華玉"
+        "lang:zh-tw": "許華玉"
       },
       "id": "Q50089399",
       "identifiers": [
@@ -184,7 +184,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊永立"
+        "lang:zh-tw": "楊永立"
       },
       "id": "Q50089434",
       "identifiers": [
@@ -199,7 +199,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "歐陽儀雄"
+        "lang:zh-tw": "歐陽儀雄"
       },
       "id": "Q50089478",
       "identifiers": [
@@ -214,7 +214,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周子傑"
+        "lang:zh-tw": "周子傑"
       },
       "id": "Q50089581",
       "identifiers": [
@@ -229,7 +229,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "謝東龍"
+        "lang:zh-tw": "謝東龍"
       },
       "id": "Q50089625",
       "identifiers": [
@@ -244,7 +244,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡水游"
+        "lang:zh-tw": "蔡水游"
       },
       "id": "Q50089671",
       "identifiers": [
@@ -259,7 +259,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張雲德"
+        "lang:zh-tw": "張雲德"
       },
       "id": "Q50089719",
       "identifiers": [
@@ -274,7 +274,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡春生"
+        "lang:zh-tw": "蔡春生"
       },
       "id": "Q50089771",
       "identifiers": [
@@ -289,7 +289,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "洪鴻斌"
+        "lang:zh-tw": "洪鴻斌"
       },
       "id": "Q50089917",
       "identifiers": [
@@ -304,7 +304,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "洪麗萍"
+        "lang:zh-tw": "洪麗萍"
       },
       "id": "Q50089974",
       "identifiers": [
@@ -319,7 +319,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳滄江"
+        "lang:zh-tw": "陳滄江"
       },
       "id": "Q8348051",
       "identifiers": [
@@ -336,8 +336,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "金門縣議會",
-        "lang:en_US": "Kinmen County Council"
+        "lang:zh-tw": "金門縣議會",
+        "lang:en": "Kinmen County Council"
       },
       "id": "Q15914537",
       "classification": "branch",
@@ -354,8 +354,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -368,8 +368,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q903822",
       "classification": "party",
@@ -398,8 +398,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Kinmen County",
@@ -423,8 +423,8 @@
         "Q49257377"
       ],
       "type": {
-        "lang:zh_TW": "金門縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+        "lang:zh-tw": "金門縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
         "lang:zh_TW": "金門縣第01選區"
@@ -447,8 +447,8 @@
         "Q49257377"
       ],
       "type": {
-        "lang:zh_TW": "金門縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+        "lang:zh-tw": "金門縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
         "lang:zh_TW": "金門縣第02選區"
@@ -471,8 +471,8 @@
         "Q49257377"
       ],
       "type": {
-        "lang:zh_TW": "金門縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Kinmen"
+        "lang:zh-tw": "金門縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
         "lang:zh_TW": "金門縣第03選區"
@@ -495,8 +495,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -515,12 +515,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -533,12 +533,12 @@
       "end_date": "2016-01-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -549,12 +549,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -566,12 +566,12 @@
       "start_date": "2016-07-22",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -583,12 +583,12 @@
       "end_date": "2016-07-22",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -599,12 +599,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -616,12 +616,12 @@
       "start_date": "2015-09-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -633,12 +633,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -650,12 +650,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -668,12 +668,12 @@
       "end_date": "2015-09-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -685,12 +685,12 @@
       "start_date": "2016-01-15",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -702,12 +702,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -719,12 +719,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -736,12 +736,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -753,12 +753,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -770,12 +770,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -787,12 +787,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -804,12 +804,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -821,12 +821,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -838,12 +838,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -855,12 +855,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     },
     {
@@ -872,12 +872,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49257377",
       "role": {
-        "lang:zh_TW": "金門縣議員"
+        "lang:zh-tw": "金門縣議員"
       }
     }
   ]

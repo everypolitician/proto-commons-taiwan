@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "薛呈懿"
+        "lang:zh-tw": "薛呈懿"
       },
       "id": "Q18753688",
       "identifiers": [
@@ -17,8 +17,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "吳宏謀",
-        "lang:en_US": "Wu Hong-mo"
+        "lang:zh-tw": "吳宏謀",
+        "lang:en": "Wu Hong-mo"
       },
       "id": "Q23883800",
       "identifiers": [
@@ -33,8 +33,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳文昌",
-        "lang:en_US": "Chen Wenchang"
+        "lang:zh-tw": "陳文昌",
+        "lang:en": "Chen Wenchang"
       },
       "id": "Q45467036",
       "identifiers": [
@@ -49,8 +49,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張建榮",
-        "lang:en_US": "Zhang Jianrong"
+        "lang:zh-tw": "張建榮",
+        "lang:en": "Zhang Jianrong"
       },
       "id": "Q45633180",
       "identifiers": [
@@ -65,7 +65,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃定和"
+        "lang:zh-tw": "黃定和"
       },
       "id": "Q47689441",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊順木"
+        "lang:zh-tw": "楊順木"
       },
       "id": "Q50063458",
       "identifiers": [
@@ -95,7 +95,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林岳賢"
+        "lang:zh-tw": "林岳賢"
       },
       "id": "Q50063500",
       "identifiers": [
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林志鴻"
+        "lang:zh-tw": "林志鴻"
       },
       "id": "Q50063596",
       "identifiers": [
@@ -125,7 +125,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "江碧華"
+        "lang:zh-tw": "江碧華"
       },
       "id": "Q50063637",
       "identifiers": [
@@ -140,7 +140,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林錫明"
+        "lang:zh-tw": "林錫明"
       },
       "id": "Q50063674",
       "identifiers": [
@@ -155,7 +155,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡文益"
+        "lang:zh-tw": "蔡文益"
       },
       "id": "Q50063715",
       "identifiers": [
@@ -170,7 +170,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林東成"
+        "lang:zh-tw": "林東成"
       },
       "id": "Q50063725",
       "identifiers": [
@@ -185,7 +185,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林金龍"
+        "lang:zh-tw": "林金龍"
       },
       "id": "Q50063779",
       "identifiers": [
@@ -200,7 +200,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林成功"
+        "lang:zh-tw": "林成功"
       },
       "id": "Q50063823",
       "identifiers": [
@@ -215,7 +215,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳俊宇"
+        "lang:zh-tw": "陳俊宇"
       },
       "id": "Q50063892",
       "identifiers": [
@@ -230,7 +230,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃浴沂"
+        "lang:zh-tw": "黃浴沂"
       },
       "id": "Q50063929",
       "identifiers": [
@@ -245,7 +245,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳福山"
+        "lang:zh-tw": "陳福山"
       },
       "id": "Q50063980",
       "identifiers": [
@@ -260,7 +260,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃建勇"
+        "lang:zh-tw": "黃建勇"
       },
       "id": "Q50064026",
       "identifiers": [
@@ -275,7 +275,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉添梧"
+        "lang:zh-tw": "劉添梧"
       },
       "id": "Q50064069",
       "identifiers": [
@@ -290,7 +290,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳鴻禧"
+        "lang:zh-tw": "陳鴻禧"
       },
       "id": "Q50064108",
       "identifiers": [
@@ -305,7 +305,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "吳秋齡"
+        "lang:zh-tw": "吳秋齡"
       },
       "id": "Q50064140",
       "identifiers": [
@@ -320,7 +320,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃素琴"
+        "lang:zh-tw": "黃素琴"
       },
       "id": "Q50064184",
       "identifiers": [
@@ -335,7 +335,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳漢鍾"
+        "lang:zh-tw": "陳漢鍾"
       },
       "id": "Q50064224",
       "identifiers": [
@@ -350,7 +350,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "沈德茂"
+        "lang:zh-tw": "沈德茂"
       },
       "id": "Q50064262",
       "identifiers": [
@@ -365,7 +365,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃適超"
+        "lang:zh-tw": "黃適超"
       },
       "id": "Q50064306",
       "identifiers": [
@@ -380,7 +380,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張明華"
+        "lang:zh-tw": "張明華"
       },
       "id": "Q50064346",
       "identifiers": [
@@ -395,7 +395,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "游祥德"
+        "lang:zh-tw": "游祥德"
       },
       "id": "Q50064383",
       "identifiers": [
@@ -410,7 +410,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊政誠"
+        "lang:zh-tw": "楊政誠"
       },
       "id": "Q50064467",
       "identifiers": [
@@ -425,7 +425,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張秋明"
+        "lang:zh-tw": "張秋明"
       },
       "id": "Q50064514",
       "identifiers": [
@@ -440,7 +440,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱嘉進"
+        "lang:zh-tw": "邱嘉進"
       },
       "id": "Q50064595",
       "identifiers": [
@@ -455,7 +455,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳正男"
+        "lang:zh-tw": "陳正男"
       },
       "id": "Q50064636",
       "identifiers": [
@@ -470,7 +470,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林棋山"
+        "lang:zh-tw": "林棋山"
       },
       "id": "Q50064676",
       "identifiers": [
@@ -485,7 +485,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "孫湯玉惠"
+        "lang:zh-tw": "孫湯玉惠"
       },
       "id": "Q50064711",
       "identifiers": [
@@ -500,7 +500,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳傑麟"
+        "lang:zh-tw": "陳傑麟"
       },
       "id": "Q50064740",
       "identifiers": [
@@ -515,7 +515,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳孝仁"
+        "lang:zh-tw": "陳孝仁"
       },
       "id": "Q50064775",
       "identifiers": [
@@ -532,8 +532,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "宜蘭縣議會",
-        "lang:en_US": "Yilan County Council"
+        "lang:zh-tw": "宜蘭縣議會",
+        "lang:en": "Yilan County Council"
       },
       "id": "Q15909148",
       "classification": "branch",
@@ -550,8 +550,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -564,7 +564,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "在野問政聯盟"
+        "lang:zh-tw": "在野問政聯盟"
       },
       "id": "Q50059076",
       "classification": "party",
@@ -577,8 +577,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q903822",
       "classification": "party",
@@ -607,8 +607,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Yilan County",
@@ -632,8 +632,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第01選區"
@@ -656,8 +656,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第02選區"
@@ -680,8 +680,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第03選區"
@@ -704,8 +704,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第04選區"
@@ -728,8 +728,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第05選區"
@@ -752,8 +752,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第06選區"
@@ -776,8 +776,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第07選區"
@@ -800,8 +800,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第08選區"
@@ -824,8 +824,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第09選區"
@@ -848,8 +848,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第10選區"
@@ -872,8 +872,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第11選區"
@@ -896,8 +896,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第12選區"
@@ -920,8 +920,8 @@
         "Q49254881"
       ],
       "type": {
-        "lang:zh_TW": "宜蘭縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Yilan County"
+        "lang:zh-tw": "宜蘭縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
         "lang:zh_TW": "宜蘭縣第13選區"
@@ -944,8 +944,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -963,12 +963,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -980,12 +980,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -997,12 +997,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1014,12 +1014,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1031,12 +1031,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1048,12 +1048,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1065,12 +1065,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1082,12 +1082,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1098,12 +1098,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1115,12 +1115,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1132,12 +1132,12 @@
       "start_date": "2015-06-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1149,12 +1149,12 @@
       "end_date": "2015-06-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1166,12 +1166,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1183,12 +1183,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1200,12 +1200,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1217,12 +1217,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1234,12 +1234,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1251,12 +1251,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1268,12 +1268,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1285,12 +1285,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1302,12 +1302,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1319,12 +1319,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1336,12 +1336,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1353,12 +1353,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1370,12 +1370,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1387,12 +1387,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1404,12 +1404,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1422,12 +1422,12 @@
       "end_date": "2016-08-13",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1439,12 +1439,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1456,12 +1456,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1473,12 +1473,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1489,12 +1489,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1505,12 +1505,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1521,12 +1521,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     },
     {
@@ -1538,12 +1538,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49254881",
       "role": {
-        "lang:zh_TW": "宜蘭縣議員"
+        "lang:zh-tw": "宜蘭縣議員"
       }
     }
   ]

@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:en_US": "Jason Hu"
+        "lang:en": "Jason Hu"
       },
       "id": "Q284597",
       "identifiers": [
@@ -19,8 +19,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "臺中市政府",
-        "lang:en_US": "Taichung City Government"
+        "lang:zh-tw": "臺中市政府",
+        "lang:en": "Taichung City Government"
       },
       "id": "Q15898718",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -64,8 +64,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "Taoyuan City",
@@ -89,8 +89,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Changhua County",
@@ -114,8 +114,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "Tainan City",
@@ -139,8 +139,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Yunlin County",
@@ -164,8 +164,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Chiayi County",
@@ -189,8 +189,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "Kaohsiung City",
@@ -214,8 +214,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "Taipei City",
@@ -239,8 +239,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Pingtung County",
@@ -264,8 +264,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Penghu County",
@@ -289,8 +289,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Yilan County",
@@ -314,8 +314,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "New Taipei City",
@@ -339,8 +339,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "Taichung City",
@@ -364,8 +364,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Hualien County",
@@ -389,8 +389,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Kinmen County",
@@ -414,8 +414,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Lienchiang County",
@@ -439,8 +439,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Taitung County",
@@ -464,8 +464,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "市",
-        "lang:en_US": "provincial city"
+        "lang:zh-tw": "市",
+        "lang:en": "provincial city"
       },
       "name": {
         "lang:en_US": "Hsinchu City",
@@ -489,8 +489,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "市",
-        "lang:en_US": "provincial city"
+        "lang:zh-tw": "市",
+        "lang:en": "provincial city"
       },
       "name": {
         "lang:en_US": "Chiayi City",
@@ -514,8 +514,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "市",
-        "lang:en_US": "provincial city"
+        "lang:zh-tw": "市",
+        "lang:en": "provincial city"
       },
       "name": {
         "lang:en_US": "Keelung City",
@@ -539,8 +539,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Miaoli County",
@@ -564,8 +564,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Hsinchu County",
@@ -589,8 +589,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Nantou County",
@@ -614,8 +614,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -632,13 +632,13 @@
       "organization_id": "Q15898718",
       "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:zh_TW": "市長",
-        "lang:en_US": "mayor"
+        "lang:zh-tw": "市長",
+        "lang:en": "mayor"
       },
       "role_code": "Q6797822",
       "role": {
-        "lang:zh_TW": "臺中市市長",
-        "lang:en_US": "Mayor of Taichung"
+        "lang:zh-tw": "臺中市市長",
+        "lang:en": "Mayor of Taichung"
       }
     }
   ]

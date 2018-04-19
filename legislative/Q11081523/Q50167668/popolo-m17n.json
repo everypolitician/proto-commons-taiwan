@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "李坤城"
+        "lang:zh-tw": "李坤城"
       },
       "id": "Q15935127",
       "identifiers": [
@@ -17,8 +17,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳明義",
-        "lang:en_US": "Chen Mingyi (Taiwan）"
+        "lang:zh-tw": "陳明義",
+        "lang:en": "Chen Mingyi (Taiwan）"
       },
       "id": "Q15955832",
       "identifiers": [
@@ -33,7 +33,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳文治"
+        "lang:zh-tw": "陳文治"
       },
       "id": "Q18384128",
       "identifiers": [
@@ -48,7 +48,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱婷蔚"
+        "lang:zh-tw": "邱婷蔚"
       },
       "id": "Q18663302",
       "identifiers": [
@@ -63,7 +63,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鍾宏仁"
+        "lang:zh-tw": "鍾宏仁"
       },
       "id": "Q18668852",
       "identifiers": [
@@ -78,7 +78,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "曾煥嘉"
+        "lang:zh-tw": "曾煥嘉"
       },
       "id": "Q19825342",
       "identifiers": [
@@ -93,7 +93,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張晉婷"
+        "lang:zh-tw": "張晉婷"
       },
       "id": "Q19825617",
       "identifiers": [
@@ -108,7 +108,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林裔綺"
+        "lang:zh-tw": "林裔綺"
       },
       "id": "Q19825680",
       "identifiers": [
@@ -123,7 +123,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭宇恩"
+        "lang:zh-tw": "鄭宇恩"
       },
       "id": "Q19825823",
       "identifiers": [
@@ -138,7 +138,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳錦錠"
+        "lang:zh-tw": "陳錦錠"
       },
       "id": "Q19825847",
       "identifiers": [
@@ -153,7 +153,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳世榮"
+        "lang:zh-tw": "陳世榮"
       },
       "id": "Q19825848",
       "identifiers": [
@@ -168,8 +168,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "吳琪銘",
-        "lang:en_US": "Wu Chi-ming"
+        "lang:zh-tw": "吳琪銘",
+        "lang:en": "Wu Chi-ming"
       },
       "id": "Q19849414",
       "identifiers": [
@@ -184,7 +184,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃林玲玲"
+        "lang:zh-tw": "黃林玲玲"
       },
       "id": "Q21449558",
       "identifiers": [
@@ -199,7 +199,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳幸進"
+        "lang:zh-tw": "陳幸進"
       },
       "id": "Q24833561",
       "identifiers": [
@@ -214,7 +214,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔣根煌"
+        "lang:zh-tw": "蔣根煌"
       },
       "id": "Q24833767",
       "identifiers": [
@@ -229,7 +229,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳儀君"
+        "lang:zh-tw": "陳儀君"
       },
       "id": "Q24836704",
       "identifiers": [
@@ -244,7 +244,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭戴麗香"
+        "lang:zh-tw": "鄭戴麗香"
       },
       "id": "Q28416553",
       "identifiers": [
@@ -259,7 +259,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡葉偉"
+        "lang:zh-tw": "蔡葉偉"
       },
       "id": "Q28416592",
       "identifiers": [
@@ -274,7 +274,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李翁月娥"
+        "lang:zh-tw": "李翁月娥"
       },
       "id": "Q28417334",
       "identifiers": [
@@ -289,7 +289,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林國春"
+        "lang:zh-tw": "林國春"
       },
       "id": "Q30941039",
       "identifiers": [
@@ -304,8 +304,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王建章",
-        "lang:en_US": "Wang Jianzhang"
+        "lang:zh-tw": "王建章",
+        "lang:en": "Wang Jianzhang"
       },
       "id": "Q45529980",
       "identifiers": [
@@ -320,7 +320,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡淑君"
+        "lang:zh-tw": "蔡淑君"
       },
       "id": "Q47546114",
       "identifiers": [
@@ -335,7 +335,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳永福"
+        "lang:zh-tw": "陳永福"
       },
       "id": "Q48897481",
       "identifiers": [
@@ -350,7 +350,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡錦賢"
+        "lang:zh-tw": "蔡錦賢"
       },
       "id": "Q50069459",
       "identifiers": [
@@ -365,7 +365,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "賴秋媚"
+        "lang:zh-tw": "賴秋媚"
       },
       "id": "Q50069717",
       "identifiers": [
@@ -380,7 +380,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "何淑峯"
+        "lang:zh-tw": "何淑峯"
       },
       "id": "Q50069799",
       "identifiers": [
@@ -395,7 +395,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "宋明宗"
+        "lang:zh-tw": "宋明宗"
       },
       "id": "Q50070000",
       "identifiers": [
@@ -410,7 +410,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳科名"
+        "lang:zh-tw": "陳科名"
       },
       "id": "Q50070035",
       "identifiers": [
@@ -425,7 +425,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭金隆"
+        "lang:zh-tw": "鄭金隆"
       },
       "id": "Q50070076",
       "identifiers": [
@@ -440,7 +440,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳啟能"
+        "lang:zh-tw": "陳啟能"
       },
       "id": "Q50070241",
       "identifiers": [
@@ -455,7 +455,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔡明堂"
+        "lang:zh-tw": "蔡明堂"
       },
       "id": "Q50070286",
       "identifiers": [
@@ -470,7 +470,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李余典"
+        "lang:zh-tw": "李余典"
       },
       "id": "Q50070394",
       "identifiers": [
@@ -485,7 +485,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃俊哲"
+        "lang:zh-tw": "黃俊哲"
       },
       "id": "Q50070601",
       "identifiers": [
@@ -500,7 +500,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖裕德"
+        "lang:zh-tw": "廖裕德"
       },
       "id": "Q50070668",
       "identifiers": [
@@ -515,7 +515,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周勝考"
+        "lang:zh-tw": "周勝考"
       },
       "id": "Q50070755",
       "identifiers": [
@@ -530,7 +530,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "邱烽堯"
+        "lang:zh-tw": "邱烽堯"
       },
       "id": "Q50070789",
       "identifiers": [
@@ -545,7 +545,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "游輝宂"
+        "lang:zh-tw": "游輝宂"
       },
       "id": "Q50070833",
       "identifiers": [
@@ -560,7 +560,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "羅文崇"
+        "lang:zh-tw": "羅文崇"
       },
       "id": "Q50071048",
       "identifiers": [
@@ -575,7 +575,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許昭興"
+        "lang:zh-tw": "許昭興"
       },
       "id": "Q50071088",
       "identifiers": [
@@ -590,7 +590,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "連斐璠"
+        "lang:zh-tw": "連斐璠"
       },
       "id": "Q50071127",
       "identifiers": [
@@ -605,7 +605,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳鴻源"
+        "lang:zh-tw": "陳鴻源"
       },
       "id": "Q50071170",
       "identifiers": [
@@ -620,7 +620,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林銘仁"
+        "lang:zh-tw": "林銘仁"
       },
       "id": "Q50071208",
       "identifiers": [
@@ -635,7 +635,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林金結"
+        "lang:zh-tw": "林金結"
       },
       "id": "Q50071252",
       "identifiers": [
@@ -650,7 +650,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "高敏慧"
+        "lang:zh-tw": "高敏慧"
       },
       "id": "Q50071296",
       "identifiers": [
@@ -665,7 +665,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "彭成龍"
+        "lang:zh-tw": "彭成龍"
       },
       "id": "Q50071342",
       "identifiers": [
@@ -680,7 +680,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蘇有仁"
+        "lang:zh-tw": "蘇有仁"
       },
       "id": "Q50071567",
       "identifiers": [
@@ -695,7 +695,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉哲彰"
+        "lang:zh-tw": "劉哲彰"
       },
       "id": "Q50071668",
       "identifiers": [
@@ -710,7 +710,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "金中玉"
+        "lang:zh-tw": "金中玉"
       },
       "id": "Q50071710",
       "identifiers": [
@@ -725,7 +725,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖筱清"
+        "lang:zh-tw": "廖筱清"
       },
       "id": "Q50071752",
       "identifiers": [
@@ -740,7 +740,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖正良"
+        "lang:zh-tw": "廖正良"
       },
       "id": "Q50071865",
       "identifiers": [
@@ -755,7 +755,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周雅玲"
+        "lang:zh-tw": "周雅玲"
       },
       "id": "Q50071950",
       "identifiers": [
@@ -770,7 +770,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "白珮茹"
+        "lang:zh-tw": "白珮茹"
       },
       "id": "Q50071992",
       "identifiers": [
@@ -785,7 +785,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "宋雨蓁Nikar‧Falong"
+        "lang:zh-tw": "宋雨蓁Nikar‧Falong"
       },
       "id": "Q50072069",
       "identifiers": [
@@ -800,7 +800,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "楊春妹"
+        "lang:zh-tw": "楊春妹"
       },
       "id": "Q50072104",
       "identifiers": [
@@ -815,8 +815,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王淑慧",
-        "lang:en_US": "Wang Shu-hui"
+        "lang:zh-tw": "王淑慧",
+        "lang:en": "Wang Shu-hui"
       },
       "id": "Q7967625",
       "identifiers": [
@@ -831,7 +831,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "洪佳君"
+        "lang:zh-tw": "洪佳君"
       },
       "id": "Q8273543",
       "identifiers": [
@@ -846,7 +846,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃永昌"
+        "lang:zh-tw": "黃永昌"
       },
       "id": "Q8274110",
       "identifiers": [
@@ -861,7 +861,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉美芳"
+        "lang:zh-tw": "劉美芳"
       },
       "id": "Q8274527",
       "identifiers": [
@@ -876,7 +876,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張瑞山"
+        "lang:zh-tw": "張瑞山"
       },
       "id": "Q8347460",
       "identifiers": [
@@ -891,7 +891,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林秀惠"
+        "lang:zh-tw": "林秀惠"
       },
       "id": "Q8349597",
       "identifiers": [
@@ -906,7 +906,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李倩萍"
+        "lang:zh-tw": "李倩萍"
       },
       "id": "Q8349626",
       "identifiers": [
@@ -921,7 +921,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李婉鈺"
+        "lang:zh-tw": "李婉鈺"
       },
       "id": "Q8349628",
       "identifiers": [
@@ -936,8 +936,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "夷將‧拔路兒Icyang‧Parod",
-        "lang:en_US": "Icyang Parod"
+        "lang:zh-tw": "夷將‧拔路兒Icyang‧Parod",
+        "lang:en": "Icyang Parod"
       },
       "id": "Q8350030",
       "identifiers": [
@@ -952,8 +952,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "沈發惠",
-        "lang:en_US": "Shen Fa-hui"
+        "lang:zh-tw": "沈發惠",
+        "lang:en": "Shen Fa-hui"
       },
       "id": "Q8350180",
       "identifiers": [
@@ -968,8 +968,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張宏陸",
-        "lang:en_US": "Chang Hung-lu"
+        "lang:zh-tw": "張宏陸",
+        "lang:en": "Chang Hung-lu"
       },
       "id": "Q8350806",
       "identifiers": [
@@ -984,7 +984,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "何博文"
+        "lang:zh-tw": "何博文"
       },
       "id": "Q8350824",
       "identifiers": [
@@ -999,8 +999,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "廖本煙",
-        "lang:en_US": "Liao Pen-yen"
+        "lang:zh-tw": "廖本煙",
+        "lang:en": "Liao Pen-yen"
       },
       "id": "Q8350893",
       "identifiers": [
@@ -1015,7 +1015,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "江永昌"
+        "lang:zh-tw": "江永昌"
       },
       "id": "Q8350960",
       "identifiers": [
@@ -1032,8 +1032,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "新北市議會",
-        "lang:en_US": "New Taipei City Council"
+        "lang:zh-tw": "新北市議會",
+        "lang:en": "New Taipei City Council"
       },
       "id": "Q11081523",
       "classification": "branch",
@@ -1050,8 +1050,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -1064,8 +1064,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "台灣團結聯盟",
-        "lang:en_US": "Taiwan Solidarity Union"
+        "lang:zh-tw": "台灣團結聯盟",
+        "lang:en": "Taiwan Solidarity Union"
       },
       "id": "Q706834",
       "classification": "party",
@@ -1078,8 +1078,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "無黨團結聯盟",
-        "lang:en_US": "Non-Partisan Solidarity Union"
+        "lang:zh-tw": "無黨團結聯盟",
+        "lang:en": "Non-Partisan Solidarity Union"
       },
       "id": "Q718487",
       "classification": "party",
@@ -1092,8 +1092,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q903822",
       "classification": "party",
@@ -1122,8 +1122,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "直轄市",
-        "lang:en_US": "special municipality"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en_US": "New Taipei City",
@@ -1147,8 +1147,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第01選區"
@@ -1171,8 +1171,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第02選區"
@@ -1195,8 +1195,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第03選區"
@@ -1219,8 +1219,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第04選區"
@@ -1243,8 +1243,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第05選區"
@@ -1267,8 +1267,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第06選區"
@@ -1291,8 +1291,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第07選區"
@@ -1315,8 +1315,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第08選區"
@@ -1339,8 +1339,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第09選區"
@@ -1363,8 +1363,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第10選區"
@@ -1387,8 +1387,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第11選區"
@@ -1411,8 +1411,8 @@
         "Q48976144"
       ],
       "type": {
-        "lang:zh_TW": "新北市議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of New Taipei City"
+        "lang:zh-tw": "新北市議員選區",
+        "lang:en": "Constituency of Regional Councilors of New Taipei City"
       },
       "name": {
         "lang:zh_TW": "新北市第12選區"
@@ -1435,8 +1435,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -1455,12 +1455,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1472,12 +1472,12 @@
       "start_date": "2016-04-29",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1489,12 +1489,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1506,12 +1506,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1523,12 +1523,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1540,12 +1540,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1558,12 +1558,12 @@
       "end_date": "2016-04-29",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1575,12 +1575,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1592,12 +1592,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1609,12 +1609,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1625,12 +1625,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1643,12 +1643,12 @@
       "end_date": "2016-01-31",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1660,12 +1660,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1677,12 +1677,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1694,12 +1694,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1711,12 +1711,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1728,12 +1728,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1745,12 +1745,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1761,12 +1761,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1778,12 +1778,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1795,12 +1795,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1812,12 +1812,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1829,12 +1829,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1846,12 +1846,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1863,12 +1863,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1880,12 +1880,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1897,12 +1897,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1914,12 +1914,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1931,12 +1931,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1948,12 +1948,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1965,12 +1965,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1982,12 +1982,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -1999,12 +1999,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2016,12 +2016,12 @@
       "end_date": "2016-07-05",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2033,12 +2033,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2050,12 +2050,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2067,12 +2067,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2084,12 +2084,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2101,12 +2101,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2118,12 +2118,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2135,12 +2135,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2152,12 +2152,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2169,12 +2169,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2186,12 +2186,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2203,12 +2203,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2220,12 +2220,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2237,12 +2237,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2254,12 +2254,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2271,12 +2271,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2288,12 +2288,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2305,12 +2305,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2322,12 +2322,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2339,12 +2339,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2356,12 +2356,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2373,12 +2373,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2390,12 +2390,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2407,12 +2407,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2424,12 +2424,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2441,12 +2441,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2458,12 +2458,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2475,12 +2475,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2491,12 +2491,12 @@
       "start_date": "2016-07-05",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2509,12 +2509,12 @@
       "end_date": "2016-05-20",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2526,12 +2526,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2544,12 +2544,12 @@
       "end_date": "2016-01-31",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2561,12 +2561,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2578,12 +2578,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     },
     {
@@ -2596,12 +2596,12 @@
       "end_date": "2016-01-31",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q48976144",
       "role": {
-        "lang:zh_TW": "新北市議員"
+        "lang:zh-tw": "新北市議員"
       }
     }
   ]

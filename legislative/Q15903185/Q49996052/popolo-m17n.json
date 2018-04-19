@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:zh_TW": "李香蘭",
-        "lang:en_US": "Yoshiko Yamaguchi"
+        "lang:zh-tw": "李香蘭",
+        "lang:en": "Yoshiko Yamaguchi"
       },
       "id": "Q253862",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許天賜",
-        "lang:en_US": "Xu Tianci"
+        "lang:zh-tw": "許天賜",
+        "lang:en": "Xu Tianci"
       },
       "id": "Q45503552",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林明順",
-        "lang:en_US": "Lin Mingshun"
+        "lang:zh-tw": "林明順",
+        "lang:en": "Lin Mingshun"
       },
       "id": "Q45724760",
       "identifiers": [
@@ -50,7 +50,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉育豪"
+        "lang:zh-tw": "劉育豪"
       },
       "id": "Q50064819",
       "identifiers": [
@@ -65,7 +65,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鍾明輝"
+        "lang:zh-tw": "鍾明輝"
       },
       "id": "Q50064850",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃國安"
+        "lang:zh-tw": "黃國安"
       },
       "id": "Q50064919",
       "identifiers": [
@@ -95,7 +95,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蘇義峰"
+        "lang:zh-tw": "蘇義峰"
       },
       "id": "Q50065001",
       "identifiers": [
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳美瓊"
+        "lang:zh-tw": "陳美瓊"
       },
       "id": "Q50065047",
       "identifiers": [
@@ -125,7 +125,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張金文"
+        "lang:zh-tw": "張金文"
       },
       "id": "Q50065086",
       "identifiers": [
@@ -140,7 +140,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔣家煌"
+        "lang:zh-tw": "蔣家煌"
       },
       "id": "Q50065117",
       "identifiers": [
@@ -155,7 +155,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "唐玉琴"
+        "lang:zh-tw": "唐玉琴"
       },
       "id": "Q50065152",
       "identifiers": [
@@ -170,7 +170,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "蔣月惠"
+        "lang:zh-tw": "蔣月惠"
       },
       "id": "Q50065187",
       "identifiers": [
@@ -185,7 +185,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張平原"
+        "lang:zh-tw": "張平原"
       },
       "id": "Q50065222",
       "identifiers": [
@@ -200,7 +200,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "江維屏"
+        "lang:zh-tw": "江維屏"
       },
       "id": "Q50065256",
       "identifiers": [
@@ -215,7 +215,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳明達"
+        "lang:zh-tw": "陳明達"
       },
       "id": "Q50065295",
       "identifiers": [
@@ -230,7 +230,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "盧文瑞"
+        "lang:zh-tw": "盧文瑞"
       },
       "id": "Q50065336",
       "identifiers": [
@@ -245,7 +245,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭雙銓"
+        "lang:zh-tw": "鄭雙銓"
       },
       "id": "Q50065365",
       "identifiers": [
@@ -260,7 +260,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳芳琍"
+        "lang:zh-tw": "陳芳琍"
       },
       "id": "Q50065400",
       "identifiers": [
@@ -275,7 +275,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "何春美"
+        "lang:zh-tw": "何春美"
       },
       "id": "Q50065428",
       "identifiers": [
@@ -290,7 +290,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "尤慶賀"
+        "lang:zh-tw": "尤慶賀"
       },
       "id": "Q50065469",
       "identifiers": [
@@ -305,7 +305,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "吳亮慶"
+        "lang:zh-tw": "吳亮慶"
       },
       "id": "Q50065532",
       "identifiers": [
@@ -320,7 +320,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "宋麗華"
+        "lang:zh-tw": "宋麗華"
       },
       "id": "Q50065572",
       "identifiers": [
@@ -335,7 +335,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許馨勻"
+        "lang:zh-tw": "許馨勻"
       },
       "id": "Q50065612",
       "identifiers": [
@@ -350,7 +350,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林郁虹"
+        "lang:zh-tw": "林郁虹"
       },
       "id": "Q50065670",
       "identifiers": [
@@ -365,7 +365,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "黃建溢"
+        "lang:zh-tw": "黃建溢"
       },
       "id": "Q50065713",
       "identifiers": [
@@ -380,7 +380,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘長成"
+        "lang:zh-tw": "潘長成"
       },
       "id": "Q50065765",
       "identifiers": [
@@ -395,7 +395,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘淑真"
+        "lang:zh-tw": "潘淑真"
       },
       "id": "Q50065811",
       "identifiers": [
@@ -410,7 +410,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "曾福金"
+        "lang:zh-tw": "曾福金"
       },
       "id": "Q50065893",
       "identifiers": [
@@ -425,7 +425,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王志豐"
+        "lang:zh-tw": "王志豐"
       },
       "id": "Q50065933",
       "identifiers": [
@@ -440,7 +440,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "徐榮耀"
+        "lang:zh-tw": "徐榮耀"
       },
       "id": "Q50065971",
       "identifiers": [
@@ -455,7 +455,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉淼松"
+        "lang:zh-tw": "劉淼松"
       },
       "id": "Q50066017",
       "identifiers": [
@@ -470,7 +470,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "何輝能"
+        "lang:zh-tw": "何輝能"
       },
       "id": "Q50066066",
       "identifiers": [
@@ -485,7 +485,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林蔡鳳梅"
+        "lang:zh-tw": "林蔡鳳梅"
       },
       "id": "Q50066119",
       "identifiers": [
@@ -500,7 +500,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "許展維"
+        "lang:zh-tw": "許展維"
       },
       "id": "Q50066158",
       "identifiers": [
@@ -515,7 +515,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "郭再添"
+        "lang:zh-tw": "郭再添"
       },
       "id": "Q50066208",
       "identifiers": [
@@ -530,7 +530,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "鄭寶川"
+        "lang:zh-tw": "鄭寶川"
       },
       "id": "Q50066243",
       "identifiers": [
@@ -545,7 +545,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周典論"
+        "lang:zh-tw": "周典論"
       },
       "id": "Q50066275",
       "identifiers": [
@@ -560,7 +560,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "劉水復"
+        "lang:zh-tw": "劉水復"
       },
       "id": "Q50066345",
       "identifiers": [
@@ -575,7 +575,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "周碧雲"
+        "lang:zh-tw": "周碧雲"
       },
       "id": "Q50066378",
       "identifiers": [
@@ -590,7 +590,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林玉花"
+        "lang:zh-tw": "林玉花"
       },
       "id": "Q50066419",
       "identifiers": [
@@ -605,7 +605,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "羅平道"
+        "lang:zh-tw": "羅平道"
       },
       "id": "Q50066458",
       "identifiers": [
@@ -620,7 +620,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "王啟敏"
+        "lang:zh-tw": "王啟敏"
       },
       "id": "Q50066519",
       "identifiers": [
@@ -635,7 +635,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "張榮志"
+        "lang:zh-tw": "張榮志"
       },
       "id": "Q50066562",
       "identifiers": [
@@ -650,7 +650,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳文弘"
+        "lang:zh-tw": "陳文弘"
       },
       "id": "Q50066628",
       "identifiers": [
@@ -665,7 +665,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "洪慈綪"
+        "lang:zh-tw": "洪慈綪"
       },
       "id": "Q50066659",
       "identifiers": [
@@ -680,7 +680,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘裕隆"
+        "lang:zh-tw": "潘裕隆"
       },
       "id": "Q50066693",
       "identifiers": [
@@ -695,7 +695,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "歸曉惠"
+        "lang:zh-tw": "歸曉惠"
       },
       "id": "Q50066737",
       "identifiers": [
@@ -710,7 +710,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "車牧勒薩以‧拉勒格安Cemelesailjaljegan"
+        "lang:zh-tw": "車牧勒薩以‧拉勒格安Cemelesailjaljegan"
       },
       "id": "Q50066785",
       "identifiers": [
@@ -725,7 +725,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陸月嬌"
+        "lang:zh-tw": "陸月嬌"
       },
       "id": "Q50066793",
       "identifiers": [
@@ -740,7 +740,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘政治"
+        "lang:zh-tw": "潘政治"
       },
       "id": "Q50066832",
       "identifiers": [
@@ -755,7 +755,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "潘正義"
+        "lang:zh-tw": "潘正義"
       },
       "id": "Q50066868",
       "identifiers": [
@@ -770,7 +770,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "陳昭忠"
+        "lang:zh-tw": "陳昭忠"
       },
       "id": "Q50066898",
       "identifiers": [
@@ -785,7 +785,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "林輝雄"
+        "lang:zh-tw": "林輝雄"
       },
       "id": "Q50066928",
       "identifiers": [
@@ -800,7 +800,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李冀香"
+        "lang:zh-tw": "李冀香"
       },
       "id": "Q50066984",
       "identifiers": [
@@ -815,7 +815,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "顏金成"
+        "lang:zh-tw": "顏金成"
       },
       "id": "Q50067053",
       "identifiers": [
@@ -830,8 +830,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李志偉",
-        "lang:en_US": "Eric Li"
+        "lang:zh-tw": "李志偉",
+        "lang:en": "Eric Li"
       },
       "id": "Q5354771",
       "identifiers": [
@@ -846,7 +846,7 @@
     },
     {
       "name": {
-        "lang:zh_TW": "李世斌"
+        "lang:zh-tw": "李世斌"
       },
       "id": "Q8349699",
       "identifiers": [
@@ -863,8 +863,8 @@
   "organizations": [
     {
       "name": {
-        "lang:zh_TW": "屏東縣議會",
-        "lang:en_US": "Pingtung County Council"
+        "lang:zh-tw": "屏東縣議會",
+        "lang:en": "Pingtung County Council"
       },
       "id": "Q15903185",
       "classification": "branch",
@@ -881,8 +881,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "中國國民黨",
-        "lang:en_US": "Kuomintang"
+        "lang:zh-tw": "中國國民黨",
+        "lang:en": "Kuomintang"
       },
       "id": "Q31113",
       "classification": "party",
@@ -895,8 +895,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "台灣團結聯盟",
-        "lang:en_US": "Taiwan Solidarity Union"
+        "lang:zh-tw": "台灣團結聯盟",
+        "lang:en": "Taiwan Solidarity Union"
       },
       "id": "Q706834",
       "classification": "party",
@@ -909,8 +909,8 @@
     },
     {
       "name": {
-        "lang:zh_TW": "民主進步黨",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q903822",
       "classification": "party",
@@ -939,8 +939,8 @@
         "Q30185"
       ],
       "type": {
-        "lang:zh_TW": "縣",
-        "lang:en_US": "county of Taiwan"
+        "lang:zh-tw": "縣",
+        "lang:en": "county of Taiwan"
       },
       "name": {
         "lang:en_US": "Pingtung County",
@@ -964,8 +964,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第01選區"
@@ -988,8 +988,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第02選區"
@@ -1012,8 +1012,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第03選區"
@@ -1036,8 +1036,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第04選區"
@@ -1060,8 +1060,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第05選區"
@@ -1084,8 +1084,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第06選區"
@@ -1108,8 +1108,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第07選區"
@@ -1132,8 +1132,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第08選區"
@@ -1156,8 +1156,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第09選區"
@@ -1180,8 +1180,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第10選區"
@@ -1204,8 +1204,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第11選區"
@@ -1228,8 +1228,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第12選區"
@@ -1252,8 +1252,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第13選區"
@@ -1276,8 +1276,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第14選區"
@@ -1300,8 +1300,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第15選區"
@@ -1324,8 +1324,8 @@
         "Q49255006"
       ],
       "type": {
-        "lang:zh_TW": "屏東縣議員選區",
-        "lang:en_US": "Constituency of Regional Councilors of Pingtung County"
+        "lang:zh-tw": "屏東縣議員選區",
+        "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
         "lang:zh_TW": "屏東縣第16選區"
@@ -1348,8 +1348,8 @@
         "Q702650"
       ],
       "type": {
-        "lang:zh_TW": "國家",
-        "lang:en_US": "country"
+        "lang:zh-tw": "國家",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Taiwan",
@@ -1368,12 +1368,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1385,12 +1385,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1401,12 +1401,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1418,12 +1418,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1435,12 +1435,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1452,12 +1452,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1469,12 +1469,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1486,12 +1486,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1502,12 +1502,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1518,12 +1518,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1535,12 +1535,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1551,12 +1551,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1567,12 +1567,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1584,12 +1584,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1601,12 +1601,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1617,12 +1617,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1634,12 +1634,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1652,12 +1652,12 @@
       "end_date": "2016-01-11",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1669,12 +1669,12 @@
       "start_date": "2016-01-11",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1685,12 +1685,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1702,12 +1702,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1719,12 +1719,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1736,12 +1736,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1753,12 +1753,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1770,12 +1770,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1787,12 +1787,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1804,12 +1804,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1821,12 +1821,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1838,12 +1838,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1855,12 +1855,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1872,12 +1872,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1889,12 +1889,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1905,12 +1905,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1922,12 +1922,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1938,12 +1938,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1954,12 +1954,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1970,12 +1970,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -1986,12 +1986,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2003,12 +2003,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2020,12 +2020,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2037,12 +2037,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2054,12 +2054,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2071,12 +2071,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2088,12 +2088,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2104,12 +2104,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2121,12 +2121,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2138,12 +2138,12 @@
       "end_date": "2016-04-09",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2154,12 +2154,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2170,12 +2170,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2187,12 +2187,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2203,12 +2203,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2221,12 +2221,12 @@
       "end_date": "2016-05-24",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2237,12 +2237,12 @@
       "start_date": "2016-05-24",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2254,12 +2254,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2271,12 +2271,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2288,12 +2288,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     },
     {
@@ -2305,12 +2305,12 @@
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:zh_TW": "地方議會議員",
-        "lang:en_US": "councillor"
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
       },
       "role_code": "Q49255006",
       "role": {
-        "lang:zh_TW": "屏東縣議員"
+        "lang:zh-tw": "屏東縣議員"
       }
     }
   ]

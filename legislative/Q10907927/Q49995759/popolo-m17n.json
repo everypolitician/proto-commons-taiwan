@@ -639,7 +639,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第01選區"
+        "lang:zh-tw": "南投縣第01選區"
       },
       "parent_id": "Q82357"
     },
@@ -663,7 +663,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第02選區"
+        "lang:zh-tw": "南投縣第02選區"
       },
       "parent_id": "Q82357"
     },
@@ -687,7 +687,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第03選區"
+        "lang:zh-tw": "南投縣第03選區"
       },
       "parent_id": "Q82357"
     },
@@ -711,7 +711,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第04選區"
+        "lang:zh-tw": "南投縣第04選區"
       },
       "parent_id": "Q82357"
     },
@@ -735,7 +735,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第05選區"
+        "lang:zh-tw": "南投縣第05選區"
       },
       "parent_id": "Q82357"
     },
@@ -759,7 +759,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第06選區"
+        "lang:zh-tw": "南投縣第06選區"
       },
       "parent_id": "Q82357"
     },
@@ -783,7 +783,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第07選區"
+        "lang:zh-tw": "南投縣第07選區"
       },
       "parent_id": "Q82357"
     },
@@ -807,7 +807,7 @@
         "lang:en": "Constituency of Regional Councilors of Nantou County"
       },
       "name": {
-        "lang:zh_TW": "南投縣第08選區"
+        "lang:zh-tw": "南投縣第08選區"
       },
       "parent_id": "Q82357"
     },
@@ -831,8 +831,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Nantou County",
-        "lang:zh_TW": "南投縣"
+        "lang:en": "Nantou County",
+        "lang:zh-tw": "南投縣"
       },
       "parent_id": "Q865"
     },
@@ -856,8 +856,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

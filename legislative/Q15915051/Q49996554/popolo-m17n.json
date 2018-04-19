@@ -431,8 +431,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Penghu County",
-        "lang:zh_TW": "澎湖縣"
+        "lang:en": "Penghu County",
+        "lang:zh-tw": "澎湖縣"
       },
       "parent_id": "Q865"
     },
@@ -456,7 +456,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第01選區"
+        "lang:zh-tw": "澎湖縣第01選區"
       },
       "parent_id": "Q198525"
     },
@@ -480,7 +480,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第02選區"
+        "lang:zh-tw": "澎湖縣第02選區"
       },
       "parent_id": "Q198525"
     },
@@ -504,7 +504,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第03選區"
+        "lang:zh-tw": "澎湖縣第03選區"
       },
       "parent_id": "Q198525"
     },
@@ -528,7 +528,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第04選區"
+        "lang:zh-tw": "澎湖縣第04選區"
       },
       "parent_id": "Q198525"
     },
@@ -552,7 +552,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第05選區"
+        "lang:zh-tw": "澎湖縣第05選區"
       },
       "parent_id": "Q198525"
     },
@@ -576,7 +576,7 @@
         "lang:en": "Constituency of Regional Councilors of Penghu County"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣第06選區"
+        "lang:zh-tw": "澎湖縣第06選區"
       },
       "parent_id": "Q198525"
     },
@@ -600,8 +600,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

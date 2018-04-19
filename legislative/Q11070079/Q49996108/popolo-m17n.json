@@ -912,8 +912,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Changhua County",
-        "lang:zh_TW": "彰化縣"
+        "lang:en": "Changhua County",
+        "lang:zh-tw": "彰化縣"
       },
       "parent_id": "Q865"
     },
@@ -937,7 +937,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第01選區"
+        "lang:zh-tw": "彰化縣第01選區"
       },
       "parent_id": "Q133865"
     },
@@ -961,7 +961,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第02選區"
+        "lang:zh-tw": "彰化縣第02選區"
       },
       "parent_id": "Q133865"
     },
@@ -985,7 +985,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第03選區"
+        "lang:zh-tw": "彰化縣第03選區"
       },
       "parent_id": "Q133865"
     },
@@ -1009,7 +1009,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第04選區"
+        "lang:zh-tw": "彰化縣第04選區"
       },
       "parent_id": "Q133865"
     },
@@ -1033,7 +1033,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第05選區"
+        "lang:zh-tw": "彰化縣第05選區"
       },
       "parent_id": "Q133865"
     },
@@ -1057,7 +1057,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第06選區"
+        "lang:zh-tw": "彰化縣第06選區"
       },
       "parent_id": "Q133865"
     },
@@ -1081,7 +1081,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第07選區"
+        "lang:zh-tw": "彰化縣第07選區"
       },
       "parent_id": "Q133865"
     },
@@ -1105,7 +1105,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第08選區"
+        "lang:zh-tw": "彰化縣第08選區"
       },
       "parent_id": "Q133865"
     },
@@ -1129,7 +1129,7 @@
         "lang:en": "Constituency of Regional Councilors of Changhua County"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第09選區"
+        "lang:zh-tw": "彰化縣第09選區"
       },
       "parent_id": "Q133865"
     },
@@ -1153,8 +1153,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

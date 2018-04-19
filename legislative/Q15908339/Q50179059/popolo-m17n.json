@@ -566,8 +566,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Taitung County",
-        "lang:zh_TW": "臺東縣"
+        "lang:en": "Taitung County",
+        "lang:zh-tw": "臺東縣"
       },
       "parent_id": "Q865"
     },
@@ -591,7 +591,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第01選區"
+        "lang:zh-tw": "臺東縣第01選區"
       },
       "parent_id": "Q249904"
     },
@@ -615,7 +615,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第02選區"
+        "lang:zh-tw": "臺東縣第02選區"
       },
       "parent_id": "Q249904"
     },
@@ -639,7 +639,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第03選區"
+        "lang:zh-tw": "臺東縣第03選區"
       },
       "parent_id": "Q249904"
     },
@@ -663,7 +663,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第04選區"
+        "lang:zh-tw": "臺東縣第04選區"
       },
       "parent_id": "Q249904"
     },
@@ -687,7 +687,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第05選區"
+        "lang:zh-tw": "臺東縣第05選區"
       },
       "parent_id": "Q249904"
     },
@@ -711,7 +711,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第06選區"
+        "lang:zh-tw": "臺東縣第06選區"
       },
       "parent_id": "Q249904"
     },
@@ -735,7 +735,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第07選區"
+        "lang:zh-tw": "臺東縣第07選區"
       },
       "parent_id": "Q249904"
     },
@@ -759,7 +759,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第08選區"
+        "lang:zh-tw": "臺東縣第08選區"
       },
       "parent_id": "Q249904"
     },
@@ -783,7 +783,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第09選區"
+        "lang:zh-tw": "臺東縣第09選區"
       },
       "parent_id": "Q249904"
     },
@@ -807,7 +807,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第10選區"
+        "lang:zh-tw": "臺東縣第10選區"
       },
       "parent_id": "Q249904"
     },
@@ -831,7 +831,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第11選區"
+        "lang:zh-tw": "臺東縣第11選區"
       },
       "parent_id": "Q249904"
     },
@@ -855,7 +855,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第12選區"
+        "lang:zh-tw": "臺東縣第12選區"
       },
       "parent_id": "Q249904"
     },
@@ -879,7 +879,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第13選區"
+        "lang:zh-tw": "臺東縣第13選區"
       },
       "parent_id": "Q249904"
     },
@@ -903,7 +903,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第14選區"
+        "lang:zh-tw": "臺東縣第14選區"
       },
       "parent_id": "Q249904"
     },
@@ -927,7 +927,7 @@
         "lang:en": "Constituency of Regional Councilors of Taitung County"
       },
       "name": {
-        "lang:zh_TW": "臺東縣第15選區"
+        "lang:zh-tw": "臺東縣第15選區"
       },
       "parent_id": "Q249904"
     },
@@ -951,8 +951,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

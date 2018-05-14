@@ -582,8 +582,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Hsinchu City",
-        "lang:zh_TW": "新竹市"
+        "lang:en": "Hsinchu City",
+        "lang:zh-tw": "新竹市"
       },
       "parent_id": "Q865"
     },
@@ -607,7 +607,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第01選區"
+        "lang:zh-tw": "新竹市第01選區"
       },
       "parent_id": "Q249994"
     },
@@ -631,7 +631,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第02選區"
+        "lang:zh-tw": "新竹市第02選區"
       },
       "parent_id": "Q249994"
     },
@@ -655,7 +655,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第03選區"
+        "lang:zh-tw": "新竹市第03選區"
       },
       "parent_id": "Q249994"
     },
@@ -679,7 +679,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第04選區"
+        "lang:zh-tw": "新竹市第04選區"
       },
       "parent_id": "Q249994"
     },
@@ -703,7 +703,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第05選區"
+        "lang:zh-tw": "新竹市第05選區"
       },
       "parent_id": "Q249994"
     },
@@ -727,7 +727,7 @@
         "lang:en": "Constituency of Regional Councilors of Hsinchu"
       },
       "name": {
-        "lang:zh_TW": "新竹市第06選區"
+        "lang:zh-tw": "新竹市第06選區"
       },
       "parent_id": "Q249994"
     },
@@ -751,8 +751,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

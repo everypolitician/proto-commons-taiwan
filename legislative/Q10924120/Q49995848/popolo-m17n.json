@@ -445,8 +445,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Chiayi City",
-        "lang:zh_TW": "嘉義市"
+        "lang:en": "Chiayi City",
+        "lang:zh-tw": "嘉義市"
       },
       "parent_id": "Q865"
     },
@@ -470,7 +470,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi City"
       },
       "name": {
-        "lang:zh_TW": "嘉義市第01選區"
+        "lang:zh-tw": "嘉義市第01選區"
       },
       "parent_id": "Q249995"
     },
@@ -494,7 +494,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi City"
       },
       "name": {
-        "lang:zh_TW": "嘉義市第02選區"
+        "lang:zh-tw": "嘉義市第02選區"
       },
       "parent_id": "Q249995"
     },
@@ -518,8 +518,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

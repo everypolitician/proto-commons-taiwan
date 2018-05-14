@@ -626,8 +626,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Chiayi County",
-        "lang:zh_TW": "嘉義縣"
+        "lang:en": "Chiayi County",
+        "lang:zh-tw": "嘉義縣"
       },
       "parent_id": "Q865"
     },
@@ -651,7 +651,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第01選區"
+        "lang:zh-tw": "嘉義縣第01選區"
       },
       "parent_id": "Q166977"
     },
@@ -675,7 +675,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第02選區"
+        "lang:zh-tw": "嘉義縣第02選區"
       },
       "parent_id": "Q166977"
     },
@@ -699,7 +699,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第03選區"
+        "lang:zh-tw": "嘉義縣第03選區"
       },
       "parent_id": "Q166977"
     },
@@ -723,7 +723,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第04選區"
+        "lang:zh-tw": "嘉義縣第04選區"
       },
       "parent_id": "Q166977"
     },
@@ -747,7 +747,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第05選區"
+        "lang:zh-tw": "嘉義縣第05選區"
       },
       "parent_id": "Q166977"
     },
@@ -771,7 +771,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第06選區"
+        "lang:zh-tw": "嘉義縣第06選區"
       },
       "parent_id": "Q166977"
     },
@@ -795,7 +795,7 @@
         "lang:en": "Constituency of Regional Councilors of Chiayi County"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第07選區"
+        "lang:zh-tw": "嘉義縣第07選區"
       },
       "parent_id": "Q166977"
     },
@@ -819,8 +819,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

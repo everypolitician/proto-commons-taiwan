@@ -1985,7 +1985,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "南投縣第二選舉區"
+        "lang:zh-tw": "南投縣第二選舉區"
       },
       "parent_id": "Q82357"
     },
@@ -2009,7 +2009,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "嘉義市選舉區"
+        "lang:zh-tw": "嘉義市選舉區"
       },
       "parent_id": "Q249995"
     },
@@ -2033,7 +2033,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣選舉區"
+        "lang:zh-tw": "宜蘭縣選舉區"
       },
       "parent_id": "Q237258"
     },
@@ -2057,7 +2057,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第一選舉區"
+        "lang:zh-tw": "屏東縣第一選舉區"
       },
       "parent_id": "Q194989"
     },
@@ -2081,7 +2081,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新竹市選舉區"
+        "lang:zh-tw": "新竹市選舉區"
       },
       "parent_id": "Q249994"
     },
@@ -2105,7 +2105,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新竹縣選舉區"
+        "lang:zh-tw": "新竹縣選舉區"
       },
       "parent_id": "Q74054"
     },
@@ -2129,7 +2129,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第一選舉區"
+        "lang:zh-tw": "桃園市第一選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2153,7 +2153,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第三選舉區"
+        "lang:zh-tw": "桃園市第三選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2177,7 +2177,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第二選舉區"
+        "lang:zh-tw": "桃園市第二選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2201,7 +2201,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第五選舉區"
+        "lang:zh-tw": "桃園市第五選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2225,7 +2225,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第六選舉區"
+        "lang:zh-tw": "桃園市第六選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2249,7 +2249,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "桃園市第四選舉區"
+        "lang:zh-tw": "桃園市第四選舉區"
       },
       "parent_id": "Q115256"
     },
@@ -2273,8 +2273,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taoyuan City",
-        "lang:zh_TW": "桃園市"
+        "lang:en": "Taoyuan City",
+        "lang:zh-tw": "桃園市"
       },
       "parent_id": "Q865"
     },
@@ -2298,8 +2298,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Changhua County",
-        "lang:zh_TW": "彰化縣"
+        "lang:en": "Changhua County",
+        "lang:zh-tw": "彰化縣"
       },
       "parent_id": "Q865"
     },
@@ -2323,8 +2323,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Tainan City",
-        "lang:zh_TW": "臺南市"
+        "lang:en": "Tainan City",
+        "lang:zh-tw": "臺南市"
       },
       "parent_id": "Q865"
     },
@@ -2348,7 +2348,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第一選舉區"
+        "lang:zh-tw": "臺北市第一選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2372,8 +2372,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Yunlin County",
-        "lang:zh_TW": "雲林縣"
+        "lang:en": "Yunlin County",
+        "lang:zh-tw": "雲林縣"
       },
       "parent_id": "Q865"
     },
@@ -2397,7 +2397,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第四選舉區"
+        "lang:zh-tw": "臺中市第四選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -2421,7 +2421,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第一選舉區"
+        "lang:zh-tw": "臺中市第一選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -2445,7 +2445,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第二選舉區"
+        "lang:zh-tw": "臺中市第二選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -2469,7 +2469,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第三選舉區"
+        "lang:zh-tw": "臺中市第三選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -2493,7 +2493,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第一選舉區"
+        "lang:zh-tw": "苗栗縣第一選舉區"
       },
       "parent_id": "Q63706"
     },
@@ -2517,7 +2517,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第二選舉區"
+        "lang:zh-tw": "苗栗縣第二選舉區"
       },
       "parent_id": "Q63706"
     },
@@ -2541,7 +2541,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第四選舉區"
+        "lang:zh-tw": "臺北市第四選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2565,7 +2565,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺南市第一選舉區"
+        "lang:zh-tw": "臺南市第一選舉區"
       },
       "parent_id": "Q140631"
     },
@@ -2589,8 +2589,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Chiayi County",
-        "lang:zh_TW": "嘉義縣"
+        "lang:en": "Chiayi County",
+        "lang:zh-tw": "嘉義縣"
       },
       "parent_id": "Q865"
     },
@@ -2614,7 +2614,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第七選舉區"
+        "lang:zh-tw": "臺北市第七選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2638,7 +2638,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第三選舉區"
+        "lang:zh-tw": "臺北市第三選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2662,7 +2662,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第二選舉區"
+        "lang:zh-tw": "臺北市第二選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2686,7 +2686,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第五選舉區"
+        "lang:zh-tw": "臺北市第五選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2710,7 +2710,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第八選舉區"
+        "lang:zh-tw": "臺北市第八選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2734,7 +2734,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺北市第六選舉區"
+        "lang:zh-tw": "臺北市第六選舉區"
       },
       "parent_id": "Q1867"
     },
@@ -2758,7 +2758,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺南市第五選舉區"
+        "lang:zh-tw": "臺南市第五選舉區"
       },
       "parent_id": "Q140631"
     },
@@ -2782,7 +2782,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第一選舉區"
+        "lang:zh-tw": "新北市第一選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2806,7 +2806,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第七選舉區"
+        "lang:zh-tw": "新北市第七選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2830,7 +2830,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第三選舉區"
+        "lang:zh-tw": "新北市第三選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2854,7 +2854,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第九選舉區"
+        "lang:zh-tw": "新北市第九選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2878,7 +2878,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第五選舉區"
+        "lang:zh-tw": "新北市第五選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2902,7 +2902,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第六選舉區"
+        "lang:zh-tw": "新北市第六選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2926,7 +2926,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第十一選舉區"
+        "lang:zh-tw": "新北市第十一選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2950,7 +2950,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第十二選舉區"
+        "lang:zh-tw": "新北市第十二選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2974,7 +2974,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第十選舉區"
+        "lang:zh-tw": "新北市第十選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -2998,7 +2998,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第四選舉區"
+        "lang:zh-tw": "新北市第四選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -3022,7 +3022,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第七選舉區"
+        "lang:zh-tw": "臺中市第七選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -3046,7 +3046,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第五選舉區"
+        "lang:zh-tw": "臺中市第五選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -3070,7 +3070,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第八選舉區"
+        "lang:zh-tw": "臺中市第八選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -3094,7 +3094,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺中市第六選舉區"
+        "lang:zh-tw": "臺中市第六選舉區"
       },
       "parent_id": "Q245023"
     },
@@ -3118,7 +3118,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺南市第三選舉區"
+        "lang:zh-tw": "臺南市第三選舉區"
       },
       "parent_id": "Q140631"
     },
@@ -3142,7 +3142,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺南市第四選舉區"
+        "lang:zh-tw": "臺南市第四選舉區"
       },
       "parent_id": "Q140631"
     },
@@ -3166,7 +3166,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第一選舉區"
+        "lang:zh-tw": "高雄市第一選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3190,7 +3190,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第七選舉區"
+        "lang:zh-tw": "高雄市第七選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3214,7 +3214,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第三選舉區"
+        "lang:zh-tw": "高雄市第三選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3238,7 +3238,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第九選舉區"
+        "lang:zh-tw": "高雄市第九選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3262,7 +3262,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第二選舉區"
+        "lang:zh-tw": "高雄市第二選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3286,7 +3286,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第五選舉區"
+        "lang:zh-tw": "高雄市第五選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3310,7 +3310,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第八選舉區"
+        "lang:zh-tw": "高雄市第八選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3334,7 +3334,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第六選舉區"
+        "lang:zh-tw": "高雄市第六選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3358,7 +3358,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "高雄市第四選舉區"
+        "lang:zh-tw": "高雄市第四選舉區"
       },
       "parent_id": "Q181557"
     },
@@ -3382,7 +3382,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺南市第二選舉區"
+        "lang:zh-tw": "臺南市第二選舉區"
       },
       "parent_id": "Q140631"
     },
@@ -3406,7 +3406,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第一選舉區"
+        "lang:zh-tw": "嘉義縣第一選舉區"
       },
       "parent_id": "Q166977"
     },
@@ -3430,7 +3430,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "嘉義縣第二選舉區"
+        "lang:zh-tw": "嘉義縣第二選舉區"
       },
       "parent_id": "Q166977"
     },
@@ -3454,7 +3454,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "基隆市選舉區"
+        "lang:zh-tw": "基隆市選舉區"
       },
       "parent_id": "Q249996"
     },
@@ -3478,7 +3478,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第三選舉區"
+        "lang:zh-tw": "屏東縣第三選舉區"
       },
       "parent_id": "Q194989"
     },
@@ -3502,7 +3502,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第二選舉區"
+        "lang:zh-tw": "屏東縣第二選舉區"
       },
       "parent_id": "Q194989"
     },
@@ -3526,7 +3526,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第一選舉區"
+        "lang:zh-tw": "彰化縣第一選舉區"
       },
       "parent_id": "Q133865"
     },
@@ -3550,7 +3550,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第二選舉區"
+        "lang:zh-tw": "彰化縣第二選舉區"
       },
       "parent_id": "Q133865"
     },
@@ -3574,7 +3574,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第三選舉區"
+        "lang:zh-tw": "彰化縣第三選舉區"
       },
       "parent_id": "Q133865"
     },
@@ -3598,7 +3598,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "彰化縣第四選舉區"
+        "lang:zh-tw": "彰化縣第四選舉區"
       },
       "parent_id": "Q133865"
     },
@@ -3622,7 +3622,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第二選舉區"
+        "lang:zh-tw": "新北市第二選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -3646,7 +3646,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "新北市第八選舉區"
+        "lang:zh-tw": "新北市第八選舉區"
       },
       "parent_id": "Q244898"
     },
@@ -3670,7 +3670,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "臺東縣選舉區"
+        "lang:zh-tw": "臺東縣選舉區"
       },
       "parent_id": "Q249904"
     },
@@ -3694,7 +3694,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣選舉區"
+        "lang:zh-tw": "花蓮縣選舉區"
       },
       "parent_id": "Q249868"
     },
@@ -3718,7 +3718,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "澎湖縣選舉區"
+        "lang:zh-tw": "澎湖縣選舉區"
       },
       "parent_id": "Q198525"
     },
@@ -3742,7 +3742,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第二選舉區"
+        "lang:zh-tw": "雲林縣第二選舉區"
       },
       "parent_id": "Q153221"
     },
@@ -3766,8 +3766,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Kaohsiung City",
-        "lang:zh_TW": "高雄市"
+        "lang:en": "Kaohsiung City",
+        "lang:zh-tw": "高雄市"
       },
       "parent_id": "Q865"
     },
@@ -3791,8 +3791,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taipei City",
-        "lang:zh_TW": "臺北市"
+        "lang:en": "Taipei City",
+        "lang:zh-tw": "臺北市"
       },
       "parent_id": "Q865"
     },
@@ -3816,7 +3816,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "南投縣第一選舉區"
+        "lang:zh-tw": "南投縣第一選舉區"
       },
       "parent_id": "Q82357"
     },
@@ -3840,7 +3840,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "連江縣選舉區"
+        "lang:zh-tw": "連江縣選舉區"
       },
       "parent_id": "Q249872"
     },
@@ -3864,7 +3864,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "金門縣選舉區"
+        "lang:zh-tw": "金門縣選舉區"
       },
       "parent_id": "Q249870"
     },
@@ -3888,7 +3888,7 @@
         "lang:en": "Taiwan legislative election regional district"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第一選舉區"
+        "lang:zh-tw": "雲林縣第一選舉區"
       },
       "parent_id": "Q153221"
     },
@@ -3912,8 +3912,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Pingtung County",
-        "lang:zh_TW": "屏東縣"
+        "lang:en": "Pingtung County",
+        "lang:zh-tw": "屏東縣"
       },
       "parent_id": "Q865"
     },
@@ -3937,8 +3937,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Penghu County",
-        "lang:zh_TW": "澎湖縣"
+        "lang:en": "Penghu County",
+        "lang:zh-tw": "澎湖縣"
       },
       "parent_id": "Q865"
     },
@@ -3962,8 +3962,8 @@
         "lang:en": "constituency"
       },
       "name": {
-        "lang:en_US": "Lowland Aborigine district of national legislators electoral area",
-        "lang:zh_TW": "平地原住民立法委員選區"
+        "lang:en": "Lowland Aborigine district of national legislators electoral area",
+        "lang:zh-tw": "平地原住民立法委員選區"
       },
       "parent_id": null
     },
@@ -3987,8 +3987,8 @@
         "lang:en": "constituency"
       },
       "name": {
-        "lang:en_US": "Highland Aborigine district of national legislators electoral area",
-        "lang:zh_TW": "山地原住民立法委員選區"
+        "lang:en": "Highland Aborigine district of national legislators electoral area",
+        "lang:zh-tw": "山地原住民立法委員選區"
       },
       "parent_id": null
     },
@@ -4012,8 +4012,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Yilan County",
-        "lang:zh_TW": "宜蘭縣"
+        "lang:en": "Yilan County",
+        "lang:zh-tw": "宜蘭縣"
       },
       "parent_id": "Q865"
     },
@@ -4037,8 +4037,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "New Taipei City",
-        "lang:zh_TW": "新北市"
+        "lang:en": "New Taipei City",
+        "lang:zh-tw": "新北市"
       },
       "parent_id": "Q865"
     },
@@ -4062,8 +4062,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taichung City",
-        "lang:zh_TW": "臺中市"
+        "lang:en": "Taichung City",
+        "lang:zh-tw": "臺中市"
       },
       "parent_id": "Q865"
     },
@@ -4087,8 +4087,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Hualien County",
-        "lang:zh_TW": "花蓮縣"
+        "lang:en": "Hualien County",
+        "lang:zh-tw": "花蓮縣"
       },
       "parent_id": "Q865"
     },
@@ -4112,8 +4112,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Kinmen County",
-        "lang:zh_TW": "金門縣"
+        "lang:en": "Kinmen County",
+        "lang:zh-tw": "金門縣"
       },
       "parent_id": "Q865"
     },
@@ -4137,8 +4137,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Lienchiang County",
-        "lang:zh_TW": "連江縣"
+        "lang:en": "Lienchiang County",
+        "lang:zh-tw": "連江縣"
       },
       "parent_id": "Q865"
     },
@@ -4162,8 +4162,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Taitung County",
-        "lang:zh_TW": "臺東縣"
+        "lang:en": "Taitung County",
+        "lang:zh-tw": "臺東縣"
       },
       "parent_id": "Q865"
     },
@@ -4187,8 +4187,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Hsinchu City",
-        "lang:zh_TW": "新竹市"
+        "lang:en": "Hsinchu City",
+        "lang:zh-tw": "新竹市"
       },
       "parent_id": "Q865"
     },
@@ -4212,8 +4212,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Chiayi City",
-        "lang:zh_TW": "嘉義市"
+        "lang:en": "Chiayi City",
+        "lang:zh-tw": "嘉義市"
       },
       "parent_id": "Q865"
     },
@@ -4237,8 +4237,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Keelung City",
-        "lang:zh_TW": "基隆市"
+        "lang:en": "Keelung City",
+        "lang:zh-tw": "基隆市"
       },
       "parent_id": "Q865"
     },
@@ -4262,8 +4262,8 @@
         "lang:en": "constituency"
       },
       "name": {
-        "lang:en_US": "Proportional Representation in national legislative election",
-        "lang:zh_TW": "全國不分區"
+        "lang:en": "Proportional Representation in national legislative election",
+        "lang:zh-tw": "全國不分區"
       },
       "parent_id": null
     },
@@ -4287,8 +4287,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Miaoli County",
-        "lang:zh_TW": "苗栗縣"
+        "lang:en": "Miaoli County",
+        "lang:zh-tw": "苗栗縣"
       },
       "parent_id": "Q865"
     },
@@ -4312,8 +4312,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Hsinchu County",
-        "lang:zh_TW": "新竹縣"
+        "lang:en": "Hsinchu County",
+        "lang:zh-tw": "新竹縣"
       },
       "parent_id": "Q865"
     },
@@ -4337,8 +4337,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Nantou County",
-        "lang:zh_TW": "南投縣"
+        "lang:en": "Nantou County",
+        "lang:zh-tw": "南投縣"
       },
       "parent_id": "Q865"
     },
@@ -4362,8 +4362,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

@@ -1084,8 +1084,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taichung City",
-        "lang:zh_TW": "臺中市"
+        "lang:en": "Taichung City",
+        "lang:zh-tw": "臺中市"
       },
       "parent_id": "Q865"
     },
@@ -1109,7 +1109,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第01選區"
+        "lang:zh-tw": "臺中市第01選區"
       },
       "parent_id": "Q245023"
     },
@@ -1133,7 +1133,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第02選區"
+        "lang:zh-tw": "臺中市第02選區"
       },
       "parent_id": "Q245023"
     },
@@ -1157,7 +1157,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第03選區"
+        "lang:zh-tw": "臺中市第03選區"
       },
       "parent_id": "Q245023"
     },
@@ -1181,7 +1181,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第04選區"
+        "lang:zh-tw": "臺中市第04選區"
       },
       "parent_id": "Q245023"
     },
@@ -1205,7 +1205,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第05選區"
+        "lang:zh-tw": "臺中市第05選區"
       },
       "parent_id": "Q245023"
     },
@@ -1229,7 +1229,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第06選區"
+        "lang:zh-tw": "臺中市第06選區"
       },
       "parent_id": "Q245023"
     },
@@ -1253,7 +1253,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第07選區"
+        "lang:zh-tw": "臺中市第07選區"
       },
       "parent_id": "Q245023"
     },
@@ -1277,7 +1277,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第08選區"
+        "lang:zh-tw": "臺中市第08選區"
       },
       "parent_id": "Q245023"
     },
@@ -1301,7 +1301,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第09選區"
+        "lang:zh-tw": "臺中市第09選區"
       },
       "parent_id": "Q245023"
     },
@@ -1325,7 +1325,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第10選區"
+        "lang:zh-tw": "臺中市第10選區"
       },
       "parent_id": "Q245023"
     },
@@ -1349,7 +1349,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第11選區"
+        "lang:zh-tw": "臺中市第11選區"
       },
       "parent_id": "Q245023"
     },
@@ -1373,7 +1373,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第12選區"
+        "lang:zh-tw": "臺中市第12選區"
       },
       "parent_id": "Q245023"
     },
@@ -1397,7 +1397,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第13選區"
+        "lang:zh-tw": "臺中市第13選區"
       },
       "parent_id": "Q245023"
     },
@@ -1421,7 +1421,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第14選區"
+        "lang:zh-tw": "臺中市第14選區"
       },
       "parent_id": "Q245023"
     },
@@ -1445,7 +1445,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第15選區"
+        "lang:zh-tw": "臺中市第15選區"
       },
       "parent_id": "Q245023"
     },
@@ -1469,7 +1469,7 @@
         "lang:en": "Constituency of Regional Councilors of Taichung"
       },
       "name": {
-        "lang:zh_TW": "臺中市第16選區"
+        "lang:zh-tw": "臺中市第16選區"
       },
       "parent_id": "Q245023"
     },
@@ -1493,8 +1493,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

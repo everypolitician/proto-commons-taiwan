@@ -716,7 +716,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第01選區"
+        "lang:zh-tw": "苗栗縣第01選區"
       },
       "parent_id": "Q63706"
     },
@@ -740,7 +740,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第02選區"
+        "lang:zh-tw": "苗栗縣第02選區"
       },
       "parent_id": "Q63706"
     },
@@ -764,7 +764,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第03選區"
+        "lang:zh-tw": "苗栗縣第03選區"
       },
       "parent_id": "Q63706"
     },
@@ -788,7 +788,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第04選區"
+        "lang:zh-tw": "苗栗縣第04選區"
       },
       "parent_id": "Q63706"
     },
@@ -812,7 +812,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第05選區"
+        "lang:zh-tw": "苗栗縣第05選區"
       },
       "parent_id": "Q63706"
     },
@@ -836,7 +836,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第06選區"
+        "lang:zh-tw": "苗栗縣第06選區"
       },
       "parent_id": "Q63706"
     },
@@ -860,7 +860,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第07選區"
+        "lang:zh-tw": "苗栗縣第07選區"
       },
       "parent_id": "Q63706"
     },
@@ -884,7 +884,7 @@
         "lang:en": "Constituency of Regional Councilors of Miaoli County"
       },
       "name": {
-        "lang:zh_TW": "苗栗縣第08選區"
+        "lang:zh-tw": "苗栗縣第08選區"
       },
       "parent_id": "Q63706"
     },
@@ -908,8 +908,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Miaoli County",
-        "lang:zh_TW": "苗栗縣"
+        "lang:en": "Miaoli County",
+        "lang:zh-tw": "苗栗縣"
       },
       "parent_id": "Q865"
     },
@@ -933,8 +933,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

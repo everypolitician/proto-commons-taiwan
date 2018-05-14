@@ -402,8 +402,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Kinmen County",
-        "lang:zh_TW": "金門縣"
+        "lang:en": "Kinmen County",
+        "lang:zh-tw": "金門縣"
       },
       "parent_id": "Q865"
     },
@@ -427,7 +427,7 @@
         "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
-        "lang:zh_TW": "金門縣第01選區"
+        "lang:zh-tw": "金門縣第01選區"
       },
       "parent_id": "Q249870"
     },
@@ -451,7 +451,7 @@
         "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
-        "lang:zh_TW": "金門縣第02選區"
+        "lang:zh-tw": "金門縣第02選區"
       },
       "parent_id": "Q249870"
     },
@@ -475,7 +475,7 @@
         "lang:en": "Constituency of Regional Councilors of Kinmen"
       },
       "name": {
-        "lang:zh_TW": "金門縣第03選區"
+        "lang:zh-tw": "金門縣第03選區"
       },
       "parent_id": "Q249870"
     },
@@ -499,8 +499,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

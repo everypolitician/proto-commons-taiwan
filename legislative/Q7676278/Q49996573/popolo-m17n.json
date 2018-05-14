@@ -1077,8 +1077,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taipei City",
-        "lang:zh_TW": "臺北市"
+        "lang:en": "Taipei City",
+        "lang:zh-tw": "臺北市"
       },
       "parent_id": "Q865"
     },
@@ -1102,7 +1102,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第01選區"
+        "lang:zh-tw": "臺北市第01選區"
       },
       "parent_id": "Q1867"
     },
@@ -1126,7 +1126,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第02選區"
+        "lang:zh-tw": "臺北市第02選區"
       },
       "parent_id": "Q1867"
     },
@@ -1150,7 +1150,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第03選區"
+        "lang:zh-tw": "臺北市第03選區"
       },
       "parent_id": "Q1867"
     },
@@ -1174,7 +1174,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第04選區"
+        "lang:zh-tw": "臺北市第04選區"
       },
       "parent_id": "Q1867"
     },
@@ -1198,7 +1198,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第05選區"
+        "lang:zh-tw": "臺北市第05選區"
       },
       "parent_id": "Q1867"
     },
@@ -1222,7 +1222,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第06選區"
+        "lang:zh-tw": "臺北市第06選區"
       },
       "parent_id": "Q1867"
     },
@@ -1246,7 +1246,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第07選區"
+        "lang:zh-tw": "臺北市第07選區"
       },
       "parent_id": "Q1867"
     },
@@ -1270,7 +1270,7 @@
         "lang:en": "Constituency of Regional Councilors of Taipei"
       },
       "name": {
-        "lang:zh_TW": "臺北市第08選區"
+        "lang:zh-tw": "臺北市第08選區"
       },
       "parent_id": "Q1867"
     },
@@ -1294,8 +1294,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

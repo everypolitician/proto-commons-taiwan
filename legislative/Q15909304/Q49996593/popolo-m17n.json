@@ -567,8 +567,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Hualien County",
-        "lang:zh_TW": "花蓮縣"
+        "lang:en": "Hualien County",
+        "lang:zh-tw": "花蓮縣"
       },
       "parent_id": "Q865"
     },
@@ -592,7 +592,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第01選區"
+        "lang:zh-tw": "花蓮縣第01選區"
       },
       "parent_id": "Q249868"
     },
@@ -616,7 +616,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第02選區"
+        "lang:zh-tw": "花蓮縣第02選區"
       },
       "parent_id": "Q249868"
     },
@@ -640,7 +640,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第03選區"
+        "lang:zh-tw": "花蓮縣第03選區"
       },
       "parent_id": "Q249868"
     },
@@ -664,7 +664,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第04選區"
+        "lang:zh-tw": "花蓮縣第04選區"
       },
       "parent_id": "Q249868"
     },
@@ -688,7 +688,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第05選區"
+        "lang:zh-tw": "花蓮縣第05選區"
       },
       "parent_id": "Q249868"
     },
@@ -712,7 +712,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第06選區"
+        "lang:zh-tw": "花蓮縣第06選區"
       },
       "parent_id": "Q249868"
     },
@@ -736,7 +736,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第07選區"
+        "lang:zh-tw": "花蓮縣第07選區"
       },
       "parent_id": "Q249868"
     },
@@ -760,7 +760,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第08選區"
+        "lang:zh-tw": "花蓮縣第08選區"
       },
       "parent_id": "Q249868"
     },
@@ -784,7 +784,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第09選區"
+        "lang:zh-tw": "花蓮縣第09選區"
       },
       "parent_id": "Q249868"
     },
@@ -808,7 +808,7 @@
         "lang:en": "Constituency of Regional Councilors of Hualien County"
       },
       "name": {
-        "lang:zh_TW": "花蓮縣第10選區"
+        "lang:zh-tw": "花蓮縣第10選區"
       },
       "parent_id": "Q249868"
     },
@@ -832,8 +832,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

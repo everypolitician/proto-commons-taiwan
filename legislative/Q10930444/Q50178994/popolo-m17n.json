@@ -564,8 +564,8 @@
         "lang:en": "provincial city"
       },
       "name": {
-        "lang:en_US": "Keelung City",
-        "lang:zh_TW": "基隆市"
+        "lang:en": "Keelung City",
+        "lang:zh-tw": "基隆市"
       },
       "parent_id": "Q865"
     },
@@ -589,7 +589,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第01選區"
+        "lang:zh-tw": "基隆市第01選區"
       },
       "parent_id": "Q249996"
     },
@@ -613,7 +613,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第02選區"
+        "lang:zh-tw": "基隆市第02選區"
       },
       "parent_id": "Q249996"
     },
@@ -637,7 +637,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第03選區"
+        "lang:zh-tw": "基隆市第03選區"
       },
       "parent_id": "Q249996"
     },
@@ -661,7 +661,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第04選區"
+        "lang:zh-tw": "基隆市第04選區"
       },
       "parent_id": "Q249996"
     },
@@ -685,7 +685,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第05選區"
+        "lang:zh-tw": "基隆市第05選區"
       },
       "parent_id": "Q249996"
     },
@@ -709,7 +709,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第06選區"
+        "lang:zh-tw": "基隆市第06選區"
       },
       "parent_id": "Q249996"
     },
@@ -733,7 +733,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第07選區"
+        "lang:zh-tw": "基隆市第07選區"
       },
       "parent_id": "Q249996"
     },
@@ -757,7 +757,7 @@
         "lang:en": "Constituency of Regional Councilors of Keelung"
       },
       "name": {
-        "lang:zh_TW": "基隆市第08選區"
+        "lang:zh-tw": "基隆市第08選區"
       },
       "parent_id": "Q249996"
     },
@@ -781,8 +781,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

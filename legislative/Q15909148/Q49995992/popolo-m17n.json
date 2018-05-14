@@ -611,8 +611,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Yilan County",
-        "lang:zh_TW": "宜蘭縣"
+        "lang:en": "Yilan County",
+        "lang:zh-tw": "宜蘭縣"
       },
       "parent_id": "Q865"
     },
@@ -636,7 +636,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第01選區"
+        "lang:zh-tw": "宜蘭縣第01選區"
       },
       "parent_id": "Q237258"
     },
@@ -660,7 +660,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第02選區"
+        "lang:zh-tw": "宜蘭縣第02選區"
       },
       "parent_id": "Q237258"
     },
@@ -684,7 +684,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第03選區"
+        "lang:zh-tw": "宜蘭縣第03選區"
       },
       "parent_id": "Q237258"
     },
@@ -708,7 +708,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第04選區"
+        "lang:zh-tw": "宜蘭縣第04選區"
       },
       "parent_id": "Q237258"
     },
@@ -732,7 +732,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第05選區"
+        "lang:zh-tw": "宜蘭縣第05選區"
       },
       "parent_id": "Q237258"
     },
@@ -756,7 +756,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第06選區"
+        "lang:zh-tw": "宜蘭縣第06選區"
       },
       "parent_id": "Q237258"
     },
@@ -780,7 +780,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第07選區"
+        "lang:zh-tw": "宜蘭縣第07選區"
       },
       "parent_id": "Q237258"
     },
@@ -804,7 +804,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第08選區"
+        "lang:zh-tw": "宜蘭縣第08選區"
       },
       "parent_id": "Q237258"
     },
@@ -828,7 +828,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第09選區"
+        "lang:zh-tw": "宜蘭縣第09選區"
       },
       "parent_id": "Q237258"
     },
@@ -852,7 +852,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第10選區"
+        "lang:zh-tw": "宜蘭縣第10選區"
       },
       "parent_id": "Q237258"
     },
@@ -876,7 +876,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第11選區"
+        "lang:zh-tw": "宜蘭縣第11選區"
       },
       "parent_id": "Q237258"
     },
@@ -900,7 +900,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第12選區"
+        "lang:zh-tw": "宜蘭縣第12選區"
       },
       "parent_id": "Q237258"
     },
@@ -924,7 +924,7 @@
         "lang:en": "Constituency of Regional Councilors of Yilan County"
       },
       "name": {
-        "lang:zh_TW": "宜蘭縣第13選區"
+        "lang:zh-tw": "宜蘭縣第13選區"
       },
       "parent_id": "Q237258"
     },
@@ -948,8 +948,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

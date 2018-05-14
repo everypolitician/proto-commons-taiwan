@@ -943,8 +943,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Pingtung County",
-        "lang:zh_TW": "屏東縣"
+        "lang:en": "Pingtung County",
+        "lang:zh-tw": "屏東縣"
       },
       "parent_id": "Q865"
     },
@@ -968,7 +968,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第01選區"
+        "lang:zh-tw": "屏東縣第01選區"
       },
       "parent_id": "Q194989"
     },
@@ -992,7 +992,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第02選區"
+        "lang:zh-tw": "屏東縣第02選區"
       },
       "parent_id": "Q194989"
     },
@@ -1016,7 +1016,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第03選區"
+        "lang:zh-tw": "屏東縣第03選區"
       },
       "parent_id": "Q194989"
     },
@@ -1040,7 +1040,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第04選區"
+        "lang:zh-tw": "屏東縣第04選區"
       },
       "parent_id": "Q194989"
     },
@@ -1064,7 +1064,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第05選區"
+        "lang:zh-tw": "屏東縣第05選區"
       },
       "parent_id": "Q194989"
     },
@@ -1088,7 +1088,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第06選區"
+        "lang:zh-tw": "屏東縣第06選區"
       },
       "parent_id": "Q194989"
     },
@@ -1112,7 +1112,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第07選區"
+        "lang:zh-tw": "屏東縣第07選區"
       },
       "parent_id": "Q194989"
     },
@@ -1136,7 +1136,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第08選區"
+        "lang:zh-tw": "屏東縣第08選區"
       },
       "parent_id": "Q194989"
     },
@@ -1160,7 +1160,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第09選區"
+        "lang:zh-tw": "屏東縣第09選區"
       },
       "parent_id": "Q194989"
     },
@@ -1184,7 +1184,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第10選區"
+        "lang:zh-tw": "屏東縣第10選區"
       },
       "parent_id": "Q194989"
     },
@@ -1208,7 +1208,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第11選區"
+        "lang:zh-tw": "屏東縣第11選區"
       },
       "parent_id": "Q194989"
     },
@@ -1232,7 +1232,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第12選區"
+        "lang:zh-tw": "屏東縣第12選區"
       },
       "parent_id": "Q194989"
     },
@@ -1256,7 +1256,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第13選區"
+        "lang:zh-tw": "屏東縣第13選區"
       },
       "parent_id": "Q194989"
     },
@@ -1280,7 +1280,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第14選區"
+        "lang:zh-tw": "屏東縣第14選區"
       },
       "parent_id": "Q194989"
     },
@@ -1304,7 +1304,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第15選區"
+        "lang:zh-tw": "屏東縣第15選區"
       },
       "parent_id": "Q194989"
     },
@@ -1328,7 +1328,7 @@
         "lang:en": "Constituency of Regional Councilors of Pingtung County"
       },
       "name": {
-        "lang:zh_TW": "屏東縣第16選區"
+        "lang:zh-tw": "屏東縣第16選區"
       },
       "parent_id": "Q194989"
     },
@@ -1352,8 +1352,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

@@ -748,8 +748,8 @@
         "lang:en": "county of Taiwan"
       },
       "name": {
-        "lang:en_US": "Yunlin County",
-        "lang:zh_TW": "雲林縣"
+        "lang:en": "Yunlin County",
+        "lang:zh-tw": "雲林縣"
       },
       "parent_id": "Q865"
     },
@@ -773,7 +773,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第01選區"
+        "lang:zh-tw": "雲林縣第01選區"
       },
       "parent_id": "Q153221"
     },
@@ -797,7 +797,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第02選區"
+        "lang:zh-tw": "雲林縣第02選區"
       },
       "parent_id": "Q153221"
     },
@@ -821,7 +821,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第03選區"
+        "lang:zh-tw": "雲林縣第03選區"
       },
       "parent_id": "Q153221"
     },
@@ -845,7 +845,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第04選區"
+        "lang:zh-tw": "雲林縣第04選區"
       },
       "parent_id": "Q153221"
     },
@@ -869,7 +869,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第05選區"
+        "lang:zh-tw": "雲林縣第05選區"
       },
       "parent_id": "Q153221"
     },
@@ -893,7 +893,7 @@
         "lang:en": "Constituency of Regional Councilors of Yunlin County"
       },
       "name": {
-        "lang:zh_TW": "雲林縣第06選區"
+        "lang:zh-tw": "雲林縣第06選區"
       },
       "parent_id": "Q153221"
     },
@@ -917,8 +917,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

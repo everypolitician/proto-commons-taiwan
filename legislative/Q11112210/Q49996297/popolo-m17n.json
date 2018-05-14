@@ -1016,8 +1016,8 @@
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en_US": "Taoyuan City",
-        "lang:zh_TW": "桃園市"
+        "lang:en": "Taoyuan City",
+        "lang:zh-tw": "桃園市"
       },
       "parent_id": "Q865"
     },
@@ -1041,7 +1041,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第01選區"
+        "lang:zh-tw": "桃園市第01選區"
       },
       "parent_id": "Q115256"
     },
@@ -1065,7 +1065,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第02選區"
+        "lang:zh-tw": "桃園市第02選區"
       },
       "parent_id": "Q115256"
     },
@@ -1089,7 +1089,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第03選區"
+        "lang:zh-tw": "桃園市第03選區"
       },
       "parent_id": "Q115256"
     },
@@ -1113,7 +1113,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第04選區"
+        "lang:zh-tw": "桃園市第04選區"
       },
       "parent_id": "Q115256"
     },
@@ -1137,7 +1137,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第05選區"
+        "lang:zh-tw": "桃園市第05選區"
       },
       "parent_id": "Q115256"
     },
@@ -1161,7 +1161,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第06選區"
+        "lang:zh-tw": "桃園市第06選區"
       },
       "parent_id": "Q115256"
     },
@@ -1185,7 +1185,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第07選區"
+        "lang:zh-tw": "桃園市第07選區"
       },
       "parent_id": "Q115256"
     },
@@ -1209,7 +1209,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第08選區"
+        "lang:zh-tw": "桃園市第08選區"
       },
       "parent_id": "Q115256"
     },
@@ -1233,7 +1233,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第09選區"
+        "lang:zh-tw": "桃園市第09選區"
       },
       "parent_id": "Q115256"
     },
@@ -1257,7 +1257,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第10選區"
+        "lang:zh-tw": "桃園市第10選區"
       },
       "parent_id": "Q115256"
     },
@@ -1281,7 +1281,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第11選區"
+        "lang:zh-tw": "桃園市第11選區"
       },
       "parent_id": "Q115256"
     },
@@ -1305,7 +1305,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第12選區"
+        "lang:zh-tw": "桃園市第12選區"
       },
       "parent_id": "Q115256"
     },
@@ -1329,7 +1329,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第13選區"
+        "lang:zh-tw": "桃園市第13選區"
       },
       "parent_id": "Q115256"
     },
@@ -1353,7 +1353,7 @@
         "lang:en": "Constituency of Regional Councilors of Taoyuan City"
       },
       "name": {
-        "lang:zh_TW": "桃園市第14選區"
+        "lang:zh-tw": "桃園市第14選區"
       },
       "parent_id": "Q115256"
     },
@@ -1377,8 +1377,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Taiwan",
-        "lang:zh_TW": "中華民國"
+        "lang:en": "Taiwan",
+        "lang:zh-tw": "中華民國"
       },
       "parent_id": null
     }

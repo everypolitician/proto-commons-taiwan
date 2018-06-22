@@ -276,24 +276,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "邱素貞"
-      },
-      "id": "Q30948834",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q30948834"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/csjyogaland"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "李中",
         "lang:en": "Li Zhong"
       },
@@ -726,6 +708,25 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "邱素貞",
+        "lang:en": "Qiu Suzhen"
+      },
+      "id": "Q55132134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55132134"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/csc236"
+        }
       ]
     },
     {
@@ -1514,7 +1515,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1531,7 +1533,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1549,7 +1552,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1566,7 +1570,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1583,7 +1588,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1600,7 +1606,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1617,7 +1624,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1634,7 +1642,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1650,7 +1659,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1667,7 +1677,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1684,7 +1695,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1701,7 +1713,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1719,7 +1732,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1737,7 +1751,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1753,7 +1768,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1770,7 +1786,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1787,7 +1804,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1804,24 +1822,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q30948834-C25F6BB1-D175-4BEB-94E3-BC4AE4349270",
-      "person_id": "Q30948834",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q15899378",
-      "area_id": "Q49978780",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q10493791",
-      "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1838,7 +1840,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1856,7 +1859,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1873,7 +1877,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1889,7 +1894,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1906,7 +1912,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1923,7 +1930,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1940,7 +1948,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1957,7 +1966,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1974,7 +1984,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -1990,7 +2001,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2007,7 +2019,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2024,7 +2037,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2041,7 +2055,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2058,7 +2073,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2075,7 +2091,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2092,7 +2109,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2109,7 +2127,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2126,7 +2145,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2143,7 +2163,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2160,7 +2181,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2177,7 +2199,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2194,7 +2217,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2210,7 +2234,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2227,7 +2252,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2244,7 +2270,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2261,7 +2288,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2278,7 +2306,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2295,7 +2324,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2313,7 +2343,26 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55132134-48e415b7-4b02-29f2-3724-e6315112adb6",
+      "person_id": "Q55132134",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q15899378",
+      "area_id": "Q49978780",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q10493791",
+      "role": {
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2330,7 +2379,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2347,7 +2397,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2364,7 +2415,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2381,7 +2433,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2398,7 +2451,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2415,7 +2469,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2432,7 +2487,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2449,7 +2505,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2466,7 +2523,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2483,7 +2541,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2501,7 +2560,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2518,7 +2578,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2535,7 +2596,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2552,7 +2614,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2569,7 +2632,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2586,7 +2650,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2603,7 +2668,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     },
     {
@@ -2620,7 +2686,8 @@
       },
       "role_code": "Q10493791",
       "role": {
-        "lang:zh-tw": "臺中市議員"
+        "lang:zh-tw": "臺中市議員",
+        "lang:en": "Member of Taichung City Council"
       }
     }
   ]

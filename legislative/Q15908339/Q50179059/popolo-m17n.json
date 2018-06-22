@@ -62,22 +62,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "黃秋生",
-        "lang:en": "Anthony Wong"
-      },
-      "id": "Q381561",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q381561"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "王飛龍"
       },
       "id": "Q50084312",
@@ -1016,23 +1000,6 @@
       "organization_id": "Q15908339",
       "area_id": "Q49981189",
       "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q49256666",
-      "role": {
-        "lang:zh-tw": "臺東縣議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q381561-6CECE129-0541-4CFE-9552-5A78A6C3B2E9",
-      "person_id": "Q381561",
-      "organization_id": "Q15908339",
-      "area_id": "Q49980913",
-      "start_date": "2014-12-25",
-      "end_date": "2015-03-04",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:zh-tw": "地方議會議員",

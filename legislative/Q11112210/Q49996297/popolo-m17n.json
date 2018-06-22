@@ -17,21 +17,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "陳瑛"
-      },
-      "id": "Q15903406",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15903406"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "陳志謀"
       },
       "id": "Q16908001",
@@ -889,6 +874,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "陳瑛"
+      },
+      "id": "Q52161695",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161695"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "林正峰"
       },
       "id": "Q8275249",
@@ -1390,23 +1390,6 @@
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q11112210",
       "area_id": "Q49942204",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q49255748",
-      "role": {
-        "lang:zh-tw": "桃園市議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q15903406-49A5DAE7-E325-48E3-80AD-3166E3D1AE71",
-      "person_id": "Q15903406",
-      "on_behalf_of_id": "Q31113",
-      "organization_id": "Q11112210",
-      "area_id": "Q49943385",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -2377,6 +2360,23 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q11112210",
       "area_id": "Q49942949",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q49255748",
+      "role": {
+        "lang:zh-tw": "桃園市議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161695-E060A18A-029D-4C27-ADA7-29C73FE67E81",
+      "person_id": "Q52161695",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q11112210",
+      "area_id": "Q49943385",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {

@@ -22,6 +22,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8349465"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115256"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taoyuan City"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "桃園市"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50306671"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30185"
@@ -36,14 +54,10 @@
         "type" : "literal",
         "value" : "市長"
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306671"
-      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of Taoyuan County"
+        "value" : "Mayor of Taoyuan"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",

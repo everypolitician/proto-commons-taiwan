@@ -33,22 +33,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "陳啓源",
-        "lang:en": "Chen Qiyuan"
-      },
-      "id": "Q45439632",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q45439632"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "吳國寶"
       },
       "id": "Q48913968",
@@ -439,6 +423,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "陳啓源"
+      },
+      "id": "Q52161707",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161707"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "吳青山"
       },
       "id": "Q8277321",
@@ -772,7 +771,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -788,23 +788,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q45439632-6C2D4334-E71D-4796-A240-992A891FF1AB",
-      "person_id": "Q45439632",
-      "organization_id": "Q11084017",
-      "area_id": "Q49940825",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q49255439",
-      "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -820,7 +805,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -836,7 +822,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -853,7 +840,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -870,7 +858,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -887,7 +876,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -904,7 +894,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -921,7 +912,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -938,7 +930,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -955,7 +948,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -971,7 +965,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -989,7 +984,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1005,7 +1001,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1022,7 +1019,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1038,7 +1036,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1055,7 +1054,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1072,7 +1072,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1089,7 +1090,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1105,7 +1107,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1122,7 +1125,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1138,7 +1142,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1154,7 +1159,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1171,7 +1177,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1188,7 +1195,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1205,7 +1213,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1222,7 +1231,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1239,7 +1249,25 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161707-090E57E2-7956-47D5-950D-0155A2CF7E37",
+      "person_id": "Q52161707",
+      "organization_id": "Q11084017",
+      "area_id": "Q49940825",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q49255439",
+      "role": {
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1256,7 +1284,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1273,7 +1302,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1290,7 +1320,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1307,7 +1338,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     },
     {
@@ -1324,7 +1356,8 @@
       },
       "role_code": "Q49255439",
       "role": {
-        "lang:zh-tw": "新竹市議員"
+        "lang:zh-tw": "新竹市議員",
+        "lang:en": "Regional Councillor or Hsinchu"
       }
     }
   ]

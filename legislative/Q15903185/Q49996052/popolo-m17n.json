@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:zh-tw": "李香蘭",
-        "lang:en": "Yoshiko Yamaguchi"
-      },
-      "id": "Q253862",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q253862"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "許天賜",
         "lang:en": "Xu Tianci"
       },
@@ -830,6 +814,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "李香蘭"
+      },
+      "id": "Q52161701",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161701"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "李志偉",
         "lang:en": "Eric Li"
       },
@@ -1359,23 +1358,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q253862-C916A131-9AFE-495B-884F-0462D77664ED",
-      "person_id": "Q253862",
-      "on_behalf_of_id": "Q31113",
-      "organization_id": "Q15903185",
-      "area_id": "Q49937174",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q49255006",
-      "role": {
-        "lang:zh-tw": "屏東縣議員"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q45503552-012BCA84-D2EF-4395-A98C-C97BD1CE1354",
       "person_id": "Q45503552",
@@ -2268,6 +2250,23 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q15903185",
       "area_id": "Q49938335",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q49255006",
+      "role": {
+        "lang:zh-tw": "屏東縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161701-E6DEF614-29AD-495A-AF02-96311B714DB0",
+      "person_id": "Q52161701",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q15903185",
+      "area_id": "Q49937174",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {

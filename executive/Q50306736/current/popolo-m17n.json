@@ -634,6 +634,7 @@
       "person_id": "Q8349465",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q50306736",
+      "area_id": "Q115256",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q30185",
       "role_superclass": {
@@ -643,7 +644,7 @@
       "role_code": "Q50306671",
       "role": {
         "lang:zh-tw": "桃園市市長",
-        "lang:en": "Mayor of Taoyuan County"
+        "lang:en": "Mayor of Taoyuan"
       }
     }
   ]

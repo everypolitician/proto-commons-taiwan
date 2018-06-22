@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "許立明",
+        "lang:en": "Hsu Li-ming"
+      },
+      "id": "Q51944694",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51944694"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -632,6 +648,21 @@
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q6366077",
       "start_date": "2010-12-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:zh-tw": "市長",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q50293830",
+      "role": {
+        "lang:zh-tw": "高雄市市長",
+        "lang:en": "Mayor of Kaohsiung"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51944694-8015b197-4c03-6239-7a72-974331cf6f9a",
+      "person_id": "Q51944694",
+      "organization_id": "Q6366077",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh-tw": "市長",

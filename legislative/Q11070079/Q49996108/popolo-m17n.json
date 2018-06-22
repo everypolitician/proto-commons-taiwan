@@ -77,22 +77,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "吳淑娟",
-        "lang:en": "Wu Shujuan"
-      },
-      "id": "Q45593278",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q45593278"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "曾世勇"
       },
       "id": "Q50067136",
@@ -813,6 +797,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "吳淑娟"
+      },
+      "id": "Q52161689",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52161689"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "陳文漢"
       },
       "id": "Q8273054",
@@ -1234,22 +1233,6 @@
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q11070079",
       "area_id": "Q49938432",
-      "start_date": "2014-12-25",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:zh-tw": "地方議會議員",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q49255147",
-      "role": {
-        "lang:zh-tw": "彰化縣議員"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q45593278-5CC054A7-1630-43D8-97E1-777552501DEC",
-      "person_id": "Q45593278",
-      "organization_id": "Q11070079",
-      "area_id": "Q49939113",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {
@@ -2057,6 +2040,22 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q11070079",
       "area_id": "Q49939210",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:zh-tw": "地方議會議員",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q49255147",
+      "role": {
+        "lang:zh-tw": "彰化縣議員"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52161689-BEC17814-BC97-4165-9FD1-5D9129C74947",
+      "person_id": "Q52161689",
+      "organization_id": "Q11070079",
+      "area_id": "Q49939113",
       "start_date": "2014-12-25",
       "role_superclass_code": "Q708492",
       "role_superclass": {

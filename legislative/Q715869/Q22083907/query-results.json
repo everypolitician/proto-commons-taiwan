@@ -5732,6 +5732,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zhang Lishan"
       }
     }, {
       "party" : {
@@ -8685,6 +8690,11 @@
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hsu Kuo-yung"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -10214,6 +10224,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wu Ping-jui"
       }
     }, {
       "party" : {
@@ -11136,6 +11151,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-02-01T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lin Weizhou"
       }
     }, {
       "party" : {

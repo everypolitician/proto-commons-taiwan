@@ -54,6 +54,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -138,6 +143,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -183,90 +193,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q45439632-6C2D4334-E71D-4796-A240-992A891FF1AB"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49940825"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "5th Constituency of Regional Councilors of Hsinchu"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市議員第5選舉區"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255439"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45439632"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "陳啓源"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11084017"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu City Council"
-      },
-      "org_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市議會"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249994"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "33"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-12-25T00:00:00Z"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chen Qiyuan"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48913968-430C8A32-EAFC-4DDE-BF8F-D0F935EA68B6"
       },
       "district" : {
@@ -300,6 +226,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -379,6 +310,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -473,6 +409,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -565,6 +506,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -659,6 +605,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -751,6 +702,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -845,6 +801,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -937,6 +898,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1031,6 +997,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1109,6 +1080,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1203,6 +1179,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1286,6 +1267,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1380,6 +1366,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1458,6 +1449,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1552,6 +1548,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1644,6 +1645,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1738,6 +1744,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1816,6 +1827,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1910,6 +1926,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -1989,6 +2010,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2067,6 +2093,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2161,6 +2192,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2253,6 +2289,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2347,6 +2388,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2439,6 +2485,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2533,6 +2584,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2546,6 +2602,90 @@
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "林慈愛"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11084017"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hsinchu City Council"
+      },
+      "org_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新竹市議會"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q249994"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "33"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q52161707-090E57E2-7956-47D5-950D-0155A2CF7E37"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49940825"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "5th Constituency of Regional Councilors of Hsinchu"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新竹市議員第5選舉區"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "地方議會議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新竹市議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52161707"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "陳啓源"
       },
       "org" : {
         "type" : "uri",
@@ -2625,6 +2765,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2719,6 +2864,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2811,6 +2961,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2905,6 +3060,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
       },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
+      },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
@@ -2997,6 +3157,11 @@
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49255439"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Councillor or Hsinchu"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",

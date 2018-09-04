@@ -59,14 +59,14 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Tainan",
+        "position_item_id": "Q6797825"
       }
     ],
     "area_type_wikidata_item_id": "Q2225003",
     "filter": {
       "column": "MS_FB",
-      "match": "country:tw/special-municipality"
+      "match": "country:tw/special-municipality:tnn"
     },
     "name_columns": {
       "lang:en": "COUNTYENG",
@@ -77,14 +77,14 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Kaohsiung",
+        "position_item_id": "Q11812506"
       }
     ],
-    "area_type_wikidata_item_id": "Q83020",
+    "area_type_wikidata_item_id": "Q2225003",
     "filter": {
       "column": "MS_FB",
-      "match": "country:tw/city"
+      "match": "country:tw/special-municipality:khh"
     },
     "name_columns": {
       "lang:en": "COUNTYENG",
@@ -95,14 +95,356 @@
     "directory": "counties",
     "associations": [
       {
-        "comment": "mayor",
-        "position_item_id": "Q30185"
+        "comment": "Mayor of Taoyuan",
+        "position_item_id": "Q50306671"
       }
     ],
-    "area_type_wikidata_item_id": "Q706447",
+    "area_type_wikidata_item_id": "Q2225003",
     "filter": {
       "column": "MS_FB",
-      "match": "country:tw/county"
+      "match": "country:tw/special-municipality:tao"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Hsinchu",
+        "position_item_id": "Q657567"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/city:hsz"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Taipei",
+        "position_item_id": "Q6310674"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/special-municipality:tpe"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Chiayi",
+        "position_item_id": "Q6627476"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/city:cyi"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Keelung",
+        "position_item_id": "Q6797738"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/city:kee"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of New Taipei",
+        "position_item_id": "Q6797771"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/special-municipality:nwt"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Taichung",
+        "position_item_id": "Q6797822"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/special-municipality:txg"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Yunlin County",
+        "position_item_id": "Q15920422"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:yun"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Changhua County",
+        "position_item_id": "Q50290512"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:cha"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Chiayi County",
+        "position_item_id": "Q50292905"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:cyq"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Hsinchu County",
+        "position_item_id": "Q50293600"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:hsq"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Hualien County",
+        "position_item_id": "Q50293691"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:hua"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Lienchiang County",
+        "position_item_id": "Q50293953"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:lie"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Kinmen County",
+        "position_item_id": "Q50294007"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:kin"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Miaoli County",
+        "position_item_id": "Q50305971"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:mia"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Nantou County",
+        "position_item_id": "Q50306171"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:nan"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Penghu County",
+        "position_item_id": "Q50306294"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:pen"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Pingtung County",
+        "position_item_id": "Q50306369"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:pif"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Mayor of Taitung County",
+        "position_item_id": "Q50306440"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:ttt"
+    },
+    "name_columns": {
+      "lang:en": "COUNTYENG",
+      "lang:zh-tw": "COUNTYNAME"
+    }
+  },
+  {
+    "directory": "counties",
+    "associations": [
+      {
+        "comment": "Magistrate of Yilan County",
+        "position_item_id": "Q50306553"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q2225003",
+    "filter": {
+      "column": "MS_FB",
+      "match": "country:tw/county:ila"
     },
     "name_columns": {
       "lang:en": "COUNTYENG",

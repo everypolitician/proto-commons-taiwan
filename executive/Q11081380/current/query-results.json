@@ -4,88 +4,102 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31113"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kuomintang"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中國國民黨"
+        "value" : "http://www.wikidata.org/entity/statement/Q5386280-474c6ef6-4cce-9fa4-014c-5ee581750d3f"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5386280"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_zh_tw" : {
+      "name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "市長"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797771"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of New Taipei"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市市長"
+        "value" : "朱立倫"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Eric Chu"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31113"
+      },
+      "party_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中國國民黨"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuomintang"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244898"
+      },
+      "district_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新北市"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei City"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6797771"
+      },
+      "role_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "新北市市長"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of New Taipei"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-18T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50339864"
+      },
+      "role_superclass_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "直轄市市長"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of special municipality"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11081380"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei City Government"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "新北市政府"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/q5386280-C44875F5-81FD-495C-9521-69E617E475FF"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Taipei City Government"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q244898"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2010-12-25T00:00:00Z"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "朱立倫"
       }
     } ]
   }

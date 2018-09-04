@@ -4,74 +4,102 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31113"
+        "value" : "http://www.wikidata.org/entity/statement/Q6550004-68887a96-4a2d-8855-2d94-8101e7a5ff1c"
       },
-      "party_name_en" : {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6550004"
+      },
+      "name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "林佳龍"
+      },
+      "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kuomintang"
+        "value" : "Lin Chia-lung"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q903822"
       },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "中國國民黨"
+        "value" : "民主進步黨"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284597"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor"
+        "value" : "Democratic Progressive Party"
       },
-      "role_superclass_zh_tw" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245023"
+      },
+      "district_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "市長"
+        "value" : "臺中市"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taichung"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6797822"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Taichung"
       },
       "role_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市市長"
       },
-      "name_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jason Hu"
+        "value" : "Mayor of Taichung"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-25T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "forpeople"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50339864"
+      },
+      "role_superclass_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "直轄市市長"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of special municipality"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15898718"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taichung City Government"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
         "value" : "臺中市政府"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q284597-9F21F64E-A71A-4DDA-9458-BAD1CB084128"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taichung City Government"
       },
       "org_jurisdiction" : {
         "type" : "uri",

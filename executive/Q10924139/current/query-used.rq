@@ -1,4 +1,5 @@
-SELECT ?statement
+SELECT DISTINCT
+       ?statement
        ?item ?name_zh_tw ?name_en
        ?party ?party_name_zh_tw ?party_name_en
        ?district ?district_name_zh_tw ?district_name_en
@@ -7,8 +8,9 @@ SELECT ?statement
        ?role_superclass ?role_superclass_zh_tw ?role_superclass_en
        ?org ?org_zh_tw ?org_en ?org_jurisdiction
 WHERE {
-  VALUES ?role_superclass { wd:Q30185 }
-  BIND(wd:Q10924139 AS ?org)
+  VALUES ?role { wd:Q50292905 }
+  BIND(?role AS ?specific_role) .
+  BIND(wd:Q10924139 AS ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_zh_tw
   FILTER(LANG(?org_zh_tw) = "zh-tw")
@@ -34,7 +36,7 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?role .
+  ?statement ps:P39 ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_zh_tw
   FILTER(LANG(?role_zh_tw) = "zh-tw")
@@ -45,8 +47,11 @@ OPTIONAL {
   FILTER(LANG(?role_en) = "en")
 }
 
-  ?role wdt:P279* ?role_superclass .
   OPTIONAL {
+    VALUES ?superclass_type { wd:Q2285706 wd:Q30461 }
+    ?role wdt:P279 ?role_superclass .
+    ?role_superclass wdt:P279* ?superclass_type .
+    OPTIONAL {
   ?role_superclass rdfs:label ?role_superclass_zh_tw
   FILTER(LANG(?role_superclass_zh_tw) = "zh-tw")
 }
@@ -56,7 +61,9 @@ OPTIONAL {
   FILTER(LANG(?role_superclass_en) = "en")
 }
 
-  ?role wdt:P361 ?org .
+  }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
@@ -70,8 +77,6 @@ OPTIONAL {
 }
 
   }
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
   FILTER(?end_or_sentinel >= NOW())
   # Find any current party membership:

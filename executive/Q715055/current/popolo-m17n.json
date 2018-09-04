@@ -158,10 +158,10 @@
       "person_id": "Q317462",
       "organization_id": "Q715055",
       "area_id": "Q865",
-      "role_superclass_code": "Q702650",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
+        "lang:zh-tw": "政府首腦",
+        "lang:en": "head of government"
       },
       "role_code": "Q702650",
       "role": {
@@ -176,10 +176,10 @@
       "organization_id": "Q715055",
       "area_id": "Q865",
       "start_date": "2017-09-08",
-      "role_superclass_code": "Q702650",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
+        "lang:zh-tw": "政府首腦",
+        "lang:en": "head of government"
       },
       "role_code": "Q702650",
       "role": {
@@ -193,10 +193,10 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715055",
       "area_id": "Q865",
-      "role_superclass_code": "Q702650",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
+        "lang:zh-tw": "政府首腦",
+        "lang:en": "head of government"
       },
       "role_code": "Q702650",
       "role": {
@@ -210,10 +210,10 @@
       "on_behalf_of_id": "Q950326",
       "organization_id": "Q715055",
       "area_id": "Q865",
-      "role_superclass_code": "Q702650",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
+        "lang:zh-tw": "政府首腦",
+        "lang:en": "head of government"
       },
       "role_code": "Q702650",
       "role": {
@@ -226,10 +226,10 @@
       "person_id": "Q6130548",
       "organization_id": "Q715055",
       "area_id": "Q865",
-      "role_superclass_code": "Q702650",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
+        "lang:zh-tw": "政府首腦",
+        "lang:en": "head of government"
       },
       "role_code": "Q702650",
       "role": {

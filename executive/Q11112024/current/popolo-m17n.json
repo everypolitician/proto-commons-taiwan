@@ -2,75 +2,77 @@
   "persons": [
     {
       "name": {
-        "lang:zh-tw": "傅崐萁",
-        "lang:en": "Fu Kun-chi"
+        "lang:zh-tw": "鄭文燦",
+        "lang:en": "Cheng Wen-tsan"
       },
-      "id": "Q8956378",
+      "id": "Q8349465",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q8956378"
+          "identifier": "Q8349465"
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chengwentsan"
+        }
       ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:zh-tw": "花蓮縣政府",
-        "lang:en": "Hualien County Government"
+        "lang:en": "Taoyuan City Government"
       },
-      "id": "Q18658266",
+      "id": "Q11112024",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q18658266"
+          "identifier": "Q11112024"
         }
       ],
-      "area_id": "Q249868"
+      "area_id": "Q115256"
     },
     {
       "name": {
-        "lang:zh-tw": "無黨籍政治人物",
-        "lang:en": "independent politician"
+        "lang:zh-tw": "民主進步黨",
+        "lang:en": "Democratic Progressive Party"
       },
-      "id": "Q327591",
+      "id": "Q903822",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q327591"
+          "identifier": "Q903822"
         }
       ]
     }
   ],
   "areas": [
     {
-      "id": "Q249868",
+      "id": "Q115256",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:tw/county:hua"
+          "identifier": "country:tw/special-municipality:tao"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q249868"
+          "identifier": "Q115256"
         }
       ],
       "associated_wikidata_positions": [
-        "Q50293691"
+        "Q50306671"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
         "lang:en": "special municipality"
       },
       "name": {
-        "lang:en": "Hualien County",
-        "lang:zh-tw": "花蓮縣"
+        "lang:en": "Taoyuan City",
+        "lang:zh-tw": "桃園市"
       },
       "parent_id": "Q865"
     },
@@ -102,21 +104,21 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q8956378-1e48372e-4d93-9fb2-8395-6a6bc82dfd90",
-      "person_id": "Q8956378",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q18658266",
-      "area_id": "Q249868",
-      "start_date": "2009-12-20",
-      "role_superclass_code": "Q50339957",
+      "id": "http://www.wikidata.org/entity/statement/Q8349465-6eac1696-4b40-e94d-fb10-1fa7d9b5cc6f",
+      "person_id": "Q8349465",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q11112024",
+      "area_id": "Q115256",
+      "start_date": "2014-12-25",
+      "role_superclass_code": "Q50339864",
       "role_superclass": {
-        "lang:zh-tw": "縣市長",
-        "lang:en": "County or provincial city mayor"
+        "lang:zh-tw": "直轄市市長",
+        "lang:en": "Mayor of special municipality"
       },
-      "role_code": "Q50293691",
+      "role_code": "Q50306671",
       "role": {
-        "lang:zh-tw": "花蓮縣縣長",
-        "lang:en": "Magistrate of Hualien County"
+        "lang:zh-tw": "桃園市市長",
+        "lang:en": "Mayor of Taoyuan"
       }
     }
   ]

@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:zh-tw": "陳菊",
-        "lang:en": "Chen Chu"
-      },
-      "id": "Q465280",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q465280"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "許立明",
         "lang:en": "Hsu Li-ming"
       },
@@ -66,131 +50,6 @@
   ],
   "areas": [
     {
-      "id": "Q115256",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/special-municipality:tao"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q115256"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "直轄市",
-        "lang:en": "special municipality"
-      },
-      "name": {
-        "lang:en": "Taoyuan City",
-        "lang:zh-tw": "桃園市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q133865",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:cha"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q133865"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Changhua County",
-        "lang:zh-tw": "彰化縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q140631",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/special-municipality:tnn"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q140631"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "直轄市",
-        "lang:en": "special municipality"
-      },
-      "name": {
-        "lang:en": "Tainan City",
-        "lang:zh-tw": "臺南市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q153221",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:yun"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q153221"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Yunlin County",
-        "lang:zh-tw": "雲林縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q166977",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:cyq"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q166977"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Chiayi County",
-        "lang:zh-tw": "嘉義縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
       "id": "Q181557",
       "identifiers": [
         {
@@ -203,7 +62,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q11812506"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -212,406 +71,6 @@
       "name": {
         "lang:en": "Kaohsiung City",
         "lang:zh-tw": "高雄市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q1867",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/special-municipality:tpe"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1867"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "直轄市",
-        "lang:en": "special municipality"
-      },
-      "name": {
-        "lang:en": "Taipei City",
-        "lang:zh-tw": "臺北市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q194989",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:pif"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q194989"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Pingtung County",
-        "lang:zh-tw": "屏東縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q198525",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:pen"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q198525"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Penghu County",
-        "lang:zh-tw": "澎湖縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q237258",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:ila"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q237258"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Yilan County",
-        "lang:zh-tw": "宜蘭縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q244898",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/special-municipality:nwt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q244898"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "直轄市",
-        "lang:en": "special municipality"
-      },
-      "name": {
-        "lang:en": "New Taipei City",
-        "lang:zh-tw": "新北市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q245023",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/special-municipality:txg"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q245023"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "直轄市",
-        "lang:en": "special municipality"
-      },
-      "name": {
-        "lang:en": "Taichung City",
-        "lang:zh-tw": "臺中市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249868",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:hua"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249868"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Hualien County",
-        "lang:zh-tw": "花蓮縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249870",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:kin"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249870"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Kinmen County",
-        "lang:zh-tw": "金門縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249872",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:lie"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249872"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Lienchiang County",
-        "lang:zh-tw": "連江縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249904",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:ttt"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249904"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Taitung County",
-        "lang:zh-tw": "臺東縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249994",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/city:hsz"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249994"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
-      },
-      "name": {
-        "lang:en": "Hsinchu City",
-        "lang:zh-tw": "新竹市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249995",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/city:cyi"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249995"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
-      },
-      "name": {
-        "lang:en": "Chiayi City",
-        "lang:zh-tw": "嘉義市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q249996",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/city:kee"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q249996"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
-      },
-      "name": {
-        "lang:en": "Keelung City",
-        "lang:zh-tw": "基隆市"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q63706",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:mia"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q63706"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Miaoli County",
-        "lang:zh-tw": "苗栗縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q74054",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:hsq"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q74054"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Hsinchu County",
-        "lang:zh-tw": "新竹縣"
-      },
-      "parent_id": "Q865"
-    },
-    {
-      "id": "Q82357",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:tw/county:nan"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q82357"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q30185"
-      ],
-      "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
-      },
-      "name": {
-        "lang:en": "Nantou County",
-        "lang:zh-tw": "南投縣"
       },
       "parent_id": "Q865"
     },
@@ -643,17 +102,18 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q465280-84d82af3-416a-6992-0a0e-2a8fa2093572",
-      "person_id": "Q465280",
+      "id": "http://www.wikidata.org/entity/statement/Q51944694-8015b197-4c03-6239-7a72-974331cf6f9a",
+      "person_id": "Q51944694",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q6366077",
-      "start_date": "2010-12-25",
+      "area_id": "Q181557",
+      "start_date": "2018-04-23",
       "role_superclass_code": "Q30185",
       "role_superclass": {
         "lang:zh-tw": "市長",
         "lang:en": "mayor"
       },
-      "role_code": "Q50293830",
+      "role_code": "Q11812506",
       "role": {
         "lang:zh-tw": "高雄市市長",
         "lang:en": "Mayor of Kaohsiung"
@@ -662,13 +122,16 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q51944694-8015b197-4c03-6239-7a72-974331cf6f9a",
       "person_id": "Q51944694",
+      "on_behalf_of_id": "Q903822",
       "organization_id": "Q6366077",
-      "role_superclass_code": "Q30185",
+      "area_id": "Q181557",
+      "start_date": "2018-04-23",
+      "role_superclass_code": "Q50339864",
       "role_superclass": {
-        "lang:zh-tw": "市長",
-        "lang:en": "mayor"
+        "lang:zh-tw": "直轄市市長",
+        "lang:en": "Mayor of special municipality"
       },
-      "role_code": "Q50293830",
+      "role_code": "Q11812506",
       "role": {
         "lang:zh-tw": "高雄市市長",
         "lang:en": "Mayor of Kaohsiung"

@@ -1,231 +1,56 @@
 [
   {
-    "comment": "Legislative Yuan",
-    "house_item_id": "Q715869",
-    "position_item_id": "Q6310593",
-    "terms": [
-      {
-        "term_item_id": "Q22083907"
-      }
-    ]
-  },
-  {
-    "comment": "nantou county council",
-    "house_item_id": "Q10907927",
-    "position_item_id": "Q49254306",
-    "terms": [
-      {
-        "term_item_id": "Q49995759"
-      }
-    ]
-  },
-  {
-    "comment": "chiayi city council",
-    "house_item_id": "Q10924120",
-    "position_item_id": "Q49254452",
-    "terms": [
-      {
-        "term_item_id": "Q49995848"
-      }
-    ]
-  },
-  {
-    "comment": "chiayi county council",
-    "house_item_id": "Q10924150",
-    "position_item_id": "Q49254596",
-    "terms": [
-      {
-        "term_item_id": "Q49995901"
-      }
-    ]
-  },
-  {
-    "comment": "keelung city council",
-    "house_item_id": "Q10930444",
-    "position_item_id": "Q49254733",
-    "terms": [
-      {
-        "term_item_id": "Q50178994"
-      }
-    ]
-  },
-  {
-    "comment": "yilan county council",
-    "house_item_id": "Q15909148",
-    "position_item_id": "Q49254881",
-      "terms": [
-      {
-        "term_item_id": "Q49995992"
-      }
-    ]
-  },
-  {
-    "comment": "pingtung county council",
-    "house_item_id": "Q15903185",
-    "position_item_id": "Q49255006",
-    "terms": [
-      {
-        "term_item_id": "Q49996052"
-      }
-    ]
-  },
-  {
-    "comment": "changhua county council",
-    "house_item_id": "Q11070079",
-    "position_item_id": "Q49255147",
-    "terms": [
-      {
-        "term_item_id": "Q49996108"
-      }
-    ]
-  },
-  {
-    "comment": "new taipei city council",
+    "comment": "New Taipei City Council",
     "house_item_id": "Q11081523",
     "position_item_id": "Q48976144",
     "terms": [
       {
+        "comment": "第2屆新北市議員",
         "term_item_id": "Q50167668"
       }
     ]
   },
   {
-    "comment": "hsinchu city council",
-    "house_item_id": "Q11084017",
-    "position_item_id": "Q49255439",
-    "terms": [
-      {
-        "term_item_id": "Q50179034"
-      }
-    ]
-  },
-  {
-    "comment": "hsinchu county council",
-    "house_item_id": "Q11084065",
-    "position_item_id": "Q49255593",
-    "terms": [
-      {
-        "term_item_id": "Q49996265"
-      }
-    ]
-  },
-  {
-    "comment": "taoyuan county council",
-    "house_item_id": "Q11112210",
-    "position_item_id": "Q49255748",
-    "terms": [
-      {
-        "term_item_id": "Q49996297"
-      }
-    ]
-  },
-  {
-    "comment": "penghu county council",
-    "house_item_id": "Q15915051",
-    "position_item_id": "Q49255918",
-    "terms": [
-      {
-        "term_item_id": "Q49996554"
-      }
-    ]
-  },
-  {
-    "comment": "taichung city council",
+    "comment": "Taichung City Council",
     "house_item_id": "Q15899378",
     "position_item_id": "Q10493791",
     "terms": [
       {
+        "comment": "Taichung City Council 2014–2018",
         "term_item_id": "Q49996566"
       }
     ]
   },
   {
-    "comment": "taipei city council",
-    "house_item_id": "Q7676278",
-    "position_item_id": "Q49256298",
-    "terms": [
-      {
-        "term_item_id": "Q49996573"
-      }
-    ]
-  },
-  {
-    "comment": "tainan city council",
-    "house_item_id": "Q7676191",
-    "position_item_id": "Q49256480",
-    "terms": [
-      {
-        "term_item_id": "Q49996581"
-      }
-    ]
-  },
-  {
-    "comment": "taitung county council",
-    "house_item_id": "Q15908339",
-    "position_item_id": "Q49256666",
-    "terms": [
-      {
-        "term_item_id": "Q50179059"
-      }
-    ]
-  },
-  {
-    "comment": "hualien county council",
-    "house_item_id": "Q15909304",
-    "position_item_id": "Q49256840",
-    "terms": [
-      {
-        "term_item_id": "Q49996593"
-      }
-    ]
-  },
-  {
-    "comment": "miaoli county council",
-    "house_item_id": "Q15904162",
-    "position_item_id": "Q49257021",
-    "terms": [
-      {
-        "term_item_id": "Q49996626"
-      }
-    ]
-  },
-  {
-    "comment": "lienchiang county council",
-    "house_item_id": "Q15919452",
-    "position_item_id": "Q49257199",
-    "terms": [
-      {
-        "term_item_id": "Q49996660"
-      }
-    ]
-  },
-  {
-    "comment": "kinmen county council",
-    "house_item_id": "Q15914537",
-    "position_item_id": "Q49257377",
-    "terms": [
-      {
-        "term_item_id": "Q49996694"
-      }
-    ]
-  },
-  {
-    "comment": "yunlin county council",
-    "house_item_id": "Q15908941",
-    "position_item_id": "Q49257574",
-    "terms": [
-      {
-        "term_item_id": "Q49996733"
-      }
-    ]
-  },
-  {
-    "comment": "kaohsiung city council",
+    "comment": "Kaohsiung City Council",
     "house_item_id": "Q6366073",
     "position_item_id": "Q49257749",
     "terms": [
       {
+        "comment": "第2屆高雄市議員",
         "term_item_id": "Q49996760"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Yuan",
+    "house_item_id": "Q715869",
+    "position_item_id": "Q6310593",
+    "terms": [
+      {
+        "comment": "Ninth Legislative Yuan",
+        "term_item_id": "Q22083907"
+      }
+    ]
+  },
+  {
+    "comment": "Taipei City Council",
+    "house_item_id": "Q7676278",
+    "position_item_id": "Q49256298",
+    "terms": [
+      {
+        "comment": "Taipei City Council 2014–2018",
+        "term_item_id": "Q49996573"
       }
     ]
   }

@@ -1,0 +1,84 @@
+SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?adminAreaTypes ?legislaturePost ?legislaturePostLabel ?numberOfSeats WHERE {
+  {
+    SELECT DISTINCT ?adminArea
+                (MIN(?primarySort) AS ?primarySort)
+                (GROUP_CONCAT(DISTINCT REPLACE(STR(?adminAreaType), '^.*/', ''); SEPARATOR=" ") AS ?adminAreaTypes) {
+  {
+    VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q865 1 wd:Q6256) }
+  } UNION {
+    # Find regional admin areas of this country (generally FLACSen)
+    ?adminArea wdt:P17 wd:Q865 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities or municipalities with populations of over 250k
+    VALUES ?adminAreaType { wd:Q515 wd:Q15284 }
+    ?adminArea wdt:P17 wd:Q865 ;
+       wdt:P31/wdt:P279* ?adminAreaType ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES ?primarySort { 3 }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q82357 4 wd:Q24238356)
+      (wd:Q249995 4 wd:Q24238356)
+      (wd:Q166977 4 wd:Q24238356)
+      (wd:Q249996 4 wd:Q24238356)
+      (wd:Q237258 4 wd:Q24238356)
+      (wd:Q194989 4 wd:Q24238356)
+      (wd:Q133865 4 wd:Q24238356)
+      (wd:Q249994 4 wd:Q24238356)
+      (wd:Q74054 4 wd:Q24238356)
+      (wd:Q115256 4 wd:Q24238356)
+      (wd:Q198525 4 wd:Q24238356)
+      (wd:Q1867 4 wd:Q24238356)
+      (wd:Q140631 4 wd:Q24238356)
+      (wd:Q249904 4 wd:Q24238356)
+      (wd:Q249868 4 wd:Q24238356)
+      (wd:Q63706 4 wd:Q24238356)
+      (wd:Q249872 4 wd:Q24238356)
+      (wd:Q249870 4 wd:Q24238356)
+      (wd:Q153221 4 wd:Q24238356)
+    }
+  }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
+} GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
+
+  }
+
+  ?adminArea wdt:P194/wdt:P527? ?legislature .
+
+  VALUES ?legislatureType { wd:Q11204 wd:Q10553309 }
+  ?legislature wdt:P31/wdt:P279* ?legislatureType .
+  FILTER (?legislatureType != wd:Q11204 || NOT EXISTS { ?legislature wdt:P527 ?legislaturePart . ?legislaturePart  wdt:P31/wdt:P279* wd:Q10553309 })
+
+  # Attempt to find the position for members of the legislature
+  OPTIONAL {
+    # Both "has part" and "has parts of class" seem to be used; with the latter not in keeping with the draft model
+    ?legislature wdt:P527|wdt:P2670 ?legislaturePost .
+    ?legislaturePost wdt:P31/wdt:P279* wd:Q4164871 .
+    # Make sure positions are either legislators or councillors (and so exclude e.g. mayors)
+    FILTER EXISTS {
+      VALUES ?legislaturePostSuperType { wd:Q4175034 wd:Q708492 }
+      ?legislaturePost wdt:P279+ ?legislaturePostSuperType .
+    }
+    # Some legislatures, e.g. Q633872 have multiple 'has part's pointing at
+    # posts, where one subclasses the other. In this case, we want to only
+    # return the parent, and then consider superclasses in the legislative
+    # membership query, so that we don't end up with duplicate legislature
+    # entries in the legislative index.
+    FILTER NOT EXISTS {
+      ?legislature wdt:P527|wdt:P2670 ?legislaturePostOther .
+      ?legislaturePost wdt:P279+ ?legislaturePostOther .
+    }
+  }
+  OPTIONAL {
+    ?legislature wdt:P1342 ?numberOfSeats .
+  }
+
+  # Remove legislatures that have ended
+  FILTER NOT EXISTS { ?legislature wdt:P576 ?legislatureEnd . FILTER (?legislatureEnd < NOW()) }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,zh-tw". }
+} ORDER BY ?primarySort ?legislature ?legislaturePost

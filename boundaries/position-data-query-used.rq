@@ -27,6 +27,25 @@ WHERE {
     VALUES ?primarySort { 3 }
   } UNION {
     VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q82357 4 wd:Q24238356)
+      (wd:Q249995 4 wd:Q24238356)
+      (wd:Q166977 4 wd:Q24238356)
+      (wd:Q249996 4 wd:Q24238356)
+      (wd:Q237258 4 wd:Q24238356)
+      (wd:Q194989 4 wd:Q24238356)
+      (wd:Q133865 4 wd:Q24238356)
+      (wd:Q249994 4 wd:Q24238356)
+      (wd:Q74054 4 wd:Q24238356)
+      (wd:Q115256 4 wd:Q24238356)
+      (wd:Q198525 4 wd:Q24238356)
+      (wd:Q1867 4 wd:Q24238356)
+      (wd:Q140631 4 wd:Q24238356)
+      (wd:Q249904 4 wd:Q24238356)
+      (wd:Q249868 4 wd:Q24238356)
+      (wd:Q63706 4 wd:Q24238356)
+      (wd:Q249872 4 wd:Q24238356)
+      (wd:Q249870 4 wd:Q24238356)
+      (wd:Q153221 4 wd:Q24238356)
     }
   }
 

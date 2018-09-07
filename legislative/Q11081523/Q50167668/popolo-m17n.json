@@ -984,7 +984,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "何博文"
+        "lang:zh-tw": "何博文",
+        "lang:en": "Ho Po-wen"
       },
       "id": "Q8350824",
       "identifiers": [
@@ -1119,7 +1120,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6797771"
       ],
       "type": {
         "lang:zh-tw": "直轄市",

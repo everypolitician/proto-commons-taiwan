@@ -8,6 +8,7 @@ SELECT ?statement
        ?org ?org_zh_tw ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q49255593 as ?role) .
+  BIND(wd:Q49255593 as ?specific_role) .
   BIND(wd:Q11084065 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_zh_tw
@@ -27,6 +28,25 @@ OPTIONAL {
   }
   ?item wdt:P31 wd:Q5 ;
         p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL { wd:Q49996265 wdt:P571|wdt:P580 ?termStart }
+  OPTIONAL { wd:Q49996265 wdt:P576|wdt:P582 ?termEnd }
+  # A P39 is relevant if it's directly related to the term with a "parliamentary term" qualifier (1), or
+  # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
+  #  * starts before it and either doesn't end, or ends after the term start (3), or
+  #  * starts after the term, and if the term ends, starts before it ends (4)
+  FILTER (
+    (EXISTS { ?statement pq:P2937 wd:Q49996265 })               # (1)
+    ||
+    (BOUND(?start) && BOUND(?termStart) && (                             # (2)
+      (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)
+      ||
+      (?start > ?termStart && (!BOUND(?termEnd) || ?start < ?termEnd))   # (5)
+    ))
+  )
+
   OPTIONAL {
   ?item rdfs:label ?name_zh_tw
   FILTER(LANG(?name_zh_tw) = "zh-tw")
@@ -37,7 +57,6 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?role .
   OPTIONAL {
   ?role rdfs:label ?role_zh_tw
   FILTER(LANG(?role_zh_tw) = "zh-tw")
@@ -62,9 +81,6 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q49996265 .
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {

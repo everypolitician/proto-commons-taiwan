@@ -17,7 +17,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "洪宗熠"
+        "lang:zh-tw": "洪宗熠",
+        "lang:en": "Hung Tsung-yi"
       },
       "id": "Q19849340",
       "identifiers": [
@@ -904,11 +905,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50290512"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Changhua County",

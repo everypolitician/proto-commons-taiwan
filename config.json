@@ -3,5 +3,9 @@
     "zh-tw",
     "en"
   ],
-  "country_wikidata_id": "Q865"
+  "country_wikidata_id": "Q865",
+  "hand_maintained_files": [
+    "executive/index.json",
+    "legislative/index.json"
+  ]
 }

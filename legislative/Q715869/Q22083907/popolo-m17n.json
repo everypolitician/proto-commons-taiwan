@@ -17,6 +17,37 @@
     },
     {
       "name": {
+        "lang:zh-tw": "周倪安",
+        "lang:en": "Chou Ni-an"
+      },
+      "id": "Q10920153",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10920153"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "曾巨威"
+      },
+      "id": "Q11091487",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11091487"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "黃國昌",
         "lang:en": "Huang Kuo-chang"
       },
@@ -68,6 +99,22 @@
     },
     {
       "name": {
+        "lang:zh-tw": "葉津鈴",
+        "lang:en": "Yeh Chin-ling"
+      },
+      "id": "Q15911945",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15911945"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "蔣萬安",
         "lang:en": "Chiang Wan-an"
       },
@@ -99,6 +146,36 @@
     },
     {
       "name": {
+        "lang:zh-tw": "詹滿容"
+      },
+      "id": "Q15931826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15931826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "蘇清泉"
+      },
+      "id": "Q15933742",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15933742"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "曾銘宗",
         "lang:en": "Tseng Ming-chung"
       },
@@ -107,6 +184,37 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16193401"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chen Shu-hui"
+      },
+      "id": "Q16239478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16239478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "賴振昌",
+        "lang:en": "Lai Cheng-chang"
+      },
+      "id": "Q16926907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16926907"
         }
       ],
       "links": [
@@ -211,7 +319,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "陳賴素美"
+        "lang:zh-tw": "陳賴素美",
+        "lang:en": "Chen Lai Su-mei"
       },
       "id": "Q19825208",
       "identifiers": [
@@ -257,6 +366,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "楊應雄"
+      },
+      "id": "Q19825688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19825688"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "蘇巧慧",
         "lang:en": "Su Chiao-hui"
       },
@@ -288,7 +412,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "洪宗熠"
+        "lang:zh-tw": "洪宗熠",
+        "lang:en": "Hung Tsung-yi"
       },
       "id": "Q19849340",
       "identifiers": [
@@ -385,7 +510,7 @@
     },
     {
       "name": {
-        "lang:zh-tw": "谷辣斯‧尤達卡Kolasyotaka",
+        "lang:zh-tw": "谷辣斯‧尤達卡",
         "lang:en": "Kolas Yotaka"
       },
       "id": "Q22099954",
@@ -543,7 +668,7 @@
     {
       "name": {
         "lang:zh-tw": "陳宜民",
-        "lang:en": "Chen Yi-Ming"
+        "lang:en": "Chen Yi-ming"
       },
       "id": "Q24839448",
       "identifiers": [
@@ -606,7 +731,7 @@
     {
       "name": {
         "lang:zh-tw": "徐榛蔚",
-        "lang:en": "Chen-Wei Hsu"
+        "lang:en": "Hsu Chen-wei"
       },
       "id": "Q28418899",
       "identifiers": [
@@ -638,13 +763,43 @@
     {
       "name": {
         "lang:zh-tw": "管碧玲",
-        "lang:en": "Bi-ling Kuan"
+        "lang:en": "Kuan Bi-ling"
       },
       "id": "Q3846662",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q3846662"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "陳碧涵"
+      },
+      "id": "Q50410542",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50410542"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "詹凱臣"
+      },
+      "id": "Q50413814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50413814"
         }
       ],
       "links": [
@@ -685,6 +840,21 @@
     },
     {
       "name": {
+        "lang:en": "Pi-Han Chen"
+      },
+      "id": "Q56159332",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56159332"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "柯建銘",
         "lang:en": "Ker Chien-ming"
       },
@@ -717,6 +887,22 @@
     },
     {
       "name": {
+        "lang:zh-tw": "林郁方",
+        "lang:en": "Lin Yu-fang"
+      },
+      "id": "Q6550136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6550136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "劉世芳",
         "lang:en": "Liu Shih-fang"
       },
@@ -741,6 +927,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q697862"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hsu Tain-tsair"
+      },
+      "id": "Q698464",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q698464"
         }
       ],
       "links": [
@@ -797,6 +998,21 @@
     },
     {
       "name": {
+        "lang:en": "Mark Chen"
+      },
+      "id": "Q707648",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q707648"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "王定宇",
         "lang:en": "Wang Ding-yu"
       },
@@ -805,6 +1021,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q709508"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Huang Chih-hsiung"
+      },
+      "id": "Q710060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q710060"
         }
       ],
       "links": [
@@ -837,6 +1068,53 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8270063"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "鄭汝芬"
+      },
+      "id": "Q8272916",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8272916"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "陳鎮湘",
+        "lang:en": "Chen Chen-hsiang"
+      },
+      "id": "Q8272933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8272933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "蔡正元",
+        "lang:en": "Alex Tsai"
+      },
+      "id": "Q8272967",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8272967"
         }
       ],
       "links": [
@@ -880,6 +1158,21 @@
     },
     {
       "name": {
+        "lang:zh-tw": "張慶忠"
+      },
+      "id": "Q8273115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8273115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "張麗善",
         "lang:en": "Zhang Lishan"
       },
@@ -896,6 +1189,22 @@
     },
     {
       "name": {
+        "lang:zh-tw": "蔡錦隆",
+        "lang:en": "Cai Jin-long"
+      },
+      "id": "Q8273168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8273168"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "陳超明",
         "lang:en": "Chao-ming Chen"
       },
@@ -904,6 +1213,57 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8273248"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "丁守中",
+        "lang:en": "Ding Shouzhong"
+      },
+      "id": "Q8273289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8273289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "洪秀柱",
+        "lang:en": "Hung Hsiu-chu"
+      },
+      "id": "Q8274029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274029"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ChuChuPepper"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "謝國樑",
+        "lang:en": "Hsieh Kuo-liang"
+      },
+      "id": "Q8274088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274088"
         }
       ],
       "links": [
@@ -944,6 +1304,22 @@
     },
     {
       "name": {
+        "lang:zh-tw": "江惠貞",
+        "lang:en": "Chiang Huei-chen"
+      },
+      "id": "Q8274205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274205"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "孔文吉",
         "lang:en": "Kung Wen-chi"
       },
@@ -976,13 +1352,60 @@
     },
     {
       "name": {
-        "lang:zh-tw": "盧秀燕"
+        "lang:zh-tw": "林鴻池",
+        "lang:en": "Lin Hung-chih"
+      },
+      "id": "Q8274436",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274436"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "盧秀燕",
+        "lang:en": "Lu Shiow-yen"
       },
       "id": "Q8274707",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q8274707"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "呂學樟"
+      },
+      "id": "Q8274933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8274933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lee Ching-hua"
+      },
+      "id": "Q8275026",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8275026"
         }
       ],
       "links": [
@@ -1007,13 +1430,45 @@
     },
     {
       "name": {
-        "lang:zh-tw": "林德福"
+        "lang:zh-tw": "林德福",
+        "lang:en": "Lin Te-fu"
       },
       "id": "Q8275203",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q8275203"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "林滄敏"
+      },
+      "id": "Q8275291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8275291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "盧嘉辰",
+        "lang:en": "Lu Chia-chen"
+      },
+      "id": "Q8275440",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8275440"
         }
       ],
       "links": [
@@ -1029,6 +1484,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8275466"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "羅淑蕾"
+      },
+      "id": "Q8275467",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8275467"
         }
       ],
       "links": [
@@ -1053,6 +1523,67 @@
     },
     {
       "name": {
+        "lang:zh-tw": "潘維剛",
+        "lang:en": "Tina Pan"
+      },
+      "id": "Q8275781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8275781"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "徐少萍"
+      },
+      "id": "Q8276552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8276552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "王進士"
+      },
+      "id": "Q8277043",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8277043"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "吳育昇"
+      },
+      "id": "Q8277229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8277229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "吳志揚",
         "lang:en": "John Wu"
       },
@@ -1069,6 +1600,54 @@
     },
     {
       "name": {
+        "lang:zh-tw": "王廷升",
+        "lang:en": "Wang Ting-son"
+      },
+      "id": "Q8277631",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8277631"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "楊玉欣",
+        "lang:en": "Yang Yu-xing"
+      },
+      "id": "Q8278747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8278747"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "楊瓊瓔",
+        "lang:en": "Yang Chiung-ying"
+      },
+      "id": "Q8278752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8278752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "顏寬恒",
         "lang:en": "Yen Kuan-heng"
       },
@@ -1077,6 +1656,54 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8278820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "張嘉郡",
+        "lang:en": "Zhang Jiajun"
+      },
+      "id": "Q8279212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8279212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "吳育仁",
+        "lang:en": "Wu Yu-jen"
+      },
+      "id": "Q8279427",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8279427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "林國正",
+        "lang:en": "Lin, Kuo-Cheng"
+      },
+      "id": "Q8279533",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8279533"
         }
       ],
       "links": [
@@ -1117,13 +1744,30 @@
     },
     {
       "name": {
-        "lang:zh-tw": "王育敏"
+        "lang:zh-tw": "王育敏",
+        "lang:en": "Wang Yu-min"
       },
       "id": "Q8279711",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q8279711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "邱文彥",
+        "lang:en": "Chiau Wen-Yan"
+      },
+      "id": "Q8279815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8279815"
         }
       ],
       "links": [
@@ -1140,6 +1784,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8279858"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "陳節如",
+        "lang:en": "Chen Chieh-ju"
+      },
+      "id": "Q8347281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8347281"
         }
       ],
       "links": [
@@ -1180,7 +1840,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "蔡適應"
+        "lang:zh-tw": "蔡適應",
+        "lang:en": "Tsai Shih-ying"
       },
       "id": "Q8347638",
       "identifiers": [
@@ -1346,6 +2007,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8348841"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "薛凌",
+        "lang:en": "Hsueh Ling"
+      },
+      "id": "Q8348951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8348951"
         }
       ],
       "links": [
@@ -1544,13 +2221,62 @@
     },
     {
       "name": {
-        "lang:zh-tw": "蔡易餘"
+        "lang:zh-tw": "田秋堇",
+        "lang:en": "Tien Chiu-chin"
+      },
+      "id": "Q8350306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "蔡煌瑯",
+        "lang:en": "Tsai Huang-liang"
+      },
+      "id": "Q8350321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "蔡易餘",
+        "lang:en": "Tsai Yi-yu"
       },
       "id": "Q8350388",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q8350388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "吳宜臻",
+        "lang:en": "Wu Yi-chen"
+      },
+      "id": "Q8350435",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8350435"
         }
       ],
       "links": [
@@ -1814,6 +2540,38 @@
     },
     {
       "name": {
+        "lang:zh-tw": "李桐豪",
+        "lang:en": "Thomas Lee"
+      },
+      "id": "Q9031661",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9031661"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "翁重鈞",
+        "lang:en": "Wong Chung-chun"
+      },
+      "id": "Q9057632",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9057632"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "尤美女",
         "lang:en": "Yu Mei-nu"
       },
@@ -1822,6 +2580,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q9130647"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "徐欣瑩",
+        "lang:en": "Hsu Hsin-ying"
+      },
+      "id": "Q9141091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9141091"
         }
       ],
       "links": [
@@ -1899,6 +2673,20 @@
     },
     {
       "name": {
+        "lang:zh-tw": "民國黨",
+        "lang:en": "Minkuotang"
+      },
+      "id": "Q19684454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19684454"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "時代力量",
         "lang:en": "New Power Party"
       },
@@ -1936,6 +2724,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:zh-tw": "台灣團結聯盟",
+        "lang:en": "Taiwan Solidarity Union"
+      },
+      "id": "Q706834",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q706834"
         }
       ]
     },
@@ -2270,7 +3072,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306671"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -2295,11 +3097,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50290512"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Changhua County",
@@ -2320,7 +3122,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6797825"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -2369,11 +3171,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q15920422"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Yunlin County",
@@ -2586,11 +3388,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50292905"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Chiayi County",
@@ -3763,7 +4565,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q11812506"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -3788,7 +4590,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6310674"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -3909,11 +4711,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306369"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Pingtung County",
@@ -3934,11 +4736,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306294"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Penghu County",
@@ -4009,11 +4811,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306553"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Yilan County",
@@ -4034,7 +4836,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6797771"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -4059,7 +4861,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6797822"
       ],
       "type": {
         "lang:zh-tw": "直轄市",
@@ -4084,11 +4886,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50293691"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Hualien County",
@@ -4109,11 +4911,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50294007"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Kinmen County",
@@ -4134,11 +4936,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50293953"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Lienchiang County",
@@ -4159,11 +4961,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306440"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Taitung County",
@@ -4184,11 +4986,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q657567"
       ],
       "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Hsinchu City",
@@ -4209,11 +5011,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6627476"
       ],
       "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Chiayi City",
@@ -4234,11 +5036,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6797738"
       ],
       "type": {
-        "lang:zh-tw": "市",
-        "lang:en": "provincial city"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Keelung City",
@@ -4284,11 +5086,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50305971"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Miaoli County",
@@ -4309,11 +5111,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50293600"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Hsinchu County",
@@ -4334,11 +5136,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306171"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Nantou County",
@@ -4380,6 +5182,42 @@
       "organization_id": "Q715869",
       "area_id": "Q11112202",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q10920153-E7282402-A1BA-40BB-9671-01D3D11CF6F4",
+      "person_id": "Q10920153",
+      "on_behalf_of_id": "Q706834",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2014-02-10",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11091487-22CAB478-3C58-4297-BD27-D63CA8502284",
+      "person_id": "Q11091487",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -4447,6 +5285,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q15911945-06DE5885-18EE-4E10-950A-6D20DBA7830C",
+      "person_id": "Q15911945",
+      "on_behalf_of_id": "Q706834",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2013-07-26",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q15920021-8EB820EC-23EB-4670-9F09-FD4CBF86DC07",
       "person_id": "Q15920021",
       "on_behalf_of_id": "Q31113",
@@ -4483,12 +5339,102 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q15930216-9BEEBB8A-92F9-4E8F-9923-F585A6AC3B4C",
+      "person_id": "Q15930216",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2013-03-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15931826-EE555C77-54E5-4387-A0AE-E2D524E4998B",
+      "person_id": "Q15931826",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2015-07-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15933742-18D06C1D-6906-4541-ADE5-3A05206D5D5A",
+      "person_id": "Q15933742",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16193401-D643BF23-4266-4B13-8E5E-680EB5DA354C",
       "person_id": "Q16193401",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16239478-6ABA2C75-D0B7-44DE-A732-1A46F918BC5C",
+      "person_id": "Q16239478",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16926907-C502FABC-7CF7-4465-96F1-B37366F53206",
+      "person_id": "Q16926907",
+      "on_behalf_of_id": "Q706834",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2014-02-10",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -4537,6 +5483,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17027222-E49F16C3-D0A5-42BA-80FE-F996E61B2F19",
+      "person_id": "Q17027222",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q21041600",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q18415702-06459C8A-A2E4-4212-B00A-6408A39138FB",
       "person_id": "Q18415702",
       "on_behalf_of_id": "Q903822",
@@ -4573,12 +5537,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q18659220-9204830E-AFD4-45D2-B710-EDA06A2ACDB1",
+      "person_id": "Q18659220",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q10907926",
+      "start_date": "2015-02-16",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19058548-77130FED-CBCC-4FF0-9BEF-A49CCEE46F5B",
       "person_id": "Q19058548",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16929243",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19058548-FE3881A6-A027-4BD2-85EC-05A9CBA491EF",
+      "person_id": "Q19058548",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929243",
+      "start_date": "2015-02-16",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -4609,12 +5609,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19653988-77780881-B9CF-424C-9A9F-C7184FCAF7B4",
+      "person_id": "Q19653988",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17025181",
+      "start_date": "2015-02-16",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19825208-7F04A24D-7F29-46D5-AF65-A3E848B480EB",
       "person_id": "Q19825208",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q11112198",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19825322-18D8C06C-398F-4477-B8F2-C288D71C946F",
+      "person_id": "Q19825322",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15921474",
+      "start_date": "2015-02-16",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -4651,6 +5687,24 @@
       "organization_id": "Q715869",
       "area_id": "Q16929265",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19825688-5A2E5419-E59D-461F-98D9-A228809D1882",
+      "person_id": "Q19825688",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q19432865",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5095,12 +6149,84 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3846662-06C5AB7D-BDD6-4A43-A10B-432862428BCE",
+      "person_id": "Q3846662",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929478",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3846662-F9B2C696-847B-48D6-B2BC-341F05BFAA6C",
       "person_id": "Q3846662",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16929478",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50410542-5277BA02-6E71-4B88-8CE3-891C7ECDFBF4",
+      "person_id": "Q50410542",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50413814-CD9F7716-AE59-48D5-A15A-FF4C3D05ECD0",
+      "person_id": "Q50413814",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5090717-92C18C41-7F13-455E-9E78-47114C272220",
+      "person_id": "Q5090717",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5131,12 +6257,65 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5090859-09718CDB-D49E-48BA-9540-5D25B2FFDD23",
+      "person_id": "Q5090859",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17023496",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5090859-33B9914A-331E-4686-A860-95107873FF43",
       "person_id": "Q5090859",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17023496",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56159332-8f95aced-4097-a520-7504-4ab3cbaeed58",
+      "person_id": "Q56159332",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6393270-11474270-5B02-4C32-8967-DF1E449A8EF8",
+      "person_id": "Q6393270",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5167,6 +6346,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q6515593-07E183AA-24B9-4FC1-865B-1AE0FF51229A",
+      "person_id": "Q6515593",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q6515593-FF62C9E2-34FE-4372-9386-B87C6BCDC518",
       "person_id": "Q6515593",
       "on_behalf_of_id": "Q903822",
@@ -5174,6 +6371,24 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-05-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6550136-036E0C64-BF63-42F5-8377-D935725C277E",
+      "person_id": "Q6550136",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16926786",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5222,12 +6437,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q697862-FD02A260-EB2F-4613-870F-37693909AEBB",
+      "person_id": "Q697862",
+      "on_behalf_of_id": "Q718487",
+      "organization_id": "Q715869",
+      "area_id": "Q21055063",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q698464-403CD4D2-034A-4E4F-836A-C76D452E77F8",
+      "person_id": "Q698464",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929265",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q700752-F29117F1-02FE-4CAB-BB0B-8115F97DA317",
       "person_id": "Q700752",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17029209",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q700752-FC93616E-887B-4CEB-9968-07A127883993",
+      "person_id": "Q700752",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5258,6 +6527,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q707601-9AF005D3-6C46-4525-A18D-87904E2EFA37",
+      "person_id": "Q707601",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q707601-F2A8CCE1-4FCD-4C03-BAEB-7CC425B61A1B",
       "person_id": "Q707601",
       "on_behalf_of_id": "Q31113",
@@ -5276,12 +6563,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q707648-741EDF16-8245-402C-9508-9AE2AEAFD4D5",
+      "person_id": "Q707648",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16928859",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q709508-37542A76-5745-4CDF-94F6-FD6FDD03C2DC",
       "person_id": "Q709508",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16928859",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q710060-E16E6B83-1910-42BF-81C9-CB469097983B",
+      "person_id": "Q710060",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928971",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5330,12 +6653,102 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8270063-C5FA99EE-3129-42FD-BE9B-6BC0D355AD95",
+      "person_id": "Q8270063",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16929475",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8272916-66B62BD6-D16D-4C00-A40C-400F1A3FF87D",
+      "person_id": "Q8272916",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17025180",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8272933-95B8A804-5194-4F2C-8255-C3099545E18C",
+      "person_id": "Q8272933",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8272967-A114037A-E039-4181-B655-5E40AA863B15",
+      "person_id": "Q8272967",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15930080",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8273045-1985EFCB-0A11-4782-B739-EEB523445787",
       "person_id": "Q8273045",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q11112196",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8273082-064F1E0A-E58A-4A82-944B-B8EB248FAB5F",
+      "person_id": "Q8273082",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q19432864",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5366,12 +6779,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8273115-208C6A3F-10B6-4324-BDD3-B202A696954F",
+      "person_id": "Q8273115",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17025378",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8273132-36ECDA9E-7C37-4A3D-82E5-FCC52651B330",
       "person_id": "Q8273132",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8273168-4E812894-A4F4-46A3-ACAF-C1E823D9566E",
+      "person_id": "Q8273168",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15886139",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8273248-080AFC98-1C2A-4378-9534-0A7840046F7B",
+      "person_id": "Q8273248",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15920178",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5402,12 +6869,102 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8273289-1928AC44-5688-434F-8191-D394DF2DE01E",
+      "person_id": "Q8273289",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q14943831",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274029-F987EC5E-B205-40C5-A5CB-2AD908C46746",
+      "person_id": "Q8274029",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274088-387817AC-15E8-4CC5-B61F-00E17AA7E39B",
+      "person_id": "Q8274088",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17023592",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274144-066BC459-2055-4CAE-9D25-8F9ACDF2CE2C",
+      "person_id": "Q8274144",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16926792",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8274144-9859042F-A0A6-400F-BFDB-5600FC591540",
       "person_id": "Q8274144",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q16926792",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274185-6DA7C4E6-F0D7-410A-BF67-4A87A37C2016",
+      "person_id": "Q8274185",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q21055063",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5438,12 +6995,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8274205-128873FE-54DC-4CBF-A284-180B36DF012D",
+      "person_id": "Q8274205",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928964",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8274261-32ED86AF-411A-495E-A37D-D2457732F922",
       "person_id": "Q8274261",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q21055063",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274261-43F091A7-CA71-4AEE-BEC3-95684D43AB1A",
+      "person_id": "Q8274261",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q21055063",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274398-E87DF268-B18A-48AD-8D57-D665308D9ADC",
+      "person_id": "Q8274398",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q21041600",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5474,12 +7085,84 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8274436-1AC66433-9008-4887-AE22-B70F2B4C59EA",
+      "person_id": "Q8274436",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928975",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274707-460B8703-0870-42AD-A374-1D258EAF5544",
+      "person_id": "Q8274707",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16929241",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8274707-4B322BB5-3187-4E7D-ABF8-A80FA57C574E",
       "person_id": "Q8274707",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q16929241",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8274933-C206633A-7F04-437E-80C4-B98069C0FEA2",
+      "person_id": "Q8274933",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q11084018",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275026-8F6AA0F7-A092-47A6-B638-4ED7048531A2",
+      "person_id": "Q8275026",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928978",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5510,12 +7193,102 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8275115-F897E26D-7548-4A05-BB66-AB9A0BE33744",
+      "person_id": "Q8275115",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q715869",
+      "area_id": "Q16928982",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275203-03ACA3DF-2514-4A7B-BA6E-FAD667EBA84B",
+      "person_id": "Q8275203",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928967",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8275203-9B576103-D3B4-4859-9520-3F60944D1648",
       "person_id": "Q8275203",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q16928967",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275291-28917411-E2B7-4C83-892B-EF447DFEBD63",
+      "person_id": "Q8275291",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17025179",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275440-CCB097AA-DF85-4AA7-9560-816E46A1E9ED",
+      "person_id": "Q8275440",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928980",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275466-61CDCB82-37AE-4769-B2C4-9B8E426C0BED",
+      "person_id": "Q8275466",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928977",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5546,12 +7319,120 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8275467-5DA70469-8EAC-4533-8956-13D73F5ADC3E",
+      "person_id": "Q8275467",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16926780",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8275493-2a0534a5-49cc-3f18-b3a5-9a8202810a99",
       "person_id": "Q8275493",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q16926788",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275493-89E8BC15-4881-4ACA-A2D6-BC022141F6AB",
+      "person_id": "Q8275493",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16926788",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8275781-A463644E-3097-4BCB-8A5E-E8D8ED0C9D68",
+      "person_id": "Q8275781",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8276552-42029CD2-17B5-48B0-BEAF-34BDC8770E51",
+      "person_id": "Q8276552",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8277043-C5AA6A79-43C4-45DA-8B43-0B03C30241B2",
+      "person_id": "Q8277043",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17024901",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8277229-2DDEEAD0-38BD-49EF-815C-5DACF62E7D97",
+      "person_id": "Q8277229",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16928962",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5582,6 +7463,78 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8277631-9A5E5ED2-6C87-4224-9ED1-874A448BBE90",
+      "person_id": "Q8277631",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17029209",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8278747-B5DB15B5-5EC0-476B-BD73-9494D125FD76",
+      "person_id": "Q8278747",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8278752-2DC79A81-9B06-4260-9114-085835110F97",
+      "person_id": "Q8278752",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15886553",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8278820-2BC45F22-CFFC-4719-A242-EC89C20EBE50",
+      "person_id": "Q8278820",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q15886544",
+      "start_date": "2013-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8278820-45FACA2F-AF5E-4F2A-89C9-BF2ABAD9B0E5",
       "person_id": "Q8278820",
       "on_behalf_of_id": "Q31113",
@@ -5600,12 +7553,102 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8279212-E93BCAAB-26A1-408D-A907-E32836F8231C",
+      "person_id": "Q8279212",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q19432866",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279427-64837154-1716-4B19-BBB9-0410B09D89D5",
+      "person_id": "Q8279427",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279533-878E379E-3584-4B0D-8F02-33F7609A0164",
+      "person_id": "Q8279533",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16929476",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8279603-A435A56F-05E8-47F4-AE66-2652729A07AD",
       "person_id": "Q8279603",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q16929242",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279603-CC568664-9081-45E4-9521-1E1A8D0A3342",
+      "person_id": "Q8279603",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16929242",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279684-18DF4541-4C74-41CB-87CE-CCC88E9CCF9C",
+      "person_id": "Q8279684",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17025178",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5654,12 +7697,84 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8279711-8819C7EE-9D25-4A43-836E-64021DBCE60D",
+      "person_id": "Q8279711",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279815-3AB1DFEB-6D28-47EE-A4BB-A98290941C64",
+      "person_id": "Q8279815",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8279858-0E0A4D9E-792B-4306-979B-E07234766455",
       "person_id": "Q8279858",
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q715869",
       "area_id": "Q19432862",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8279858-A6F41656-F636-4454-B0CB-2B2DABF65FF1",
+      "person_id": "Q8279858",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q19432862",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347281-5B570B73-A51F-4DC8-B9C9-BFCBF1796F08",
+      "person_id": "Q8347281",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5708,12 +7823,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8347574-E5AC67CD-334A-4C5F-BB29-BF72995D3D01",
+      "person_id": "Q8347574",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q10924121",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8347638-0CEB3ADD-B3B4-4330-AE9E-79D411226D93",
       "person_id": "Q8347638",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17023592",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347665-C3A8C89B-5D70-4D5D-8BFD-04786B8C06D2",
+      "person_id": "Q8347665",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929474",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5762,12 +7913,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8347718-FD885DE1-D07D-4A34-B7E3-FE62730038DE",
+      "person_id": "Q8347718",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929477",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8347775-6D338AA3-8425-4985-B4B2-297ACAF3854F",
       "person_id": "Q8347775",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16929473",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347775-E788DBE2-7123-4CFC-BEED-37F54CBFA2F7",
+      "person_id": "Q8347775",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929473",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5798,12 +7985,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8347820-99BB45C0-6A7B-4388-A3B9-09DA0DBDD40F",
+      "person_id": "Q8347820",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929264",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8347997-42356CFD-ED7E-4AE5-9BA4-B11EC40554ED",
       "person_id": "Q8347997",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q10949153",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8347997-64116A61-F3EB-40EF-899E-361B0D5F85DA",
+      "person_id": "Q8347997",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q10949153",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5852,12 +8075,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8348463-AFE60C1F-2C04-4851-85CE-7A6B50822528",
+      "person_id": "Q8348463",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16928966",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8348653-3B84217B-E477-489A-BAC3-CB952DC3FC9F",
       "person_id": "Q8348653",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17022795",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8348653-42D75651-3C6C-4808-9793-545D6E929F4D",
+      "person_id": "Q8348653",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17022795",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8348788-5CD2F647-51BE-474E-963F-DEDECFF82676",
+      "person_id": "Q8348788",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929240",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5895,6 +8172,42 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-10-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8348951-612F1C1C-B658-43F6-B14A-391EEA9D18C9",
+      "person_id": "Q8348951",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8349077-756686C5-76C7-4B78-A818-8281FC2A447C",
+      "person_id": "Q8349077",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929479",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -5979,6 +8292,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8349646-D32E5619-DD71-44C4-A968-282674171BFA",
+      "person_id": "Q8349646",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17035924",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8349646-EB480813-C007-4F55-9E1A-BC1CCA252C55",
       "person_id": "Q8349646",
       "on_behalf_of_id": "Q903822",
@@ -6015,12 +8346,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8349660-5E6CDD50-DCB3-478A-8900-3956921B3B5F",
+      "person_id": "Q8349660",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17028006",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8349723-E2BE4250-0ADB-4F63-83AD-C944D6A11FD3",
+      "person_id": "Q8349723",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929480",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8349723-F07D9689-9942-44A7-BF07-300FC2D473CF",
       "person_id": "Q8349723",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q16929480",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8349768-6C3AC83F-94FA-4376-8A57-C75E3B3362B7",
+      "person_id": "Q8349768",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16929481",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6105,12 +8490,84 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8350223-8FB1ABF7-45A4-4D54-B84F-F0D8581848A9",
+      "person_id": "Q8350223",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q11042758",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8350279-7FFF27BD-82EB-480B-9070-6A01DAEC31EB",
       "person_id": "Q8350279",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q15886536",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350279-B5AA24E9-A3DF-4D1D-BCCA-AFFC21F9CFCA",
+      "person_id": "Q8350279",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q15886536",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350306-92C0B900-4DE9-41DF-82C9-D7C23FD4B90B",
+      "person_id": "Q8350306",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350321-CB3EB6B2-DCFC-41E3-BB63-B650CDAC647D",
+      "person_id": "Q8350321",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6141,12 +8598,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8350435-4C1DD50A-E438-4966-81F8-80F9CD336ABF",
+      "person_id": "Q8350435",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8350455-360EA141-54C6-429A-A762-84665A82913B",
       "person_id": "Q8350455",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q14943831",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350478-5A86640E-9E92-41C6-B95C-E6AA0C81D1EB",
+      "person_id": "Q8350478",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6213,12 +8706,66 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8350665-EB6788F0-AE79-44BC-8D4A-A798DE14435B",
+      "person_id": "Q8350665",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q16926782",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8350686-223CF6D9-A0D3-469B-9245-767D90AC8B0F",
       "person_id": "Q8350686",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715869",
       "area_id": "Q17033813",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350686-9105C31C-9DE8-43E4-B795-4B5F205288ED",
+      "person_id": "Q8350686",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17033813",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8350727-0C92629E-7903-49D8-9698-B1E7023E8BCF",
+      "person_id": "Q8350727",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q15944591",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6303,6 +8850,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8351019-C349B5ED-D6F1-4F4F-AF05-EA67AC33116D",
+      "person_id": "Q8351019",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17024900",
+      "start_date": "2015-02-16",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8351107-C199693E-B270-4788-9474-215F4D3A25D8",
       "person_id": "Q8351107",
       "on_behalf_of_id": "Q903822",
@@ -6310,6 +8875,24 @@
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
       "end_date": "2016-05-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8351107-DE102A37-00BB-4A6A-B03A-DBA565CCCB4E",
+      "person_id": "Q8351107",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6376,6 +8959,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8357056-A5F9E5C7-6A21-489F-88D3-C9F666A7409C",
+      "person_id": "Q8357056",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8357125-7F0D2614-4D62-4CB7-B311-9287B2B29BD2",
       "person_id": "Q8357125",
       "on_behalf_of_id": "Q903822",
@@ -6412,12 +9013,84 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q8357162-DF50EAA2-8B1E-49EA-8361-EEF80788497F",
+      "person_id": "Q8357162",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q17025376",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q8967661-727DCB67-05AB-481D-B85B-A76BC703BA8A",
       "person_id": "Q8967661",
       "on_behalf_of_id": "Q19825637",
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9031661-531cc8e7-4e65-c9ba-6d7c-754c96732698",
+      "person_id": "Q9031661",
+      "on_behalf_of_id": "Q1442482",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9057632-CAB8C087-89DB-4E85-88D7-AC3E7DA0F7E4",
+      "person_id": "Q9057632",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q17023495",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9130647-3A5C584B-EFC2-4120-B374-BA943086429C",
+      "person_id": "Q9130647",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715869",
+      "area_id": "Q48554359",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",
@@ -6448,12 +9121,48 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q9141091-6FFE216D-D2C6-4B12-AB81-FE27FE168FB9",
+      "person_id": "Q9141091",
+      "on_behalf_of_id": "Q19684454",
+      "organization_id": "Q715869",
+      "area_id": "Q11084066",
+      "start_date": "2012-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q9292454-eea1fcb8-4483-2762-d1b8-3a343e64edaa",
       "person_id": "Q9292454",
       "on_behalf_of_id": "Q19825637",
       "organization_id": "Q715869",
       "area_id": "Q16926786",
       "start_date": "2016-02-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:zh-tw": "國會議員",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q6310593",
+      "role": {
+        "lang:zh-tw": "立法委員",
+        "lang:en": "Member of the Legislative Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9346217-462A00E2-D098-44F7-A2CC-5B22E51C4E5C",
+      "person_id": "Q9346217",
+      "on_behalf_of_id": "Q31113",
+      "organization_id": "Q715869",
+      "area_id": "Q16926776",
+      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",

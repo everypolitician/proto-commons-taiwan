@@ -1,0 +1,150 @@
+[
+  {
+    "role_id": "Q10493791",
+    "role_name": {
+      "lang:zh-tw": "臺中市議員",
+      "lang:en": "Member of Taichung City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q15899378",
+    "organization_name": {
+      "lang:zh-tw": "臺中市議會",
+      "lang:en": "Taichung City Council"
+    }
+  },
+  {
+    "role_id": "Q48976144",
+    "role_name": {
+      "lang:zh-tw": "新北市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q11081523",
+    "organization_name": {
+      "lang:zh-tw": "新北市議會",
+      "lang:en": "New Taipei City Council"
+    }
+  },
+  {
+    "role_id": "Q49254733",
+    "role_name": {
+      "lang:zh-tw": "基隆市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q10930444",
+    "organization_name": {
+      "lang:zh-tw": "基隆市議會",
+      "lang:en": "Keelung City Council"
+    }
+  },
+  {
+    "role_id": "Q49255439",
+    "role_name": {
+      "lang:zh-tw": "新竹市議員",
+      "lang:en": "Regional Councillor or Hsinchu"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q11084017",
+    "organization_name": {
+      "lang:zh-tw": "新竹市議會",
+      "lang:en": "Hsinchu City Council"
+    }
+  },
+  {
+    "role_id": "Q49256298",
+    "role_name": {
+      "lang:zh-tw": "臺北市議員",
+      "lang:en": "Member of Taipei City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q7676278",
+    "organization_name": {
+      "lang:zh-tw": "臺北市議會",
+      "lang:en": "Taipei City Council"
+    }
+  },
+  {
+    "role_id": "Q49256480",
+    "role_name": {
+      "lang:zh-tw": "臺南市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q7676191",
+    "organization_name": {
+      "lang:zh-tw": "臺南市議會",
+      "lang:en": "Tainan City Council"
+    }
+  },
+  {
+    "role_id": "Q49257749",
+    "role_name": {
+      "lang:zh-tw": "高雄市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q6366073",
+    "organization_name": {
+      "lang:zh-tw": "高雄市議會",
+      "lang:en": "Kaohsiung City Council"
+    }
+  },
+  {
+    "role_id": "Q6310593",
+    "role_name": {
+      "lang:zh-tw": "立法委員",
+      "lang:en": "Member of the Legislative Yuan"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:zh-tw": "國會議員",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q715869",
+    "organization_name": {
+      "lang:zh-tw": "立法院",
+      "lang:en": "Legislative Yuan"
+    }
+  }
+]

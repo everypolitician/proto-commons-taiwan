@@ -32,7 +32,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "王閔生"
+        "lang:zh-tw": "王閔生",
+        "lang:en": "Wang Ming-sheng"
       },
       "id": "Q15926220",
       "identifiers": [
@@ -78,7 +79,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "厲耿桂芳"
+        "lang:zh-tw": "厲耿桂芳",
+        "lang:en": "Li Geng Guifang"
       },
       "id": "Q17370642",
       "identifiers": [
@@ -108,7 +110,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "童仲彥"
+        "lang:zh-tw": "童仲彥",
+        "lang:en": "Tung Chung-yen"
       },
       "id": "Q17499593",
       "identifiers": [
@@ -697,7 +700,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "吳碧珠"
+        "lang:zh-tw": "吳碧珠",
+        "lang:en": "Wu Bi-zhu"
       },
       "id": "Q8277283",
       "identifiers": [
@@ -850,7 +854,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "顏聖冠"
+        "lang:zh-tw": "顏聖冠",
+        "lang:en": "Yen Sheng-kuan"
       },
       "id": "Q8351182",
       "identifiers": [
@@ -926,7 +931,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "王鴻薇"
+        "lang:zh-tw": "王鴻薇",
+        "lang:en": "Wang Hongwei"
       },
       "id": "Q9067119",
       "identifiers": [
@@ -1074,7 +1080,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q6310674"
       ],
       "type": {
         "lang:zh-tw": "直轄市",

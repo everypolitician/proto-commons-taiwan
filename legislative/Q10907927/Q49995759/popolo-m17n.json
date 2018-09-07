@@ -578,6 +578,19 @@
     },
     {
       "name": {
+        "lang:zh-tw": "臺灣第一民族黨"
+      },
+      "id": "Q18652018",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18652018"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:zh-tw": "中國國民黨",
         "lang:en": "Kuomintang"
       },
@@ -587,19 +600,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q31113"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:zh-tw": "臺灣第一民族黨"
-      },
-      "id": "Q50059206",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q50059206"
         }
       ]
     },
@@ -824,11 +824,11 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q30185"
+        "Q50306171"
       ],
       "type": {
-        "lang:zh-tw": "縣",
-        "lang:en": "county of Taiwan"
+        "lang:zh-tw": "直轄市",
+        "lang:en": "special municipality"
       },
       "name": {
         "lang:en": "Nantou County",
@@ -1401,7 +1401,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q50020904-F2876637-B1F0-4B3A-8822-B88CDB7F9439",
       "person_id": "Q50020904",
-      "on_behalf_of_id": "Q50059206",
+      "on_behalf_of_id": "Q18652018",
       "organization_id": "Q10907927",
       "area_id": "Q49933896",
       "start_date": "2014-12-25",

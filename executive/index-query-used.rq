@@ -1,0 +1,74 @@
+SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminAreaTypes ?position ?positionLabel {
+  {
+    SELECT DISTINCT ?adminArea
+                (MIN(?primarySort) AS ?primarySort)
+                (GROUP_CONCAT(DISTINCT REPLACE(STR(?adminAreaType), '^.*/', ''); SEPARATOR=" ") AS ?adminAreaTypes) {
+  {
+    VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q865 1 wd:Q6256) }
+  } UNION {
+    # Find regional admin areas of this country (generally FLACSen)
+    ?adminArea wdt:P17 wd:Q865 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities or municipalities with populations of over 250k
+    VALUES ?adminAreaType { wd:Q515 wd:Q15284 }
+    ?adminArea wdt:P17 wd:Q865 ;
+       wdt:P31/wdt:P279* ?adminAreaType ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES ?primarySort { 3 }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q82357 4 wd:Q24238356)
+      (wd:Q249995 4 wd:Q24238356)
+      (wd:Q166977 4 wd:Q24238356)
+      (wd:Q249996 4 wd:Q24238356)
+      (wd:Q237258 4 wd:Q24238356)
+      (wd:Q194989 4 wd:Q24238356)
+      (wd:Q133865 4 wd:Q24238356)
+      (wd:Q249994 4 wd:Q24238356)
+      (wd:Q74054 4 wd:Q24238356)
+      (wd:Q115256 4 wd:Q24238356)
+      (wd:Q198525 4 wd:Q24238356)
+      (wd:Q1867 4 wd:Q24238356)
+      (wd:Q140631 4 wd:Q24238356)
+      (wd:Q249904 4 wd:Q24238356)
+      (wd:Q249868 4 wd:Q24238356)
+      (wd:Q63706 4 wd:Q24238356)
+      (wd:Q249872 4 wd:Q24238356)
+      (wd:Q249870 4 wd:Q24238356)
+      (wd:Q153221 4 wd:Q24238356)
+    }
+  }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
+} GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
+
+  }
+
+  OPTIONAL {
+    {
+      ?position p:P1001 [ wikibase:rank ?appliesToJurisdictionRank ; ps:P1001 ?adminArea ] ;
+        wdt:P31/wdt:P279* wd:Q4164871 .
+      FILTER (?appliesToJurisdictionRank != wikibase:DeprecatedRank)
+      FILTER EXISTS {
+        VALUES ?positionSuperclass { wd:Q2285706 wd:Q30461 }
+        ?position wdt:P279* ?positionSuperclass .
+      }
+    } UNION {
+      ?adminArea wdt:P1313 ?position
+    }
+
+    OPTIONAL {
+      ?position wdt:P361 ?executive .
+      # Exclude executives that are privy councils
+      FILTER NOT EXISTS { ?executive wdt:P31/wdt:P279* wd:Q6528244 }
+      # Exclude executives which aren't direct parents of the position
+      FILTER NOT EXISTS { ?position wdt:P361 ?other . ?other wdt:P361+ ?executive }
+    }
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,zh-tw". }
+} ORDER BY ?primarySort ?executive ?position

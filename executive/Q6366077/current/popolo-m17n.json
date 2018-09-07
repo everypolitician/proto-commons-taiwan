@@ -108,24 +108,6 @@
       "organization_id": "Q6366077",
       "area_id": "Q181557",
       "start_date": "2018-04-23",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:zh-tw": "市長",
-        "lang:en": "mayor"
-      },
-      "role_code": "Q11812506",
-      "role": {
-        "lang:zh-tw": "高雄市市長",
-        "lang:en": "Mayor of Kaohsiung"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q51944694-8015b197-4c03-6239-7a72-974331cf6f9a",
-      "person_id": "Q51944694",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q6366077",
-      "area_id": "Q181557",
-      "start_date": "2018-04-23",
       "role_superclass_code": "Q50339864",
       "role_superclass": {
         "lang:zh-tw": "直轄市市長",

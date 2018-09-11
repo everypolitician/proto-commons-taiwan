@@ -1,171 +1,11 @@
 [
   {
-    "comment": "Executive Yuan",
-    "executive_item_id": "Q715055",
-    "positions": [
-      {
-        "comment": "President of the Executive Yuan",
-        "position_item_id": "Q702650"
-      }
-    ]
-  },
-  {
-    "comment": "Taipei City Government",
-    "executive_item_id": "Q9105560",
-    "positions": [
-      {
-        "comment": "Mayor of Taipei",
-        "position_item_id": "Q6310674"
-      }
-    ]
-  },
-  {
-    "comment": "Lienchiang County Government",
-    "executive_item_id": "Q15904117",
-    "positions": [
-      {
-        "comment": "Magistrate of Lienchiang County",
-        "position_item_id": "Q50293953"
-      }
-    ]
-  },
-  {
-    "comment": "Tainan City Government",
-    "executive_item_id": "Q7676194",
-    "positions": [
-      {
-        "comment": "Mayor of Tainan",
-        "position_item_id": "Q6797825"
-      }
-    ]
-  },
-  {
-    "comment": "Kaohsiung City Government",
-    "executive_item_id": "Q6366077",
-    "positions": [
-      {
-        "comment": "Mayor of Kaohsiung",
-        "position_item_id": "Q11812506"
-      }
-    ]
-  },
-  {
-    "comment": "New Taipei City Government",
-    "executive_item_id": "Q11081380",
-    "positions": [
-      {
-        "comment": "Mayor of New Taipei",
-        "position_item_id": "Q6797771"
-      }
-    ]
-  },
-  {
-    "comment": "Taichung City Government",
-    "executive_item_id": "Q15898718",
-    "positions": [
-      {
-        "comment": "Mayor of Taichung",
-        "position_item_id": "Q6797822"
-      }
-    ]
-  },
-  {
-    "comment": "Hsinchu County Government",
-    "executive_item_id": "Q11084050",
-    "positions": [
-      {
-        "comment": "Magistrate of Hsinchu County",
-        "position_item_id": "Q50293600"
-      }
-    ]
-  },
-  {
-    "comment": "Taitung County Government",
-    "executive_item_id": "Q18658204",
-    "positions": [
-      {
-        "comment": "Mayor of Taitung County",
-        "position_item_id": "Q50306440"
-      }
-    ]
-  },
-  {
-    "comment": "Nantou County Government",
-    "executive_item_id": "Q17011999",
-    "positions": [
-      {
-        "comment": "Magistrate of Nantou County",
-        "position_item_id": "Q50306171"
-      }
-    ]
-  },
-  {
-    "comment": "Miaoli County Government",
-    "executive_item_id": "Q15909984",
-    "positions": [
-      {
-        "comment": "Magistrate of Miaoli County",
-        "position_item_id": "Q50305971"
-      }
-    ]
-  },
-  {
-    "comment": "Penghu County Government",
-    "executive_item_id": "Q17500943",
-    "positions": [
-      {
-        "comment": "Magistrate of Penghu County",
-        "position_item_id": "Q50306294"
-      }
-    ]
-  },
-  {
     "comment": "Chiayi County Government",
     "executive_item_id": "Q10924139",
     "positions": [
       {
         "comment": "Magistrate of Chiayi County",
         "position_item_id": "Q50292905"
-      }
-    ]
-  },
-  {
-    "comment": "Hsinchu City Government",
-    "executive_item_id": "Q11083998",
-    "positions": [
-      {
-        "comment": "Mayor of Hsinchu",
-        "position_item_id": "Q657567"
-      }
-    ]
-  },
-  {
-    "comment": "Yilan County Government",
-    "executive_item_id": "Q10949116",
-    "positions": [
-      {
-        "comment": "Magistrate of Yilan County",
-        "position_item_id": "Q50306553"
-      }
-    ]
-  },
-  {
-    "comment": "Taoyuan City Government",
-    "executive_item_id": "Q11112024",
-    "positions": [
-      {
-        "comment": "Mayor of Taoyuan",
-        "position_item_id": "Q50306671"
-      }
-    ]
-  },
-  {
-    "comment": "Yunlin County Government",
-    "executive_item_id": "Q15909106",
-    "positions": [
-      {
-        "comment": "Magistrate of Yunlin County",
-        "position_item_id": "Q15920422"
       }
     ]
   },
@@ -180,22 +20,22 @@
     ]
   },
   {
+    "comment": "Yilan County Government",
+    "executive_item_id": "Q10949116",
+    "positions": [
+      {
+        "comment": "Magistrate of Yilan County",
+        "position_item_id": "Q50306553"
+      }
+    ]
+  },
+  {
     "comment": "Pingtung County Government",
     "executive_item_id": "Q11042707",
     "positions": [
       {
         "comment": "Magistrate of Pingtung County",
         "position_item_id": "Q50306369"
-      }
-    ]
-  },
-  {
-    "comment": "Chiayi City Government",
-    "executive_item_id": "Q15897754",
-    "positions": [
-      {
-        "comment": "Mayor of Chiayi",
-        "position_item_id": "Q6627476"
       }
     ]
   },
@@ -210,12 +50,92 @@
     ]
   },
   {
-    "comment": "Hualien County Government",
-    "executive_item_id": "Q18658266",
+    "comment": "New Taipei City Government",
+    "executive_item_id": "Q11081380",
     "positions": [
       {
-        "comment": "Magistrate of Hualien County",
-        "position_item_id": "Q50293691"
+        "comment": "Mayor of New Taipei",
+        "position_item_id": "Q6797771"
+      }
+    ]
+  },
+  {
+    "comment": "Hsinchu City Government",
+    "executive_item_id": "Q11083998",
+    "positions": [
+      {
+        "comment": "Mayor of Hsinchu",
+        "position_item_id": "Q657567"
+      }
+    ]
+  },
+  {
+    "comment": "Hsinchu County Government",
+    "executive_item_id": "Q11084050",
+    "positions": [
+      {
+        "comment": "Magistrate of Hsinchu County",
+        "position_item_id": "Q50293600"
+      }
+    ]
+  },
+  {
+    "comment": "Taoyuan City Government",
+    "executive_item_id": "Q11112024",
+    "positions": [
+      {
+        "comment": "Mayor of Taoyuan",
+        "position_item_id": "Q50306671"
+      }
+    ]
+  },
+  {
+    "comment": "Chiayi City Government",
+    "executive_item_id": "Q15897754",
+    "positions": [
+      {
+        "comment": "Mayor of Chiayi",
+        "position_item_id": "Q6627476"
+      }
+    ]
+  },
+  {
+    "comment": "Taichung City Government",
+    "executive_item_id": "Q15898718",
+    "positions": [
+      {
+        "comment": "Mayor of Taichung",
+        "position_item_id": "Q6797822"
+      }
+    ]
+  },
+  {
+    "comment": "Lienchiang County Government",
+    "executive_item_id": "Q15904117",
+    "positions": [
+      {
+        "comment": "Magistrate of Lienchiang County",
+        "position_item_id": "Q50293953"
+      }
+    ]
+  },
+  {
+    "comment": "Yunlin County Government",
+    "executive_item_id": "Q15909106",
+    "positions": [
+      {
+        "comment": "Magistrate of Yunlin County",
+        "position_item_id": "Q15920422"
+      }
+    ]
+  },
+  {
+    "comment": "Miaoli County Government",
+    "executive_item_id": "Q15909984",
+    "positions": [
+      {
+        "comment": "Magistrate of Miaoli County",
+        "position_item_id": "Q50305971"
       }
     ]
   },
@@ -226,6 +146,86 @@
       {
         "comment": "Magistrate of Kinmen County",
         "position_item_id": "Q50294007"
+      }
+    ]
+  },
+  {
+    "comment": "Nantou County Government",
+    "executive_item_id": "Q17011999",
+    "positions": [
+      {
+        "comment": "Magistrate of Nantou County",
+        "position_item_id": "Q50306171"
+      }
+    ]
+  },
+  {
+    "comment": "Penghu County Government",
+    "executive_item_id": "Q17500943",
+    "positions": [
+      {
+        "comment": "Magistrate of Penghu County",
+        "position_item_id": "Q50306294"
+      }
+    ]
+  },
+  {
+    "comment": "Taitung County Government",
+    "executive_item_id": "Q18658204",
+    "positions": [
+      {
+        "comment": "Magistrate of Taitung County",
+        "position_item_id": "Q50306440"
+      }
+    ]
+  },
+  {
+    "comment": "Hualien County Government",
+    "executive_item_id": "Q18658266",
+    "positions": [
+      {
+        "comment": "Magistrate of Hualien County",
+        "position_item_id": "Q50293691"
+      }
+    ]
+  },
+  {
+    "comment": "Kaohsiung City Government",
+    "executive_item_id": "Q6366077",
+    "positions": [
+      {
+        "comment": "Mayor of Kaohsiung",
+        "position_item_id": "Q11812506"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Yuan",
+    "executive_item_id": "Q715055",
+    "positions": [
+      {
+        "comment": "President of the Executive Yuan",
+        "position_item_id": "Q702650"
+      }
+    ]
+  },
+  {
+    "comment": "Tainan City Government",
+    "executive_item_id": "Q7676194",
+    "positions": [
+      {
+        "comment": "Mayor of Tainan",
+        "position_item_id": "Q6797825"
+      }
+    ]
+  },
+  {
+    "comment": "Taipei City Government",
+    "executive_item_id": "Q9105560",
+    "positions": [
+      {
+        "comment": "Mayor of Taipei",
+        "position_item_id": "Q6310674"
       }
     ]
   }

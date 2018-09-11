@@ -1,231 +1,269 @@
 [
   {
-    "comment": "Legislative Yuan",
-    "house_item_id": "Q715869",
-    "position_item_id": "Q6310593",
-    "terms": [
-      {
-        "term_item_id": "Q22083907"
-      }
-    ]
-  },
-  {
-    "comment": "nantou county council",
+    "comment": "Nantou County Council",
     "house_item_id": "Q10907927",
     "position_item_id": "Q49254306",
     "terms": [
       {
+        "comment": "第18屆南投縣議員",
         "term_item_id": "Q49995759"
       }
     ]
   },
   {
-    "comment": "chiayi city council",
+    "comment": "Chiayi City Council",
     "house_item_id": "Q10924120",
     "position_item_id": "Q49254452",
     "terms": [
       {
+        "comment": "第18屆嘉義市議員",
         "term_item_id": "Q49995848"
       }
     ]
   },
   {
-    "comment": "chiayi county council",
+    "comment": "Chiayi County Council",
     "house_item_id": "Q10924150",
     "position_item_id": "Q49254596",
     "terms": [
       {
+        "comment": "第18屆嘉義縣議員",
         "term_item_id": "Q49995901"
       }
     ]
   },
   {
-    "comment": "keelung city council",
+    "comment": "Keelung City Council",
     "house_item_id": "Q10930444",
     "position_item_id": "Q49254733",
     "terms": [
       {
+        "comment": "第18屆基隆市議員",
         "term_item_id": "Q50178994"
       }
     ]
   },
   {
-    "comment": "yilan county council",
-    "house_item_id": "Q15909148",
-    "position_item_id": "Q49254881",
-      "terms": [
-      {
-        "term_item_id": "Q49995992"
-      }
-    ]
-  },
-  {
-    "comment": "pingtung county council",
-    "house_item_id": "Q15903185",
-    "position_item_id": "Q49255006",
-    "terms": [
-      {
-        "term_item_id": "Q49996052"
-      }
-    ]
-  },
-  {
-    "comment": "changhua county council",
+    "comment": "Changhua County Council",
     "house_item_id": "Q11070079",
     "position_item_id": "Q49255147",
     "terms": [
       {
+        "comment": "第18屆彰化縣議員",
         "term_item_id": "Q49996108"
       }
     ]
   },
   {
-    "comment": "new taipei city council",
+    "comment": "New Taipei City Council",
     "house_item_id": "Q11081523",
     "position_item_id": "Q48976144",
     "terms": [
       {
+        "comment": "第2屆新北市議員",
         "term_item_id": "Q50167668"
       }
     ]
   },
   {
-    "comment": "hsinchu city council",
+    "comment": "Hsinchu City Council",
     "house_item_id": "Q11084017",
     "position_item_id": "Q49255439",
     "terms": [
       {
+        "comment": "第9屆新竹市議員",
         "term_item_id": "Q50179034"
       }
     ]
   },
   {
-    "comment": "hsinchu county council",
+    "comment": "Hsinchu County Council",
     "house_item_id": "Q11084065",
     "position_item_id": "Q49255593",
     "terms": [
       {
+        "comment": "第18屆新竹縣議員",
         "term_item_id": "Q49996265"
       }
     ]
   },
   {
-    "comment": "taoyuan county council",
+    "comment": "Taoyuan City Council",
     "house_item_id": "Q11112210",
     "position_item_id": "Q49255748",
     "terms": [
       {
+        "comment": "第1屆桃園市議員",
         "term_item_id": "Q49996297"
       }
     ]
   },
   {
-    "comment": "penghu county council",
-    "house_item_id": "Q15915051",
-    "position_item_id": "Q49255918",
+    "comment": "Taiwan Provincial Consultative Council",
+    "house_item_id": "Q11412003",
+    "position_item_id": null,
     "terms": [
       {
-        "term_item_id": "Q49996554"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
   {
-    "comment": "taichung city council",
+    "comment": "Taichung City Council",
     "house_item_id": "Q15899378",
     "position_item_id": "Q10493791",
     "terms": [
       {
+        "comment": "Taichung City Council 2014–2018",
         "term_item_id": "Q49996566"
       }
     ]
   },
   {
-    "comment": "taipei city council",
-    "house_item_id": "Q7676278",
-    "position_item_id": "Q49256298",
+    "comment": "Pingtung County Council",
+    "house_item_id": "Q15903185",
+    "position_item_id": "Q49255006",
     "terms": [
       {
-        "term_item_id": "Q49996573"
+        "comment": "第18屆屏東縣議員",
+        "term_item_id": "Q49996052"
       }
     ]
   },
   {
-    "comment": "tainan city council",
-    "house_item_id": "Q7676191",
-    "position_item_id": "Q49256480",
-    "terms": [
-      {
-        "term_item_id": "Q49996581"
-      }
-    ]
-  },
-  {
-    "comment": "taitung county council",
-    "house_item_id": "Q15908339",
-    "position_item_id": "Q49256666",
-    "terms": [
-      {
-        "term_item_id": "Q50179059"
-      }
-    ]
-  },
-  {
-    "comment": "hualien county council",
-    "house_item_id": "Q15909304",
-    "position_item_id": "Q49256840",
-    "terms": [
-      {
-        "term_item_id": "Q49996593"
-      }
-    ]
-  },
-  {
-    "comment": "miaoli county council",
+    "comment": "Miaoli County Council",
     "house_item_id": "Q15904162",
     "position_item_id": "Q49257021",
     "terms": [
       {
+        "comment": "第18屆苗栗縣議員",
         "term_item_id": "Q49996626"
       }
     ]
   },
   {
-    "comment": "lienchiang county council",
-    "house_item_id": "Q15919452",
-    "position_item_id": "Q49257199",
+    "comment": "Taitung County Council",
+    "house_item_id": "Q15908339",
+    "position_item_id": "Q49256666",
     "terms": [
       {
-        "term_item_id": "Q49996660"
+        "comment": "Q48927639",
+        "term_item_id": "Q48927639"
+      },
+      {
+        "comment": "第18屆臺東縣議員",
+        "term_item_id": "Q50179059"
       }
     ]
   },
   {
-    "comment": "kinmen county council",
-    "house_item_id": "Q15914537",
-    "position_item_id": "Q49257377",
-    "terms": [
-      {
-        "term_item_id": "Q49996694"
-      }
-    ]
-  },
-  {
-    "comment": "yunlin county council",
+    "comment": "Yunlin County Council",
     "house_item_id": "Q15908941",
     "position_item_id": "Q49257574",
     "terms": [
       {
+        "comment": "第18屆雲林縣議員",
         "term_item_id": "Q49996733"
       }
     ]
   },
   {
-    "comment": "kaohsiung city council",
+    "comment": "Yilan County Council",
+    "house_item_id": "Q15909148",
+    "position_item_id": "Q49254881",
+    "terms": [
+      {
+        "comment": "第18屆宜蘭縣議員",
+        "term_item_id": "Q49995992"
+      }
+    ]
+  },
+  {
+    "comment": "Hualien County Council",
+    "house_item_id": "Q15909304",
+    "position_item_id": "Q49256840",
+    "terms": [
+      {
+        "comment": "第18屆花蓮縣議員",
+        "term_item_id": "Q49996593"
+      }
+    ]
+  },
+  {
+    "comment": "Kinmen County Council",
+    "house_item_id": "Q15914537",
+    "position_item_id": "Q49257377",
+    "terms": [
+      {
+        "comment": "第6屆金門縣議員",
+        "term_item_id": "Q49996694"
+      }
+    ]
+  },
+  {
+    "comment": "Penghu County Council",
+    "house_item_id": "Q15915051",
+    "position_item_id": "Q49255918",
+    "terms": [
+      {
+        "comment": "第18屆澎湖縣議員",
+        "term_item_id": "Q49996554"
+      }
+    ]
+  },
+  {
+    "comment": "Lienchiang County Council",
+    "house_item_id": "Q15919452",
+    "position_item_id": "Q49257199",
+    "terms": [
+      {
+        "comment": "第6屆連江縣議員",
+        "term_item_id": "Q49996660"
+      }
+    ]
+  },
+  {
+    "comment": "Kaohsiung City Council",
     "house_item_id": "Q6366073",
     "position_item_id": "Q49257749",
     "terms": [
       {
+        "comment": "第2屆高雄市議員",
         "term_item_id": "Q49996760"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Yuan",
+    "house_item_id": "Q715869",
+    "position_item_id": "Q6310593",
+    "terms": [
+      {
+        "comment": "Ninth Legislative Yuan",
+        "term_item_id": "Q22083907"
+      }
+    ]
+  },
+  {
+    "comment": "Tainan City Council",
+    "house_item_id": "Q7676191",
+    "position_item_id": "Q49256480",
+    "terms": [
+      {
+        "comment": "第2屆臺南市議員",
+        "term_item_id": "Q49996581"
+      }
+    ]
+  },
+  {
+    "comment": "Taipei City Council",
+    "house_item_id": "Q7676278",
+    "position_item_id": "Q49256298",
+    "terms": [
+      {
+        "comment": "Taipei City Council 2014–2018",
+        "term_item_id": "Q49996573"
       }
     ]
   }

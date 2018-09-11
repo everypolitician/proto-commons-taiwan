@@ -37,6 +37,60 @@
     }
   },
   {
+    "role_id": "Q49254306",
+    "role_name": {
+      "lang:zh-tw": "南投縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q10907927",
+    "organization_name": {
+      "lang:zh-tw": "南投縣議會",
+      "lang:en": "Nantou County Council"
+    }
+  },
+  {
+    "role_id": "Q49254452",
+    "role_name": {
+      "lang:zh-tw": "嘉義市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q10924120",
+    "organization_name": {
+      "lang:zh-tw": "嘉義市議會",
+      "lang:en": "Chiayi City Council"
+    }
+  },
+  {
+    "role_id": "Q49254596",
+    "role_name": {
+      "lang:zh-tw": "嘉義縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q10924150",
+    "organization_name": {
+      "lang:zh-tw": "嘉義縣議會",
+      "lang:en": "Chiayi County Council"
+    }
+  },
+  {
     "role_id": "Q49254733",
     "role_name": {
       "lang:zh-tw": "基隆市議員"
@@ -46,12 +100,66 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q10930444",
     "organization_name": {
       "lang:zh-tw": "基隆市議會",
       "lang:en": "Keelung City Council"
+    }
+  },
+  {
+    "role_id": "Q49254881",
+    "role_name": {
+      "lang:zh-tw": "宜蘭縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15909148",
+    "organization_name": {
+      "lang:zh-tw": "宜蘭縣議會",
+      "lang:en": "Yilan County Council"
+    }
+  },
+  {
+    "role_id": "Q49255006",
+    "role_name": {
+      "lang:zh-tw": "屏東縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15903185",
+    "organization_name": {
+      "lang:zh-tw": "屏東縣議會",
+      "lang:en": "Pingtung County Council"
+    }
+  },
+  {
+    "role_id": "Q49255147",
+    "role_name": {
+      "lang:zh-tw": "彰化縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q11070079",
+    "organization_name": {
+      "lang:zh-tw": "彰化縣議會",
+      "lang:en": "Changhua County Council"
     }
   },
   {
@@ -65,12 +173,67 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q11084017",
     "organization_name": {
       "lang:zh-tw": "新竹市議會",
       "lang:en": "Hsinchu City Council"
+    }
+  },
+  {
+    "role_id": "Q49255593",
+    "role_name": {
+      "lang:zh-tw": "新竹縣議員",
+      "lang:en": "councilor of Hsinchu County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q11084065",
+    "organization_name": {
+      "lang:zh-tw": "新竹縣議會",
+      "lang:en": "Hsinchu County Council"
+    }
+  },
+  {
+    "role_id": "Q49255748",
+    "role_name": {
+      "lang:zh-tw": "桃園市議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q11112210",
+    "organization_name": {
+      "lang:zh-tw": "桃園市議會",
+      "lang:en": "Taoyuan City Council"
+    }
+  },
+  {
+    "role_id": "Q49255918",
+    "role_name": {
+      "lang:zh-tw": "澎湖縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15915051",
+    "organization_name": {
+      "lang:zh-tw": "澎湖縣議會",
+      "lang:en": "Penghu County Council"
     }
   },
   {
@@ -84,7 +247,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q10864048 Q515",
+    "role_level": "Q10864048 Q515 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q7676278",
     "organization_name": {
@@ -102,12 +265,120 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q7676191",
     "organization_name": {
       "lang:zh-tw": "臺南市議會",
       "lang:en": "Tainan City Council"
+    }
+  },
+  {
+    "role_id": "Q49256666",
+    "role_name": {
+      "lang:zh-tw": "臺東縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15908339",
+    "organization_name": {
+      "lang:zh-tw": "臺東縣議會",
+      "lang:en": "Taitung County Council"
+    }
+  },
+  {
+    "role_id": "Q49256840",
+    "role_name": {
+      "lang:zh-tw": "花蓮縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15909304",
+    "organization_name": {
+      "lang:zh-tw": "花蓮縣議會",
+      "lang:en": "Hualien County Council"
+    }
+  },
+  {
+    "role_id": "Q49257021",
+    "role_name": {
+      "lang:zh-tw": "苗栗縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15904162",
+    "organization_name": {
+      "lang:zh-tw": "苗栗縣議會",
+      "lang:en": "Miaoli County Council"
+    }
+  },
+  {
+    "role_id": "Q49257199",
+    "role_name": {
+      "lang:zh-tw": "連江縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15919452",
+    "organization_name": {
+      "lang:zh-tw": "連江縣議會",
+      "lang:en": "Lienchiang County Council"
+    }
+  },
+  {
+    "role_id": "Q49257377",
+    "role_name": {
+      "lang:zh-tw": "金門縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15914537",
+    "organization_name": {
+      "lang:zh-tw": "金門縣議會",
+      "lang:en": "Kinmen County Council"
+    }
+  },
+  {
+    "role_id": "Q49257574",
+    "role_name": {
+      "lang:zh-tw": "雲林縣議員"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:zh-tw": "地方議會議員",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q15908941",
+    "organization_name": {
+      "lang:zh-tw": "雲林縣議會",
+      "lang:en": "Yunlin County Council"
     }
   },
   {

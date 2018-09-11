@@ -1,11 +1,4 @@
-SELECT DISTINCT
-  ?position ?position_name_zh_tw ?position_name_en
-  ?positionType
-  ?adminAreaTypes
-  ?adminArea ?admin_area_zh_tw ?admin_area_en
-  ?positionSuperclass ?position_superclass_zh_tw ?position_superclass_en
-  ?body ?body_zh_tw ?body_en
-WHERE {
+SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminAreaTypes ?position ?positionLabel {
   {
     SELECT DISTINCT ?adminArea
                 (MIN(?primarySort) AS ?primarySort)
@@ -54,58 +47,28 @@ WHERE {
 } GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
 
   }
-  OPTIONAL {
-  ?position rdfs:label ?position_name_zh_tw
-  FILTER(LANG(?position_name_zh_tw) = "zh-tw")
-}
-
-OPTIONAL {
-  ?position rdfs:label ?position_name_en
-  FILTER(LANG(?position_name_en) = "en")
-}
-
-  ?body wdt:P527|wdt:P2670 ?position .
-  MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
-  OPTIONAL {
-  ?body rdfs:label ?body_zh_tw
-  FILTER(LANG(?body_zh_tw) = "zh-tw")
-}
-
-OPTIONAL {
-  ?body rdfs:label ?body_en
-  FILTER(LANG(?body_en) = "en")
-}
-
-  ?body wdt:P1001 ?adminArea .
-  OPTIONAL {
-  ?adminArea rdfs:label ?admin_area_zh_tw
-  FILTER(LANG(?admin_area_zh_tw) = "zh-tw")
-}
-
-OPTIONAL {
-  ?adminArea rdfs:label ?admin_area_en
-  FILTER(LANG(?admin_area_en) = "en")
-}
 
   OPTIONAL {
-    # If this position appears to be legislative (it's an subclass* of 'legislator')
-    # populate ?positionType with that:
-    VALUES ?positionType { wd:Q4175034 }
-    ?position wdt:P279* ?positionType
+    {
+      ?position p:P1001 [ wikibase:rank ?appliesToJurisdictionRank ; ps:P1001 ?adminArea ] ;
+        wdt:P31/wdt:P279* wd:Q4164871 .
+      FILTER (?appliesToJurisdictionRank != wikibase:DeprecatedRank)
+      FILTER EXISTS {
+        VALUES ?positionSuperclass { wd:Q2285706 wd:Q30461 }
+        ?position wdt:P279* ?positionSuperclass .
+      }
+    } UNION {
+      ?adminArea wdt:P1313 ?position
+    }
+
+    OPTIONAL {
+      ?position wdt:P361 ?executive .
+      # Exclude executives that are privy councils
+      FILTER NOT EXISTS { ?executive wdt:P31/wdt:P279* wd:Q6528244 }
+      # Exclude executives which aren't direct parents of the position
+      FILTER NOT EXISTS { ?position wdt:P361 ?other . ?other wdt:P361+ ?executive }
+    }
   }
-  # Add the immediate superclass of the position on its way to legislator, head of
-  # government or president:
-  VALUES ?positionAncestor { wd:Q4175034 wd:Q2285706 wd:Q30461  }
-  ?position wdt:P279 ?positionSuperclass .
-            ?positionSuperclass wdt:P279* ?positionAncestor .
-  OPTIONAL {
-  ?positionSuperclass rdfs:label ?position_superclass_zh_tw
-  FILTER(LANG(?position_superclass_zh_tw) = "zh-tw")
-}
 
-OPTIONAL {
-  ?positionSuperclass rdfs:label ?position_superclass_en
-  FILTER(LANG(?position_superclass_en) = "en")
-}
-
-} ORDER BY ?position
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,zh-tw". }
+} ORDER BY ?primarySort ?executive ?position

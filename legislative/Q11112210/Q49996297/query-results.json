@@ -75,7 +75,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -168,7 +168,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -261,7 +261,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -354,7 +354,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -447,7 +447,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -468,15 +468,15 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chen Lai Su-mei"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-01-31T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chen Lai Su-mei"
       }
     }, {
       "party" : {
@@ -550,7 +550,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -643,7 +643,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -722,7 +722,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -801,7 +801,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -822,15 +822,15 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chao Cheng-yu"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-01-31T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chao Cheng-yu"
       }
     }, {
       "party" : {
@@ -904,7 +904,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -997,7 +997,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1090,7 +1090,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1183,7 +1183,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1276,7 +1276,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1374,7 +1374,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1467,7 +1467,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1560,7 +1560,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1653,7 +1653,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1746,7 +1746,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1839,7 +1839,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -1932,7 +1932,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2025,7 +2025,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2118,7 +2118,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2211,7 +2211,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2304,7 +2304,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2397,7 +2397,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2490,7 +2490,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2583,7 +2583,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2676,7 +2676,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2769,7 +2769,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2862,7 +2862,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -2955,7 +2955,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3048,7 +3048,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3141,7 +3141,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3234,7 +3234,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3327,7 +3327,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3420,7 +3420,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3513,7 +3513,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3606,7 +3606,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3699,7 +3699,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3792,7 +3792,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3890,7 +3890,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -3983,7 +3983,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4076,7 +4076,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4169,7 +4169,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4262,7 +4262,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4355,7 +4355,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4448,7 +4448,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4541,7 +4541,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4634,7 +4634,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4727,7 +4727,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4820,7 +4820,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -4913,7 +4913,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5006,7 +5006,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5099,7 +5099,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5192,7 +5192,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5285,7 +5285,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5378,7 +5378,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5471,7 +5471,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5564,7 +5564,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5657,7 +5657,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoyuan County Council"
+        "value" : "Taoyuan City Council"
       },
       "org_zh_tw" : {
         "xml:lang" : "zh-tw",
@@ -5678,15 +5678,15 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kuo June-tsung"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-08-24T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuo June-tsung"
       }
     } ]
   }

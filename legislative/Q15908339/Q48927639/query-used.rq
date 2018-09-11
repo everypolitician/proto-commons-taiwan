@@ -1,0 +1,112 @@
+SELECT ?statement
+       ?item ?name_zh_tw ?name_en
+       ?party ?party_name_zh_tw ?party_name_en
+       ?district ?district_name_zh_tw ?district_name_en
+       ?role ?role_zh_tw ?role_en
+       ?role_superclass ?role_superclass_zh_tw ?role_superclass_en
+       ?start ?end ?facebook
+       ?org ?org_zh_tw ?org_en ?org_jurisdiction ?org_seat_count
+WHERE {
+  BIND(wd:Q49256666 as ?role) .
+  BIND(wd:Q49256666 as ?specific_role) .
+  BIND(wd:Q15908339 as ?org) .
+  OPTIONAL {
+  ?org rdfs:label ?org_zh_tw
+  FILTER(LANG(?org_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
+  }
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL { wd:Q48927639 wdt:P571|wdt:P580 ?termStart }
+  OPTIONAL { wd:Q48927639 wdt:P576|wdt:P582 ?termEnd }
+  # A P39 is relevant if it's directly related to the term with a "parliamentary term" qualifier (1), or
+  # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
+  #  * starts before it and either doesn't end, or ends after the term start (3), or
+  #  * starts after the term, and if the term ends, starts before it ends (4)
+  FILTER (
+    (EXISTS { ?statement pq:P2937 wd:Q48927639 })               # (1)
+    ||
+    (BOUND(?start) && BOUND(?termStart) && (                             # (2)
+      (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)
+      ||
+      (?start > ?termStart && (!BOUND(?termEnd) || ?start < ?termEnd))   # (5)
+    ))
+  )
+
+  OPTIONAL {
+  ?item rdfs:label ?name_zh_tw
+  FILTER(LANG(?name_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
+  OPTIONAL {
+  ?role rdfs:label ?role_zh_tw
+  FILTER(LANG(?role_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
+  OPTIONAL {
+    ?role wdt:P279 ?role_superclass .
+    ?role_superclass wdt:P279+ wd:Q4175034
+    OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_zh_tw
+  FILTER(LANG(?role_superclass_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
+  }
+  OPTIONAL {
+    ?statement pq:P768 ?district.
+    OPTIONAL {
+  ?district rdfs:label ?district_name_zh_tw
+  FILTER(LANG(?district_name_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
+  }
+  OPTIONAL {
+    ?statement pq:P4100 ?party.
+    OPTIONAL {
+  ?party rdfs:label ?party_name_zh_tw
+  FILTER(LANG(?party_name_zh_tw) = "zh-tw")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+  
+} ORDER BY ?item ?role ?term ?start ?end

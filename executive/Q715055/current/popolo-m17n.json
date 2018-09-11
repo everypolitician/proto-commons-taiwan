@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:zh-tw": "顧維鈞",
-        "lang:en": "Wellington Koo"
-      },
-      "id": "Q317462",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q317462"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "賴清德",
         "lang:en": "William Lai"
       },
@@ -33,36 +17,6 @@
           "note": "facebook",
           "url": "https://www.facebook.com/chingte"
         }
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Wang Zhengting"
-      },
-      "id": "Q6127766",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6127766"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Xiong Xiling"
-      },
-      "id": "Q6130548",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6130548"
-        }
-      ],
-      "links": [
-
       ]
     }
   ],
@@ -84,20 +38,6 @@
     },
     {
       "name": {
-        "lang:zh-tw": "中國國民黨",
-        "lang:en": "Kuomintang"
-      },
-      "id": "Q31113",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q31113"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:zh-tw": "民主進步黨",
         "lang:en": "Democratic Progressive Party"
       },
@@ -107,20 +47,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q903822"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:zh-tw": "中國同盟會",
-        "lang:en": "Tongmenghui"
-      },
-      "id": "Q950326",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q950326"
         }
       ]
     }
@@ -154,78 +80,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q317462-068832DB-6964-4ACC-9DEA-F6E0364D8450",
-      "person_id": "Q317462",
-      "organization_id": "Q715055",
-      "area_id": "Q865",
-      "role_superclass_code": "Q2285706",
-      "role_superclass": {
-        "lang:zh-tw": "政府首腦",
-        "lang:en": "head of government"
-      },
-      "role_code": "Q702650",
-      "role": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3",
       "person_id": "Q3847080",
       "on_behalf_of_id": "Q903822",
       "organization_id": "Q715055",
       "area_id": "Q865",
       "start_date": "2017-09-08",
-      "role_superclass_code": "Q2285706",
-      "role_superclass": {
-        "lang:zh-tw": "政府首腦",
-        "lang:en": "head of government"
-      },
-      "role_code": "Q702650",
-      "role": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0",
-      "person_id": "Q6127766",
-      "on_behalf_of_id": "Q31113",
-      "organization_id": "Q715055",
-      "area_id": "Q865",
-      "role_superclass_code": "Q2285706",
-      "role_superclass": {
-        "lang:zh-tw": "政府首腦",
-        "lang:en": "head of government"
-      },
-      "role_code": "Q702650",
-      "role": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6127766-34fcb48e-47a1-2546-3cd9-eb6989695bd0",
-      "person_id": "Q6127766",
-      "on_behalf_of_id": "Q950326",
-      "organization_id": "Q715055",
-      "area_id": "Q865",
-      "role_superclass_code": "Q2285706",
-      "role_superclass": {
-        "lang:zh-tw": "政府首腦",
-        "lang:en": "head of government"
-      },
-      "role_code": "Q702650",
-      "role": {
-        "lang:zh-tw": "台灣行政院院長",
-        "lang:en": "President of the Executive Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6130548-5ACC5169-96F0-4DEF-A412-89CA73AF168B",
-      "person_id": "Q6130548",
-      "organization_id": "Q715055",
-      "area_id": "Q865",
       "role_superclass_code": "Q2285706",
       "role_superclass": {
         "lang:zh-tw": "政府首腦",

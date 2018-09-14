@@ -98,4 +98,4 @@ BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
 FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
 FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
 
-} ORDER BY ?item ?role ?start ?end
+} ORDER BY ?item ?role ?start ?end ?role_superclass ?party ?org ?district

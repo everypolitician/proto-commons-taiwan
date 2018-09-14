@@ -694,7 +694,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -879,7 +879,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q515 Q24238356"
+        "value" : "Q10864048 Q515 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",

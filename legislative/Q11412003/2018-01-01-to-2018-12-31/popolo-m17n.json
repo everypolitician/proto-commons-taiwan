@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Taiwan Provincial Consultative Council"
+      },
+      "id": "Q11412003",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11412003"
+        }
+      ],
+      "area_id": "Q32081",
+      "seat_counts": {
+        "": null
+      }
+    }
   ],
   "areas": [
 

@@ -2,6 +2,8 @@
   {
     "comment": "Nantou County Council",
     "house_item_id": "Q10907927",
+    "seat_count": "37",
+    "area_id": "Q82357",
     "position_item_id": "Q49254306",
     "terms": [
       {
@@ -13,6 +15,8 @@
   {
     "comment": "Chiayi City Council",
     "house_item_id": "Q10924120",
+    "seat_count": "24",
+    "area_id": "Q249995",
     "position_item_id": "Q49254452",
     "terms": [
       {
@@ -24,6 +28,8 @@
   {
     "comment": "Chiayi County Council",
     "house_item_id": "Q10924150",
+    "seat_count": "37",
+    "area_id": "Q166977",
     "position_item_id": "Q49254596",
     "terms": [
       {
@@ -35,6 +41,8 @@
   {
     "comment": "Keelung City Council",
     "house_item_id": "Q10930444",
+    "seat_count": "31",
+    "area_id": "Q249996",
     "position_item_id": "Q49254733",
     "terms": [
       {
@@ -46,6 +54,8 @@
   {
     "comment": "Changhua County Council",
     "house_item_id": "Q11070079",
+    "seat_count": "54",
+    "area_id": "Q133865",
     "position_item_id": "Q49255147",
     "terms": [
       {
@@ -57,6 +67,8 @@
   {
     "comment": "New Taipei City Council",
     "house_item_id": "Q11081523",
+    "seat_count": "66",
+    "area_id": "Q244898",
     "position_item_id": "Q48976144",
     "terms": [
       {
@@ -68,6 +80,8 @@
   {
     "comment": "Hsinchu City Council",
     "house_item_id": "Q11084017",
+    "seat_count": "33",
+    "area_id": "Q249994",
     "position_item_id": "Q49255439",
     "terms": [
       {
@@ -79,6 +93,8 @@
   {
     "comment": "Hsinchu County Council",
     "house_item_id": "Q11084065",
+    "seat_count": "36",
+    "area_id": "Q74054",
     "position_item_id": "Q49255593",
     "terms": [
       {
@@ -90,6 +106,8 @@
   {
     "comment": "Taoyuan City Council",
     "house_item_id": "Q11112210",
+    "seat_count": "60",
+    "area_id": "Q115256",
     "position_item_id": "Q49255748",
     "terms": [
       {
@@ -101,6 +119,8 @@
   {
     "comment": "Taiwan Provincial Consultative Council",
     "house_item_id": "Q11412003",
+    "seat_count": null,
+    "area_id": "Q32081",
     "position_item_id": null,
     "terms": [
       {
@@ -112,6 +132,8 @@
   {
     "comment": "Taichung City Council",
     "house_item_id": "Q15899378",
+    "seat_count": "63",
+    "area_id": "Q245023",
     "position_item_id": "Q10493791",
     "terms": [
       {
@@ -123,6 +145,8 @@
   {
     "comment": "Pingtung County Council",
     "house_item_id": "Q15903185",
+    "seat_count": "55",
+    "area_id": "Q194989",
     "position_item_id": "Q49255006",
     "terms": [
       {
@@ -134,6 +158,8 @@
   {
     "comment": "Miaoli County Council",
     "house_item_id": "Q15904162",
+    "seat_count": "38",
+    "area_id": "Q63706",
     "position_item_id": "Q49257021",
     "terms": [
       {
@@ -145,6 +171,8 @@
   {
     "comment": "Taitung County Council",
     "house_item_id": "Q15908339",
+    "seat_count": "30",
+    "area_id": "Q249904",
     "position_item_id": "Q49256666",
     "terms": [
       {
@@ -160,6 +188,8 @@
   {
     "comment": "Yunlin County Council",
     "house_item_id": "Q15908941",
+    "seat_count": "43",
+    "area_id": "Q153221",
     "position_item_id": "Q49257574",
     "terms": [
       {
@@ -171,6 +201,8 @@
   {
     "comment": "Yilan County Council",
     "house_item_id": "Q15909148",
+    "seat_count": "34",
+    "area_id": "Q237258",
     "position_item_id": "Q49254881",
     "terms": [
       {
@@ -182,6 +214,8 @@
   {
     "comment": "Hualien County Council",
     "house_item_id": "Q15909304",
+    "seat_count": "33",
+    "area_id": "Q249868",
     "position_item_id": "Q49256840",
     "terms": [
       {
@@ -193,6 +227,8 @@
   {
     "comment": "Kinmen County Council",
     "house_item_id": "Q15914537",
+    "seat_count": "19",
+    "area_id": "Q249870",
     "position_item_id": "Q49257377",
     "terms": [
       {
@@ -204,6 +240,8 @@
   {
     "comment": "Penghu County Council",
     "house_item_id": "Q15915051",
+    "seat_count": "19",
+    "area_id": "Q198525",
     "position_item_id": "Q49255918",
     "terms": [
       {
@@ -215,6 +253,8 @@
   {
     "comment": "Lienchiang County Council",
     "house_item_id": "Q15919452",
+    "seat_count": "9",
+    "area_id": "Q249872",
     "position_item_id": "Q49257199",
     "terms": [
       {
@@ -226,6 +266,8 @@
   {
     "comment": "Kaohsiung City Council",
     "house_item_id": "Q6366073",
+    "seat_count": "66",
+    "area_id": "Q181557",
     "position_item_id": "Q49257749",
     "terms": [
       {
@@ -237,6 +279,8 @@
   {
     "comment": "Legislative Yuan",
     "house_item_id": "Q715869",
+    "seat_count": "113",
+    "area_id": "Q865",
     "position_item_id": "Q6310593",
     "terms": [
       {
@@ -248,6 +292,8 @@
   {
     "comment": "Tainan City Council",
     "house_item_id": "Q7676191",
+    "seat_count": "57",
+    "area_id": "Q140631",
     "position_item_id": "Q49256480",
     "terms": [
       {
@@ -259,6 +305,8 @@
   {
     "comment": "Taipei City Council",
     "house_item_id": "Q7676278",
+    "seat_count": "63",
+    "area_id": "Q1867",
     "position_item_id": "Q49256298",
     "terms": [
       {

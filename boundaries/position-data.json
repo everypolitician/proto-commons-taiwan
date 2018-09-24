@@ -210,7 +210,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q11112210",
     "organization_name": {
@@ -265,7 +265,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q515 Q24238356",
+    "role_level": "Q10864048 Q515 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q7676191",
     "organization_name": {

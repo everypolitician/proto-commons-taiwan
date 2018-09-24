@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Miaoli County Government"
+      },
+      "id": "Q15909984",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15909984"
+        }
+      ],
+      "area_id": "Q63706"
+    }
   ],
   "areas": [
     {

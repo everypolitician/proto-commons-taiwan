@@ -52,17 +52,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
+        "value" : "http://www.wikidata.org/entity/Q50339864"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "市長"
+        "value" : "直轄市市長"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor"
+        "value" : "Mayor of special municipality"
       },
       "org" : {
         "type" : "uri",
@@ -121,17 +121,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
+        "value" : "http://www.wikidata.org/entity/Q50339864"
       },
       "role_superclass_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "市長"
+        "value" : "直轄市市長"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor"
+        "value" : "Mayor of special municipality"
       },
       "org" : {
         "type" : "uri",

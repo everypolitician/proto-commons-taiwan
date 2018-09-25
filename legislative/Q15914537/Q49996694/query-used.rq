@@ -109,4 +109,4 @@ OPTIONAL {
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
   
-} ORDER BY ?item ?role ?term ?start ?end
+} ORDER BY ?item ?role ?term ?start ?end ?role_superclass ?party ?org ?district

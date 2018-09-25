@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/everypolitician/commons-builder.git
-  revision: 936a12eddd2fc0eda3d910bde60f605d34960c26
+  revision: 1b65e46060f5b2082986c2c6775b17fe04a5c52f
   specs:
     commons-builder (0.1.0)
       commons-integrity
@@ -15,7 +15,7 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    commons-integrity (0.1)
+    commons-integrity (0.2)
       activesupport
       json
       require_all

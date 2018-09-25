@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:zh-tw": "屏東縣政府",
+        "lang:en": "Pingtung County Government"
+      },
+      "id": "Q11042707",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11042707"
+        }
+      ],
+      "area_id": "Q194989"
+    }
   ],
   "areas": [
     {

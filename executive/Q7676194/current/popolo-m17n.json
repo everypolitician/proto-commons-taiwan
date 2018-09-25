@@ -122,10 +122,10 @@
       "organization_id": "Q7676194",
       "area_id": "Q140631",
       "start_date": "2017-09-07",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q50339864",
       "role_superclass": {
-        "lang:zh-tw": "市長",
-        "lang:en": "mayor"
+        "lang:zh-tw": "直轄市市長",
+        "lang:en": "Mayor of special municipality"
       },
       "role_code": "Q6797825",
       "role": {
@@ -138,10 +138,10 @@
       "on_behalf_of_id": "Q31113",
       "organization_id": "Q7676194",
       "area_id": "Q140631",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q50339864",
       "role_superclass": {
-        "lang:zh-tw": "市長",
-        "lang:en": "mayor"
+        "lang:zh-tw": "直轄市市長",
+        "lang:en": "Mayor of special municipality"
       },
       "role_code": "Q6797825",
       "role": {

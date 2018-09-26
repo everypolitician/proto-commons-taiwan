@@ -64,7 +64,7 @@ OPTIONAL {
   FILTER(LANG(?position_name_en) = "en")
 }
 
-  ?body wdt:P527|wdt:P2670 ?position .
+  ?body wdt:P527|wdt:P2670|wdt:P2388 ?position .
   MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
   OPTIONAL {
   ?body rdfs:label ?body_zh_tw

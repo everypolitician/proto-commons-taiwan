@@ -52,7 +52,15 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
 
   VALUES ?legislatureType { wd:Q11204 wd:Q10553309 }
   ?legislature wdt:P31/wdt:P279* ?legislatureType .
-  FILTER (?legislatureType != wd:Q11204 || NOT EXISTS { ?legislature wdt:P527 ?legislaturePart . ?legislaturePart  wdt:P31/wdt:P279* wd:Q10553309 })
+
+  # Exclude legislatures (but never legislative houses) that "has part"
+  # legislative houses or other legislatures. This happens with UK councils
+  # (see e.g. Q17021809).
+  FILTER (?legislatureType != wd:Q11204 || NOT EXISTS {
+    VALUES ?subLegislatureType { wd:Q10553309 wd:Q11204 }
+    ?legislature wdt:P527 ?legislaturePart .
+    ?legislaturePart  wdt:P31/wdt:P279* ?subLegislatureType .
+  })
 
   # Attempt to find the position for members of the legislature
   OPTIONAL {

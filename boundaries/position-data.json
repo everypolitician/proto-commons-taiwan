@@ -19,6 +19,44 @@
     }
   },
   {
+    "role_id": "Q11812506",
+    "role_name": {
+      "lang:zh-tw": "高雄市市長",
+      "lang:en": "Mayor of Kaohsiung"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": null,
+    "organization_id": "Q6366077",
+    "organization_name": {
+      "lang:zh-tw": "高雄市政府",
+      "lang:en": "Kaohsiung City Government"
+    }
+  },
+  {
+    "role_id": "Q15920422",
+    "role_name": {
+      "lang:zh-tw": "雲林縣縣長",
+      "lang:en": "Magistrate of Yunlin County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q15909106",
+    "organization_name": {
+      "lang:zh-tw": "雲林縣政府",
+      "lang:en": "Yunlin County Government"
+    }
+  },
+  {
     "role_id": "Q48976144",
     "role_name": {
       "lang:zh-tw": "新北市議員"
@@ -400,6 +438,249 @@
     }
   },
   {
+    "role_id": "Q50290512",
+    "role_name": {
+      "lang:zh-tw": "彰化縣縣長",
+      "lang:en": "Magistrate of Changhua County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q11070045",
+    "organization_name": {
+      "lang:en": "Changhua County Government"
+    }
+  },
+  {
+    "role_id": "Q50292905",
+    "role_name": {
+      "lang:zh-tw": "嘉義縣縣長",
+      "lang:en": "Magistrate of Chiayi County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q10924139",
+    "organization_name": {
+      "lang:zh-tw": "嘉義縣政府",
+      "lang:en": "Chiayi County Government"
+    }
+  },
+  {
+    "role_id": "Q50293600",
+    "role_name": {
+      "lang:zh-tw": "新竹縣縣長",
+      "lang:en": "Magistrate of Hsinchu County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q11084050",
+    "organization_name": {
+      "lang:zh-tw": "新竹縣政府",
+      "lang:en": "Hsinchu County Government"
+    }
+  },
+  {
+    "role_id": "Q50293691",
+    "role_name": {
+      "lang:zh-tw": "花蓮縣縣長",
+      "lang:en": "Magistrate of Hualien County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q18658266",
+    "organization_name": {
+      "lang:zh-tw": "花蓮縣政府",
+      "lang:en": "Hualien County Government"
+    }
+  },
+  {
+    "role_id": "Q50293953",
+    "role_name": {
+      "lang:zh-tw": "連江縣縣長",
+      "lang:en": "Magistrate of Lienchiang County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q15904117",
+    "organization_name": {
+      "lang:zh-tw": "連江縣政府",
+      "lang:en": "Lienchiang County Government"
+    }
+  },
+  {
+    "role_id": "Q50294007",
+    "role_name": {
+      "lang:zh-tw": "金門縣縣長",
+      "lang:en": "Magistrate of Kinmen County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q16976490",
+    "organization_name": {
+      "lang:zh-tw": "金門縣政府",
+      "lang:en": "Kinmen County Government"
+    }
+  },
+  {
+    "role_id": "Q50305971",
+    "role_name": {
+      "lang:zh-tw": "苗栗縣縣長",
+      "lang:en": "Magistrate of Miaoli County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q15909984",
+    "organization_name": {
+      "lang:en": "Miaoli County Government"
+    }
+  },
+  {
+    "role_id": "Q50306171",
+    "role_name": {
+      "lang:zh-tw": "南投縣縣長",
+      "lang:en": "Magistrate of Nantou County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q17011999",
+    "organization_name": {
+      "lang:en": "Nantou County Government"
+    }
+  },
+  {
+    "role_id": "Q50306294",
+    "role_name": {
+      "lang:zh-tw": "澎湖縣縣長",
+      "lang:en": "Magistrate of Penghu County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q17500943",
+    "organization_name": {
+      "lang:zh-tw": "澎湖縣政府",
+      "lang:en": "Penghu County Government"
+    }
+  },
+  {
+    "role_id": "Q50306369",
+    "role_name": {
+      "lang:zh-tw": "屏東縣縣長",
+      "lang:en": "Magistrate of Pingtung County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q11042707",
+    "organization_name": {
+      "lang:zh-tw": "屏東縣政府",
+      "lang:en": "Pingtung County Government"
+    }
+  },
+  {
+    "role_id": "Q50306440",
+    "role_name": {
+      "lang:zh-tw": "臺東縣縣長",
+      "lang:en": "Magistrate of Taitung County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q18658204",
+    "organization_name": {
+      "lang:zh-tw": "臺東縣政府",
+      "lang:en": "Taitung County Government"
+    }
+  },
+  {
+    "role_id": "Q50306553",
+    "role_name": {
+      "lang:zh-tw": "宜蘭縣縣長",
+      "lang:en": "Magistrate of Yilan County"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q10949116",
+    "organization_name": {
+      "lang:zh-tw": "宜蘭縣政府",
+      "lang:en": "Yilan County Government"
+    }
+  },
+  {
+    "role_id": "Q50306671",
+    "role_name": {
+      "lang:zh-tw": "桃園市市長",
+      "lang:en": "Mayor of Taoyuan"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048 Q24238356",
+    "role_type": null,
+    "organization_id": "Q11112024",
+    "organization_name": {
+      "lang:en": "Taoyuan City Government"
+    }
+  },
+  {
     "role_id": "Q6310593",
     "role_name": {
       "lang:zh-tw": "立法委員",
@@ -416,6 +697,138 @@
     "organization_name": {
       "lang:zh-tw": "立法院",
       "lang:en": "Legislative Yuan"
+    }
+  },
+  {
+    "role_id": "Q6310674",
+    "role_name": {
+      "lang:zh-tw": "臺北市市長",
+      "lang:en": "Mayor of Taipei"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048 Q515 Q24238356",
+    "role_type": null,
+    "organization_id": "Q9105560",
+    "organization_name": {
+      "lang:zh-tw": "臺北市政府",
+      "lang:en": "Taipei City Government"
+    }
+  },
+  {
+    "role_id": "Q657567",
+    "role_name": {
+      "lang:zh-tw": "新竹市市長",
+      "lang:en": "Mayor of Hsinchu"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q515 Q24238356",
+    "role_type": null,
+    "organization_id": "Q11083998",
+    "organization_name": {
+      "lang:zh-tw": "新竹市政府",
+      "lang:en": "Hsinchu City Government"
+    }
+  },
+  {
+    "role_id": "Q6627476",
+    "role_name": {
+      "lang:zh-tw": "嘉義市市長",
+      "lang:en": "Mayor of Chiayi"
+    },
+    "generic_role_id": "Q50339957",
+    "generic_role_name": {
+      "lang:zh-tw": "縣市長",
+      "lang:en": "County or provincial city mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q15897754",
+    "organization_name": {
+      "lang:zh-tw": "嘉義市政府",
+      "lang:en": "Chiayi City Government"
+    }
+  },
+  {
+    "role_id": "Q6797771",
+    "role_name": {
+      "lang:zh-tw": "新北市市長",
+      "lang:en": "Mayor of New Taipei"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q11081380",
+    "organization_name": {
+      "lang:zh-tw": "新北市政府",
+      "lang:en": "New Taipei City Government"
+    }
+  },
+  {
+    "role_id": "Q6797822",
+    "role_name": {
+      "lang:zh-tw": "臺中市市長",
+      "lang:en": "Mayor of Taichung"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": null,
+    "organization_id": "Q15898718",
+    "organization_name": {
+      "lang:zh-tw": "臺中市政府",
+      "lang:en": "Taichung City Government"
+    }
+  },
+  {
+    "role_id": "Q6797825",
+    "role_name": {
+      "lang:en": "Mayor of Tainan"
+    },
+    "generic_role_id": "Q50339864",
+    "generic_role_name": {
+      "lang:zh-tw": "直轄市市長",
+      "lang:en": "Mayor of special municipality"
+    },
+    "role_level": "Q10864048 Q515 Q24238356",
+    "role_type": null,
+    "organization_id": "Q7676194",
+    "organization_name": {
+      "lang:zh-tw": "臺南市政府",
+      "lang:en": "Tainan City Government"
+    }
+  },
+  {
+    "role_id": "Q702650",
+    "role_name": {
+      "lang:zh-tw": "台灣行政院院長",
+      "lang:en": "President of the Executive Yuan"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:zh-tw": "政府首腦",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q715055",
+    "organization_name": {
+      "lang:zh-tw": "行政院",
+      "lang:en": "Executive Yuan"
     }
   }
 ]

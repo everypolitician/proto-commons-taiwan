@@ -117,7 +117,7 @@
         "position_item_id": "Q657567"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q83020",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/city:hsz"
@@ -153,7 +153,7 @@
         "position_item_id": "Q6627476"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q83020",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/city:cyi"
@@ -171,7 +171,7 @@
         "position_item_id": "Q6797738"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q83020",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/city:kee"
@@ -225,7 +225,7 @@
         "position_item_id": "Q15920422"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:yun"
@@ -243,7 +243,7 @@
         "position_item_id": "Q50290512"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:cha"
@@ -261,7 +261,7 @@
         "position_item_id": "Q50292905"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:cyq"
@@ -279,7 +279,7 @@
         "position_item_id": "Q50293600"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:hsq"
@@ -297,7 +297,7 @@
         "position_item_id": "Q50293691"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:hua"
@@ -315,7 +315,7 @@
         "position_item_id": "Q50293953"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:lie"
@@ -333,7 +333,7 @@
         "position_item_id": "Q50294007"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:kin"
@@ -351,7 +351,7 @@
         "position_item_id": "Q50305971"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:mia"
@@ -369,7 +369,7 @@
         "position_item_id": "Q50306171"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:nan"
@@ -387,7 +387,7 @@
         "position_item_id": "Q50306294"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:pen"
@@ -405,7 +405,7 @@
         "position_item_id": "Q50306369"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:pif"
@@ -423,7 +423,7 @@
         "position_item_id": "Q50306440"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:ttt"
@@ -441,7 +441,7 @@
         "position_item_id": "Q50306553"
       }
     ],
-    "area_type_wikidata_item_id": "Q2225003",
+    "area_type_wikidata_item_id": "Q706447",
     "filter": {
       "column": "MS_FB",
       "match": "country:tw/county:ila"

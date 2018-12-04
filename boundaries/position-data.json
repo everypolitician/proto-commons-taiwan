@@ -48,7 +48,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q15909106",
     "organization_name": {
@@ -84,7 +84,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q10907927",
     "organization_name": {
@@ -120,7 +120,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q10924150",
     "organization_name": {
@@ -156,7 +156,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15909148",
     "organization_name": {
@@ -192,7 +192,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q11070079",
     "organization_name": {
@@ -230,7 +230,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q11084065",
     "organization_name": {
@@ -266,7 +266,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15915051",
     "organization_name": {
@@ -321,7 +321,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15908339",
     "organization_name": {
@@ -339,7 +339,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15909304",
     "organization_name": {
@@ -357,7 +357,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15904162",
     "organization_name": {
@@ -375,7 +375,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15919452",
     "organization_name": {
@@ -393,7 +393,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15914537",
     "organization_name": {
@@ -411,7 +411,7 @@
       "lang:zh-tw": "地方議會議員",
       "lang:en": "councillor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": "Q4175034",
     "organization_id": "Q15908941",
     "organization_name": {
@@ -448,7 +448,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q11070045",
     "organization_name": {
@@ -466,7 +466,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q10924139",
     "organization_name": {
@@ -485,7 +485,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q11084050",
     "organization_name": {
@@ -504,7 +504,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q18658266",
     "organization_name": {
@@ -523,7 +523,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q15904117",
     "organization_name": {
@@ -542,7 +542,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q16976490",
     "organization_name": {
@@ -561,7 +561,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q15909984",
     "organization_name": {
@@ -579,7 +579,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q17011999",
     "organization_name": {
@@ -597,7 +597,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q17500943",
     "organization_name": {
@@ -635,7 +635,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q18658204",
     "organization_name": {
@@ -654,7 +654,7 @@
       "lang:zh-tw": "縣市長",
       "lang:en": "County or provincial city mayor"
     },
-    "role_level": "Q24238356",
+    "role_level": "Q10864048 Q24238356",
     "role_type": null,
     "organization_id": "Q10949116",
     "organization_name": {
@@ -815,13 +815,13 @@
   {
     "role_id": "Q702650",
     "role_name": {
-      "lang:zh-tw": "台灣行政院院長",
+      "lang:zh-tw": "行政院院長",
       "lang:en": "President of the Executive Yuan"
     },
-    "generic_role_id": "Q2285706",
+    "generic_role_id": "Q14212",
     "generic_role_name": {
-      "lang:zh-tw": "政府首腦",
-      "lang:en": "head of government"
+      "lang:zh-tw": "總理",
+      "lang:en": "prime minister"
     },
     "role_level": "Q6256",
     "role_type": null,

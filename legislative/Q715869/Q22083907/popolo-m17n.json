@@ -636,7 +636,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "楊鎮浯"
+        "lang:zh-tw": "楊鎮浯",
+        "lang:en": "Yang Cheng-wu"
       },
       "id": "Q22774355",
       "identifiers": [
@@ -1076,7 +1077,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "鄭汝芬"
+        "lang:zh-tw": "鄭汝芬",
+        "lang:en": "Cheng Ru-Fen"
       },
       "id": "Q8272916",
       "identifiers": [
@@ -1222,7 +1224,7 @@
     {
       "name": {
         "lang:zh-tw": "丁守中",
-        "lang:en": "Ding Shouzhong"
+        "lang:en": "Ting Shou-chung"
       },
       "id": "Q8273289",
       "identifiers": [
@@ -1384,7 +1386,8 @@
     },
     {
       "name": {
-        "lang:zh-tw": "呂學樟"
+        "lang:zh-tw": "呂學樟",
+        "lang:en": "Lu Hsueh-chang"
       },
       "id": "Q8274933",
       "identifiers": [
@@ -8947,24 +8950,6 @@
       "organization_id": "Q715869",
       "area_id": "Q48554359",
       "start_date": "2016-02-01",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:zh-tw": "國會議員",
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q6310593",
-      "role": {
-        "lang:zh-tw": "立法委員",
-        "lang:en": "Member of the Legislative Yuan"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8357056-A5F9E5C7-6A21-489F-88D3-C9F666A7409C",
-      "person_id": "Q8357056",
-      "on_behalf_of_id": "Q903822",
-      "organization_id": "Q715869",
-      "area_id": "Q48554359",
-      "start_date": "2012-02-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:zh-tw": "國會議員",

@@ -93,7 +93,25 @@
       },
       "role_code": "Q702650",
       "role": {
-        "lang:zh-tw": "台灣行政院院長",
+        "lang:zh-tw": "行政院院長",
+        "lang:en": "President of the Executive Yuan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3",
+      "person_id": "Q3847080",
+      "on_behalf_of_id": "Q903822",
+      "organization_id": "Q715055",
+      "area_id": "Q865",
+      "start_date": "2017-09-08",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:zh-tw": "總理",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q702650",
+      "role": {
+        "lang:zh-tw": "行政院院長",
         "lang:en": "President of the Executive Yuan"
       }
     }

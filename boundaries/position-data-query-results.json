@@ -99,7 +99,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kaohsiung City"
+        "value" : "Kaohsiung"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -146,7 +146,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -266,7 +266,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -386,7 +386,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -506,7 +506,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -626,7 +626,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -756,7 +756,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -876,7 +876,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1061,7 +1061,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1121,7 +1121,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1181,7 +1181,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1241,7 +1241,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1301,7 +1301,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1361,7 +1361,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1435,7 +1435,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kaohsiung City"
+        "value" : "Kaohsiung"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -1482,7 +1482,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1538,7 +1538,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1599,7 +1599,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1660,7 +1660,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1721,7 +1721,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1782,7 +1782,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1843,7 +1843,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1899,7 +1899,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -1955,7 +1955,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -2077,7 +2077,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -2138,7 +2138,7 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q24238356"
+        "value" : "Q10864048 Q24238356"
       },
       "adminArea" : {
         "type" : "uri",
@@ -2672,7 +2672,68 @@
       "position_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",
-        "value" : "台灣行政院院長"
+        "value" : "行政院院長"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Executive Yuan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "admin_area_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "中華民國"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "總理"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q715055"
+      },
+      "body_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "行政院"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Yuan"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702650"
+      },
+      "position_name_zh_tw" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "行政院院長"
       },
       "position_name_en" : {
         "xml:lang" : "en",

@@ -95,6 +95,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hsieh Tien-lin"
       }
     }, {
       "party" : {
@@ -189,15 +194,15 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-01-31T00:00:00Z"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hung Tsung-yi"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-31T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -5040,15 +5045,15 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-01-31T00:00:00Z"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Huang Hsiu-fang"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-31T00:00:00Z"
       }
     } ]
   }

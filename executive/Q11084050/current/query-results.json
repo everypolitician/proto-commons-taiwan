@@ -69,6 +69,10 @@
         "type" : "literal",
         "value" : "2009-12-20T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hchgccc"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50339957"

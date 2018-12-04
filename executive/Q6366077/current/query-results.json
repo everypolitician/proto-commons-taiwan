@@ -48,7 +48,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kaohsiung City"
+        "value" : "Kaohsiung"
       },
       "role" : {
         "type" : "uri",

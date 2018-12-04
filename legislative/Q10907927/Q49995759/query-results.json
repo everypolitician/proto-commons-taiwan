@@ -2863,6 +2863,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18652018"
       },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan First Nations Party"
+      },
       "party_name_zh_tw" : {
         "xml:lang" : "zh-tw",
         "type" : "literal",

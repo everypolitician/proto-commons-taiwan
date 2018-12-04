@@ -69,6 +69,10 @@
         "type" : "literal",
         "value" : "2014-12-25T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "chenkuangfu1025"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50339957"

@@ -81,6 +81,7 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
       ?legislature wdt:P527|wdt:P2670 ?legislaturePostOther .
       ?legislaturePost wdt:P279+ ?legislaturePostOther .
     }
+    FILTER NOT EXISTS { ?legislaturePost wdt:P576 ?legislaturePostEnd . FILTER (?legislaturePostEnd < NOW()) }
   }
   OPTIONAL {
     ?legislature wdt:P1342 ?numberOfSeats .

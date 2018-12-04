@@ -1,101 +1,127 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "org", "org_zh_tw", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_zh_tw",
+      "name_en",
+      "party",
+      "party_name_zh_tw",
+      "party_name_en",
+      "district",
+      "district_name_zh_tw",
+      "district_name_en",
+      "role",
+      "role_zh_tw",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_zh_tw",
+      "role_superclass_en",
+      "org",
+      "org_zh_tw",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8350592-f99bfcc1-474c-73c0-6ab8-d0f017221f8f"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8350592"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "魏明谷"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wei Ming-ku"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q903822"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Progressive Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133865"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50290512"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣縣長"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Changhua County"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-12-25T00:00:00Z"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "role_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11070045"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County Government"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133865"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8350592-f99bfcc1-474c-73c0-6ab8-d0f017221f8f"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8350592"
+        },
+        "name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "魏明谷"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wei Ming-ku"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q903822"
+        },
+        "party_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "民主進步黨"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democratic Progressive Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133865"
+        },
+        "district_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50290512"
+        },
+        "role_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣縣長"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Changhua County"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-12-25T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "role_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11070045"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County Government"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133865"
+        }
       }
-    } ]
+    ]
   }
 }

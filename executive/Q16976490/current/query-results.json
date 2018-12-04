@@ -1,92 +1,118 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "org", "org_zh_tw", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_zh_tw",
+      "name_en",
+      "party",
+      "party_name_zh_tw",
+      "party_name_en",
+      "district",
+      "district_name_zh_tw",
+      "district_name_en",
+      "role",
+      "role_zh_tw",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_zh_tw",
+      "role_superclass_en",
+      "org",
+      "org_zh_tw",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8984370-ab49f1e2-4578-98da-84cb-b52f86c6092c"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8984370"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "陳福海"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chen Fu-hai"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249870"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50294007"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣縣長"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Kinmen County"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-12-25T00:00:00Z"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "role_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16976490"
-      },
-      "org_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣政府"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen County Government"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249870"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q8984370-ab49f1e2-4578-98da-84cb-b52f86c6092c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8984370"
+        },
+        "name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "陳福海"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chen Fu-hai"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249870"
+        },
+        "district_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50294007"
+        },
+        "role_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣縣長"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Kinmen County"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-12-25T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "role_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16976490"
+        },
+        "org_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣政府"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen County Government"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249870"
+        }
       }
-    } ]
+    ]
   }
 }

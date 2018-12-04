@@ -1,212 +1,239 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_zh_tw", "name_en", "party", "party_name_zh_tw", "party_name_en", "district", "district_name_zh_tw", "district_name_en", "role", "role_zh_tw", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_zh_tw", "role_superclass_en", "org", "org_zh_tw", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_zh_tw",
+      "name_en",
+      "party",
+      "party_name_zh_tw",
+      "party_name_en",
+      "district",
+      "district_name_zh_tw",
+      "district_name_en",
+      "role",
+      "role_zh_tw",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_zh_tw",
+      "role_superclass_en",
+      "org",
+      "org_zh_tw",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3847080"
+        },
+        "name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "賴清德"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Lai"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q903822"
+        },
+        "party_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "民主進步黨"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democratic Progressive Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        },
+        "district_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "中華民國"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q702650"
+        },
+        "role_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院院長"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Executive Yuan"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-09-08T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "chingte"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "role_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "政府首腦"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q715055"
+        },
+        "org_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Yuan"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3847080"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "賴清德"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Lai"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q903822"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Progressive Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taiwan"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q702650"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院院長"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of the Executive Yuan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-09-08T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "chingte"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2285706"
-      },
-      "role_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "政府首腦"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "head of government"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715055"
-      },
-      "org_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Yuan"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3847080"
+        },
+        "name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "賴清德"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "William Lai"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q903822"
+        },
+        "party_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "民主進步黨"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democratic Progressive Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        },
+        "district_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "中華民國"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q702650"
+        },
+        "role_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院院長"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Executive Yuan"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-09-08T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "chingte"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "總理"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q715055"
+        },
+        "org_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Yuan"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        }
       }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3847080-feb0f7ed-4db0-9d01-ed29-8f82057b35a3"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3847080"
-      },
-      "name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "賴清德"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "William Lai"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q903822"
-      },
-      "party_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "民主進步黨"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Progressive Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "district_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taiwan"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q702650"
-      },
-      "role_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院院長"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of the Executive Yuan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-09-08T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "chingte"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14212"
-      },
-      "role_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "總理"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "prime minister"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715055"
-      },
-      "org_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Yuan"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      }
-    } ]
+    ]
   }
 }

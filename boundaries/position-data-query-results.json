@@ -1,2791 +1,2853 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_zh_tw", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_zh_tw", "admin_area_en", "positionSuperclass", "position_superclass_zh_tw", "position_superclass_en", "body", "body_zh_tw", "body_en" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_zh_tw",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_zh_tw",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_zh_tw",
+      "position_superclass_en",
+      "body",
+      "body_zh_tw",
+      "body_en"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10493791"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10493791"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市議員"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Taichung City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q245023"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taichung"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15899378"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taichung City Council"
+        }
       },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市議員"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11812506"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Kaohsiung"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q181557"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaohsiung"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6366077"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaohsiung City Government"
+        }
       },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Taichung City Council"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15920422"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Yunlin County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q153221"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yunlin County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909106"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yunlin County Government"
+        }
       },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48976144"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q244898"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Taipei City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11081523"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Taipei City Council"
+        }
       },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49254306"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "南投縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82357"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "南投縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nantou County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10907927"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "南投縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nantou County Council"
+        }
       },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q245023"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49254452"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249995"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10924120"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi City Council"
+        }
       },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49254596"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q166977"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10924150"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi County Council"
+        }
       },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taichung"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49254733"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "基隆市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249996"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "基隆市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Keelung"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10930444"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "基隆市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Keelung City Council"
+        }
       },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49254881"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q237258"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yilan County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909148"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yilan County Council"
+        }
       },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255006"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q194989"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pingtung County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15903185"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pingtung County Council"
+        }
       },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255147"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133865"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11070079"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County Council"
+        }
       },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15899378"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255439"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市議員"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Regional Councillor or Hsinchu"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249994"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11084017"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu City Council"
+        }
       },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市議會"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255593"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣議員"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councilor of Hsinchu County Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74054"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11084065"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu County Council"
+        }
       },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taichung City Council"
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255748"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "桃園市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115256"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "桃園市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoyuan City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11112210"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "桃園市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoyuan City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49255918"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198525"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Penghu County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15915051"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Penghu County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49256298"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市議員"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Taipei City Council"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1867"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taipei"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7676278"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taipei City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49256480"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺南市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q140631"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺南市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tainan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7676191"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺南市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tainan City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49256666"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249904"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taitung County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15908339"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taitung County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49256840"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249868"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hualien County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909304"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hualien County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49257021"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "苗栗縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63706"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "苗栗縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miaoli County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15904162"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "苗栗縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miaoli County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49257199"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249872"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lienchiang County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15919452"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lienchiang County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49257377"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249870"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15914537"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49257574"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q153221"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yunlin County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15908941"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "雲林縣議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yunlin County Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49257749"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市議員"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q181557"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaohsiung"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "地方議會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6366073"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "高雄市議會"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kaohsiung City Council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50290512"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Changhua County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133865"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "彰化縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11070045"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Changhua County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50292905"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Chiayi County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q166977"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10924139"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50293600"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Hsinchu County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74054"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11084050"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50293691"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Hualien County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249868"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hualien County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18658266"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "花蓮縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hualien County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50293953"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Lienchiang County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249872"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lienchiang County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15904117"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "連江縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lienchiang County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50294007"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Kinmen County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249870"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16976490"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "金門縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kinmen County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50305971"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "苗栗縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Miaoli County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63706"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "苗栗縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miaoli County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15909984"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miaoli County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306171"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "南投縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Nantou County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82357"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "南投縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nantou County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17011999"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nantou County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306294"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Penghu County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q198525"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Penghu County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17500943"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "澎湖縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Penghu County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306369"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Pingtung County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q194989"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pingtung County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11042707"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "屏東縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pingtung County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306440"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Taitung County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249904"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taitung County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18658204"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺東縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taitung County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306553"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣縣長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magistrate of Yilan County"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q237258"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yilan County"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10949116"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "宜蘭縣政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yilan County Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50306671"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "桃園市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Taoyuan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q115256"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "桃園市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoyuan City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11112024"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoyuan City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6310593"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "立法委員"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Legislative Yuan"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "中華民國"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "國會議員"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q715869"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "立法院"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Legislative Yuan"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6310674"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Taipei"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1867"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taipei"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9105560"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺北市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taipei City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657567"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Hsinchu"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249994"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11083998"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新竹市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hsinchu City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6627476"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Chiayi"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q249995"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339957"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "縣市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "County or provincial city mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15897754"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "嘉義市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chiayi City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6797771"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of New Taipei"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q244898"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Taipei City"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11081380"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "新北市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New Taipei City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6797822"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市市長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Taichung"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q245023"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taichung"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15898718"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺中市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taichung City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6797825"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Tainan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q140631"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺南市"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tainan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50339864"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "直轄市市長"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of special municipality"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7676194"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "臺南市政府"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tainan City Government"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q702650"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院院長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Executive Yuan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "中華民國"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "總理"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q715055"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Yuan"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q702650"
+        },
+        "position_name_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院院長"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Executive Yuan"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q865"
+        },
+        "admin_area_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "中華民國"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiwan"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "position_superclass_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "政府首腦"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q715055"
+        },
+        "body_zh_tw": {
+          "xml:lang": "zh-tw",
+          "type": "literal",
+          "value": "行政院"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Yuan"
+        }
       }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11812506"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Kaohsiung"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q181557"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6366077"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15920422"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Yunlin County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q153221"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yunlin County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15909106"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yunlin County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48976144"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q244898"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11081523"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49254306"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "南投縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82357"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "南投縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nantou County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10907927"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "南投縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nantou County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49254452"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249995"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10924120"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49254596"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q166977"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10924150"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49254733"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "基隆市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249996"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "基隆市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Keelung"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10930444"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "基隆市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Keelung City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49254881"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q237258"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yilan County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15909148"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yilan County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255006"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q194989"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pingtung County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15903185"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pingtung County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255147"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133865"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11070079"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255439"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市議員"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regional Councillor or Hsinchu"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249994"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11084017"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255593"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣議員"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councilor of Hsinchu County Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q74054"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11084065"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255748"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "桃園市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q115256"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "桃園市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11112210"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "桃園市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49255918"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q198525"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Penghu County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15915051"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Penghu County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49256298"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市議員"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Taipei City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1867"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7676278"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49256480"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺南市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q140631"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺南市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tainan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7676191"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺南市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tainan City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49256666"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249904"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taitung County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15908339"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taitung County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49256840"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249868"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hualien County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15909304"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hualien County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49257021"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "苗栗縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q63706"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "苗栗縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miaoli County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15904162"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "苗栗縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miaoli County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49257199"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249872"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lienchiang County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15919452"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lienchiang County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49257377"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249870"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15914537"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49257574"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q153221"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yunlin County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15908941"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "雲林縣議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yunlin County Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49257749"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市議員"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q181557"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "地方議會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6366073"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "高雄市議會"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kaohsiung City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50290512"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Changhua County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133865"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "彰化縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11070045"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Changhua County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50292905"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Chiayi County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q166977"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10924139"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50293600"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Hsinchu County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q74054"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11084050"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50293691"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Hualien County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249868"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hualien County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18658266"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "花蓮縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hualien County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50293953"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Lienchiang County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249872"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lienchiang County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15904117"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "連江縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lienchiang County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50294007"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Kinmen County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249870"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16976490"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "金門縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinmen County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50305971"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "苗栗縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Miaoli County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q63706"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "苗栗縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miaoli County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15909984"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miaoli County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306171"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "南投縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Nantou County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q82357"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "南投縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nantou County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17011999"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nantou County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306294"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Penghu County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q198525"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Penghu County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17500943"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "澎湖縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Penghu County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306369"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Pingtung County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q194989"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pingtung County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11042707"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "屏東縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pingtung County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306440"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Taitung County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249904"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taitung County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18658204"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺東縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taitung County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306553"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣縣長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Magistrate of Yilan County"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q237258"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yilan County"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10949116"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "宜蘭縣政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yilan County Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50306671"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "桃園市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Taoyuan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q115256"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "桃園市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11112024"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taoyuan City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6310593"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "立法委員"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Legislative Yuan"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taiwan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "國會議員"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715869"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "立法院"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Legislative Yuan"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6310674"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Taipei"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1867"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9105560"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺北市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taipei City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q657567"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Hsinchu"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249994"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11083998"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新竹市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hsinchu City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6627476"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Chiayi"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q249995"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339957"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "縣市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "County or provincial city mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15897754"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "嘉義市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chiayi City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797771"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of New Taipei"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q244898"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11081380"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "新北市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New Taipei City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797822"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市市長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Taichung"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q245023"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taichung"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15898718"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺中市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taichung City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797825"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Tainan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048 Q515 Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q140631"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺南市"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tainan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50339864"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "直轄市市長"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of special municipality"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7676194"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "臺南市政府"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tainan City Government"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q702650"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院院長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of the Executive Yuan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taiwan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14212"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "總理"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "prime minister"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715055"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Yuan"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q702650"
-      },
-      "position_name_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院院長"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of the Executive Yuan"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q865"
-      },
-      "admin_area_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "中華民國"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Taiwan"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2285706"
-      },
-      "position_superclass_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "政府首腦"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "head of government"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q715055"
-      },
-      "body_zh_tw" : {
-        "xml:lang" : "zh-tw",
-        "type" : "literal",
-        "value" : "行政院"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Yuan"
-      }
-    } ]
+    ]
   }
 }

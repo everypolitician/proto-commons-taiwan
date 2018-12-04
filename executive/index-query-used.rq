@@ -67,6 +67,8 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
       FILTER NOT EXISTS { ?executive wdt:P31/wdt:P279* wd:Q6528244 }
       # Exclude executives which aren't direct parents of the position
       FILTER NOT EXISTS { ?position wdt:P361 ?other . ?other wdt:P361+ ?executive }
+      # Filter positions that have been dissolved
+      FILTER NOT EXISTS { ?position wdt:P576 ?positionEnd . FILTER (?positionEnd < NOW()) }
     }
   }
 

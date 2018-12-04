@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/everypolitician/commons-builder.git
-  revision: e9cdc8e593b281a3a397341c29ee40b3dcef013d
+  revision: 1377a78951af9d380c0124ab467cca2729c47637
   specs:
     commons-builder (0.1.0)
       commons-integrity
@@ -10,7 +10,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.1)
+    activesupport (5.2.1.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -19,15 +19,15 @@ GEM
       activesupport
       json
       require_all
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.3)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.1.0)
+    i18n (1.1.1)
       concurrent-ruby (~> 1.0)
     json (2.1.0)
-    liquid (4.0.0)
+    liquid (4.0.1)
     mime-types (3.2.2)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2018.0812)
@@ -55,4 +55,4 @@ RUBY VERSION
    ruby 2.4.2p198
 
 BUNDLED WITH
-   1.16.1
+   1.17.1
